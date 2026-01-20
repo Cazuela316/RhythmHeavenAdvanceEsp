@@ -8,7 +8,11 @@
 const char D_0805df4c[] =
     "Bienvenido al\n"
     "vibrante mundo de\n"
+    #ifdef PARADISE
+    "Rhythm Paradise Advance!";
+    #else
     "Rhythm Heaven Advance!";
+    #endif
 
 const char D_0805df88[] =
     "Espero la pases muy bien\n"
