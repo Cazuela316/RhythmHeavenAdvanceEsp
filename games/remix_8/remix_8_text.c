@@ -5,9 +5,9 @@
 /* Game Text - Remix 8 */
 
 
-const char D_0806a97c[] = "Try a little harder.";
+const char D_0806a97c[] = "Ponle mas ganas.";
 
-const char D_0806a98c[] = "That was really great!";
+const char D_0806a98c[] = "Eso estuvo muy bien!";
 
 const char D_0806a9a8[] = "";
 
@@ -17,18 +17,18 @@ const char D_0806a9f0[] = "";
 
 const char D_0806aa0c[] = "";
 
-const char D_0806aa24[] = "Rhythm League notes:";
+const char D_0806aa24[] = "Notas de la liga de ritmo:";
 
-const char D_0806aa40[] = "Ｆｏｒ　ｙｏｕ　ｉｔ　ｉｓ　ｐｏｓｓｉｂｌｅ！";
+const char D_0806aa40[] = "Ｙｏ　ｓｅ　ｑｕｅ　ｐｕｅｄｅｓ！";
 
-const char D_0806aa50[] = "Ｋｅｅｐ　ｉｔ　ｕｐ！";
+const char D_0806aa50[] = "Ｓｉｇｕｅ　ａｓｉ！";
 
-const char D_0806aa51[] = "Ｒｉｇｈｔ！";
+const char D_0806aa51[] = "Ｄｅｒｅｃｈａ！";
 
-const char D_0806aa64[] = "Ｇｉｖｅ　ｉｔ　ｙｏｕｒ　ａｌｌ！";
+const char D_0806aa64[] = "Ｄａｌｅ　ｃｏｎ　ｔｏｄｏ！";
 
-const char D_0806aa74[] = "Ｉｔ’ｓ　ｔｈｅ　ｆｉｎａｌ　ｐｕｓｈ！";
+const char D_0806aa74[] = "Ｙａ　ｆａｌｔａ　ｐｏｃｏ！";
 
-const char D_0806aa8c[] = "Ｉｔ’ｓ　ａｌｍｏｓｔ　ｏｖｅｒ！";
+const char D_0806aa8c[] = "Ｌａ　ｕｌｔｉｍａ！";
 
 const char D_0806aaa8[] = "";

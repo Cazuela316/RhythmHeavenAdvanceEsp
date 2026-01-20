@@ -48,27 +48,27 @@ extern const struct Beatscript script_studio_perfect[];
 // [D_089d81b4] Studio Song Entries
 struct StudioEntry studio_song_table[] = {
     /* SILENCE */ {
-        /* Full Title  */ "Silence",
+        /* Full Title  */ "Silencio",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_silence
     },
     /* KARATE_MAN */ {
-        /* Full Title  */ "Karate Man",
+        /* Full Title  */ "Karate Killo",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_karate_man
     },
     /* CLAPPY_TRIO */ {
-        /* Full Title  */ "The Clappy Trio",
+        /* Full Title  */ "Trio Saleroso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_clappy_trio
     },
     /* TAP_TRIAL */ {
-        /* Full Title  */ "Tap Trial",
+        /* Full Title  */ "Prueba de ClaquáQ",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_tap_trial
     },
     /* SPACE_DANCE */ {
-        /* Full Title  */ "Space Dance",
+        /* Full Title  */ "Baile Espacial",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_space_dance
     },
@@ -83,117 +83,117 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_wish
     },
     /* NIGHT_WALK */ {
-        /* Full Title  */ "Night Walk",
+        /* Full Title  */ "Paseo Nocturno",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_night_walk
     },
     /* BON_ODORI */ {
-        /* Full Title  */ "TheÅôBon Odori",
+        /* Full Title  */ "Bon Åô Odori",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_bon_odori
     },
     /* BON_DANCE */ {
-        /* Full Title  */ "TheÅôBon Dance",
+        /* Full Title  */ "Bon Åô Dance",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_bon_dance
     },
     /* COSMIC_DANCE */ {
-        /* Full Title  */ "Cosmic Dance",
+        /* Full Title  */ "Baile Cosmico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_cosmic_dance
     },
     /* RHYTHM_TWEEZERS */ {
-        /* Full Title  */ "Rhythm Tweezers",
+        /* Full Title  */ "Pinzas Ritmicas",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_rhythm_tweezers
     },
     /* SNAPPY_TRIO */ {
-        /* Full Title  */ "The Snappy Trio",
+        /* Full Title  */ "El Trio Garboso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_snappy_trio
     },
     /* TAP_TRIAL_2 */ {
-        /* Full Title  */ "Tap Trial 2",
+        /* Full Title  */ "Prueba de ClaquáQ 2",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_tap_trial_2
     },
     /* WIZARDS_WALTZ */ {
-        /* Full Title  */ "Wizard's Waltz",
+        /* Full Title  */ "Vals Magico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_wizards_waltz
     },
     /* MARCHING_ORDERS */ {
-        /* Full Title  */ "Marching Orders",
+        /* Full Title  */ "Marca Animosa",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_marching_orders
     },
     /* SPACEBALL */ {
-        /* Full Title  */ "Spaceball",
+        /* Full Title  */ "Beisbol Espacial",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_spaceball
     },
     /* SNEAKY_SPIRITS */ {
-        /* Full Title  */ "Sneaky Spirits",
+        /* Full Title  */ "Fantasmas Burlones",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_sneaky_spirits
     },
     /* SAMURAI_SLICE */ {
-        /* Full Title  */ "Samurai Slice",
+        /* Full Title  */ "Samurai Rebanador",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_samurai_slice
     },
     /* RAT_RACE */ {
-        /* Full Title  */ "Rat Race",
+        /* Full Title  */ "Ratones Escurridizos",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_rat_race
     },
     /* SICK_BEATS */ {
-        /* Full Title  */ "Sick Beats",
+        /* Full Title  */ "Ritmo Contagioso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_sick_beats
     },
     /* SHOWTIME */ {
-        /* Full Title  */ "Showtime",
+        /* Full Title  */ "Pingà®inos Saltarines",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_showtime
     },
     /* BUNNY_HOP */ {
-        /* Full Title  */ "Bunny Hop",
+        /* Full Title  */ "Conejito Saltarin",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_bunny_hop
     },
     /* TRAM_PAULINE */ {
-        /* Full Title  */ "Tram & Pauline",
+        /* Full Title  */ "Tram & Paulin",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_tram_pauline
     },
     /* QUIZ_SHOW */ {
-        /* Full Title  */ "Quiz Show Opening",
-        /* Short Title */ NULL,
+        /* Full Title  */ "Opening de Trivia Ritmica",
+        /* Short Title */ "Opening de Trivia...",
         /* Drum Script */ script_studio_quiz_show
     },
     /* POWER_CALLIGRAPHY */ {
-        /* Full Title  */ "Power Calligraphy",
+        /* Full Title  */ "Poder Caligrafico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_power_calligraphy
     },
     /* POLYRHYTHM */ {
-        /* Full Title  */ "Polyrhythm",
+        /* Full Title  */ "Poliritmo",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_polyrhythm
     },
     /* BOUNCY_ROAD */ {
-        /* Full Title  */ "Bouncy Road",
+        /* Full Title  */ "Bolas Saltarinas",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_bouncy_road
     },
     /* TOSS_BOYS */ {
-        /* Full Title  */ "Toss Team",
+        /* Full Title  */ "Ases del Volley",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_toss_boys
     },
     /* FIREWORKS */ {
-        /* Full Title  */ "Fireworks",
+        /* Full Title  */ "Pirotecnia",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_fireworks
     },
@@ -213,7 +213,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_remix6
     },
     /* TITLE */ {
-        /* Full Title  */ "Title",
+        /* Full Title  */ "Titulo",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_title
     },
@@ -223,12 +223,12 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_main_menu
     },
     /* GAME_SELECT_1 */ {
-        /* Full Title  */ "Game Select",
+        /* Full Title  */ "Eligiendo Juego",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_game_select_1
     },
     /* DATA_ROOM */ {
-        /* Full Title  */ "Rhythm Archives",
+        /* Full Title  */ "Email Ritmico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_data_room
     },
@@ -238,22 +238,22 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_opening
     },
     /* STAFF_CREDIT */ {
-        /* Full Title  */ "Staff Credits",
+        /* Full Title  */ "Creditos del Staff",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_staff_credit
     },
     /* GAME_SELECT_2 */ {
-        /* Full Title  */ "Game Select 2",
+        /* Full Title  */ "Eligiendo Juego 2",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_game_select_2
     },
     /* CAFE */ {
-        /* Full Title  */ "CafáQ Counselling",
+        /* Full Title  */ "Cafeteráea",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_cafe
     },
     /* TRY_AGAIN */ {
-        /* Full Title  */ "Try Again",
+        /* Full Title  */ "Otra Vez",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_try_again
     },
@@ -263,12 +263,12 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_ok
     },
     /* SUPERB */ {
-        /* Full Title  */ "Superb",
+        /* Full Title  */ "Genial",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_superb,
     },
     /* PERFECT */ {
-        /* Full Title  */ "Perfect",
+        /* Full Title  */ "Perfecto",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_perfect,
     }

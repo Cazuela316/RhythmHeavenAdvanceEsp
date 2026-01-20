@@ -321,9 +321,9 @@ void start_campaign_notice(s32 id) {
     notice->y = campaign_gifts_table[id].y;
     level = get_level_data_from_grid_xy(notice->x, notice->y);
     string = notice->text;
-    memcpy(string, "\001C" "If you get a Perfect in\n", 45); // [Right now]
+    memcpy(string, "\001C" "Si consigues un perfecto en\n", 45); // [Right now]
     strcat(string, level->name); // "<game_name>"
-    strcat(string, "\nright now, you'll earn:\n"); // Get a perfect on this
+    strcat(string, "\nPodras ganar:\n"); // Get a perfect on this
     strcat(string, ""); // "
     if (!isSpecialSong) {
     strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
@@ -332,10 +332,10 @@ void start_campaign_notice(s32 id) {
     }
     strcat(string, "\n"); // "
     if (isStandardSong) {
-        strcat(string, "as a song."); // 's song
+        strcat(string, "como una cancion!"); // 's song
     }
     if (giftType == CAMPAIGN_GIFT_DRUM_KIT || giftType == CAMPAIGN_GIFT_READING_MATERIAL) {
-        strcat(string, "as a bonus."); // received as a present!!
+        strcat(string, "como regalo!"); // received as a present!!
     }
     text_printer_set_string(notice->printer, string);
 
@@ -1847,7 +1847,7 @@ void game_select_init_info_pane(void) {
     text_printer_center_by_content(gGameSelect->infoPaneDesc, 1);
     text_printer_set_x_y_controller(gGameSelect->infoPaneDesc, &bgOfs->x, &bgOfs->y);
     text_printer_set_shadow_colors(gGameSelect->infoPaneDesc, -1);
-    gGameSelect->perfectClearedSprite = sprite_create(gSpriteHandler, anim_game_select_perfect_rank, 0, 187, 112, 0x80A, 1, 0, 0x8000);
+    gGameSelect->perfectClearedSprite = sprite_create(gSpriteHandler, anim_game_select_perfect_rank, 0, 180, 112, 0x80A, 1, 0, 0x8000);
     sprite_set_origin_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, &bgOfs->x, &bgOfs->y);
     gGameSelect->noPracticeSprite = sprite_create(gSpriteHandler, anim_game_select_no_practice, 0, 188, 94, 0x80A, 1, 0, 0x8000);
     sprite_set_origin_x_y(gSpriteHandler, gGameSelect->noPracticeSprite, &bgOfs->x, &bgOfs->y);
@@ -1882,7 +1882,7 @@ void game_select_clear_info_pane(void) {
     text_printer_clear(gGameSelect->infoPaneDesc);
     sprite_set_visible(gSpriteHandler, gGameSelect->perfectClearedSprite, FALSE);
     sprite_set_visible(gSpriteHandler, gGameSelect->noPracticeSprite, FALSE);
-    sprite_set_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, 187, 112);
+    sprite_set_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, 180, 112);
     text_printer_set_x_y(gGameSelect->infoPaneDesc, 129, 50);
     text_printer_set_line_spacing(gGameSelect->infoPaneDesc, 15);
     gGameSelect->infoPaneIsClear = TRUE;
@@ -1994,7 +1994,7 @@ void game_select_process_info_pane(void) {
                 for(i = 0; i < ARRAY_COUNT(levelsWithNoPractice); i++) {
                     if(levelsWithNoPractice[i] == gGameSelect->infoPaneLevelID) {
                         sprite_set_visible(gSpriteHandler, gGameSelect->noPracticeSprite, TRUE);
-                        sprite_set_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, 187, 115);
+                        sprite_set_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, 180, 115);
                         text_printer_set_line_spacing(gGameSelect->infoPaneDesc, 14);
                         text_printer_set_x_y(gGameSelect->infoPaneDesc, 129, 47);
                         break;

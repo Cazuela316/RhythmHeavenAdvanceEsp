@@ -155,8 +155,7 @@ AnimationCel results_score_cel009[] = {
 
 // [D_0890ba92]
 AnimationCel results_score_cel010[] = {
-    4,
-    0x00f2, 0x01e4, 0x005a,
+    3,
     0x40f8, 0x81c5, 0x0068,
     0x40f8, 0x81e6, 0x006c,
     0x40f8, 0x81f6, 0x006e

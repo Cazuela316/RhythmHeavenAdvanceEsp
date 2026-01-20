@@ -17,13 +17,13 @@ const char D_0805cc28[] = "You missed the breaks.";
 
 const char D_0805cc48[] = "You nailed the breaks!";
 
-const char D_0805cc68[] = "Ｎｅｘｔ．．．";
+const char D_0805cc68[] = "Ｙ　ａｈｏｒａ．．．";
 
-const char D_0805cc70[] = "ｒｅｓｔ　ｆｏｒ　ａ　ｔｗｏ－ｃｏｕｎｔ．";
+const char D_0805cc70[] = "ｅｓｐｅｒａ　ｄｏｓ　ｔｉｅｍｐｏｓ．";
 
 const char D_0805cc80[] = "";
 
-const char D_0805cc84[] = "ｒｅｓｔ　ｆｏｒ　ａ　ｆｏｕｒ－ｃｏｕｎｔ．";
+const char D_0805cc84[] = "ｅｓｐｅｒａ　ｃｕａｔｒｏ　ｔｉｅｍｐｏｓ．";
 
 const char D_0805cc94[] = "１";
 
@@ -33,12 +33,12 @@ const char D_0805cc9c[] = "３";
 
 const char D_0805cca0[] = "４";
 
-const char D_0805cca4[] = "ｒｅｓｔ　ｆｏｒ　ａｎ　ｅｉｇｈｔ－ｃｏｕｎｔ．";
+const char D_0805cca4[] = "ｅｓｐｅｒａ　ｏｃｈｏ　ｔｉｅｍｐｏｓ．";
 
 const char D_0805ccb4[] = "Sea Friends' report";
 
-const char D_0805ccb8[] = "　　　　　　　　　　　　　　　　　　　　Ｐｒｅｓｓ　ゝ　ｏｎ　ｂｅａｔ　ｔｏ　ｈｏｐ　ａｃｒｏｓｓ．";
+const char D_0805ccb8[] = "　　　　　　　　　　　　　　　　　　　　Ｐｒｅｓｉｏｎａ　ゝ　ａｌ　ｒｉｔｍｏ　ｐａｒａ　ｓａｌｔａｒ．";
 
-const char D_0805ccb9[] = "Ｇｏ！";
+const char D_0805ccb9[] = "Ｖａｍｏｓ！";
 
-const char D_0805ccc5[] = "Ｒｅａｄｙ？";
+const char D_0805ccc5[] = "Ｌｉｓｔｏ？";

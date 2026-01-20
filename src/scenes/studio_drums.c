@@ -8,7 +8,7 @@
 
 // [D_089d83d0] Drum Kit Names
 const char *studio_drum_kit_names[] = {
-    /* DEFAULT */ "Standard Drum",
+    /* DEFAULT */ "Tambor Normal",
     /* DRY     */ "Dry Drum",
     /* POWER   */ "Power Drum",
     /* TECHNO  */ "Techno Drum",
@@ -100,18 +100,18 @@ const char *studio_mem_warnings_text[] = {
     /* NO MEMORY -------------------------------------- */
         // [ You can't save any more data. ]
         // [ Perform without saving? ]
-        "Your memory is full.\n"
-        "Perform anyway?",
+        "La memoria esta llena.\n"
+        "Tocar igual?",
     /* TOO MANY REPLAYS ------------------------------- */
         // [ You can only save 10 recitals. ]
         // [ Perform without saving? ]
-        "There's no more room for\n"
-        "saving. Perform anyway?",
+        "No hay mas espacio para\n"
+        "guardar. Tocar igual?",
     /* LOW MEMORY ------------------------------------- */
         // [ There's not much memory left. ]
         // [ Perform anyway? ]
-        "Save memory is running low.\n"
-        "Do you want to perform anyway?"
+        "Se esta acabando la memoria.\n"
+        "Aun asi quieres tocar igual?"
     /* ------------------------------------------------ */
 };
 

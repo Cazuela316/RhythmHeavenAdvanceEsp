@@ -5,60 +5,60 @@
 /* Game Text - Marching Orders */
 
 
-const char D_0805c774[] = "You needed to focus on the basics.";
+const char D_0805c774[] = "Necesitabas centrarte en lo fundamental.";
 
-const char D_0805c790[] = "Impressive marching!";
+const char D_0805c790[] = "Muy buena marcha!";
 
-const char D_0805c7a8[] = "You lack proper judgement.";
+const char D_0805c7a8[] = "Te falta criterio.";
 
-const char D_0805c7c0[] = "Your timing is on point!";
+const char D_0805c7c0[] = "Tu ritmo es perfecto!";
 
-const char D_0805c7d8[] = "You need to hone your skill even more...";
+const char D_0805c7d8[] = "Necesitas afinar tu habilidad mas...";
 
-const char D_0805c7f4[] = "Very technically sound!";
+const char D_0805c7f4[] = "Tienes una buena tecnica!";
 
-const char D_0805c80c[] = "Sarge says";
+const char D_0805c80c[] = "El sargento dice";
 
-const char D_0805c818[] = "Ｇｏ！";
+const char D_0805c818[] = "Ｖａｍｏｓ！";
 
-const char D_0805c828[] = "Ｆａｌｌ　ｉｎ！";
+const char D_0805c828[] = "Ｈａｇａｍｏｓｌｏ！";
 
-const char D_0805c844[] = "Ｔｉｍｅ　ｆｏｒ　ｔｈｅ　ｒｅａｌ　ｔｈｉｎｇ！";
+const char D_0805c844[] = "Ｈｏｒａ　ｄｅ　ｐｏｎｅｒｎｏｓ　ｓｅｒｉｏｓ！";
 
-const char D_0805c858[] = "You needed to focus on the basics.";
+const char D_0805c858[] = "Necesitabas centrarte en lo fundamental.";
 
-const char D_0805c874[] = "Impressive marching!";
+const char D_0805c874[] = "Muy buena marcha!";
 
 const char D_0805c88c[] = "";
 
-const char D_0805c890[] = "Your timing is on point!";
+const char D_0805c890[] = "Tu ritmo es perfecto!";
 
-const char D_0805c8a8[] = "Sarge says";
+const char D_0805c8a8[] = "El sargento dice";
 
-const char D_0805c8b4[] = "Ｇｏ！";
+const char D_0805c8b4[] = "Ｖａｍｏｓ！";
 
-const char D_0805c8c4[] = "Ｆａｌｌ　ｉｎ！";
+const char D_0805c8c4[] = "Ｈａｇａｍｏｓｌｏ！";
 
-const char D_0805c8e0[] = "Ｔｉｍｅ　ｆｏｒ　ｔｈｅ　ｒｅａｌ　ｔｈｉｎｇ！";
+const char D_0805c8e0[] = "Ｈｏｒａ　ｄｅ　ｐｏｎｅｒｎｏｓ　ｓｅｒｉｏｓ！";
 
-const char D_0805c8e1[] = "Ｒｉｇｈｔ！";
+const char D_0805c8e1[] = "Ｄｅｒｅｃｈａ！";
 
-const char D_0805c8e2[] = "Ｌｅｆｔ！";
+const char D_0805c8e2[] = "Ｉｚｑｕｉｅｒｄａ！";
 
-const char D_0805c8e3[] = "Ｍａｒｃｈ！";
+const char D_0805c8e3[] = "Ｍａｒｃｈｅｎ！";
 
-const char D_0805c8e4[] = "Ｈａｌｔ！";
+const char D_0805c8e4[] = "Ｐａｒｅｎ！";
 
-const char D_0805c8f4[] = "You still don't have the basics down!";
+const char D_0805c8f4[] = "Aun no dominas lo basico!";
 
-const char D_0805c910[] = "You were pretty good!";
+const char D_0805c910[] = "Estuvieron muy bien!";
 
-const char D_0805c92c[] = "Your timing needs work.";
+const char D_0805c92c[] = "Te faltan un poco de ritmo.";
 
-const char D_0805c948[] = "Your timing is on point!";
+const char D_0805c948[] = "Tu ritmo es perfecto!";
 
-const char D_0805c964[] = "Keep refining your routine!";
+const char D_0805c964[] = "sigue refinando tu rutina!";
 
-const char D_0805c984[] = "Your technique is impeccable!";
+const char D_0805c984[] = "tu tecnica es impecable!";
 
-const char D_0805c9a0[] = "Our trainer says...";
+const char D_0805c9a0[] = "La entrendora dice";

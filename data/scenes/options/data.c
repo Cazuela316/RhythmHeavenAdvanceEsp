@@ -46,12 +46,12 @@ struct CompressedData *options_buffered_textures[] = {
 
 // [D_08054950] Data Clear Confirmation Options
         // Erase ALL data?
-        //Å@Å@Å@Å@Å@Å@Å@Erase
-        //Å@Å@Å@Å@Å@Å@Å@Cancel
+        //ÔøΩ@ÔøΩ@ÔøΩ@ÔøΩ@ÔøΩ@ÔøΩ@ÔøΩ@Erase
+        //ÔøΩ@ÔøΩ@ÔøΩ@ÔøΩ@ÔøΩ@ÔøΩ@ÔøΩ@Cancel
 const char options_data_clear_confirm_text[] =
-        "\0023" "\0013" "\001C" "Are you sure?\n"
-        "\0021" "\0011" "\001C" "Å@Å@  Å@Å@ Yes\n"
-        "Å@Å@ Å@ No";
+        "\0023" "\0013" "\001C" "En serio?\n"
+        "\0021" "\0011" "\001C" "ÔøΩ@ÔøΩ@  ÔøΩ@ÔøΩ@ Si\n"
+        "ÔøΩ@ÔøΩ@ ÔøΩ@ No";
 
 
 // [D_089cfb14] Option Descriptions
@@ -67,13 +67,13 @@ const char options_data_clear_confirm_text[] =
 
 const char *options_desc_text[] = {
     /* SOUND MODE ------------------------------------- */
-        "\0023" "\0013" "\001C" "Sound Mode\n"
-        "\0024" "\0011" "\001L" "StereoÅ@Å@" "\0021" " For dual-speaker systems. (DS, etc...)\n"
-        "\0024" "\0011" "\001L" "MonoÅ@Å@ " "\x87\x53" "\0021" "For single-speaker systems. (GBA, etc...)",
+        "\0023" "\0013" "\001C" "Modo de sonido\n"
+        "\0024" "\0011" "\001L" "EstereoÔøΩ@ÔøΩ@ " "\0021" " Para audifonos, Nintendo DS, etc.\n"
+        "\0024" "\0011" "\001L" "MonoÔøΩ@ÔøΩ@ " "\x87\x53" "\0021" "Para consolas de una bocina, GBA, etc.",
     /* DATA CLEAR ------------------------------------- */
-        "\0023" "\0013" "\001C" "Clear Data\n"
-        "\0021" "\0011" "\001C" "This will delete " "\0022" "all " "\0021" "of your save data and start\n"
-        "you over from the beginning." "\0022" " Be careful!"
+        "\0023" "\0013" "\001C" "Borrar partida\n"
+        "\0021" "\0011" "\001C" "Esto borrara " "\0022" "TODA " "\0021" "tu partida y tendras\n"
+        "que empezar desde cero." "\0022" " Ten cuidado!"
     /* ------------------------------------------------ */
 };
 

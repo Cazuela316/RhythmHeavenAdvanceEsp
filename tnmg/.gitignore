@@ -1,0 +1,11 @@
+.vscode
+
+.DS_Store
+
+tnmg
+
+*.o
+
+*.pal
+
+*.zip

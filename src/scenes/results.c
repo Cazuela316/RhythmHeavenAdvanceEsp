@@ -6,9 +6,6 @@
 #include "cues.h"
 #include "src/scenes/game_select.h"
 
-const struct MarkingCriteria *genericMarkingCriteria[] = {
-    NULL,
-};
 
 /* RESULTS */
 
@@ -547,7 +544,7 @@ void results_render_skill_screen(void) {
     char numString[0x20];
     u32 badInputScore, score, level;
 
-    textAnim = bmp_font_obj_print_c(gResults->objFont, ":1" "＊＊＊＊" ":0" "　　Ｇｒａｄｅ　　" ":1" "＊＊＊＊", 0, 7);
+    textAnim = bmp_font_obj_print_c(gResults->objFont, ":1" "＊＊＊＊" ":0" "　　Ｎｏｔａ　　" ":1" "＊＊＊＊", 0, 7);
     sprite_create(gSpriteHandler, textAnim->frames, 0, 120, 16, 0x4800, 1, 0, 0);
 
     results_tracker_calculate_skill_averages();
@@ -663,20 +660,9 @@ u32 results_get_negative_comments(void) {
     for (i = 0; i < totalFailed; i++) {
         struct Animation *anim;
         u16 sprite;
-        char modifiedComment[0x100];
-
-        // Copy the comment to a modifiable buffer, TO BE ABLE TO ALTER IT CAUSE YOU CANT CHANGE THEM UNLESS YOU FIRST COPY THEM WHICH IS ANNOYING
-        strcpy(modifiedComment, comments[i]);
-
-        // Convert the first character to lowercase for all the comments except the first one
-        // Except for sentences where you don't need to change the capitalization
-        if (i > 0 && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z' && !(modifiedComment[0] == 'I' && (modifiedComment[1] == ' ' || modifiedComment[1] == '\''))) {
-            modifiedComment[0] += 32;
-        }
 
         strcpy(commentsText, results_try_again_comment_pool[clamp_int32(i, 0, 2)]);
-        strcat(commentsText, modifiedComment);
-
+        strcat(commentsText, comments[i]);
         anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_LEFT, 3);
         sprite = sprite_create(gSpriteHandler, anim, 0, 0, 0, 0x800, 0, 0, 0);
         sprite_set_base_palette(gSpriteHandler, sprite, COMMENT_PALETTE);
@@ -690,8 +676,8 @@ u32 results_get_negative_comments(void) {
 // [D_089d7b34] Rank Comment Pool (Try Again)
 const char *results_try_again_comment_pool[] = {
     "",
-    "Likewise, ",
-    "Also... "
+    "Tambien ",
+    "Ademas... "
 };
 
 
@@ -705,7 +691,6 @@ s24_8 results_get_positive_comments(void) {
     s24_8 averagePassed;
     u16 *commentSprites;
     u32 imperfectionPenalty;
-    char modifiedComment[0x100];
 
     tracker = score_handler->cueInputTrackers;
     commentSprites = &gResults->commentSprites[gResults->totalNegativeComments];
@@ -748,39 +733,25 @@ s24_8 results_get_positive_comments(void) {
         if (!passedThisCriterion) {
             continue;
         }
-        
-        strcpy(modifiedComment, criteria->positiveRemark);
 
         if (gResults->totalNegativeComments > 0) {
-
-            // Same system as before
-            if (modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z' && !(modifiedComment[0] == 'I' && (modifiedComment[1] == ' ' || modifiedComment[1] == '\''))) {
-                modifiedComment[0] += 32;
-            }
-
-            memcpy(commentsText, "...but ", 8);
-            strcat(commentsText, modifiedComment);
+            memcpy(commentsText, "…でも、", 9); // ("...but,")
+            strcat(commentsText, criteria->positiveRemark);
             anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_RIGHT, 3);
             palette = EXTRA_COMMENT_PALETTE;
         } else {
-
-            // Same system as above
-            if (totalPassed > 0 && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z' && !(modifiedComment[0] == 'I' && (modifiedComment[1] == ' ' || modifiedComment[1] == '\''))) {
-                modifiedComment[0] += 32;
-            }
-
             switch (totalPassed) {
                 case 0:
                     memcpy(commentsText, "", 1);
                     break;
                 case 1:
-                    memcpy(commentsText, "And, ", 10); // ("moreover,")
+                    memcpy(commentsText, "Y ", 9); // ("moreover,")
                     break;
                 default:
-                    memcpy(commentsText, "Plus, ", 9); // ("also,")
+                    memcpy(commentsText, "Ademas ", 9); // ("also,")
                     break;
             }
-            strcat(commentsText, modifiedComment);
+            strcat(commentsText, criteria->positiveRemark);
             anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_LEFT, 3);
             palette = COMMENT_PALETTE;
         }
@@ -817,10 +788,10 @@ s24_8 results_get_positive_comments(void) {
 
 // [D_089d7b40] Rank Comment Pool (OK)
 const char *results_ok_comment_pool[] = {
-    "I guess that was all right.",
-    "Good enough...",
-    "I don't know...",
-    "Hm..."
+    "Osea, podrias hacerlo mejor.",
+    "Esta bien...",
+    "Eh... No se...",
+    "Huh..."
 };
 
 
@@ -889,12 +860,6 @@ void results_publish_comments(void) {
     s16 textSprite;
     u32 totalCriteriaFailed, averageCriteriaSucceeded;
     u32 previousResult;
-
-    // bye bye crashes~!
-    if(criteriaTable == NULL) {
-        criteriaTable = genericMarkingCriteria;
-        score_handler->markingData = criteriaTable;
-    }
 
     update_plays_until_next_campaign();
 

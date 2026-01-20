@@ -145,7 +145,7 @@ const char D_08069d5c[] = "A. Kenmochi";
 
 const char D_08069d68[] = "H. Nakano";
 
-const char D_08069d74[] = "\0023" "You!";
+const char D_08069d74[] = "\0023" "Tu!";
 
 const char D_08069d7c[] = "\0023" "";
 
@@ -160,52 +160,52 @@ const char D_08069da8[] = "";
 const char D_08069dac[] = "(C)2006 Nintendo / J.P. ROOM";
 
 const char D_08069dc8[] =
-    "Hey! You did it!";
+    "Hey! Lo lograstre!";
 
 const char D_08069ddc[] =
-    "You worked hard out there!\n"
-    "So, do you think your sense\n"
-    "of rhythm has gotten a little\n"
-    "better now?";
+    "Si que diste todo!\n"
+    "Y que tal? Sientes que tu\n"
+    "sentido de ritmo a mejorado\n"
+    "al menos un poquito?";
 
 const char D_08069e24[] =
-    "You're not done yet, though!\n"
-    "You may have reached\n"
-    "the credits, but there's\n"
-    "still more to play!";
+    "Aunque aun no terminas!\n"
+    "Llegaste a los creditos,\n"
+    "pero aun quedan mas\n"
+    "juegos!";
 
 const char D_08069e78[] =
-    "But before all that,\n"
-    "let me show you all\n"
-    "the people who\n"
-    "worked on the game.";
+    "Pero antes de,\n"
+    "Dejame mostrarte a\n"
+    "la gente que trabajo\n"
+    "en este juego.";
 
 const char D_08069ed4[] =
     "\n"
-    "Well, here we go!";
+    "Bien, Demosle!";
 
 const char D_08069ee8[] =
     "\n"
-    "Hey! Welcome back!";
+    "Hey! Hola de nuevo!";
 
 const char D_08069ef8[] =
-    "Are you holding up well?\n"
-    "Is your sense of\n"
-    "rhythm still improving?\n"
-    "I sure hope so!";
+    "Que tal te va?\n"
+    "Tu sentido de ritmo\n"
+    "sigue mejorando?\n"
+    "Espero que si!";
 
 const char D_08069f40[] =
-    "You know, nothing's\n"
-    "more fun than mastering\n"
-    "a game. You should keep\n"
-    "replaying them to get better!";
+    "Sabes, no hay nada\n"
+    "mejor que volverte un\n"
+    "maestro en un juego.\n"
+    "Que tal si lo haces en este?";
 
 const char D_08069f90[] =
-    "Anyway, here's the\n"
-    "game's staff again.\n"
-    "I wonder what they're\n"
-    "working on now...";
+    "Como sea, Aqui esta el\n"
+    "staff del juego de nuevo.\n"
+    "Me pregunto en que estaran\n"
+    "trabajando ahora...";
 
 const char D_08069fe4[] =
     "\n"
-    "Well, here we go again!";
+    "Bien, Demosle!";

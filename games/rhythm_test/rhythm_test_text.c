@@ -5,9 +5,9 @@
 /* Game Text - Rhythm Test */
 
 
-const char D_0805eed8[] = "Press ‡M in time with the signal.";
+const char D_0805eed8[] = "Presiona la ‡M junto al sonido.";
 
-const char D_0805ef00[] = "You're halfway there!";
+const char D_0805ef00[] = "Ya casi terminas!";
 
 const char D_0805ef0c[] = "3";
 
@@ -15,34 +15,34 @@ const char D_0805ef10[] = "2";
 
 const char D_0805ef14[] = "1";
 
-const char D_0805ef18[] = "Press ‡M when the timer hits \"0\".";
+const char D_0805ef18[] = "Presiona la ‡M cuando llegue a \"0\".";
 
-const char D_0805ef44[] = "When there's no sound, count to yourself.";
+const char D_0805ef44[] = "Si es que no hay sonido, tienes que contar.";
 
-const char D_0805ef74[] = "Now, let's start measuring.";
+const char D_0805ef74[] = "Ahora, empezaremos a medir.";
 
-const char D_0805ef8c[] = "Press ‡M in time with the signal.";
+const char D_0805ef8c[] = "Presiona la ‡M junto al sonido.";
 
-const char D_0805efb4[] = "Keep it up like this!";
+const char D_0805efb4[] = "Sigue presionando!";
 
-const char D_0805efd8[] = "You'll have to put in a lot of effort...";
+const char D_0805efd8[] = "Tendras que echarle muchas ganas...";
 
-const char D_0805eff4[] = "You'll need to try a little harder.";
+const char D_0805eff4[] = "Necesitaras esforzarte un poco mas.";
 
-const char D_0805f014[] = "You're as accurate as any average guy.";
+const char D_0805f014[] = "Tu ritmo es el de una persona cualquiera.";
 
-const char D_0805f034[] = "You have an accurate biological clock!";
+const char D_0805f034[] = "Eres igual de preciso que un reloj biologico!";
 
-const char D_0805f054[] = "Incredible! You're as precise as an atomic clock!";
+const char D_0805f054[] = "Vaya! Eres igual de preciso que un reloj atomico!";
 
-const char D_0805f078[] = "Let's find out how good your rhythm is.";
+const char D_0805f078[] = "Veamos que tan bueno es tu ritmo.";
 
-const char D_0805f09c[] = "We're going to do three tests.";
+const char D_0805f09c[] = "Hemos preparado 3 tests para verlo.";
 
-const char D_0805f0bc[] = "Here's the first rhythm test.";
+const char D_0805f0bc[] = "Comenzando con el primero.";
 
-const char D_0805f0d0[] = "Let's move on to the second test.";
+const char D_0805f0d0[] = "Vamos con el segundo.";
 
-const char D_0805f0ec[] = "This is the final test.";
+const char D_0805f0ec[] = "Y finalmente, el tercero.";
 
 const char D_0805f100[] = "";
