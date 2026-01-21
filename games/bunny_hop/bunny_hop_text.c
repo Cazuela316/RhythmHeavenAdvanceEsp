@@ -5,17 +5,17 @@
 /* Game Text - Bunny Hop */
 
 
-const char D_0805cbbc[] = "You were a little unsteady.";
+const char D_0805cbbc[] = "Estabas algo inseguro.";
 
-const char D_0805cbd4[] = "Nice, steady rhythm!";
+const char D_0805cbd4[] = "Un muy buen y seguro ritmo!";
 
-const char D_0805cbec[] = "You couldn't find your flow...";
+const char D_0805cbec[] = "no pudiste seguir el flow...";
 
-const char D_0805cc10[] = "Your flow is on point!";
+const char D_0805cc10[] = "tu flow estaba increible!";
 
-const char D_0805cc28[] = "You missed the breaks.";
+const char D_0805cc28[] = "fallaste muchas de las pausas.";
 
-const char D_0805cc48[] = "You nailed the breaks!";
+const char D_0805cc48[] = "lograste las pausas muy bien!";
 
 const char D_0805cc68[] = "Ｙ　ａｈｏｒａ．．．";
 
@@ -35,7 +35,7 @@ const char D_0805cca0[] = "４";
 
 const char D_0805cca4[] = "ｅｓｐｅｒａ　ｏｃｈｏ　ｔｉｅｍｐｏｓ．";
 
-const char D_0805ccb4[] = "Sea Friends' report";
+const char D_0805ccb4[] = "Reporte de los amigos marinos";
 
 const char D_0805ccb8[] = "　　　　　　　　　　　　　　　　　　　　Ｐｒｅｓｉｏｎａ　ゝ　ａｌ　ｒｉｔｍｏ　ｐａｒａ　ｓａｌｔａｒ．";
 

@@ -735,7 +735,7 @@ s24_8 results_get_positive_comments(void) {
         }
 
         if (gResults->totalNegativeComments > 0) {
-            memcpy(commentsText, "c‚Å‚àA", 9); // ("...but,")
+            memcpy(commentsText, "...Pero ", 9); // ("...but,")
             strcat(commentsText, criteria->positiveRemark);
             anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_RIGHT, 3);
             palette = EXTRA_COMMENT_PALETTE;
