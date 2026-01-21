@@ -5,18 +5,18 @@
 /* Game Text - Tap Trial 2 */
 
 
-const char D_08067b28[] = "You aren't good at this.";
+const char D_08067b28[] = "No eres buena en esto.";
 
-const char D_08067b38[] = "That was cool!";
+const char D_08067b38[] = "Eso estuvo genial!";
 
-const char D_08067b50[] = "Not quick enough.";
+const char D_08067b50[] = "no eres lo suficiente veloz.";
 
-const char D_08067b6c[] = "Good speed!";
+const char D_08067b6c[] = "que velocidad!";
 
-const char D_08067b80[] = "Work on your technique.";
+const char D_08067b80[] = "trabaja en tu tecnica.";
 
-const char D_08067b90[] = "Nice technique!";
+const char D_08067b90[] = "muy buena tecnica!";
 
-const char D_08067ba0[] = "MON-K's feedback:";
+const char D_08067ba0[] = "Comentarios de los MON-KISS";
 
-const char D_08067bb8[] = "‚e‚‚Œ‚Œ‚‚—@‚‚…I";
+const char D_08067bb8[] = "‚g‚‚‡‚‚‚‚“‚Œ‚I";
