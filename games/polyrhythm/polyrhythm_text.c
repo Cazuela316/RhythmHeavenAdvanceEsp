@@ -5,32 +5,32 @@
 /* Game Text - Polyrhythm */
 
 
-const char D_0805afec[] = "Take more care during assembly.";
+const char D_0805afec[] = "Ten m‡cs cuidado durante el ensamblaje.";
 
 const char D_0805b010[] = "";
 
-const char D_0805b014[] = "Is your left hand falling asleep?";
+const char D_0805b014[] = "Se te ha dormido la mano?";
 
-const char D_0805b02c[] = "Your left hand was a model employee!";
+const char D_0805b02c[] = "Tu mano izquierda fue ejemplar!";
 
-const char D_0805b04c[] = "You've got to adapt to the new rhythms better.";
+const char D_0805b04c[] = "Te tienes que adaptar a los nuevos ritmos.";
 
-const char D_0805b068[] = "What rhythmic work!";
+const char D_0805b068[] = "Que trabajo mas r‡etmico!";
 
-const char D_0805b088[] = "From the Factory's Manager:";
+const char D_0805b088[] = "Del gerente de la f‡cbrica:";
 
-const char D_0805b094[] = "You still need to work on the basics.";
+const char D_0805b094[] = "Aˆ¦n necesitas trabajar en lo basico.";
 
 const char D_0805b0b0[] = "";
 
-const char D_0805b0b4[] = "Your offbeats were just off.";
+const char D_0805b0b4[] = "Tus contrarritmos est‡cn mal.";
 
-const char D_0805b0d0[] = "Your offbeat was right on the money!";
+const char D_0805b0d0[] = "Tus contrarritmos sobresalieron!";
 
-const char D_0805b0e8[] = "The polyrhythm messed up your timing!";
+const char D_0805b0e8[] = "El polirritmo arruin‡i tus tiempos!";
 
-const char D_0805b110[] = "You couldn't use both hands separately";
+const char D_0805b110[] = "No pudiste usar tus dos manos";
 
-const char D_0805b130[] = "Your hands work well separately!";
+const char D_0805b130[] = "Tus manos trabajan bien separadas!";
 
-const char D_0805b14c[] = "From the Factory's Manager";
+const char D_0805b14c[] = "Del gerente de la f‡cbrica:";
