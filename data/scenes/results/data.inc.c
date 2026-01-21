@@ -71,18 +71,18 @@ const char *results_skill_text_irrelevant_inputs[] = {
 
 // [D_089d79e8] DEBUG Skill Comments - Accuracy (Lenient)
 const char *results_skill_text_accuracy_lenient[] = {
-    "Ｓｔａｂｉｌｉｔｙ",
+    "Ｅｓｔａｂｉｌｉｄａｄ",
     "Ｔｈｅ　ｃｏｒｅ　ｏｆ　ｙｏｕｒ　ｒｈｙｔｈｍ",
-    "Ｃｏｎｓｉｓｔｅｎｃｙ",
+    "Ｃｏｎｓｉｓｔｅｎｃｉａ",
     NULL
 };
 
 
 // [D_089d79f8] DEBUG Skill Comments - Misses
 const char *results_skill_text_miss[] = {
-    "Ｍｏｔｉｖａｔｉｏｎ",
+    "Ｍｏｔｉｖａｃｉｏｎ",
     "Ｖｉｓｕａｌ　ａｃｕｉｔｙ",
-    "Ｐｏｓｉｔｉｖｉｔｙ",
+    "Ｐｏｓｉｔｉｖｉｓｍｏ",
     NULL
 };
 
@@ -101,7 +101,7 @@ const char *results_skill_text_random[] = {
     "Ｌｏｖｅ　ｆｏｒｔｕｎｅ　ｆｏｒ　ｎｅｘｔ　ｙｅａｒ",
     "Ｔｈｉｓ　ｙｅａｒ'ｓ　ｆｉｎａｎｃｉａｌ　ｆｏｒｔｕｎｅ",
     "Ｔｏｍｏｒｒｏｗ'ｓ　ｗｅａｔｈｅｒ",
-    "Ｙｅｓｔｅｒｄａｙ'ｓ　ｄｉｎｎｅｒ",
+    "Ｃｅｎａ　ｄｅ　ａｙｅｒ",
     "（Ｐｒｅｄｉｃｔｉｎｇ）　Ｙｏｕｒ　ｂｌｏｏｄ　ｔｙｐｅ",
     "Ｙｏｕｒ　ｌｅｖｅｌ　ｏｆ　ｕｐｂｒｉｎｇｉｎｇ",
     "Ｙｏｕｒ　ｈｕｍａｎｉｔｙ",

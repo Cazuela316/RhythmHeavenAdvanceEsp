@@ -97,45 +97,45 @@ return
 
 
 text D_08a2f220
-    .ascii "Okay, let's start\n"
-    .asciz "out simple for now."
+    .ascii "Okey, Empecemos\n"
+    .asciz "con algo simple."
 endtext
 
 text D_08a2f248
-    .ascii "Strike 1!\n"
-    .ascii "You have two more\n"
-    .asciz "chances. Good luck!"
+    .ascii "Primer Strike!\n"
+    .ascii "Tienes 2 oportunidades mas.\n"
+    .asciz "Buena suerte!"
 endtext
 
 text D_08a2f278
-    .ascii "Strike 2!\n"
-    .ascii "This is your last\n"
-    .asciz "chance! Concentrate!"
+    .ascii "Segundo Strike!\n"
+    .ascii "Esta es tu ultima\n"
+    .asciz "oportunidad! Concentrate!"
 endtext
 
 text D_08a2f2a0
-    .ascii "OK! On to the next one!\n"
-    .ascii "Think you can\n"
-    .asciz "handle this one?"
+    .ascii "OK! Vamos al siguiente!\n"
+    .ascii "Crees que puedas\n"
+    .asciz "aguantar este?"
 endtext
 
 text D_08a2f2d4
-    .ascii "Good job.\n"
-    .ascii "For the next pattern,\n"
-    .asciz "Ponta will play along, too!"
+    .ascii "Bien hecho.\n"
+    .ascii "Para el siguiente patron,\n"
+    .asciz "Ponta, igual va a tocar!"
 endtext
 
 text D_08a2f308
-    .ascii "That was great!\n"
-    .ascii "This next one's\n"
-    .asciz "a little more tricky!"
+    .ascii "Eso estuvo genial!\n"
+    .ascii "El que sigue es un\n"
+    .asciz "poco mas complicado!"
 endtext
 
 text D_08a2f340
-    .ascii "Heh, you're better\n"
-    .ascii "than we thought!\n"
-    .ascii "Looks like we'll have\n"
-    .asciz "to bring out the big guns!\n"
+    .ascii "Jojo, Eres mejor\n"
+    .ascii "de lo que pensabamos!\n"
+    .ascii "Parece que tendremos\n"
+    .asciz "que ponernos super serios!\n"
 endtext
 
 
