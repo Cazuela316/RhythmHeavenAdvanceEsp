@@ -9,7 +9,7 @@ const char D_0805b3a8[] = "Necesitabas centrarte en lo fundamental.";
 
 const char D_0805b3c4[] = "";
 
-const char D_0805b3c8[] = "te ganaron las partes rapidas.";
+const char D_0805b3c8[] = "Te ganaron las partes rapidas.";
 
 const char D_0805b3e8[] = "Les ganaste a las partes rapidas!";
 

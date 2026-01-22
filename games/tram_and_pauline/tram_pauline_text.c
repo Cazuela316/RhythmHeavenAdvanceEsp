@@ -13,9 +13,9 @@ const char D_0805db18[] = "Paulin, necesitas mas practica.";
 
 const char D_0805db34[] = "Paulin, Diste un buen show!";
 
-const char D_0805db54[] = "ustedes dos necesitan concentrarse mas.";
+const char D_0805db54[] = "Ustedes dos necesitan concentrarse mas.";
 
-const char D_0805db74[] = "hicieron muy buenas acrobacias los dos!";
+const char D_0805db74[] = "Hicieron muy buenas acrobacias los dos!";
 
 const char D_0805db94[] = "Consejos del maestro del circo";
 

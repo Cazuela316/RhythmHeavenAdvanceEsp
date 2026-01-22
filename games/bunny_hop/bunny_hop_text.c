@@ -19,11 +19,11 @@ const char D_0805cc48[] = "lograste las pausas muy bien!";
 
 const char D_0805cc68[] = "Ｙ　ａｈｏｒａ．．．";
 
-const char D_0805cc70[] = "ｅｓｐｅｒａ　ｄｏｓ　ｔｉｅｍｐｏｓ．";
+const char D_0805cc70[] = "Ｅｓｐｅｒａ　ｄｏｓ　ｔｉｅｍｐｏｓ．";
 
 const char D_0805cc80[] = "";
 
-const char D_0805cc84[] = "ｅｓｐｅｒａ　ｃｕａｔｒｏ　ｔｉｅｍｐｏｓ．";
+const char D_0805cc84[] = "Ｅｓｐｅｒａ　ｃｕａｔｒｏ　ｔｉｅｍｐｏｓ．";
 
 const char D_0805cc94[] = "１";
 
@@ -33,7 +33,7 @@ const char D_0805cc9c[] = "３";
 
 const char D_0805cca0[] = "４";
 
-const char D_0805cca4[] = "ｅｓｐｅｒａ　ｏｃｈｏ　ｔｉｅｍｐｏｓ．";
+const char D_0805cca4[] = "Ｅｓｐｅｒａ　ｏｃｈｏ　ｔｉｅｍｐｏｓ．";
 
 const char D_0805ccb4[] = "Reporte de los amigos marinos";
 

@@ -5,17 +5,17 @@
 /* Game Text - Showtime */
 
 
-const char D_0805e180[] = "They're not very happy.";
+const char D_0805e180[] = "No muy felices.";
 
-const char D_0805e194[] = "They're pretty pleased!";
+const char D_0805e194[] = "Bastante satisfechos!";
 
-const char D_0805e1a8[] = "The penguins' moods...";
+const char D_0805e1a8[] = "Los ping葵inos se ven...";
 
-const char D_0805e1bc[] = "Ｉｔ’ｓ　ｓｈｏｗｔｉｍｅ！";
+const char D_0805e1bc[] = "Ｈｏｒａ　ｄｅｌ　ｓｈｏｗ！";
 
-const char D_0805e1d4[] = "Ｌｅｔ’ｓ　ｐｒａｃｔｉｃｅ　ｏｕｒ　ｐｅｎｇｕｉｎ　ｒｏｕｔｉｎｅ．";
+const char D_0805e1d4[] = "Ｐｒａｃｔｉｑｕｅｍｏｓ　ｎｕｅｓｔｒａ　ｒｕｔｉｎａ．";
 
-const char D_0805e1f8[] = "Ｐｒｅｓｓ　ゝ　ｏｎ　ｔｈｅ　ｃｏｕｎｔ　ｏｆ　３！";
+const char D_0805e1f8[] = "Ｐｒｅｓｉｏｎａ　ゝ　ａ　ｌａ　ｃｕｅｎｔａ　ｄｅ　３！";
 
 const char D_0805e218[] = "";
 
@@ -23,16 +23,16 @@ const char D_0805e21c[] = "１";
 
 const char D_0805e220[] = "２";
 
-const char D_0805e224[] = "ＧＯ！";
+const char D_0805e224[] = "Ａｈｏｒａ！";
 
-const char D_0805e22c[] = "Ｌｅｔ’ｓ　ｍｏｖｅ　ｏｎ．．．";
+const char D_0805e22c[] = "Ｓｉｇａｍｏｓ．．．";
 
-const char D_0805e23c[] = "Ｈｅｒｅ　ｃｏｍｅ　ｔｈｅ　ｂｉｇ　ｐｅｎｇｕｉｎｓ．";
+const char D_0805e23c[] = "Ａｈｏｒａ　ｖｉｅｎｅｎ　ｌｏｓ　ｇｒａｎｄｅｓ．";
 
-const char D_0805e258[] = "Ｇｒｅａｔ　ｉｎｓｔｉｎｃｔ！";
+const char D_0805e258[] = "Ｂｕｅｎ　ｒｉｔｍｏ！";
 
-const char D_0805e268[] = "Ｎｏｗ　ｃｏｍｅ　ｔｈｅ　ｗｈｉｔｅ　ｐｅｎｇｕｉｎｓ．";
+const char D_0805e268[] = "Ａｈｏｒａ　ｖｉｅｎｅｎ　ｌｏｓ　ｂｌａｎｃｏｓ．";
 
-const char D_0805e280[] = "Ｔｈｅｙ’ｒｅ　ｒａｔｈｅｒ　ｔｒｉｃｋｙ！";
+const char D_0805e280[] = "Ｓｏｎ　ｍｕｙ　ｒａｐｉｄｏｓ！";
 
-const char D_0805e28c[] = "Ｇｅｔ　ｒｅａｄｙ　ｆｏｒ　ｔｈｅ　ｒｅａｌ　ｔｈｉｎｇ！";
+const char D_0805e28c[] = "Ｅｓｔａｍｏｓ　ｌｉｓｔｏｓ！";

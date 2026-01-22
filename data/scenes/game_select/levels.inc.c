@@ -139,7 +139,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "No puedo vender esto!",
-            /* OK        */ "P-porque a mis vegentales les salen pelos!?",
+            /* OK        */ "P-porque a mis vegetales les salen pelos!?",
             /* SUPERB    */ "Que fresco y limpio! Hasta el aire es delicioso!"
         }
     },

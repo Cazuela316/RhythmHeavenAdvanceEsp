@@ -48,7 +48,7 @@ struct ReadingMaterial reading_material_error = {
         "\n"
         "\n"
         "\n"
-        "Invalid Data",
+        "Datos Invalidos.",
     /* STYLE ---------------------------------------------------------- */
         /* GFX */ (struct GraphicsTable[]) {
             /* BG Tileset */ {

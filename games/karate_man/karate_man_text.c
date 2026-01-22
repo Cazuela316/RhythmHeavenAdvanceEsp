@@ -9,11 +9,11 @@ const char D_0805ab50[] = "Necesitabas centrarte en lo fundamental.";
 
 const char D_0805ab68[] = "";
 
-const char D_0805ab6c[] = "tus golpes seguidos estuvieron malos.";
+const char D_0805ab6c[] = "Tus golpes seguidos estuvieron malos.";
 
 const char D_0805ab90[] = "Increibles golpes seguidos!";
 
-const char D_0805abb0[] = "lo diste todo en el final!";
+const char D_0805abb0[] = "Lo diste todo en el final!";
 
 const char D_0805abc4[] =
     "\n"

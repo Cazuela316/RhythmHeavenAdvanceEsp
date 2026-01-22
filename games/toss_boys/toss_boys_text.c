@@ -9,13 +9,13 @@ const char D_0805d618[] = "Tienen que practicar mas sus tajadas.";
 
 const char D_0805d634[] = "Sus tajadas fueron increibles!";
 
-const char D_0805d64c[] = "parecian estar un poco tensos.";
+const char D_0805d64c[] = "Parecian estar un poco tensos.";
 
-const char D_0805d660[] = "estuvieron serenos todo el tiempo!";
+const char D_0805d660[] = "Estuvieron serenos todo el tiempo!";
 
-const char D_0805d678[] = "la velocidad les gano.";
+const char D_0805d678[] = "La velocidad les gano.";
 
-const char D_0805d694[] = "la velocidad no es nada para ustedes!";
+const char D_0805d694[] = "La velocidad no es nada para ustedes!";
 
 const char D_0805d6b0[] = "Tips del ‡clbitro";
 
@@ -31,13 +31,13 @@ const char D_0805d6e0[] = "Tienen que practicar mas sus tajadas.";
 
 const char D_0805d6fc[] = "Sus tajadas fueron increibles!";
 
-const char D_0805d714[] = "parecian estar un poco tensos.";
+const char D_0805d714[] = "Parecian estar un poco tensos.";
 
-const char D_0805d728[] = "estuvieron serenos todo el tiempo!";
+const char D_0805d728[] = "Estuvieron serenos todo el tiempo!";
 
-const char D_0805d740[] = "la velocidad les gano.";
+const char D_0805d740[] = "La velocidad les gano.";
 
-const char D_0805d75c[] = "la velocidad no es nada para ustedes!";
+const char D_0805d75c[] = "La velocidad no es nada para ustedes!";
 
 const char D_0805d778[] = "Tips del ‡clbitro";
 
