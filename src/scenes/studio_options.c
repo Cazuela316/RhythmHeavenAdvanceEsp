@@ -195,8 +195,8 @@ void studio_option_list_update(void) {
                                 STUDIO_WARNING_OPT_Y,
                                 // In listening mode, only the songs
                                 // with a check mark will be played.
-                                "Solo las canciones marcadas se reproduciran.\n"
-                                "Esta bien?",
+                                "Las canciones marcadas se\n"
+                                "reproduciran. Esta bien?",
                                 studio_option_list_warning_unchecked_result, 0,
                                 &s_menu_se24_seqData);
                         play_sound_in_player(MUSIC_PLAYER_2, &s_menu_kettei2_seqData);
