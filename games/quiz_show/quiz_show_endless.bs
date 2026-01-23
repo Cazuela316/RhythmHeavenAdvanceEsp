@@ -464,64 +464,64 @@ quiz_show_endless_table D_08069958, D_08a59cf4
 
 text D_08069960
     .ascii "\n"
-    .ascii "Aww, too bad!\n"
+    .ascii "Aww, que pena!\n"
     .ascii "\n"
 endtext
 
 
 text D_0806996c
-    .ascii "Come back and try\n"
-    .ascii "again next week!\n"
+    .ascii "Vuelve la\n"
+    .ascii "proxima semana!\n"
     .ascii "\n"
 endtext
 
 
 text D_08069990
-    .ascii "Good day!\n"
-    .ascii "It's time to\n"
-    .asciz "play the quiz!"
+    .ascii "Buenos dias!\n"
+    .ascii "Es hora de la\n"
+    .asciz "trivia ritmica!"
 endtext
 
 
 text D_080699bc
-    .ascii "Today, we will\n"
-    .ascii "be playing the\n"
-    .asciz "special round!"
+    .ascii "Hoy, vamos a\n"
+    .ascii "estar jugando\n"
+    .asciz "un round especial!"
 endtext
 
 
 text D_080699e0
-    .ascii "So with that...\n"
-    .ascii "let's begin!\n"
+    .ascii "Ya con eso dicho...\n"
+    .ascii "Comencemos!\n"
     .ascii "\n"
 endtext
 
 
 text D_08069a04
     .ascii "\n"
-    .ascii "Aaaand stop!\n"
+    .ascii "Yyyy basta!\n"
     .ascii "\n"
 endtext
 
 
 text D_08069a14
-    .ascii "And the correct\n"
-    .ascii "answer is...\n"
+    .ascii "Y la respuesta\n"
+    .ascii "correcta es...\n"
     .ascii "\n"
 endtext
 
 
 text D_08069a28
     .ascii "\n"
-    .ascii "You are correct!\n"
+    .ascii "Correcto!\n"
     .ascii "\n"
 endtext
 
 
 text D_08069a34
-    .ascii "Let's move on\n"
-    .ascii "to the next\n"
-    .asciz "question."
+    .ascii "Vamos a la\n"
+    .ascii "siguiente\n"
+    .asciz "pregunta."
 endtext
 
 
