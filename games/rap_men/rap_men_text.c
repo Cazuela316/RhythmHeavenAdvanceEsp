@@ -5,58 +5,58 @@
 /* Game Text - Rap Men */
 
 
-const char D_0805e914[] = "The \"Huh?\" lines were just confusing.";
+const char D_0805e914[] = "Las lineas \"Huh?\" fueron confusas.";
 
-const char D_0805e938[] = "The \"Huh?\" lines had some real groove!";
+const char D_0805e938[] = "Las lineas \"Huh?\" tenian mucho ritmo!";
 
-const char D_0805e960[] = "I \"feel\" like we we could've done better.";
+const char D_0805e960[] = "Yo \"capto\" que podriamos hacerlo mejor.";
 
-const char D_0805e988[] = "Your \"feel\" for this is impressive!";
+const char D_0805e988[] = "Tu, en serio \"captaste\" el rap!";
 
-const char D_0805e9ac[] = "The \"AWESOME!\" lines... weren't.";
+const char D_0805e9ac[] = "Las lineas \"Increibles!\"... No lo fueron.";
 
-const char D_0805e9d8[] = "The \"AWESOME!\" lines were nothing less!";
+const char D_0805e9d8[] = "Las lineas \"Increibles!\", lo fueron!";
 
-const char D_0805ea04[] = "RAPNOTES from the Boys:";
+const char D_0805ea04[] = "RAPNOTAS de los chicos:";
 
-const char D_0805ea18[] = "Ｌｅｔ’ｓ　ｇｅｔ　ｉｎｔｏ　ｉｔ．";
+const char D_0805ea18[] = "Ａ　ｒａｐｅａｒ　ｃｏｍｏ　ｄｉｏｓｅｓ！";
 
-const char D_0805ea34[] = "Ｗｅ　ｓｈｏｕｌｄ　ｄｏ　ｔｈａｔ　ａｇａｉｎ．";
+const char D_0805ea34[] = "Ｄｅｂｅｒｉａｍｏｓ　ｈａｃｅｒｌｏ　ａｌｇｕｎａ　ｏｔｒａ　ｖｅｚ！";
 
 const char D_0805ea44[] = "Ｙｏ．";
 
-const char D_0805ea50[] = "Ｗａｎｎａ　ｒａｐ　ｔｏｇｅｔｈｅｒ？";
+const char D_0805ea50[] = "Ｑｕｉｅｒｅｓ　ｒａｐｅａｒ　ｊｕｎｔｏｓ？";
 
-const char D_0805ea6c[] = "Ｌｅｍｍｅ　ｂｒｅａｋ　ｉｔ　ｄｏｗｎ　ｆｏｒ　ｙｏｕ．";
+const char D_0805ea6c[] = "Ｄｅｊａｍｅ　ｔｅ　ｅｘｐｌｉｃｏ　ｔｏｄｏ．";
 
-const char D_0805ea84[] = "Ｐｒｅｓｓ　ゝ　ａｔ　ｔｈｅ　”Ｕｈ！”";
+const char D_0805ea84[] = "Ｐｒｅｓｉｏｎａ　ゝ　ｅｎ　ｌｏｓ　”Ｕｈ！”";
 
-const char D_0805eaac[] = "Ｇｉｖｅ　ｉｔ　ａ　ｌｉｓｔｅｎ．";
+const char D_0805eaac[] = "Ｅｓｃｕｃｈａ　ｂｉｅｎ．";
 
-const char D_0805eac4[] = "Ｙｏｕ　ｇｏｔ　ｉｔ？";
+const char D_0805eac4[] = "Ｌｏ　ｅｎｔｅｎｄｉｓｔｅ　ｂｉｅｎ？";
 
-const char D_0805ead0[] = "Ｔｒｙ　ｉｔ　ｏｕｔ！";
+const char D_0805ead0[] = "Ｈａｇａｍｏｓｌｏ！";
 
-const char D_0805eae8[] = "Ｄｏ　ｙｏｕｒ　ｂｅｓｔ！";
+const char D_0805eae8[] = "Ｄａｌｏ　ｔｏｄｏ！";
 
-const char D_0805eaf8[] = "Ｉｔ’ｓ　ａｔ　ｔｈｅ　”Ｕｈ！”";
+const char D_0805eaf8[] = "Ｒｅｃｕｅｒｄａ，　ｅｓ　ｅｎ　ｌｏｓ　”Ｕｈ！”";
 
-const char D_0805eb14[] = "Ｙｏｕ　ｇｏｔｔａ　ｐｒｅｓｓ　ゝ　ａｔ　ｔｈｅ　”Ｕｈ！”";
+const char D_0805eb14[] = "Ｄｅｂｅｓ　ｐｒｅｓｉｏｎａｒ　ゝ　ｅｎ　ｌｏｓ　”Ｕｈ！”";
 
-const char D_0805eb34[] = "ＯＫ！　Ｙｏｕ’ｖｅ　ｇｏｔ　ｉｔ！";
+const char D_0805eb34[] = "Ｍｕｙ　ｂｉｅｎ！";
 
-const char D_0805eb3c[] = "Ｔｈａｔ　ｗａｓ　ａ　“.bｈｕｈ？.8”　ｌｉｎｅ．";
+const char D_0805eb3c[] = "Ｅｓａ　ｆｕｅ　ｌａ　ｌｉｎｅａ　“.bｈｕｈ？.8”";
 
-const char D_0805eb6c[] = "Ｎｏｗ　ｌｅｔ’ｓ　ｔｒｙ　ｔｈｅ　“.9ｙａ　ｆｅｅｌ　ｍｅ？.8”　ｌｉｎｅ．";
+const char D_0805eb6c[] = "Ａｈｏｒａ　ｖａｍｏｓ　ｃｏｎ　ｌａ　ｌｉｎｅａ　“.9Ｍｅ　ｃａｐｔａｓ？.8”";
 
-const char D_0805eb94[] = "Ｔａｋｅ　ａ　ｌｉｓｔｅｎ．";
+const char D_0805eb94[] = "Ｅｓｃｕｃｈａ　ａｔｅｎｔａｍｅｎｔｅ．";
 
-const char D_0805ebac[] = "Ｙｏｕ　ｇｏｔ　ｔｈｉｓ！";
+const char D_0805ebac[] = "Ｍｕｙ　ｂｕｅｎ　ｒａｐ！";
 
-const char D_0805ebc4[] = "Ａｌｌ　ｔｈａｔ’ｓ　ｌｅｆｔ　ｉｓ　ｏｕｒ　“.aＡＷＥＳＯＭＥ！.8”　ｌｉｎｅ．";
+const char D_0805ebc4[] = "Ｓｏｌｏ　ｆａｌｔａ　ｌａ　ｌｉｎｅａ　“.aＩｎｃｒｅｉｂｌｅ！.8”";
 
-const char D_0805ebf4[] = "Ｇｉｖｅ　ｉｔ　ａ　ｌｉｓｔｅｎ．．．";
+const char D_0805ebf4[] = "Ｅｓｃｕｃｈａｌａ　ｍｕｙ　ｂｉｅｎ．．．";
 
-const char D_0805ec0c[] = "Ｎｏｗ　ｆｏｌｌｏｗ　ｉｔ　ｕｐ！";
+const char D_0805ec0c[] = "Ａｈｏｒａ　ｓｉｇｕｅ　ｃｏｎ　ｅｌｌｏ！";
 
-const char D_0805ec24[] = "ＯＫ！　Ｙｏｕ’ｒｅ　ｐｒｅｔｔｙ　“.aａｗｅｓｏｍｅ.8”　ａｔ　ｔｈｉｓ！";
+const char D_0805ec24[] = "Ｖａｙａ！　Ｅｒｅｓ　ｍｕｙ　“.aｉｎｃｒｅｉｂｌｅ.8”　ｅｎ　ｅｓｔｏ！";

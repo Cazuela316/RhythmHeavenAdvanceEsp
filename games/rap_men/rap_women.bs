@@ -55,51 +55,51 @@ return
 @ Rap Women - Text
 
 text text_rap_women_juji_desu_ka
-    .asciz ".b:1Ｉｔ’ｓ　１０　ＡＭ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｓｏｎ　ｌａｓ　１０，　.b:0ｈｕｈ？.8:1"
 endtext
 
 text text_rap_women_oyatsu_desu_ka
-    .asciz ".b:1Ｉｔ’ｓ　ｓｎａｃｋ　ｔｉｍｅ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ａ　ｍｅｒｅｎｄａｒ，　.b:0ｈｕｈ？.8:1"
 endtext
 
 text text_rap_women_naisho_desu_ka
-    .asciz ".b:1Ｗｈｏ’ｓ　ｔｏ　ｋｎｏｗ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｑｕｉｅｎ　ｌｏ　ｓａｂｒａ，　.b:0ｈｕｈ？.8:1"
 endtext
 
 text text_rap_women_kare_no_oyatsu_da_ne
-    .asciz ".9:1Ｔｈｅｓｅ　ａｒｅ　ａｌｌ　ｔｈｅｉｒ　ｓｎａｃｋｓ，.9:0　ｙａ　ｓｅｅ？.8:1"
+    .asciz ".9:1Ａｑｕｉ　ｅｓｔａｎ　ｓｕｓ　ｓｎａｃｋｓ，　.9:0Ａｃｅｐｔａｓ？.8:1"
 endtext
 
 text text_rap_women_tabeteii_kamo_ne
-    .asciz ".9:1Ｅａｔ　’ｅｍ　ａｌｌ　ｕｐ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ｃｏｍａｍｏｓｌｏｓ　ｔｏｄｏｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_women_aketeii_kamo_ne
-    .asciz ".9:1Ｏｐｅｎ　’ｅｍ　ｕｐ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ａｂｒａｍｏｓｌｏｓ　ｔｏｄｏｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_women_oyatsu_wa_saikou
-    .asciz ".a:1Ｓｎａｃｋｉｎｇ　ｉｓ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｍｅｒｅｎｄａｒ　ｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_women_kibun_wa_saikou
-    .asciz ".a:1Ｉ　ｆｅｅｌ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｍｅ　ｓｉｅｎｔｏ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_women_amakute_saikou
-    .asciz ".a:1Ｓｗｅｅｔｓ　ａｒｅ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｅｓ　ｔａｎ　.a:0Ａｐｅｔｅｃｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_women_betsubara_saikou
-    .asciz ".a:1Ｃａｋｅｓ　ａｒｅ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｌａ　ｔａｒｔａ　ｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_women_kare_ni_wa_naisho
-    .asciz ".a:1Ｃｌｕｅｌｅｓｓ　ｔｈａｔ　ｗｅ　.a:0ＳＴＯＬＥ　’ＥＭ！.8:1"
+    .asciz ".a:1Ｎｏ　ｓａｂｅｎ　ｄｅ　ｓｕｓ　.a:0Ｃｏｍｅｓｔｉｂｌｅｓ！.8:1"
 endtext
 
 text text_rap_women_dare_ni_mo_naisho
-    .asciz ".a:1Ｔｅｌｌ　’ｅｍ　ｗｅ　ａｒｅ　.a:0ＬＯＡＴＨＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｓｏｍｏｓ　.a:0Ｉｎｃｏｒｒｅｇｉｂｌｅｓ！.8:1"
 endtext
 
 
