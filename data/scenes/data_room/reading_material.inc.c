@@ -32,11 +32,11 @@ struct ReadingMaterial reading_material_table[] = {
         /* BODY ----------------------------------------------------------- */
             "Como jugar el juego:\n"
             "\n"
-            "Well, this is a pretty straightforward game.\n"
-            "What can I really say...?\n"
-            "Oh, right, the idea is to play along to the music,\n"
-            "so try to feel the flow when you play. That's my advice!\n"
-            "And that's about it. Pleasure to meet you, by the way!",
+            "Bueno, este juego es bastante simple.\n"
+            "Realmente Qu‡Q puedo decir...?\n"
+            "Ah, si, la ideas es que juegues al son de la mˆ·sica,\n"
+            "asi que intenta sentir el flow. Ese es mi consejo!\n"
+            "Y eso es todo. Y por cierto, un placer conocerte!",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_cherry_gfx_table,
             /* BGM */ &reading_style_cherry_bgm
@@ -45,26 +45,26 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* CAFE ("More Than a Barista") */ {
         /* TITLE ---------------------------------------------------------- */
-            "From the Barista",
+            "Del Barista",
         /* BODY ----------------------------------------------------------- */
-            "I own and operate a Caf‡Q.\n"
-            "I guess you could call me the barista.\n"
-            "It's going well thanks to the regulars.\n"
-            "And, uh, just to let you know, I'm a dog.\n"
-            "Many of my customers love listening to music.\n"
-            "A lot of them have especially good rhythm,\n"
-            "and a few have even achieved a full set of Perfects!\n"
-            "I'm always amazed by them!\n"
-            "I may look all professional when I run my Caf‡Q,\n"
-            "but I'll be honest, I'm really putting on a front.\n"
-            "See, it's a little embarrassing, but when I'm off the\n"
-            "clock, I'm always jamming out with these little\n"
-            "dog-sized headphones! What can I say?\n"
-            "I need a little flow wherever I go.\n"
-            "It's complicated. Heh...\n"
-            "I do go out from time to time, so if you happen to\n"
-            "run into me... please pet me!\n"
-            "See you around.",
+            "Tengo y opero un Caf‡Q.\n"
+            "Supongo que me puedes llamar el barista.\n"
+            "Me esta yendo bien gracias a los clientes.\n"
+            "Ah, y para tu informaci‡in, soy un perro.\n"
+            "Muchos de mis clientes aman la mˆ¦sica.\n"
+            "Algunos de ellos tienen buen ritmo,\n"
+            "y un par ha sacado puntajes perfectos!\n"
+            "Siempre me asombran!\n"
+            "Podr‡Q verme profesional manejando mi Caf‡Q,\n"
+            "Pero siendo honesto, en realidad estoy fingiendo.\n"
+            "Ver‡cs, da un poco de vergˆªenza, pero luego del\n"
+            "trabajo, siempre estoy bailando con estos\n"
+            "auriculares para perro! Qu‡Q puedo decir?\n"
+            "Necesito un poco de flow a donde sea que vaya.\n"
+            "Es complicado. Jej...\n"
+            "Salgo de ves en cuando, asi que si me ves...\n"
+            "por favor acar‡eciame!\n"
+            "Te veo luego.",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_train_gfx_table,
             /* BGM */ &reading_style_train_bgm
