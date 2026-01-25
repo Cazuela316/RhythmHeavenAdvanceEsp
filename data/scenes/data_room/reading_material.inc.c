@@ -2,23 +2,24 @@
 struct ReadingMaterial reading_material_table[] = {
     /* WELCOME ("Rhythm Tengoku Welcome") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Greetings",
+            "Bienvenida",
         /* BODY ----------------------------------------------------------- */
-            "Greetings!\n"
+            "Bienvenido!\n"
             "\n"
-            "Thank you very much for purchasing\n"
+            "Muchas gracias por comprar\n"
             #ifdef PARADISE
             "Rhythm Paradise Advance.\n"
             #else
             "Rhythm Heaven Advance.\n"
             #endif
-            "Oh... you've borrowed it from a friend?\n"
-            "A-and it's... u-used?\n"
-            "Well, that's beside the point. The fact is, we're truly\n"
-            "honored that you've put your interest into this game.\n"
-            "It's been nice meeting you, and we hope this game\n"
-            "gives you joy and fulfillment for years to come!\n"
-            "Thank you very much!",
+            "Oh... Se lo compraste a un amigo?\n"
+            "E-eh y esta... u-usado!?\n"
+            "Bueno, como sea. Lo que si, es que estamos muy\n"
+            "honorados de que te hayas interesado en este juego.\n"
+            "Es un gusto conocerte, y esperamos que este juego\n"
+            "te llene de alegria y diversion para todo el resto\n"
+            "de la vida!\n"
+            "Muchas muchas gracias!",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_mail_gfx_table,
             /* BGM */ &reading_style_mail_bgm
@@ -27,9 +28,9 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* MANUAL ("Handling Instructions") */ {
         /* TITLE ---------------------------------------------------------- */
-            "How to play",
+            "Como jugar el juego",
         /* BODY ----------------------------------------------------------- */
-            "How to play the game:\n"
+            "Como jugar el juego:\n"
             "\n"
             "Well, this is a pretty straightforward game.\n"
             "What can I really say...?\n"
@@ -131,11 +132,11 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* SPACEBALL ("Inside Spaceball") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Spaceball Report",
+            "Reporte del Beisball Espacial", // esto es lo maximo que puede ser los titulos
         /* BODY ----------------------------------------------------------- */
             "We're here in outer space for an exclusive interview\n"
             "with the spacefaring baseball player, the\n"
-            "Space Batter!\n"
+            "Bateador Espacial!\n"
             "\n"
             "Q. How is this season looking so far?\n"
             "A. I've been eating rice balls, so it's right on the mark!\n"
@@ -251,9 +252,9 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RAP_MEN ("Rap Report") */ {
         /* TITLE ---------------------------------------------------------- */
-            "A Certain Radio Station",
+            "Una Cierta Estacion de Radio",
         /* BODY ----------------------------------------------------------- */
-            "Hey there! I'm DJ MON-K!\n"
+            "Hey there! I'm DJ MON-KI!\n"
             "We've got a couple of wonderful guests here today.\n"
             "Allow me to introduce the RAPMEN (RM)! Pleased\n"
             "to meet you today!\n"
@@ -299,11 +300,11 @@ struct ReadingMaterial reading_material_table[] = {
         /* TITLE ---------------------------------------------------------- */
             "Lyrics Card á@",
         /* BODY ----------------------------------------------------------- */
-            "TheÅôBon Odori\n"
-            "Song: Ami Tokito\n"
-            "Music: TSUNKU\n"
+            "Bon Åô Odori\n"
+            "Cantante: Ami Tokito\n"
+            "Musica: TSUNKU\n"
             "\n"
-            "(This song appears in TheÅôBon Odori.)\n"
+            "(Esta cancion aparece en Bon Åô Odori.)\n"
             "\n"
             "Haa~\n"
             "            Hanabi Agare ba~\n"
@@ -914,34 +915,34 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_POEM ("Rhythm Poem Digest") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Rhythm Poem Collection",
+            "Coleccion de Poemas Ritmicos",
         /* BODY ----------------------------------------------------------- */
-            "\001C" "\0031" "\001m" "\"To Nurture\"\n"
+            "\001C" "\0031" "\001m" "\"Al nutrirlo\"\n"
             "\n"
-            "\001C" "\0030" "\001s" "I have nurtured it,\n"
-            "For the day when it will learn to use its wings.\n"
-            "In the wake of a casual, everyday life,\n"
-            "Naturally,\n"
-            "Enjoyably,\n"
-            "That which is now only very, very small,\n"
-            "My sense of rhythm...\n"
-            "\001C" "\0031" "\001m" "\"Karate Rhythm\"\n"
+            "\001C" "\0030" "\001s" "Lo he cultivado,\n"
+            "Para el dáea en que aprenda a usar sus alas.\n"
+            "En medio de una vida cotidiana y sencilla,\n"
+            "de forma natural,\n"
+            "con disfrute,\n"
+            "Eso que ahora es apenas, apenas algo muy chico...\n"
+            "mi sentido del ritmo...\n"
+            "\001C" "\0031" "\001m" "\"Ritmo Karateca\"\n"
             "\001C" "\0030" "\001s" "\n"
-            "Hey! Baby! How's it going?\n"
-            "This beat is non-stop.\n"
-            "Hey! Baby! Listen to my phrase.\n"
-            "I can give you\n"
-            "the sense of rhythm.\n"
-            "Oh, yeah.\n"
-            "Awake, baby! Trust me!\n"
-            "This beat is non-stop!\n"
-            "New groove in your soul.\n"
-            "Oh, yeah!\n"
-            "This beat!\n"
-            "You are growing up well.\n"
-            "Hey, baby!\n"
-            "Hold onto your ambition.\n"
-            "Hey! Oh, yeah!\n",
+            "Hey Nene! Que tal todo?\n"
+            "Este ritmo no tie-ne fin.\n"
+            "Hey Nene! Escucha atentamente!\n"
+            "Yo puedo darte...\n"
+            "Ese gran ritmo.\n"
+            "Oh, si.\n"
+            "Atento nene! Confáea en mi!\n"
+            "Este ritmo, no tie-ne fin.\n"
+            "Un nuevo brillo, en tu alma!\n"
+            "Oh si!\n"
+            "Este ritmo.\n"
+            "Lo has entendidái muy bien!\n"
+            "Hey nene...\n"
+            "Haz lo que te apaciona.\n"
+            "Hey! Oh si!\n",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_sea_gfx_table,
             /* BGM */ &reading_style_sea_bgm
