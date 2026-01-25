@@ -5,18 +5,18 @@
 /* Game Text - Cosmic Dance */
 
 
-const char D_0806824c[] = "Your routine was disorganized.";
+const char D_0806824c[] = "Tu rutina estaba desorganisada.";
 
-const char D_08068268[] = "What lively dance moves!";
+const char D_08068268[] = "Que hermosos movimientos!";
 
-const char D_0806827c[] = "You seemed panicked throughout.";
+const char D_0806827c[] = "Parecias estar en panico todo el tiempo.";
 
-const char D_08068298[] = "Your timing was terrific!";
+const char D_08068298[] = "Tu ritmo fue increible!";
 
-const char D_080682b0[] = "You were trembling before the chorus began.";
+const char D_080682b0[] = "Estabas temblando antes de que empezara el coro.";
 
-const char D_080682d4[] = "Your pre-chorus performance was perfect!";
+const char D_080682d4[] = "Tu rendimiento antes del coro estuvo muy bien!";
 
-const char D_080682f4[] = "Cosmic Girl says...";
+const char D_080682f4[] = "La Chica Cosmica...";
 
-const char D_08068310[] = "‚k‚…‚”f‚“@‚‚‚…‚‡‚‰‚I";
+const char D_08068310[] = "‚b‚‚‚…‚‚ƒ‚…‚‚‚“I";

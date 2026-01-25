@@ -5,21 +5,21 @@
 /* Game Text - The Bon Dance */
 
 
-const char D_0806a384[] = "The first half was kinda rough...";
+const char D_0806a384[] = "La primera parte estuvo rara...";
 
-const char D_0806a3a4[] = "The first half was pretty good!";
+const char D_0806a3a4[] = "La primera parte estuvo muy buena!";
 
-const char D_0806a3bc[] = "The second half was rather dreary.";
+const char D_0806a3bc[] = "La segunda parte estuvo fuera de ritmo.";
 
-const char D_0806a3e0[] = "The second half was incredible!";
+const char D_0806a3e0[] = "La segunda parte estuvo increible!";
 
 const char D_0806a3fc[] = "";
 
-const char D_0806a400[] = "It really ramped up near the end!";
+const char D_0806a400[] = "El final si que se intensifico!";
 
-const char D_0806a424[] = "The ending was pitch perfect!";
+const char D_0806a424[] = "El final estuvo de pelicula!";
 
-const char D_0806a448[] = "The People Say:";
+const char D_0806a448[] = "La gente dice...";
 
 const char text_bon_dance_ha[] = ".0:0" "ÇgÇÅÇÅÅ`";
 

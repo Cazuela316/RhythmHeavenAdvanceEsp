@@ -5,38 +5,38 @@
 /* Game Text - Space Dance */
 
 
-const char D_0805e2ac[] = "Your disorganization was visual.";
+const char D_0805e2ac[] = "Tu desorganizacion fue notada.";
 
-const char D_0805e2c8[] = "You were synched!";
+const char D_0805e2c8[] = "Tu estuviste sincronizado!";
 
-const char D_0805e2e4[] = "Panic was expressed.";
+const char D_0805e2e4[] = "Tu panico fue expresado.";
 
-const char D_0805e300[] = "You possess the skill of good timing!";
+const char D_0805e300[] = "Poses la habilidad del buen ritmo!";
 
-const char D_0805e320[] = "Your rattling was felt before the chorus.";
+const char D_0805e320[] = "Tu gran velocidad fue sentida antes del coro.";
 
-const char D_0805e344[] = "The part before the chorus had perfection!";
+const char D_0805e344[] = "La parte antes del coro tenia perfeccion!";
 
-const char D_0805e364[] = "Space Gramps says...";
+const char D_0805e364[] = "El Abuelo Espacial dice...";
 
-const char D_0805e37c[] = "Ｃｏｍｍｅｎｃｅ　ｍｏｔｉｏｎｓ！";
+const char D_0805e37c[] = "Ｃｏｍｉｅｎｚａ　ｌａ　ｍｏｃｉｏｎ！";
 
-const char D_0805e38c[] = "Ｉｔ　ｉｓ　ｔｈｅ　ｔｉｍｅ　ｔｏ　ｄａｎｃｅ　ｔｏｇｅｔｈｅｒ．";
+const char D_0805e38c[] = "Ｅｓ　ｌａ　ｈｏｒａ　ｄｅ　ｂａｉｌａｒ　ｊｕｎｔｏｓ．";
 
-const char D_0805e3a8[] = "Ｆｉｒｓｔ，　ｌｅａｒｎ　ｔｈｅ　ｍｏｔｉｏｎ　ｆｕｎｄａｍｅｎｔａｌｓ．";
+const char D_0805e3a8[] = "Ｉｎｉｃｉａ　ａｐｒｅｎｄｉｅｎｄｏ　ｌｏ　ｆｕｎｄａｍｅｎｔａｌ.";
 
-const char D_0805e3d8[] = "Ｍｏｔｉｏｎ　ｔｈｅ　ｆｉｒｓｔ！";
+const char D_0805e3d8[] = "Ｐｒｉｍｅｒａ　ｍｏｃｉｏｎ！";
 
-const char D_0805e3ec[] = "Ｏｂｓｅｒｖｅ　ａｎｄ　ｄｕｐｌｉｃａｔｅ！";
+const char D_0805e3ec[] = "Ｏｂｓｅｒｖａ　ｙ　ｄｕｐｌｉｃａ！";
 
-const char D_0805e3fc[] = "Ｓａｔｉｓｆａｃｔｏｒｙ　ｉｓ　ｂｅｉｎｇ！";
+const char D_0805e3fc[] = "Ｂａｓｔａｎｔｅ　ｓａｔｉｓｆａｃｔｏｒｉｏ！";
 
-const char D_0805e3fd[] = "Ｙｏｕ　ｈａｖｅ　ｓｑｕａｔｔｅｄ　ａｃｃｅｐｔａｂｌｙ！";
+const char D_0805e3fd[] = "Ｕｎ　ａｇａｃｈｅ　ａｃｅｐｔａｂｌｅ！";
 
-const char D_0805e3fe[] = "Ｐｕｎｃｈｉｎｇ　ｔｏ　ｒｅｑｕｉｒｅｄ　ｐｒｏｆｉｃｉｅｎｃｙ！";
+const char D_0805e3fe[] = "Ｕｎ　ｇｏｌｐｅ　ｄｅ　ｎｉｖｅｌ　ｒｅｑｕｅｒｉｄｏ！";
 
-const char D_0805e404[] = "Ｎｏｗ　ｉｓ　ｔｉｍｅ　ｆｏｒ　ｔｈｅ　ｎｅｘｔ　ｔｅａｃｈｉｎｇ．";
+const char D_0805e404[] = "Ｖａｍｏｓ　ａｌ　ｓｉｇｕｉｅｎｔｅ　ａｐｒｅｎｄｉｚａｊｅ";
 
-const char D_0805e40c[] = "Ｍｏｖｅｍｅｎｔ　ｔｈｅ　ｆｉｎａｌ！";
+const char D_0805e40c[] = "Ｐａｓｏ　ｆｉｎａｌ！";
 
-const char D_0805e414[] = "Ｔｈｅ　ｔｉｍｅ　ｏｆ　ｔｈｅ　ｄａｎｃｉｎｇｓ　ｓｈａｌｌ　ｂｅｇｉｎ！";
+const char D_0805e414[] = "Ｌａ　ｈｏｒａ　ｄｅ　ｌａ　ｄａｎｚａ　ｉｎｉｃｉａ！";

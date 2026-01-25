@@ -5,21 +5,21 @@
 /* Game Text - The Bon Odori */
 
 
-const char D_080676b4[] = "The first half was kinda rough...";
+const char D_080676b4[] = "La primera parte estuvo rara...";
 
-const char D_080676d4[] = "The first half was really good!";
+const char D_080676d4[] = "La primera parte estuvo muy buena!";
 
-const char D_080676ec[] = "The second half was sorta sloppy.";
+const char D_080676ec[] = "La segunda parte estuvo fuera de ritmo.";
 
-const char D_08067710[] = "The second half was incredible!";
+const char D_08067710[] = "La segunda parte estuvo increible!";
 
 const char D_0806772c[] = "";
 
-const char D_08067730[] = "It really ramped up near the end!";
+const char D_08067730[] = "El final si que se intensifico!";
 
-const char D_08067754[] = "The ending was pitch perfect!";
+const char D_08067754[] = "El final estuvo de pelicula!";
 
-const char D_08067778[] = "The People Think:";
+const char D_08067778[] = "La gente dice...";
 
 const char text_bon_odori_ha[] = ".0:0" "Ｈａａ～";
 
@@ -67,13 +67,13 @@ const char text_bon_odori_pan_pan[] = ".2:0" "Ｐａｎ　ｐａｎ";
 
 const char text_bon_odori_don_don_pan_pan_2[] = ".1:0" "Ｄｏ－ｎ　ｄｏ－ｎ　" ".2:0" "ｐａ－ｎ　ｐａｎ";
 
-const char D_08067a84[] = ".6:1" "Ｗｅｌｃｏｍｅ　ｔｏ　ｔｈｅ　Ｂｏｎ　Ｆｅｓｔｉｖａｌ！";
+const char D_08067a84[] = ".6:1" "Ｂｉｅｎｖｅｎｉｄｏ　ａｌ　Ｆｅｓｔｉｖａｌ　Ｂｏｎ！";
 
-const char D_08067aa4[] = ".6:1" "Ｗｈｅｎ　ｗｅ　ｓａｙ　”Ｐａｎ，”　ｙｏｕ　ｃｌａｐ！";
+const char D_08067aa4[] = ".6:1" "Ｃｕａｎｄｏ　ｄｉｇａｍｏｓ　”Ｐａｎ，”　ａｐｌａｕｄｅ！";
 
-const char D_08067ad0[] = ".6:0" "Ｎｉｃｅ　Ｃｌａｐｐｉｎｇ！";
+const char D_08067ad0[] = ".6:0" "Ｂｕｅｎ　ａｐｌａｕｓｏ！";
 
-const char D_08067adc[] = ".6:1" "Ｗｈｅｎ　ｗｅ　ｓａｙ　”Ｐａｎｐａ，”　ｃｌａｐ　ｔｗｉｃｅ！";
+const char D_08067adc[] = ".6:1" "Ｙ　ｃｏｎ　”Ｐａｎｐａ，”　ａｐｌａｕｄｅ　２　ｖｅｃｅｓ！";
 
-const char D_08067b00[] = ".6:1" "Ｌｏｏｋｓ　ｌｉｋｅ　ｙｏｕ’ｖｅ　ｇｏｔ　ｉｔ！";
+const char D_08067b00[] = ".6:1" "Ｙａ　ｌｏ　ｔｉｅｎｅｓ！";
 
