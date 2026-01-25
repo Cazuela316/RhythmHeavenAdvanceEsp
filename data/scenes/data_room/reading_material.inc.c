@@ -134,34 +134,37 @@ struct ReadingMaterial reading_material_table[] = {
         /* TITLE ---------------------------------------------------------- */
             "Reporte del Beisball Espacial", // esto es lo maximo que puede ser los titulos
         /* BODY ----------------------------------------------------------- */
-            "We're here in outer space for an exclusive interview\n"
-            "with the spacefaring baseball player, the\n"
-            "Bateador Espacial!\n"
+            "Estamos aqui, en el espacio exterior para una\n"
+            "exclusiva entrevista con el jugador de beisbol,\n"
+            "El Bateador Espacial!\n"
             "\n"
-            "Q. How is this season looking so far?\n"
-            "A. I've been eating rice balls, so it's right on the mark!\n"
+            "P. Como va la temporada hasta ahora?\n"
+            "R. He estado comiendo bolas de arroz, asi que muy\n"
+            "bien!\n"
             "\n"
-            "Q. What would you say your goal is?\n"
-            "A. To not miss any rice balls!\n"
-            "Q. You have a girlfriend, right?\n"
-            "A. Yes, I do.\n"
             "\n"
-            "Q. What would you say is her best trait?\n"
-            "A. She makes a mean rice ball!\n"
+            "P. Cual dirias que es tu meta?\n"
+            "R. No dejar de comer bolas de arroz!\n"
             "\n"
-            "Q. Why do you wear masks in the middle of games?\n"
-            "A. Hm? What do you mean?\n"
+            "P. Tienes una novia, verdad?\n"
+            "R. Si, tengo una novia.\n"
             "\n"
-            "Q. Like that rabbit uniform you wore,\n"
-            "for instance?\n"
-            "A. I have no idea what you're talking about.\n"
+            "P. Cual dirias que es su mejor cualidad?\n"
+            "R. Hace muy buenas bolas de arroz!\n"
             "\n"
-            "Q. Please answer the question!\n"
-            "A. I'll have to take my leave now. Excuse me.\n"
+            "P. Por que te pones mascaras en medio del juego?\n"
+            "R. Hm? De que hablas?\n"
             "\n"
-            "He's just left his seat!\n"
-            "It seems there's more to this than he's letting on.\n"
-            "That concludes this interstellar interview.",
+            "P. Pues, Como ese uniforme de conejo que te pusiste.\n"
+            "R. No tengo idea de lo que estas hablando.\n"
+            "\n"
+            "P. Por favor, responde mi pregunta!\n"
+            "R. Ya me tengo que ir. Disculpenme.\n"
+            "\n"
+            "Se paro y se fue!\n"
+            "Parece que hay mas detras de esto de lo que el deja\n"
+            "entrever.\n"
+            "Ya con esto, concluimos esta entrevista interestelar.",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_train_gfx_table,
             /* BGM */ &reading_style_train_bgm
@@ -298,7 +301,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* BON_ODORI ("Lyrics - The Bon Odori") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Lyrics Card á@",
+            "Lyrics á@",
         /* BODY ----------------------------------------------------------- */
             "Bon Åô Odori\n"
             "Cantante: Ami Tokito\n"
@@ -336,37 +339,36 @@ struct ReadingMaterial reading_material_table[] = {
             "Sore Hikkuri Kaette\n"
             "Ha~ Bon Odori~\n"
             "\n"
-            "\n"
-            "Translation: Mizuka Lover & Castie\n"
-            "\n"
-            "Haa~\n"
-            "            Oh when the fireworks fly~\n"
-            "\n"
-            "Haa~ Ah~\n"
-            "            Let's send our cheers to the sky~\n"
+            "Traduccion: Camus\n"
             "\n"
             "Haa~\n"
-            "            If we perform for more eyes~\n"
+            "            Al la pirotecnia iniciar~\n"
             "\n"
             "Haa~ Ah~\n"
-            "            We'll know our profits will rise~\n"
+            "            La alegráea se esparcirác~\n"
             "\n"
-            "Time for celebration!\n"
-            "All throughout the nation!\n"
+            "Haa~\n"
+            "            Si nos hacemos notar~\n"
             "\n"
-            "So let's all turn around and Dondo pan pan\n"
+            "Haa~ Ah~\n"
+            "            Mucho vamos a ganar~\n"
+            "\n"
+            "ábnimo este dáea!\n"
+            "En Japáin algarabáea!\n"
+            "\n"
+            "Ahora da una vuelta y Dondo pan pan\n"
             "Ha~ Bon Odori~\n"
             "\n"
             "Haa~\n"
-            "            Oh when the rain clears away~\n"
+            "            Al la lluvia parar~\n"
             "\n"
             "Haa~ Ah~\n"
-            "            Walk up the platform and play~\n"
+            "            Muy fuerte se cantarác~\n"
             "\n"
-            "Come on! Let's cheer for Obon!\n"
-            "The one and only, that's Made in Japan\n"
+            "Vamos! ábnimo este dáea!\n"
+            "La penas asáe disiPAN\n"
             "\n"
-            "So let's all turn around and Dondo pan pan\n"
+            "Ahora da una vuelta y Dondo pan pan\n"
             "Ha~ Bon Odori~\n",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_sea_gfx_table,
@@ -376,7 +378,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* REMIX3 ("Lyrics - Honey Sweet Angel of Love") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Lyrics Card áA",
+            "Lyrics áA",
         /* BODY ----------------------------------------------------------- */
             "Honey Sweet Angel of Love\n"
             "Song: Ami Tokito\n"
@@ -421,7 +423,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* REMIX5 ("Lyrics - WISH Can't Wait For You") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Lyrics Card áB",
+            "Lyrics áB",
         /* BODY ----------------------------------------------------------- */
             "Can't Wait For You\n"
             "Song: Sohshi Tanaka\n"
