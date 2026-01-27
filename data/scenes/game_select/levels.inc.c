@@ -506,7 +506,7 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rat_race_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Osea, supongo que podemos comer el plato...",
+            /* TRY_AGAIN */ "O sea, supongo que podemos comer el plato...",
             /* OK        */ "Sabes, Me gusta el queso. Pero asi, BASTANTE.",
             /* SUPERB    */ "Con todos juntos es aun mejor!"
         }
@@ -833,10 +833,10 @@ struct LevelData level_data_table[] = {
     },
     /* DRUM_LESSONS */ {
         /* Entry Scene   */ &scene_lessons_menu,
-        /* Level Name    */ "Lecciones de tambor",
+        /* Level Name    */ "Toca Bateria",
         /* Level Desc.   */ "Colecta medallas y\n"
                             "toma lecciones de\n"
-                            "tambor. Y asi te\n"
+                            "bateria. Y asi te\n"
                             "volveras un maestro!",
         /* Level Icon    */ 48,
         /* Level Type    */ LEVEL_TYPE_BONUS,

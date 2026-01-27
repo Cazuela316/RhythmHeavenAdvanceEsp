@@ -788,7 +788,7 @@ s24_8 results_get_positive_comments(void) {
 
 // [D_089d7b40] Rank Comment Pool (OK)
 const char *results_ok_comment_pool[] = {
-    "Osea, podrias hacerlo mejor.",
+    "O sea, podrias hacerlo mejor.",
     "Esta bien...",
     "Eh... No se...",
     "Huh..."
