@@ -136,7 +136,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* SPACEBALL ("Inside Spaceball") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Reporte del Beisball Espacial", // esto es lo maximo que puede ser los titulos
+            "Entrevista Espacial", // esto es lo maximo que puede ser los titulos
         /* BODY ----------------------------------------------------------- */
             "Estamos aqui, en el espacio exterior para una\n"
             "exclusiva entrevista con el jugador de beisbol,\n"
@@ -177,7 +177,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* MECHANICAL_HORSE ("Mechanical Horse's Story") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Historia del caballo mecanico",
+            "Sobre el caballo mecanico",
         /* BODY ----------------------------------------------------------- */
             "Tuvimos la oportunidad de entrevistar a Sr. F,\n"
             "inventor del caballo mecanico que esta en los\n"
@@ -213,7 +213,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* MARCHING_ORDERS ("Marcher's Diary") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Registro de los del escuadron",
+            "Registro del escuadron",
         /* BODY ----------------------------------------------------------- */
             "Abril 16:\n"
             "Me uni al grupo de marchantes!\n"
@@ -261,7 +261,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RAP_MEN ("Rap Report") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Una Cierta Estacion de Radio",
+            "Entrevista Rapera",
         /* BODY ----------------------------------------------------------- */
             "Que onda todos! Soy el DJ MON-KI!\n"
             "Hoy dia tenemos unos increibles invitados.\n"
@@ -567,53 +567,52 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* TOSS_BOYS ("Rhythm Stand-Up") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Rhythm Manzai",
+            "Manzai Ritmico",
         /* BODY ----------------------------------------------------------- */
-            "Yellow: Hello, I'm Yellow!\n"
-            "Blue: Hello, I'm Blue!\n"
-            "Both: Y&B! Nice to meet you!\n"
-            "Yellow: Hey Blue! Did you hear?\n"
-            "I'm taking a music class!\n"
-            "Blue: Wait, really? No way! What instrument are you\n"
-            "learning, Yellow? Is it the guitar? Drums maybe?\n"
-            "Yellow: Well, my part is...\n"
-            "Blue: Yeah? What?\n"
-            "Yellow: I'll be playing rhythm!\n"
-            "Blue: Wha? You can't \"play\" rhythm, Yellow.\n"
-            "It's not an instrument. Where did you hear that?\n"
-            "Yellow: Well, I told the teacher I wanted to play\n"
-            "drums,\n"
-            "and they told me I should practice \"rhythm\" first!\n"
-            "Blue: Yellow, I think they meant you need to\n"
-            "improve your sense of rhythm.\n"
-            "Yellow: Oh yeah, that's much closer! That's\n"
-            "incredible! How did you know? Are you psychic?\n"
-            "Blue: How did I- Why wouldn't I know!?\n"
-            "It's just common sense!\n"
-            "Yellow: Hey, man! No need to get so angry.\n"
-            "Blue: Ah... You know, you're right, I'm sorry...\n"
-            "Yellow: Oop! Blue, your fly is down!\n"
-            "Blue: Huh!? Wait, really?\n"
-            "Yellow: No, I lied.\n"
-            "Blue: Why I oughta...!\n"
-            "Yellow: Why I oughta- Man, that's kind of a\n"
-            "cheesy line, don't you think?\n"
-            "Blue: Shut it... I've had enough.\n"
-            "Yellow: GRAAAGH!\n"
-            "Blue: Huh!? Why are you mad? What did I do?\n"
-            "Yellow: Well, weren't we talking about my music\n"
-            "class?\n"
-            "Blue: Huh? Oh, yeah, that's right.\n"
-            "Yellow: Geez... way to derail the whole thing...\n"
-            "Blue: Ah, I'm sorry... wait, I'M sorry?\n"
-            "You were the one who-- by lying that my fly was down!\n"
-            "Yellow: Hey hey, no need to get so angry.\n"
-            "Blue: Oh, that's rich! Anyway, what about your\n"
-            "sense of rhythm?\n"
-            "Yellow: Right! My classmates said that my\n"
-            "\"scents of rhythm\" will improve with practice.\n"
-            "Blue: Your SENSE of rhythm! Idiot!\n"
-            "Both: Thank you! You've been a wonderful audience!\n",
+            "Yema: Hola, Soy Yema!\n"
+            "Zefir: Hola, Soy Zefir!\n"
+            "Ambos: Es un placer conocerte!\n"
+            "Y: Oye Zefir! O‡este?\n"
+            "Estoy tomando una clase de mˆ¦sica!\n"
+            "Z: Eh, en serio? Genial! Que instrumento tocas?\n"
+            "Es la guitarra? O la bater‡ea?\n"
+            "Y: Bueno, mi parte es...\n"
+            "Z: Cual? Cual?\n"
+            "Y: Tocar‡Q el ritmo!\n"
+            "Z: Qu‡Q? No puedes \"tocar\" el ritmo, Yema.\n"
+            "No es un instrumento. Donde lo o‡este?\n"
+            "Y: Bueno, le dije al maestro que quer‡ea tocar bater‡ea,\n"
+            "y me respondi‡i que deber‡ea practicar con el\n"
+            "\"ritmo\" para empezar!\n"
+            "Z: Yema, creo que se refiri‡i a que necesitabas\n"
+            "mejorar tu sentido del ritmo.\n"
+            "Y: Claro, tiene todo el sentido del mundo! Eso es\n"
+            "incre‡eble! C‡imo lo sab‡eas? Eres un ps‡equico?\n"
+            "Z: Como y- Por qu‡Q no lo sabr‡ea!?\n"
+            "Es sentido comˆ¦n!\n"
+            "Y: Oye viejo, no necesitas enfadarte tanto.\n"
+            "Z: Ah, Tienes raz‡in, lo siento mucho...\n"
+            "Y: Uups! Zefir, tu cierre se baj‡i!\n"
+            "Z: Ah, Espera, en serio?\n"
+            "Y: J‡b, BROMA!\n"
+            "Z: Por qu‡Q tendr‡ea que!\n"
+            "Y: \"Por qu‡Q tendr‡ea que\" Viejo,\n"
+            "eso es muy cursi.\n"
+            "Z: Callate, ya tuve suficiente!\n"
+            "Y: AARGH!\n"
+            "Z: Eh?! Por qu‡Q te enojas? Que te hice?\n"
+            "Y: No hablabamos de mi clase de mˆ¦sica?\n"
+            "Z: Ah? Si, es cierto.\n"
+            "Y: Tsss... Que manera de desviarse del asunto.\n"
+            "Z: Ah, Lo siento... Espera, LO siento?!\n"
+            "Fuiste tu el que minti‡i con que mi cierre estaba abajo!\n"
+            "Y: Oye oye! No necesitas molestarte tanto.\n"
+            "Z: Oh, que amable! En fin, que hay de tu\n"
+            "sentido del ritmo?\n"
+            "Y: Cierto! Mis colegas dijeron que mi\n"
+            "\"Centipedo del ritmo\" mejorar‡c practicando.\n"
+            "Z: Tu SENTIDO del ritmo, menso!\n"
+            "Ambos: Gracias! Han sido una maravillosa audiencia!\n",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_manzai_gfx_table,
             /* BGM */ &reading_style_manzai_bgm
@@ -622,48 +621,48 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* FAN_MAIL ("Fan Mailbag") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Voices of Joy",
+            "Voces de felicidad",
         /* BODY ----------------------------------------------------------- */
-            "We've received many letters from\n"
+            "Hemos recibido tantas cartas de\n"
             #ifdef PARADISE
-            "satisfied players of Rhythm Paradise Advance.\n"
+            "jugadores satisfechos con Rhythm Paradise Advance.\n"
             #else
-            "satisfied players of Rhythm Heaven Advance.\n"
+            "jugadores satisfechos con Rhythm Heaven Advance.\n"
             #endif
-            "So, SO many in fact(!), that we can't\n"
-            "show all of them, but here are just a few\n"
-            "of our players' thoughts!\n"
+            "Y son TANTAS que este email tendira 1000 paginas\n"
+            "si las mostraramos todas!\n"
+            "Pero aqui les dejamos unos cuantos\n"
+            "pensamientos de los jugadores!\n"
             "\n"
             "\n"
             "\n"
+            "Solo por mejorar mi sentido de ritmo...\n"
             "\n"
-            "Just by improving my sense of rhythm...\n"
-            "\n"
-            "\0031" "\001m" "I've become... popular?\n"
+            "\0031" "\001m" "Me volvi... popular?\n"
             "\0030" "\001s" "\n"
             #ifdef PARADISE
-            "Before I found \"Rhythm Paradise Advance\",\n"
+            "Antes de encontrar \"Rhythm Paradise Advance\",\n"
             #else
-            "Before I found \"Rhythm Heaven Advance\",\n"
+            "Antes de encontrar \"Rhythm Heaven Advance\",\n"
             #endif
-            "I had no luck with women, but now I'm a real hot shot\n"
-            "with a new lease on life!\n"
+            "No me iba muy bien en el amor, pero ahora\n"
+            "estoy en racha y con energ‡eas nuevas!\n"
             "\n"
-            "\001R" "Mr. T, Age 38, Office Worker\n"
-            "\001L" "Just by improving my sense of rhythm...\n"
+            "\001R" "Sr. T, Edad 38, Trabajador de Oficina\n"
+            "\001L" "Solo por mejorar mi sentido de ritmo...\n"
             "\n"
-            "\0031" "\001m" "I've become...\n"
-            "\0031" "\001R" "a better singer?"
+            "\0031" "\001m" "Me volvi...\n"
+            "\0031" "\001R" "mejor cantando?"
             "\0030" "\001s" "\n"
             #ifdef PARADISE
-            "\001L" "Before I found \"Rhythm Paradise Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
             #else
-            "\001L" "Before I found \"Rhythm Heaven Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
             #endif
-            "I was the textbook definition of tone-deaf,\n"
-            "but lately people have told me my singing is much nicer!\n"
-            "I'm still tone deaf, of course, but at least I'm happy!\n"
-            "\001R" "Mrs. H, Age 29, Housewife\n",
+            "Era la definicion del diccionario de ser sorda al tono,\n"
+            "pero ahora, la gente me dice que mi canto es mejor!\n"
+            "Sigo siendo sorda al tono, claro, pero ahora soy feliz!\n"
+            "\001R" "Sra. H, Edad 29, Ama de casa\n",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_mail_gfx_table,
             /* BGM */ &reading_style_mail_bgm
