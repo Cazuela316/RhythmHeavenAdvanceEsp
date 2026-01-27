@@ -11,13 +11,13 @@ const char D_0805c0ec[] = "Te lograste adaptar muy bien!";
 
 const char D_0805c104[] = "No lograste decidirte bien en el momento.";
 
-const char D_0805c11c[] = "tienes buenas hablidades para decidir rapido!";
+const char D_0805c11c[] = "Tienes buenas hablidades para decidir rapido!";
 
-const char D_0805c130[] = "necesitas concentrarte mas.";
+const char D_0805c130[] = "Necesitas concentrarte mas.";
 
-const char D_0805c144[] = "se notaba lo concentrada que estabas.";
+const char D_0805c144[] = "Se notaba lo concentrada que estabas.";
 
-const char D_0805c15c[] = "justo bajaste la guardia al final.";
+const char D_0805c15c[] = "Justo bajaste la guardia al final.";
 
 const char D_0805c170[] = "";
 
@@ -45,15 +45,15 @@ const char D_0805c248[] = "Tus bases estaban algo flojas.";
 
 const char D_0805c264[] = "Mostraste mucho potencial!";
 
-const char D_0805c274[] = "no terminabas de encontrar el ritmo.";
+const char D_0805c274[] = "No terminabas de encontrar el ritmo.";
 
-const char D_0805c290[] = "si que te preocupaste por tu ritmo!";
+const char D_0805c290[] = "Si que te preocupaste por tu ritmo!";
 
-const char D_0805c2a8[] = "necesitas concentrarte mas.";
+const char D_0805c2a8[] = "Necesitas concentrarte mas.";
 
-const char D_0805c2bc[] = "se notaba lo concentrada que estabas.";
+const char D_0805c2bc[] = "Se notaba lo concentrada que estabas.";
 
-const char D_0805c2d4[] = "puede que necesites mas practica.";
+const char D_0805c2d4[] = "Puede que necesites mas practica.";
 
 const char D_0805c2e8[] = "";
 
