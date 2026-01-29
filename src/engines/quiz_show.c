@@ -31,7 +31,7 @@ void func_08037178(void) {
 
     
     for (i = 0; i < 2; i++) {
-        gQuizShow->highScoreSprites[i] = sprite_create(gSpriteHandler, anim_quiz_show_score_num, 0, 0x27 - (i*8), 4, 0x800, 0, 0x7f, 0);
+        gQuizShow->highScoreSprites[i] = sprite_create(gSpriteHandler, anim_quiz_show_score_num, 0, 0x2e - (i*8), 4, 0x800, 0, 0x7f, 0);
     }
     
     func_0803709c();

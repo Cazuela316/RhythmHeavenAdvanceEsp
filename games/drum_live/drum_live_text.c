@@ -2,7 +2,7 @@
 #include "text.h"
 
 
-/* Game Text - LIVE */
+/* Game Text - LIVE */ // Estos textos salen especificamente si estas en el modo debug.
 
 
 const char D_0805d398[] = "That was rather messy. ";
