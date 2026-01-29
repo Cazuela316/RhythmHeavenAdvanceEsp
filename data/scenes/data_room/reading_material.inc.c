@@ -100,10 +100,10 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* NIGHT_WALK ("Night Walk Riddle") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Sobre Caminata Nocturna",
+            "Sobre Paseo Nocturno",
         /* BODY ----------------------------------------------------------- */
             "Hay un curioso alguien, que puede que reconozcas\n"
-            "de Caminata Nocturna. Si que le gusta la musica.\n"
+            "de Paseo Nocturno. Si que le gusta la musica.\n"
             "Y aparentemente ha trabajado haciendo musica,\n"
             "y logro tener un puesto en el juego con sus contactos.\n"
             "Un vez me lo curse por la calle y todo lo que me dijo\n"

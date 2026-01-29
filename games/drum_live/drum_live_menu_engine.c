@@ -34,16 +34,16 @@ const char *drum_live_menu_poster_desc[] = {
     /* DRUM GIRLS */
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Girls LIVE!\n"
     "\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Night Walk\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Space Dance\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Paseo Nocturno\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Baile Espacial\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Honey Sweet Angel of Love\n"
     "\n",
     
     /* DRUM BOYS  */
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Boys LIVE!\n"
     "\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　The Clappy Trio\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Tap Trial\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Trio Saleroso\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Prueba de Claqu⑱\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　WISH - Can't Wait For You\n"
     "\n",
 
@@ -51,9 +51,9 @@ const char *drum_live_menu_poster_desc[] = {
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Samurai Drummer's\n"
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "\x01\x52" "Band LIVE! \n"
     "\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "\x01\x4c" "♪　Cosmic Dance\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　The Snappy Trio\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Tap Trial 2\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "\x01\x4c" "♪　Baile Cosmico\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Trio Garboso\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Prueba de Claqu⑱ 2\n"
     "\n"
 };
 
