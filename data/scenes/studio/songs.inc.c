@@ -153,7 +153,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_sick_beats
     },
     /* SHOWTIME */ {
-        /* Full Title  */ "Pingˆ¨inos Saltarines",
+        /* Full Title  */ "Hora del Show",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_showtime
     },

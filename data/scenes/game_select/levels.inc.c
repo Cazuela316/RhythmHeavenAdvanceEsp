@@ -529,7 +529,7 @@ struct LevelData level_data_table[] = {
     },
     /* SHOWTIME */ {
         /* Entry Scene   */ &scene_showtime,
-        /* Level Name    */ "Pingˆ¨inos Saltarines",
+        /* Level Name    */ "Hora del Show",
         /* Level Desc.   */ "Nuestros valientes\n"
                             "pingˆ¨inos estan listos!\n"
                             "Salgan e impresionen\n"
