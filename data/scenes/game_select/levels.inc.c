@@ -801,7 +801,7 @@ struct LevelData level_data_table[] = {
     },
     /* RHYTHM_TOYS */ {
         /* Entry Scene   */ &scene_toys_menu,
-        /* Level Name    */ "Juguetes Ritmicos",
+        /* Level Name    */ "Rit-Juguetes",
         /* Level Desc.   */ "Colecta medallas\n"
                             "para jugar con\n"
                             "juguetes ritmicos!\n"
