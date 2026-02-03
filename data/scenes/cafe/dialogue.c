@@ -44,22 +44,22 @@ const char *cafe_dialogue_first_visit[] = {
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Feel free to come on by anytime you\n"
-        "find the games " "\0051" "\0015" "too hard to play " "\0054" "\0018" "or\n"
-        "you just need to take a break.",
+        "Sientete libre de venir cuando sientas\n"
+        "que algun juego " "\0051" "\0015" "es muy dificil " "\0054" "\0018" "o\n"
+        "si solo quieres conversar un rato.",
     /* ------------------------------------------------ */
         "\n"
-        "If there's anything I can\n"
-        "do to help, well, " "\0051" "\0015" "that's\n"
-        "what I'm here for." "\0054" "\0018" "",
+        "Si hay algun en donde\n"
+        "pueda ayudarte," "\0051" "\0015" "\n"
+        "para eso estoy." "\0054" "\0018" "",
     /* ------------------------------------------------ */
-        "I'm a little busy right now,\n"
-        "since I only just opened,\n"
-        "for the day, but we'll talk\n"
-        "more later.",
+        "Estoy un poco ocupado ahora,\n"
+        "recien acabamos de abrir,\n"
+        "pero despues tendremos\n"
+        "mas tiempo para hablar.",
     /* ------------------------------------------------ */
         "\n"
-        "Come back soon!\n"
+        "Nos vemos!\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -77,8 +77,8 @@ const char *cafe_dialogue_first_visit[] = {
 const char *cafe_dialogue_come_back_later[] = {
     /* ------------------------------------------------ */
         "\n"
-        "I've got some other customers\n"
-        "to deal with. We'll talk later.\n"
+        "Estoy atendiendo unos clientes\n"
+        "Te hablo mas tarde.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -140,13 +140,13 @@ const char *cafe_dialogue_keep_trying[] = {
 const char *cafe_dialogue_practicing_perfect[] = {
     /* ------------------------------------------------ */
         "\n"
-        "...Sorry for yelling. I just got a little\n"
-        "excited.\n"
+        "...Perdon por gritar. Me emocione\n"
+        "un poco.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Good luck on getting those Perfects!\n"
-        "See you around.\n"
+        "Buena suerte con esos perfectos!\n"
+        "Nos vemos despues.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -169,13 +169,13 @@ const char *cafe_dialogue_practicing_perfect[] = {
 const char *cafe_dialogue_not_practicing_perfect[] = {
     /* ------------------------------------------------ */
         "\n"
-        "Is that so? My bad then.\n"
-        "Guess that's why you shouldn't put\n"
-        "so much stock in a rumor.",
+        "Ah en serio? Mis disculpas entonces.\n"
+        "Supongo que no deberia apegarme\n"
+        "tanto a los rumores.",
     /* ------------------------------------------------ */
         "\n"
-        "Enjoy the games at your own pace,\n"
-        "alright? See you around.\n"
+        "Disfruta los juegos a tu ritmo,\n"
+        "vale? Nos vemos despues.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -213,28 +213,28 @@ const char *cafe_dialogue_not_practicing_perfect[] = {
 const char *cafe_dialogue_all_perfects_clear[] = {
     /* ------------------------------------------------ */
         "\n"
-        "If you've made it this far, then your\n"
-        "sense of rhythm has just got to be\n"
-        "a step above the rest!",
+        "Si has llegado hasta aqui, tienes"
+        "un sentido del ritmo fuera\n"
+        "de este mundo!",
     /* ------------------------------------------------ */
         "\n"
-        "I'm so proud of you. Moved to tears,\n"
-        "even!\n"
+        "Estoy muy orgulloso de ti,\n"
+        "Hasta solte lagrimas!\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I know it's not much of a gift,\n"
-        "but I've opened up more studio songs\n"
-        "for you.\n",
+        "Se que no es mucho,\n"
+        "pero he abierto mas canciones en\n"
+        "la rocola, solo para ti.\n",
     /* ------------------------------------------------ */
         "\n"
-        "So I guess that means you've collected\n"
-        "everything?\n"
-        "Impressive!",
+        "asi que eso significa que has coleccionado\n"
+        "todo?\n"
+        "Impresionante!",
     /* ------------------------------------------------ */
         "\n"
-        "Good work out there, my friend.\n"
-        "You've really earned a break.\n"
+        "Gran trabajo, amigo.\n"
+        "Te mereces un descanso.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -268,23 +268,23 @@ const char *cafe_dialogue_shouts_praise[] = {
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
-    "That's great!" "\0030" "\001s" "\0054" "\0018",
+    "Increible!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
-    "Amazing!" "\0030" "\001s" "\0054" "\0018",
+    "Asombroso!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
-    "Congratulations!" "\0030" "\001s" "\0054" "\0018",
+    "Felicidades!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
-    "Great job!" "\0030" "\001s" "\0054" "\0018",
+    "Enhorabuena!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
-    "I can't believe it!" "\0030" "\001s" "\0054" "\0018",
+    "No puedo creerlo!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
 };
 
@@ -316,23 +316,23 @@ const char *cafe_dialogue_shouts_cheer[] = {
     /* ------------------------------------------------ */
         "\0032" "\001l" "\0051" "\0015" "\n"
         "\n"
-        "Go for it!" "\0030" "\001s" "\0054" "\0018",
+        "Tu puedes!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
         "\0032" "\001l" "\0051" "\0015" "\n"
         "\n"
-        "Give it your all!" "\0030" "\001s" "\0054" "\0018",
+        "Dalo todo!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
         "\0032" "\001l" "\0051" "\0015" "\n"
         "\n"
-        "Keep going!" "\0030" "\001s" "\0054" "\0018",
+        "Sigue asi!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
         "\0032" "\001l" "\0051" "\0015" "\n"
         "\n"
-        "Good luck!" "\0030" "\001s" "\0054" "\0018",
+        "Buena suerte!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
         "\0032" "\001l" "\0051" "\0015" "\n"
         "\n"
-        "I'm impressed!" "\0030" "\001s" "\0054" "\0018",
+        "Estoy impresionado!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
 };
 
@@ -847,29 +847,29 @@ const char *cafe_dialogue_speaking_with_music[] = {
 const char *cafe_dialogue_ranks_and_medals[] = {
     /* ------------------------------------------------ */
         "\n"
-        "By the way, have you ever gotten a\n"
-        "Superb rank on a game?\n"
+        "Por cierto, has conseguido el\n"
+        "rango Genial en algun juego?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "There are three ranks you can get:\n"
-        "Try Again, OK, and Superb.\n"
+        "Hay 3 rangos que puedes conseguir:\n"
+        "Otra vez, OK, y Genial.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "And, if you get a Superb,\n"
-        "you also get a medal.\n"
+        "Y si consigues un Genail,\n"
+        "igual ganas una medalla.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Those medals let you unlock\n"
-        "some prizes. Sounds like it\n"
-        "would be worth your while.",
+        "Las medallas desbloquean\n"
+        "cosas muy geniales. Asi que\n"
+        "intenta conseguirlas.",
     /* ------------------------------------------------ */
         "\n"
-        "But you probably already knew that,\n"
-        "right? Sorry if I bored you.\n"
-        "See you around.",
+        "Aunque probablemente ya sabias eso,\n"
+        "no? Perdon si te aburri.\n"
+        "Nos vemos despues.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };

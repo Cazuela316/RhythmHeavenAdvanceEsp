@@ -103,7 +103,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_cosmic_dance
     },
     /* RHYTHM_TWEEZERS */ {
-        /* Full Title  */ "Pinzas Ritmicas",
+        /* Full Title  */ "Pinzas R‡etmicas",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_rhythm_tweezers
     },

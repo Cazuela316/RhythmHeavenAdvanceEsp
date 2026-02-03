@@ -130,7 +130,7 @@ struct LevelData level_data_table[] = {
     },
     /* RHYTHM_TWEEZERS */ {
         /* Entry Scene   */ &scene_rhythm_tweezers,
-        /* Level Name    */ "Pinzas Ritmicas",
+        /* Level Name    */ "Pinzas R‡etmicas",
         /* Level Desc.   */ "\n"
                             "Se me ven mis raices!\n"
                             "Podrias arrancarlas?\n",
@@ -145,7 +145,7 @@ struct LevelData level_data_table[] = {
     },
     /* RHYTHM_TWEEZERS_2 */ {
         /* Entry Scene   */ &scene_rhythm_tweezers_2,
-        /* Level Name    */ "Pinzas Ritmicas 2",
+        /* Level Name    */ "Pinzas R‡etmicas 2",
         /* Level Desc.   */ "Mis raices volvieron\n"
                             "a crecer!\n"
                             "Porfavor, arrancalas\n"
