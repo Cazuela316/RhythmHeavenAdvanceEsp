@@ -857,7 +857,7 @@ const char *cafe_dialogue_ranks_and_medals[] = {
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Y si consigues un Genail,\n"
+        "Y si consigues un Genial,\n"
         "igual ganas una medalla.\n"
         "\n",
     /* ------------------------------------------------ */
