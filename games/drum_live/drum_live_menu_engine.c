@@ -35,7 +35,7 @@ const char *drum_live_menu_poster_desc[] = {
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Girls LIVE!\n"
     "\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Paseo Nocturno\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Baile Espacial\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Baile Astral\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Honey Sweet Angel of Love\n"
     "\n",
     

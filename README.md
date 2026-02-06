@@ -1,7 +1,7 @@
 
 <img width="1535" height="1370" alt="image" src="https://github.com/user-attachments/assets/ffbfed42-a33c-4206-babf-9cfb250e39e8" />
 
-# Rhythm Heaven Advance:
+# Rhythm Heaven Advance ESP:
 This is the newest and latest version of Rhythm Heaven Advance, based on the WIP decompilation of Rhythm Tengoku.
 "Rhythm Heaven Advance" is the brand new and improved translation patch for Rhythm Tengoku, translating all the text and graphics to be as faithful as possible to the original source, while making changes befitting a localization.
 This project (as well as the decompilation itself) **is a Work In Progress!**, meaning its not yet complete, therefore no download link is available.
@@ -12,7 +12,7 @@ The Advance team is currently looking for proofreading of the translated script!
 So if you know japanese and wanna help out you're more than welcome!
 If you have any Musical or Voice Acting experience, the Advance team is planning on reworking the Japanese audio and songs to be in English, so any help in the regard is welcome aswell!
 
-## Installation
+## Installation (NO voy a traducir esto ok? [Tal vez algun dia lo hago])
 
 To install the project, you need access to a Linux terminal. If you are on Windows 10 or 11, you can access a Linux terminal easily by installing **WSL (Windows Subsystem for Linux)**. If you are already on Linux, you can skip to the **Installing Dependencies** section. Otherwise, follow this guide to install WSL:
 
@@ -80,65 +80,31 @@ You are finally ready to build the repository! Navigate to the repository folder
 
 If you have any other questions or concerns, join the [RHModding discord server](https://discord.com/invite/ps4rq53)!
 
-## Credits (To Be Added)
+## Creditos (En proceso!)
 
-#### this project wouldn't be possible without all the incredible people that came together to help out!
+#### Esta localizacion no podria ser posible sin el arduo trabajo de parte del [Equipo de Rhythm Heaven Advance!](https://github.com/RHAdvance/RhythmHeavenAdvance)
 
-Asset Assembly:
-+ SkyeStage
-+ Cash Banooka
-+ geometricentric
-+ somethingAccurate
-+ TinyCastleGuy
-+ The Eggo55
-+ Vincells
-+ WindowsTiger
-+ Kievit
-+ NotWario
-+ amdree
-+ patataofcourse
-+ Nate Candles
+#### Unas gracias especiales a itaific por ense?arme todo sobre el modding de este increible juego, en serio, muchas gracias!
 
-Graphic Design:
-+ Tailx
-+ vincells
-+ Borists
+Ediciones Graficas:
++ Cazu Åô
++ Mako
 
-Main Programming:
-+ Itaific
-+ ShaffySwitcher
+Traduccion y Localizacion:
++ Cazu Åô
++ Camus
++ Mako
++ TheSpheric
 
-Coding Contributions:
-+ Deni_iguess
-+ patataofcourse
-+ Arthurtilly
-+ Estexnt
-+ Nibblez
-+ Conhlee
-+ MissKnowledge
 
-Translation and Localization:
-+ Mizuka Lover
-+ ShaffySwitcher
-+ somethingAccurate
-+ patataofcourse
-+ castle
+SFXs:
++ (En proceso...) 
 
-Localization Support:
-+ Cash Banooka
-+ SkyStage
-+ RedRobocon
-+ ThisIsMyUsername
+Debugging:
++ KonKon
 
-SFX:
-+ Rhythm Heaven Megamix
-+ Cherryberryfaygo
-+ Nabix and all of his family
+Beta Testing:
 
-Bug Testing:
-Everyone on the Rhythm Heaven Advance discord!
-With special mention to nwqol
-
-Thank you all for your support!
-
-Want to be here? Join our [Server!](https://discord.gg/8PET8w8PU8)
++ JaviParra
++ Joaquin
++ Naru

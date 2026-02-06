@@ -545,7 +545,7 @@ struct LevelData level_data_table[] = {
     },
     /* SPACE_DANCE */ {
         /* Entry Scene   */ &scene_space_dance,
-        /* Level Name    */ "Baile Espacial",
+        /* Level Name    */ "Baile Astral",
         /* Level Desc.   */ "Asi que quieres un\n"
                             "reto? Intenta bailar\n"
                             "en gravedad cero!\n"

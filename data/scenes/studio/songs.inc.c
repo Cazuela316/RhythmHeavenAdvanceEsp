@@ -68,7 +68,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_tap_trial
     },
     /* SPACE_DANCE */ {
-        /* Full Title  */ "Baile Espacial",
+        /* Full Title  */ "Baile Astral",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_space_dance
     },
