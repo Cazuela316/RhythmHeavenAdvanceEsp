@@ -87,12 +87,13 @@ If you have any other questions or concerns, join the [RHModding discord server]
 #### Unas gracias especiales a itaific por ense?arme todo sobre el modding de este increible juego, en serio, muchas gracias!
 
 Ediciones Graficas:
-+ Cazu ™
++ Cazu Ââ„¢
 + Mako
 
 Traduccion y Localizacion:
-+ Cazu ™
++ Cazu Ââ„¢
 + Camus
++ Darcy
 + Mako
 + TheSpheric
 
