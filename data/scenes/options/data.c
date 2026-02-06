@@ -50,8 +50,8 @@ struct CompressedData *options_buffered_textures[] = {
         //?申@?申@?申@?申@?申@?申@?申@Cancel
 const char options_data_clear_confirm_text[] =
         "\0023" "\0013" "\001C" "En serio?\n"
-        "\0021" "\0011" "\001C" "?申@?申@  ?申@?申@ Si\n"
-        "?申@?申@ ?申@ No";
+        "\0021" "\0011" "\001C" "Si\n"
+        "No";
 
 
 // [D_089cfb14] Option Descriptions
