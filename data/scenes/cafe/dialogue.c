@@ -363,8 +363,8 @@ const char *cafe_dialogue_shouts_cheer[] = {
 const char *cafe_dialogue_rhythm_sense[] = {
     /* ------------------------------------------------ */
         "\n"
-        "By the way, is a sense of rhythm any\n"
-        "different for humans?\n"
+        "Por cierto, el sentido del ritmo\n"
+        "es diferente en humanos?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
@@ -373,13 +373,13 @@ const char *cafe_dialogue_rhythm_sense[] = {
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "When your sense of rhythm\n"
-        "improves... that's gotta be\n"
-        "euphoric, huh?",
+        "Cuando tu sentido del ritmo\n"
+        "mejora... seguro es\n"
+        "euforico, no?",
     /* ------------------------------------------------ */
         "\n"
-        "Maybe I should try some of those\n"
-        "rhythm games myself...\n"
+        "Tal vez deber‡ea probar esos\n"
+        "juegos de ritmo...\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
