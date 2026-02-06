@@ -422,7 +422,7 @@ const char *cafe_dialogue_offbeats[] = {
         "lo que es?",
     /* ------------------------------------------------ */
         "\n"
-        "No soy ningun experto pero creo\n"
+        "No soy ningˆ¦n experto pero creo\n"
         "que le he agarrado el truco.\n"
         "\n",
     /* ------------------------------------------------ */
