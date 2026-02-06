@@ -417,29 +417,29 @@ const char *cafe_dialogue_rhythm_sense[] = {
 const char *cafe_dialogue_offbeats[] = {
     /* ------------------------------------------------ */
         "\n"
-        "You've probably heard of something\n"
-        "called an offbeat. Do you know what\n"
-        "that is?",
+        "Seguramente hayas escuchado de algo\n"
+        "llamado contratiempo. Sabes\n"
+        "lo que es?",
     /* ------------------------------------------------ */
         "\n"
-        "I'm no expert myself, but I think\n"
-        "I've got the jist of it.\n"
+        "No soy ningun experto pero creo\n"
+        "que le he agarrado el truco.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "So, suppose you're clapping to\n"
-        "the beat of some music, right?\n"
+        "Asi que, supongo que aplaudes junto\n"
+        "con los pulsos de la musica, no?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Well, the offbeat is supposed to be\n"
-        "the exact point right inbetween each\n"
-        "of your claps.",
+        "Bueno, el contratiempo se supone que\n"
+        "el punto exacto en medio de cada una\n"
+        "de tus palmadas.",
     /* ------------------------------------------------ */
         "\n"
-        "At least I think so. I'm not so great at\n"
-        "explaining this stuff, but I hope it helps.\n"
-        "See you around.",
+        "O al menos eso creo, No soy muy bueno\n"
+        "explicando estas cosas, pero espero te ayude.\n"
+        "Nos vemos luego.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
