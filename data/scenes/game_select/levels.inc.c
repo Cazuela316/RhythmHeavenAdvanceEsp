@@ -401,7 +401,7 @@ struct LevelData level_data_table[] = {
     },
     /* BUNNY_HOP */ {
         /* Entry Scene   */ &scene_bunny_hop,
-        /* Level Name    */ "Conejito Saltarin",
+        /* Level Name    */ "Conejo Saltar‡en",
         /* Level Desc.   */ "Este conejo tiene un\n"
                             "deseo imposible: Saltar\n"
                             "hasta la luna! Lograras\n"

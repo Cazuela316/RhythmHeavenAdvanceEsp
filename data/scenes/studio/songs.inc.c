@@ -158,7 +158,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_showtime
     },
     /* BUNNY_HOP */ {
-        /* Full Title  */ "Conejito Saltarin",
+        /* Full Title  */ "Conejo Saltar‡en",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_bunny_hop
     },
