@@ -772,7 +772,7 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Remix 8",
         /* Level Desc.   */ "Veamos tu habilidad!\n"
                             "Este remix si que es\n"
-                            "desafio de verdad!\n"
+                            "un desafio de verdad!\n"
                             "Muestra lo aprendido!",
         /* Level Icon    */ 37,
         /* Level Type    */ LEVEL_TYPE_REMIX,
