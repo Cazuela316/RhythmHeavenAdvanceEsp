@@ -11,7 +11,7 @@ const char D_0805e938[] = "Las lineas \"Huh?\" tenian mucho ritmo!";
 
 const char D_0805e960[] = "Yo \"capto\" que podriamos hacerlo mejor.";
 
-const char D_0805e988[] = "Tu, en serio \"captaste\" el rap!";
+const char D_0805e988[] = "Tˆ¦, en serio \"captaste\" el rap!";
 
 const char D_0805e9ac[] = "Las lineas \"Increibles!\"... No lo fueron.";
 

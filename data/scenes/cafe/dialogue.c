@@ -54,8 +54,8 @@ const char *cafe_dialogue_first_visit[] = {
         "para eso estoy." "\0054" "\0018" "",
     /* ------------------------------------------------ */
         "Estoy un poco ocupado ahora,\n"
-        "recien acabamos de abrir,\n"
-        "pero despues tendremos\n"
+        "reci‡Qn acabamos de abrir,\n"
+        "pero despu‡Qs tendremos\n"
         "mas tiempo para hablar.",
     /* ------------------------------------------------ */
         "\n"
