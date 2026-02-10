@@ -501,7 +501,7 @@ struct LevelData level_data_table[] = {
         /* Level Desc.   */ "Eres un raton. Ella una\n"
                             "gata. Amas el queso.\n"
                             "La receta perfecta\n"
-                            "para una presecucion.",
+                            "para una persecucion.",
         /* Level Icon    */ 31,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rat_race_gfx_tables,
