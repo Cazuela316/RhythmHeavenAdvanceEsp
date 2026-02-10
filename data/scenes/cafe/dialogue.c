@@ -106,18 +106,18 @@ const char *cafe_dialogue_come_back_later[] = {
 const char *cafe_dialogue_keep_trying[] = {
     /* ------------------------------------------------ */
         "\n"
-        "Give it some practice and you'll do\n"
-        "fine. I'm sure of it!\n"
+        "Sigue practicando y lo h‡cras\n"
+        "bien. Te lo aseguro!\n" 
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I'm sure playing together\n"
-        "with the music will be pretty\n"
-        "fun all its own.",
+        "Estoy bastante seguro que\n"
+        "solo jugar siguiendo la mˆ¦sica\n"
+        "es divertido de por s‡e.",
     /* ------------------------------------------------ */
         "\n"
-        "Try not to get all worked up out\n"
-        "there. Make sure to have a good time.\n"
+        "Intenta no estresarte por ah‡e\n"
+        "afuera. Asegurate de pasarla bien.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
