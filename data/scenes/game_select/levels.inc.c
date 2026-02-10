@@ -498,9 +498,9 @@ struct LevelData level_data_table[] = {
     /* RAT_RACE */ {
         /* Entry Scene   */ &scene_rat_race,
         /* Level Name    */ "Ratones Escurridizos",
-        /* Level Desc.   */ "Eres un raton. Ella es\n"
-                            "un gato. Amas el queso.\n"
-                            "Todos los ingredientes\n"
+        /* Level Desc.   */ "Eres un raton. Ella una\n"
+                            "gata. Amas el queso.\n"
+                            "La receta perfecta\n"
                             "para una presecucion.",
         /* Level Icon    */ 31,
         /* Level Type    */ LEVEL_TYPE_GAME,
@@ -772,7 +772,7 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Remix 8",
         /* Level Desc.   */ "Veamos tu habilidad!\n"
                             "Este remix si que es\n"
-                            "desafio de verdad!\n"
+                            "un desafio de verdad!\n"
                             "Muestra lo aprendido!",
         /* Level Icon    */ 37,
         /* Level Type    */ LEVEL_TYPE_REMIX,
