@@ -289,7 +289,7 @@ struct LevelData level_data_table[] = {
     },
     /* SPACEBALL */ {
         /* Entry Scene   */ &scene_spaceball,
-        /* Level Name    */ "Beisbol Espacial",
+        /* Level Name    */ "Spaceb‡il",
         /* Level Desc.   */ "Ignora los zooms de\n"
                             "la camara! Haz la\n"
                             "pelota volar! Sin llorar!\n"
@@ -305,7 +305,7 @@ struct LevelData level_data_table[] = {
     },
     /* SPACEBALL_2 */ {
         /* Entry Scene   */ &scene_spaceball_2,
-        /* Level Name    */ "Beisbol Espacial 2",
+        /* Level Name    */ "Spaceb‡il 2",
         /* Level Desc.   */ "Ignora los zooms de\n"
                             "la camara! Cree en ti\n"
                             "y manda la pelota a\n"
@@ -465,7 +465,7 @@ struct LevelData level_data_table[] = {
     },
     /* TOSS_BOYS */ {
         /* Entry Scene   */ &scene_toss_boys,
-        /* Level Name    */ "Ases del Volley",
+        /* Level Name    */ "Ases del Voley",
         /* Level Desc.   */ "Este trio de amigos ama\n"
                             "practicar sus tajadas.\n"
                             "Escucha sus nombres,\n"
@@ -481,7 +481,7 @@ struct LevelData level_data_table[] = {
     },
     /* TOSS_BOYS_2 */ {
         /* Entry Scene   */ &scene_toss_boys_2,
-        /* Level Name    */ "Ases del Volley 2",
+        /* Level Name    */ "Ases del Voley 2",
         /* Level Desc.   */ "Este trio de amigos ama\n"
                             "practicar sus tajadas.\n"
                             "Y justo hoy estan\n"

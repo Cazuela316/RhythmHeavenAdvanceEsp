@@ -128,7 +128,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_marching_orders
     },
     /* SPACEBALL */ {
-        /* Full Title  */ "Beisbol Espacial",
+        /* Full Title  */ "Spaceb‡il",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_spaceball
     },
