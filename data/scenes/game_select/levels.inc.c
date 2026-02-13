@@ -609,7 +609,7 @@ struct LevelData level_data_table[] = {
     },
     /* QUIZ_SHOW */ {
         /* Entry Scene   */ &scene_quiz_show,
-        /* Level Name    */ "Trivia Ritmica",
+        /* Level Name    */ "Trivia Show",
         /* Level Desc.   */ "Juega una trivia donde\n"
                             "hay que copiar un\n"
                             "patron. Simple, no?\n"

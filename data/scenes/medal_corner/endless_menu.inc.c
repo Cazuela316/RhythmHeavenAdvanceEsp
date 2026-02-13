@@ -14,7 +14,7 @@ struct MedalCornerLevel endless_menu_levels[] = {
     },
     /* QUIZ_SHOW */ {
         /* Scene  */ &scene_quiz_show_endless,
-        /* Title  */ "Trivia Ritmica EX",
+        /* Title  */ "Trivia Show EX",
         /* Anim   */ anim_endless_menu_quiz_show,
         /* Medals */ 20
     },

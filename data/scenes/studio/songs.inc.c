@@ -168,7 +168,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_tram_pauline
     },
     /* QUIZ_SHOW */ {
-        /* Full Title  */ "Opening de Trivia Ritmica",
+        /* Full Title  */ "Opening de Trivia Show",
         /* Short Title */ "Opening de Trivia...",
         /* Drum Script */ script_studio_quiz_show
     },
