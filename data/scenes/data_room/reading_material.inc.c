@@ -661,7 +661,35 @@ struct ReadingMaterial reading_material_table[] = {
             "Era la definicion del diccionario de ser sorda al tono,\n"
             "pero ahora, la gente me dice que mi canto es mejor!\n"
             "Sigo siendo sorda al tono, claro, pero ahora soy feliz!\n"
-            "\001R" "Sra. H, Edad 29, Ama de casa\n",
+            "\001R" "Sra. H, Edad 29, Ama de casa\n"
+            "\001L" "Solo por mejorar mi sentido de ritmo...\n"
+            "\n"
+            "\0031" "\001m" "Me volvi...\n"
+            "\0031" "\001R" "un musico?"
+            "\0030" "\001s" "\n"
+            #ifdef PARADISE
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            #else
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            #endif
+            "Apenas tocaba el triangulo en la orquestra escolar,\n"
+            "pero ahora, he llegado tan lejos, la gente hasta\n"
+            "me pide clases de musica y, consejos para mejorar!\n"
+            "\001R" "Sr. A, Estudiante de arte, 18\n"
+            "\001L" "Solo por mejorar mi sentido de ritmo...\n"
+            "\n"
+            "\0031" "\001m" "Me volvi...\n"
+            "\0031" "\001R" "mejor traduciendo?"
+            "\0030" "\001s" "\n"
+            #ifdef PARADISE
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            #else
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            #endif
+            "Me distraia demasiado mientras traducia, pero\n"
+            "gracias a mi nuevo sentido de ritmo, hasta puedo\n"
+            "traducir todo un juego mientras mantengo mi flow!\n"
+            "\001R" "Sr. C, Estudiante de Informatica, 19\n",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_mail_gfx_table,
             /* BGM */ &reading_style_mail_bgm
@@ -816,12 +844,12 @@ struct ReadingMaterial reading_material_table[] = {
             "\n"
             "-12-\n"
             "\n"
-            "Siento que no puedes mejorar tu sentido\n"
+            "Siento que puedes mejorar tu sentido\n"
             "de ritmo, siendo un adulto.\n"
             "\n"
             "\n"
-            "Si - Ve a la p‡cgina 21!\n"
-            "No - Ve a la p‡cgina 22!\n"
+            "No - Ve a la p‡cgina 21!\n"
+            "Si - Ve a la p‡cgina 22!\n"
             "\n"
             "-13-\n"
             "\n"
@@ -852,7 +880,7 @@ struct ReadingMaterial reading_material_table[] = {
             "\n"
             "-16-\n"
             "\n"
-            "Siento que el sentido de rimto se puede mejorar\n"
+            "Siento que el sentido de ritmo se puede mejorar\n"
             "en solo 30 segundos si es que le hechas ganas.\n"
             "\n"
             "\n"

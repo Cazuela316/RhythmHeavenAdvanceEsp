@@ -96,7 +96,7 @@ text text_rap_men_oishii_kamo_ne
 endtext
 
 text text_rap_men_herushii_kamo_ne
-    .asciz ".9:1Ｓａｌｕｄａｂｌｅ　ｓｎａｃｋｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
+    .asciz ".9:1Ｂｏｃａｄｏｓ　ｓａｎｏｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_men_ore_no_sei_kamo_ne
@@ -120,11 +120,11 @@ text text_rap_men_kibun_wa_saikou
 endtext
 
 text text_rap_men_ore_tte_saikou
-    .asciz ".a:1Ｓｏｍｏｓ　.a:0Ｉｎｃｒｅｉｂｌｅｓ！.8:1"
+    .asciz ".a:1Ｔｏｄｏ　ｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_men_kimi_tte_saikou
-    .asciz ".a:1Ｅｒｅｓ　ｍｕｙ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:0"
+    .asciz ".a:1Ｅｒｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:0"
 endtext
 
 text text_rap_men_oyatsu_ga_nai_yo
