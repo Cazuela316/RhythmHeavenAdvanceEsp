@@ -84,19 +84,26 @@ If you have any other questions or concerns, join the [RHModding discord server]
 
 #### Esta localizacion no podria ser posible sin el arduo trabajo de parte del [Equipo de Rhythm Heaven Advance!](https://github.com/RHAdvance/RhythmHeavenAdvance)
 
-#### Unas gracias especiales a itaific por ense?arme todo sobre el modding de este increible juego, en serio, muchas gracias!
+#### Unas gracias especiales a itaific, sin el no hubiera sabido todo sobre el modding de este increible juego, en serio, muchas gracias!
 
 Ediciones Graficas:
-+ Cazu ™
++ Cazu
 + Mako
++ Apolo
+
+Edicion de Animaciones:
++ Cazu
 
 Traduccion y Localizacion:
-+ Cazu ™
++ Cazu
 + Camus
-+ Darcy
 + Mako
 + TheSpheric
 
+Correcciones Ortograficas:
++ Darcy
++ Mako
++ Apolo
 
 SFXs:
 + (En proceso...) 
