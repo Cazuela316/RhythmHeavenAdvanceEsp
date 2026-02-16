@@ -32,7 +32,7 @@ struct GraphicsTable drum_live_menu_gfx_table[] = {
 // [D_089e5c74] Poster Descriptions
 const char *drum_live_menu_poster_desc[] = {
     /* DRUM GIRLS */
-    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Girls LIVE!\n"
+    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Girls        En vivo!\n"
     "\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Paseo Nocturno\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Baile Astral\n"
@@ -40,7 +40,7 @@ const char *drum_live_menu_poster_desc[] = {
     "\n",
     
     /* DRUM BOYS  */
-    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Boys LIVE!\n"
+    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Boys        En vivo!\n"
     "\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Trio Saleroso\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Prueba de Claqu⑱\n"
@@ -49,7 +49,7 @@ const char *drum_live_menu_poster_desc[] = {
 
     /* DRUM BAND  */
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Samurai Drummer's\n"
-    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "\x01\x52" "Band LIVE! \n"
+    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "\x01\x52" "En vivo! \n"
     "\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "\x01\x4c" "♪　Baile Cosmico\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Trio Garboso\n"

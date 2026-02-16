@@ -686,23 +686,23 @@ const char *cafe_dialogue_coffee[] = {
 const char *cafe_dialogue_dog_barista[] = {
     /* ------------------------------------------------ */
         "\n"
-        "By the way, I'm actually a dog.\n"
+        "Por cierto, Soy un perro.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I'm nine years old. Pretty spry\n"
-        "for my age if I say so.\n"
+        "Acabo de cumplir 9. Bastante agil\n"
+        "para mi edad, si me preguntas.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Time goes by pretty fast when you're\n"
-        "as old as I am.\n"
+        "El tiempo pasa super rapido, cuando\n"
+        "eres igual de viejo que yo.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "You're a human, right? They say I'm\n"
-        "supposed to be your best friend.\n"
-        "We'd better get along then!",
+        "Eres un humano, verdad? Se supone\n"
+        "que debo ser tu mejor amigo.\n"
+        "Asi que espero nos llevemos bien!",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
@@ -788,29 +788,29 @@ const char *cafe_dialogue_healing_with_music[] = {
 const char *cafe_dialogue_speaking_with_music[] = {
     /* ------------------------------------------------ */
         "\n"
-        "I heard you can hold a conversation\n"
-        "with only rhythm.\n"
+        "He escuchado que puedes tener una\n"
+        "conversacion usando solo ritmo.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "You can put words and meanings\n"
-        "behind different rhythms like morse\n"
-        "code and talk without speaking.",
+        "Puedes poner palabras y significados\n"
+        "detras de diferentes ritmos, como el\n"
+        "codigo morse y hablar sin decir nada.",
     /* ------------------------------------------------ */
         "\n"
-        "Like, bang out a message into one\n"
-        "of those taiko drums, and you could\n"
-        "communicate acres apart.",
+        "Como, golpear uno de esos tambores\n"
+        "de taiko, y asi comunicarte a\n"
+        "metros de alguien.",
     /* ------------------------------------------------ */
         "\n"
-        "At least that's what a customer\n"
-        "once told me. Doesn't that sound\n"
-        "fun?",
+        "O al menos eso es lo que me dijo un\n"
+        "cliente. A que no suena super\n"
+        "divertido?",
     /* ------------------------------------------------ */
         "\n"
-        "But if you had percussive election\n"
-        "speeches or bongo arguments...\n"
-        "Expect a lot of noise. Ahahaha!",
+        "Pero imagina discursos electoriales\n"
+        "o discuciones con bongos...\n"
+        "Sera puro ruido. Jajaja!",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
