@@ -21,13 +21,13 @@ const char D_0805c15c[] = "Justo bajaste la guardia al final.";
 
 const char D_0805c170[] = "";
 
-const char D_0805c174[] = "Ｂａｉｌｅｍｏｓ！";
+const char D_0805c174[] = "】Ｂａｉｌｅｍｏｓ！";
 
-const char D_0805c18c[] = "Ａｍｏ　ｅｌ　ｃｌａｑｕぎ！";
+const char D_0805c18c[] = "】Ａｍｏ　ｅｌ　ｃｌａｑｕぎ！";
 
 const char D_0805c1a8[] = "Ｑｕｅ　ｅｓｐｅｃｔａｃｕｌｏ！";
 
-const char D_0805c1bc[] = "Ｂａｉｌｅｍｏｓ！";
+const char D_0805c1bc[] = "】Ｂａｉｌｅｍｏｓ！";
 
 const char D_0805c1d0[] = "Ｐｒａｃｔｉｑｕｅｍｏｓ　ｐｒｉｍｅｒｏ！";
 
@@ -65,7 +65,7 @@ const char D_0805c318[] = "Ａｍｏ　ｅｌ　ｃｌａｑｕぎ！";
 
 const char D_0805c334[] = "Ｑｕｅ　ｅｓｐｅｃｔａｃｕｌｏ！";
 
-const char D_0805c348[] = "Ｂａｉｌｅｍｏｓ！";
+const char D_0805c348[] = "】Ｂａｉｌｅｍｏｓ！";
 
 const char D_0805c35c[] = "Ｐｒａｃｔｉｑｕｅｍｏｓ　ｐｒｉｍｅｒｏ！";
 
