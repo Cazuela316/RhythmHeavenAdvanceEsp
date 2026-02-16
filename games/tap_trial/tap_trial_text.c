@@ -23,7 +23,7 @@ const char D_0805c170[] = "";
 
 const char D_0805c174[] = "Ｂａｉｌｅｍｏｓ！";
 
-const char D_0805c18c[] = "Ａｍｏ　ｅｌ　ｃｌａｑｕｅ！";
+const char D_0805c18c[] = "Ａｍｏ　ｅｌ　ｃｌａｑｕぎ！";
 
 const char D_0805c1a8[] = "Ｑｕｅ　ｅｓｐｅｃｔａｃｕｌｏ！";
 
@@ -61,7 +61,7 @@ const char D_0805c2ec[] = "Comentarios de los monos";
 
 const char D_0805c300[] = "Ｂａｉｌｅｍｏｓ！";
 
-const char D_0805c318[] = "Ａｍｏ　ｅｌ　ｃｌａｑｕｅ！";
+const char D_0805c318[] = "Ａｍｏ　ｅｌ　ｃｌａｑｕぎ！";
 
 const char D_0805c334[] = "Ｑｕｅ　ｅｓｐｅｃｔａｃｕｌｏ！";
 
