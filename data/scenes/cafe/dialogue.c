@@ -368,8 +368,8 @@ const char *cafe_dialogue_rhythm_sense[] = {
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Well, not like my rhythm couldn't do with\n"
-        "a bit of work, but...\n"
+        "Bueno, no es como si mi sentido del\n"
+        "ritmo el mejor, pero...\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
@@ -418,8 +418,8 @@ const char *cafe_dialogue_offbeats[] = {
     /* ------------------------------------------------ */
         "\n"
         "Seguramente hayas escuchado de algo\n"
-        "llamado contratiempo. Sabes\n"
-        "lo que es?",
+        "llamado contratiempo.\n"
+        "Sabes lo que es?",
     /* ------------------------------------------------ */
         "\n"
         "No soy ningˆ¦n experto pero creo\n"
@@ -436,9 +436,9 @@ const char *cafe_dialogue_offbeats[] = {
         "el punto exacto en medio de cada una\n"
         "de tus palmadas.",
     /* ------------------------------------------------ */
-        "\n"
         "O al menos eso creo, No soy muy bueno\n"
-        "explicando estas cosas, pero espero te ayude.\n"
+        "explicando estas cosas, pero espero te\n"
+        "ayude un poco.\n"
         "Nos vemos luego.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -476,28 +476,28 @@ const char *cafe_dialogue_offbeats[] = {
 const char *cafe_dialogue_rhythm_test[] = {
     /* ------------------------------------------------ */
         "\n"
-        "Say, have you tried doing the\n"
-        "Rhythm Test again?\n"
+        "Cuentame, has probado\n"
+        "el Ritmometro de nuevo?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I've been giving it a spin lately.\n"
-        "Seems like 65 points is my limit.\n"
+        "Yo si que le probado.\n"
+        "Pero mi maximo son 65 puntos.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "That second test gives me quite\n"
-        "a bit of trouble.\n"
+        "El segundo Test si que\n"
+        "es complicado, no crees?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Counting those silent beats...\n"
-        "It's tricky, don't you think?\n"
-        "\n",
+        "Contar por tu cuenta...\n"
+        "Ahora que lo digo, suena un poco\n"
+        "tonto, no crees?\n",
     /* ------------------------------------------------ */
         "\n"
-        "Well, let's take it one step at a time.\n"
-        "See you around.\n"
+        "Pero bueno, la practica hace al maestro.\n"
+        "Nos vemos despues.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -535,29 +535,29 @@ const char *cafe_dialogue_rhythm_test[] = {
 const char *cafe_dialogue_drum_lessons[] = {
     /* ------------------------------------------------ */
         "\n"
-        "You ever check out the drum\n"
-        "lessons in the bonus corner?\n"
+        "Has checado las lecciones que\n"
+        "estan dentro del toca bateria?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I've been taking lessons every week,\n"
-        "but I never seem to get any better.\n"
+        "He estado tomando lecciones cada semana,\n"
+        "pero siento que no mejoro.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "My teacher told me that I have a\n"
-        "bit of a problem pacing myself, that\n"
-        "I shouldn't push myself so much.",
+        "Mi profe me dijo que tengo un\n"
+        "problemita para medir mi ritmo,\n"
+        "que no deberia exigirme tanto.",
     /* ------------------------------------------------ */
         "\n"
-        "But once you start getting into it,\n"
-        "it's hard to stop.\n"
+        "Pero una vez entras,\n"
+        "es dificil parar.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I guess no one can master the drums\n"
-        "in a day, though. We should take\n"
-        "our time with that stuff.",
+        "Aunque si, es obvio que no me puedo\n"
+        "volver un maestro en un solo dia.\n"
+        "Hay que tomarse las cosas con calma.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
@@ -589,24 +589,24 @@ const char *cafe_dialogue_drum_lessons[] = {
 const char *cafe_dialogue_adhd[] = {
     /* ------------------------------------------------ */
         "\n"
-        "I'm not sure why, but man, am I tired...\n"
+        "Dios, pero vaya que estoy cansado...\n"
         "\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I was up last night playing until\n"
-        "who-knows-when...\n"
+        "Anoche me quede jugando hasta no se\n"
+        "que hora...\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Oops! Sorry. I'm talking to myself again.\n"
-        "Don't mind me.\n"
+        "Oops! Disculpa. Hablaba a mi mismo.\n"
+        "No te preocupes.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Want to go for a drive with me, sometime?\n"
-        "If that's alright with you, I mean.\n"
-        "See you around.",
+        "Te gustaria salir a dar una vuelta conmigo?\n"
+        "O sea, si quieres, claro.\n"
+        "Nos vemos despues.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
@@ -638,22 +638,22 @@ const char *cafe_dialogue_adhd[] = {
 const char *cafe_dialogue_coffee[] = {
     /* ------------------------------------------------ */
         "\n"
-        "So, I made you some coffee.\n"
+        "Bien, aqui esta tu cafe.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Wait, you didn't order coffee?\n"
-        "Oh, this is from the person\n"
-        "sitting next to you. His treat.",
+        "Espera, no pediste un cafe?\n"
+        "Oh, es de la persona que esta\n"
+        "al lado tuyo. Oops.",
     /* ------------------------------------------------ */
         "\n"
-        "He's not much for words, but\n"
-        "he's pretty friendly, and I guess\n"
-        "generous too.",
+        "El no es muy comunicativo, pero\n"
+        "es muy amigable, y supongo que\n"
+        "generoso igual.",
     /* ------------------------------------------------ */
         "\n"
-        "Me? I can make coffee, but...\n"
-        "need to work on the rest. Heh...\n"
+        "Ah? Claro que puedo hacer cafe, pero\n"
+        "tengo que mejorar en lo demas. Jeje...\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -734,23 +734,23 @@ const char *cafe_dialogue_dog_barista[] = {
 const char *cafe_dialogue_healing_with_music[] = {
     /* ------------------------------------------------ */
         "\n"
-        "So, when you're sad, what do\n"
-        "you do to cheer yourself up?\n"
-        "Me, I listen to music.",
+        "Cuentame, que haces cuando estas\n"
+        "triste para alegrarte?\n"
+        "Por mi parte, escucho musica.",
     /* ------------------------------------------------ */
         "\n"
-        "Dusting off a favorite record of mine\n"
-        "and taking a nostalgia trip...\n"
-        "That never fails to put me at ease.",
+        "Re escuchar mis discos favoritos\n"
+        "y dar un paseo por la nostalgia...\n"
+        "Eso siempre logra relajarme.",
     /* ------------------------------------------------ */
         "\n"
-        "Music's weird like that. Why does\n"
-        "it have such power over our feelings,\n"
-        "do you think?",
+        "La musica si que es rara. Por que\n"
+        "tendra ese tipo de poder en nosotros?\n"
+        "Te lo has preguntado?",
     /* ------------------------------------------------ */
         "\n"
-        "Maybe if I studied this stuff I'd know,\n"
-        "but I haven't! Sorry! Heh.\n"
+        "Tal vez si lo estudiara lo sabria,\n"
+        "pero no es el caso! Disculpa! Jeje.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
