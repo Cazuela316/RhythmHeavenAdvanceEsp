@@ -19,9 +19,9 @@ const char D_08067d44[] = "Las lineas \"Increibles!\", lo SUPER fueron!";
 
 const char D_08067d70[] = "RAPNOTAS de las chicas:";
 
-const char D_08067d84[] = "Ｅｍｐｅｚａｍｏｓ？";
+const char D_08067d84[] = "【Ｅｍｐｅｚａｍｏｓ？";
 
-const char D_08067d90[] = "Ｄｅｂｅｒｉａｍｏｓ　ｈａｃｅｒ　ｅｓｏ　ｄｅ　ｎｕｅｖｏ！";
+const char D_08067d90[] = "】Ｄｅｂｅｒざａｍｏｓ　ｈａｃｅｒ　ｅｓｏ　ｄｅ　ｎｕｅｖｏ！";
 
 const char D_08067da0[] = "Las lineas \"Huh?\" fueron desagradables.";
 
@@ -37,6 +37,6 @@ const char D_08067e6c[] = "Las lineas \"Increibles!\", lo SUPER fueron!";
 
 const char D_08067e98[] = "RAPNOTAS de las chicas:";
 
-const char D_08067eb0[] = "Ｅｍｐｅｚａｍｏｓ？";
+const char D_08067eb0[] = "【Ｅｍｐｅｚａｍｏｓ？";
 
-const char D_08067ebc[] = "Ｄｅｂｅｒｉａｍｏｓ　ｈａｃｅｒ　ｅｓｏ　ｄｅ　ｎｕｅｖｏ！";
+const char D_08067ebc[] = "】Ｄｅｂｅｒざａｍｏｓ　ｈａｃｅｒ　ｅｓｏ　ｄｅ　ｎｕｅｖｏ！";
