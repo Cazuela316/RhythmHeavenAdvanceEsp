@@ -39,6 +39,6 @@ const char D_0805ccb4[] = "Reporte de los amigos marinos";
 
 const char D_0805ccb8[] = "　　　　　　　　　　　　　　　　　　　　Ｐｒｅｓｉｏｎａ　ゝ　ａｌ　ｒｉｔｍｏ　ｐａｒａ　ｓａｌｔａｒ．";
 
-const char D_0805ccb9[] = "Ｖａｍｏｓ！";
+const char D_0805ccb9[] = "】Ｖａｍｏｓ！";
 
-const char D_0805ccc5[] = "Ｌｉｓｔｏ？";
+const char D_0805ccc5[] = "【Ｌｉｓｔｏ？";

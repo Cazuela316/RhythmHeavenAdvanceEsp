@@ -19,21 +19,21 @@ const char D_0805bb04[] = "Tu contador interno estaba muy activo!";
 
 const char D_0805bb20[] = "Les disparaste hasta a los mas lentos.";
 
-const char D_0805bb40[] = "Ｄｅｔｅｎ　ｅｓｏｓ　ｆａｎｔａｓｍａｓ！";
+const char D_0805bb40[] = "】Ｄｅｔぎｎ　ｅｓｏｓ　ｆａｎｔａｓｍａｓ！";
 
-const char D_0805bb58[] = "Ｎｏ　ｌｏｓ　ｄｅｊｅｓ　ｅｓｃａｐａｒ！";
+const char D_0805bb58[] = "】Ｎｏ　ｌｏｓ　ｄｅｊｅｓ　ｅｓｃａｐａｒ！";
 
 const char D_0805bb68[] = "Ｅｌ　ｒｉｔｍｏ　ｄｅｂｅ　ｓｅｒ．．．";
 
-const char D_0805bb78[] = "．．．ｐｅｒｆｅｃｔｏ！";
+const char D_0805bb78[] = "】．．．ｐｅｒｆｅｃｔｏ！";
 
 const char D_0805bb88[] = "Ｍｉｒａ　ｍｕｙ　ｂｉｅｎ．";
 
 const char D_0805bb9c[] = "Ｊｕｓｔｏ．．．";
 
-const char D_0805bb9D[] = "Ａｈｏｒａ！";
+const char D_0805bb9D[] = "】Ａｈｏｒａ！";
 
-const char D_0805bba8[] = "Ｈｏｒａ　ｄｅ　ｅｍｐｅｚａｒ　ｅｎ　ｓｅｒｉｏ！";
+const char D_0805bba8[] = "】Ｈｏｒａ　ｄｅ　ｅｍｐｅｚａｒ　ｅｎ　ｓｅｒｉｏ！";
 
 const char D_0805bbc8[] = "Las voces tenebrosas dicen...";
 

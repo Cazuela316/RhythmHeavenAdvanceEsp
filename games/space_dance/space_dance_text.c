@@ -19,24 +19,24 @@ const char D_0805e344[] = "La parte antes del coro tenia perfeccion!";
 
 const char D_0805e364[] = "El Abuelo Espacial dice...";
 
-const char D_0805e37c[] = "Ｃｏｍｉｅｎｚａ　ｌａ　ｍｏｃｉｏｎ！";
+const char D_0805e37c[] = "】Ｃｏｍｉｅｎｚａ　ｌａ　ｍｏｃｉだｎ！";
 
 const char D_0805e38c[] = "Ｅｓ　ｌａ　ｈｏｒａ　ｄｅ　ｂａｉｌａｒ　ｊｕｎｔｏｓ．";
 
-const char D_0805e3a8[] = "Ｉｎｉｃｉａ　ａｐｒｅｎｄｉｅｎｄｏ　ｌｏ　ｆｕｎｄａｍｅｎｔａｌ.";
+const char D_0805e3a8[] = "】Ｉｎｉｃｉａ　ａｐｒｅｎｄｉｅｎｄｏ　ｌｏ　ｆｕｎｄａｍｅｎｔａｌ！";
 
-const char D_0805e3d8[] = "Ｐｒｉｍｅｒａ　ｍｏｃｉｏｎ！";
+const char D_0805e3d8[] = "】Ｐｒｉｍｅｒａ　ｍｏｃｉだｎ！";
 
-const char D_0805e3ec[] = "Ｏｂｓｅｒｖａ　ｙ　ｄｕｐｌｉｃａ！";
+const char D_0805e3ec[] = "】Ｏｂｓｅｒｖａ　ｙ　ｄｕｐｌｉｃａ！";
 
-const char D_0805e3fc[] = "Ｂａｓｔａｎｔｅ　ｓａｔｉｓｆａｃｔｏｒｉｏ！";
+const char D_0805e3fc[] = "】Ｂａｓｔａｎｔｅ　ｓａｔｉｓｆａｃｔｏｒｉｏ！";
 
-const char D_0805e3fd[] = "Ｕｎ　ａｇａｃｈｅ　ａｃｅｐｔａｂｌｅ！";
+const char D_0805e3fd[] = "】Ｕｎ　ａｇａｃｈｅ　ａｃｅｐｔａｂｌｅ！";
 
-const char D_0805e3fe[] = "Ｕｎ　ｇｏｌｐｅ　ｄｅ　ｎｉｖｅｌ　ｒｅｑｕｅｒｉｄｏ！";
+const char D_0805e3fe[] = "】Ｕｎ　ｇｏｌｐｅ　ｄｅ　ｎｉｖｅｌ　ｒｅｑｕｅｒｉｄｏ！";
 
-const char D_0805e404[] = "Ｖａｍｏｓ　ａｌ　ｓｉｇｕｉｅｎｔｅ　ａｐｒｅｎｄｉｚａｊｅ";
+const char D_0805e404[] = "Ｖａｍｏｓ　ａｌ　ｓｉｇｕｉｅｎｔｅ　ａｐｒｅｎｄｉｚａｊｅ．";
 
-const char D_0805e40c[] = "Ｐａｓｏ　ｆｉｎａｌ！";
+const char D_0805e40c[] = "】Ｐａｓｏ　ｆｉｎａｌ！";
 
-const char D_0805e414[] = "Ｌａ　ｈｏｒａ　ｄｅ　ｌａ　ｄａｎｚａ　ｉｎｉｃｉａ！";
+const char D_0805e414[] = "】Ｌａ　ｈｏｒａ　ｄｅ　ｌａ　ｄａｎｚａ　ｉｎｉｃｉａ！";

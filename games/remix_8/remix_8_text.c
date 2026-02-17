@@ -19,16 +19,16 @@ const char D_0806aa0c[] = "";
 
 const char D_0806aa24[] = "Notas de la liga de ritmo:";
 
-const char D_0806aa40[] = "Ｙｏ　ｓｅ　ｑｕｅ　ｐｕｅｄｅｓ！";
+const char D_0806aa40[] = "】Ｙｏ　ｓｅ　ｑｕｅ　ｐｕｅｄｅｓ！";
 
-const char D_0806aa50[] = "Ｓｉｇｕｅ　ａｓｉ！";
+const char D_0806aa50[] = "】Ｓｉｇｕｅ　ａｓざ！";
 
-const char D_0806aa51[] = "Ｄｅｒｅｃｈａ！";
+const char D_0806aa51[] = "】Ｄｅｒｅｃｈａ！";
 
-const char D_0806aa64[] = "Ｄａｌｅ　ｃｏｎ　ｔｏｄｏ！";
+const char D_0806aa64[] = "】Ｄａｌｅ　ｃｏｎ　ｔｏｄｏ！";
 
-const char D_0806aa74[] = "Ｙａ　ｆａｌｔａ　ｐｏｃｏ！";
+const char D_0806aa74[] = "】Ｙａ　ｆａｌｔａ　ｐｏｃｏ！";
 
-const char D_0806aa8c[] = "Ｌａ　ｕｌｔｉｍａ！";
+const char D_0806aa8c[] = "】Ｌａ　ｕｌｔｉｍａ！";
 
 const char D_0806aaa8[] = "";

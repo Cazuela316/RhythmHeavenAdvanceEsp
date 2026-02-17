@@ -19,4 +19,4 @@ const char D_08067b90[] = "Muy buena tecnica!";
 
 const char D_08067ba0[] = "Comentarios de los MON-KISS";
 
-const char D_08067bb8[] = "z‚g‚‚‡‚‚‚‚“‚Œ‚I";
+const char D_08067bb8[] = "z‚g‚‚‡‚¢‚‚‚“‚Œ‚I";

@@ -500,7 +500,7 @@ void cafe_print_dialogue(void) {
                     break;
 
                 default:
-                    dialogue = cafe_random_conversation_pool[agb_random(10)];
+                    dialogue = cafe_random_conversation_pool[agb_random(15)];
                     break;
             }
             break;

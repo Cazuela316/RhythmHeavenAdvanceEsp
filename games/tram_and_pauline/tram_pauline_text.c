@@ -21,9 +21,9 @@ const char D_0805db94[] = "Consejos del maestro del circo";
 
 const char D_0805dba0[] = "Ｈｏｌａ，　ｓｏｙ　Ｔｒａｍ．．．";
 
-const char D_0805dbb0[] = "Ｙ　ｙｏ　Ｐａｕｌｉｎ．．．";
+const char D_0805dbb0[] = "Ｙ　ｙｏ　Ｐａｕｌざｎ．．．";
 
-const char D_0805dbc0[] = "Ｙ　ｊｕｎｔｏｓ　ｓｏｍｏｓ　ｔｒａｍｐｏｌｉｎ！";
+const char D_0805dbc0[] = "】Ｙ　ｊｕｎｔｏｓ　ｓｏｍｏｓ　ｔｒａｍｐｏｌざｎ！";
 
 const char D_0805dbd8[] = "Ｃｕａｎｄｏ　ｓａｌｔｅｍｏｓ，";
 
@@ -31,14 +31,14 @@ const char D_0805dbf4[] = "Ｐｒｅｓｉｏｎａ　＋　ｐａｒａ　ｍｉ，";
 
 const char D_0805dc0c[] = "Ｙ　ゝ　ｐａｒａ　ｍｉ，";
 
-const char D_0805dc24[] = "Ｙ　ｎｏｓ　ｔｒａｎｓｆｏｒｍａｒｅｍｏｓ！";
+const char D_0805dc24[] = "】Ｙ　ｎｏｓ　ｔｒａｎｓｆｏｒｍａｒｅｍｏｓ！";
 
-const char D_0805dc38[] = "Ｐｒａｃｔｉｑｕｅｍｏｓ　ｕｎ　ｐｏｃｏ！";
+const char D_0805dc38[] = "】Ｐｒａｃｔｉｑｕｅｍｏｓ　ｕｎ　ｐｏｃｏ！";
 
-const char D_0805dc58[] = "Ｓａｌｔｏｓ　ｓｕｃｅｓｉｖｏｓ！";
+const char D_0805dc58[] = "】Ｓａｌｔｏｓ　ｓｕｃｅｓｉｖｏｓ！";
 
-const char D_0805dc70[] = "Ｄｏｓ　ｓａｌｔｏｓ，　ｐｏｒ　ｔｕｒｎｏｓ！";
+const char D_0805dc70[] = "】Ｄｏｓ　ｓａｌｔｏｓ，　ｐｏｒ　ｔｕｒｎｏｓ！";
 
-const char D_0805dc88[] = "Ｙ　ｕｎ　ｓａｌｔｏ　ｊｕｎｔｏｓ！";
+const char D_0805dc88[] = "】Ｙ　ｕｎ　ｓａｌｔｏ　ｊｕｎｔｏｓ！";
 
-const char D_0805dc9c[] = "Ｂｉｅｎ，　ｅｓｔａｍｏｓ　ｌｉｓｔｏｓ！";
+const char D_0805dc9c[] = "】Ｂｉｅｎ，　ｅｓｔａｍｏｓ　ｌｉｓｔｏｓ！";
