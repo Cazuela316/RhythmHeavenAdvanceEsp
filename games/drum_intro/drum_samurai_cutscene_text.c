@@ -64,4 +64,4 @@ const char D_0805e10c[] =
     "sentido mejora!";
 
 const char D_0805e15c[] =
-    "Y eso, Nos vemos despues!";
+    "Y eso, nos vemos despues!";

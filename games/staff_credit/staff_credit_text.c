@@ -176,13 +176,13 @@ const char D_08069e24[] =
 
 const char D_08069e78[] =
     "Pero antes de,\n"
-    "Dejame mostrarte a\n"
+    "dejame mostrarte a\n"
     "la gente que trabajo\n"
     "en este juego.";
 
 const char D_08069ed4[] =
     "\n"
-    "Bien, Demosle!";
+    "Bien, demosle!";
 
 const char D_08069ee8[] =
     "\n"
@@ -208,4 +208,4 @@ const char D_08069f90[] =
 
 const char D_08069fe4[] =
     "\n"
-    "Bien, Demosle!";
+    "Bien, demosle!";

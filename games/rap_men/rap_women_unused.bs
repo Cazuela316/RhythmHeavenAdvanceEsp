@@ -31,51 +31,51 @@ define_gameplay_scene scene_rap_women_unused, script_rap_women_unused_entry
 @ Rap Women (Unused) - Text
 
 text text_rap_women_unused_juji_desu_ka
-    .asciz ".b:1Ｉｔ’ｓ　１０　ＡＭ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｓｏｎ　ｌａｓ　１０，　.b:0ｈｕｈ？.8:1"
 endtext
 
 text text_rap_women_unused_oyatsu_desu_ka
-    .asciz ".b:1Ｉｔ’ｓ　ｓｎａｃｋ　ｔｉｍｅ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ａ　ｍｅｒｅｎｄａｒ，　.b:0ｈｕｈ？.8:1"
 endtext
 
 text text_rap_women_unused_naisho_desu_ka
-    .asciz ".b:1Ｗｈｏ’ｓ　ｔｏ　ｋｎｏｗ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｑｕｉｅｎ　ｓａｂｒａ，　.b:0ｈｕｈ？.8:1"
 endtext
 
 text text_rap_women_unused_kare_no_oyatsu_da_ne
-    .asciz ".9:1Ｔｈｅｓｅ　ａｒｅ　ａｌｌ　ｔｈｅｉｒ　ｓｎａｃｋｓ，.9:0　ｙａ　ｓｅｅ？.8:1"
+    .asciz ".9:1Ｐｉｌｌｅ　ｌｏｓ　ｓｎａｃｋｓ，　.9:0Ｙａ　ｖｅｓ？.8:1"
 endtext
 
 text text_rap_women_unused_tabeteii_kamo_ne
-    .asciz ".9:1Ｅａｔ　’ｅｍ　ａｌｌ　ｕｐ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ｃｏｍａｍｏｓｌｏｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_women_unused_aketeii_kamo_ne
-    .asciz ".9:1Ｏｐｅｎ　’ｅｍ　ｕｐ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ａｂｒａｍｏｓｌｏｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_women_unused_oyatsu_wa_saikou
-    .asciz ".a:1Ｓｎａｃｋｉｎｇ　ｉｓ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｍｅｒｅｎｄａｒ　ｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_women_unused_kibun_wa_saikou
-    .asciz ".a:1Ｉ　ｆｅｅｌ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｍｅ　ｓｉｅｎｔｏ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_women_unused_amakute_saikou
-    .asciz ".a:1Ｓｗｅｅｔｓ　ａｒｅ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｔｏｄｏ　ｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_women_unused_betsubara_saikou
-    .asciz ".a:1Ｃａｋｅｓ　ａｒｅ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｌａ　ｔａｒｔａ　ｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_women_unused_kare_ni_wa_naisho
-    .asciz ".a:1Ｃｌｕｅｌｅｓｓ　ｔｈａｔ　ｗｅ　.a:0ＳＴＯＬＥ　'ＥＭ！.8:1"
+    .asciz ".a:1Ｑｕｅ　ｐｌａｎ　ｔａｎ　.a:0Ｓｉｍｐｌｅ！.8:1"
 endtext
 
 text text_rap_women_unused_dare_ni_mo_naisho
-    .asciz ".a:1Ｔｅｌｌ　’ｅｍ　ｗｅ　ａｒｅ　.a:0ＬＯＡＴＨＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｓｏｍｏｓ　.a:0Ｉｎｃｏｒｒｅｇｉｂｌｅｓ！.8:1"
 endtext
 
 

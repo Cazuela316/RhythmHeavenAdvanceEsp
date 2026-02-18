@@ -328,7 +328,7 @@ void start_campaign_notice(s32 id) {
     if (!isSpecialSong) {
     strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
     } else {
-        strcat(string, "WISH - Can't Wait\n for You");
+        strcat(string, "DESEO - Me duele\n seguir esperando");
     }
     strcat(string, "\n"); // "
     if (isStandardSong) {

@@ -36,7 +36,7 @@ const char *drum_live_menu_poster_desc[] = {
     "\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Paseo Nocturno\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Baile Astral\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Honey Sweet Angel of Love\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Mi dulce ㌘ngel\n"
     "\n",
     
     /* DRUM BOYS  */
@@ -44,8 +44,8 @@ const char *drum_live_menu_poster_desc[] = {
     "\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Trio Saleroso\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Prueba de Claqu⑱\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　WISH - Can't Wait For You\n"
-    "\n",
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　DESEO - Me duele seguir\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "esperando\n",
 
     /* DRUM BAND  */
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Samurai Drummer's\n"

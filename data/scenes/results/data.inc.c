@@ -20,9 +20,9 @@ const char *results_letter_ranks[] = {
 
 // [D_089d7998] DEBUG Skill Comments - Accuracy
 const char *results_skill_text_accuracy[] = {
-    "Ｐｒｏｆｅｓｓｉｏｎａｌ　ａｃｃｕｒａｃｙ",
-    "Ｓｅｎｓｅ　ｏｆ　ｒｈｙｔｈｍ",
-    "Ｓａｔｉｓｆｙｉｎｇ　ａｃｃｕｒａｃｙ",
+    "Ｐｒｅｃｉｓｉｏｎ　Ｐｒｏｆｅｓｉｏｎａｌ",
+    "Ｓｅｎｔｉｄｏ　ｄｅｌ　ｒｉｔｍｏ",
+    "Ｐｒｅｃｉｓｉｏｎ　ｓａｔｉｓｆａｃｔｏｒｉａ",
     NULL
 };
 
@@ -32,9 +32,9 @@ const char *results_skill_text_accuracy[] = {
     // Adaptability
     // Reflexes
 const char *results_skill_text_barely_trk2[] = {
-    "Ｔｅｃｈｎｉｑｕｅ　Ｌｅｖｅｌ",
-    "Ａｄａｐｔａｂｉｌｉｔｙ",
-    "Ｒｅｆｌｅｘｅｓ",
+    "Ｎｉｖｅｌ　ｔｅｃｎｉｃｏ",
+    "Ａｄａｐｔａｂｉｌｉｄａｄ",
+    "Ｒｅｆｌｅｊｏｓ",
     NULL
 };
 
@@ -44,27 +44,27 @@ const char *results_skill_text_barely_trk2[] = {
     //
     // Steadiness
 const char *results_skill_text_barely_trk1[] = {
-    "Ｒｅｓｐｏｎｓｉｂｉｌｉｔｙ",
-    "Ｔｈｅ　ｃｒｕｃｉａｌ　ｐａｒｔ",
-    "Ｓｔｅａｄｉｎｅｓｓ",
+    "Ｒｅｓｐｏｎｓａｂｉｌｉｄａｄ",
+    "Ｌａ　ｐａｒｔｅ　ｃｒｕｃｉａｌ",
+    "Ｅｓｔａｂｉｌｉｄａｄ",
     NULL
 };
 
 
 // [D_089d79c8] DEBUG Skill Comments - Hits
 const char *results_skill_text_hit_avg[] = {
-    "Ａｍａｔｅｕｒ－ｌｅｖｅｌ　ａｃｃｕｒａｃｙ",
-    "Ｏｒｄｉｎａｒｙ　ａｃｃｕｒａｃｙ",
-    "Ｍｏｄｅｒａｔｅ　ａｃｃｕｒａｃｙ",
+    "Ｐｒｅｃｉｓｉだｎ　ｎｉｖｅｌ　ａｍａｔｅｕｒ",
+    "Ｐｒｅｃｉｓｉだｎ　ｏｒｄｉｎａｒｉａ",
+    "Ｐｒｅｃｉｓｉだｎ　ｍｏｄｅｒａｄａ",
     NULL
 };
 
 
 // [D_089d79d8] DEBUG Skill Comments - Irrelevant Inputs
 const char *results_skill_text_irrelevant_inputs[] = {
-    "Ｓｔａｍｉｎａ　ｒｅｓｏｕｒｃｅｆｕｌｎｅｓｓ",
-    "Ｒａｔｉｏｎａｌ　ｔａｌｅｎｔ",
-    "Ｃａｌｍｎｅｓｓ",
+    "Ｒｅｓｉｓｔｅｎｃｉａ　ｅ　ｉｎｇｅｎｉｏ",
+    "Ｔａｌｅｎｔｏ　ｒａｃｉｏｎａｌ",
+    "Ｃａｌｍａ",
     NULL
 };
 
@@ -72,7 +72,7 @@ const char *results_skill_text_irrelevant_inputs[] = {
 // [D_089d79e8] DEBUG Skill Comments - Accuracy (Lenient)
 const char *results_skill_text_accuracy_lenient[] = {
     "Ｅｓｔａｂｉｌｉｄａｄ",
-    "Ｔｈｅ　ｃｏｒｅ　ｏｆ　ｙｏｕｒ　ｒｈｙｔｈｍ",
+    "Ｅｌ　ｎｕｃｌｅｏ　ｄｅ　ｔｕ　ｒｉｔｍｏ",
     "Ｃｏｎｓｉｓｔｅｎｃｉａ",
     NULL
 };
@@ -81,7 +81,7 @@ const char *results_skill_text_accuracy_lenient[] = {
 // [D_089d79f8] DEBUG Skill Comments - Misses
 const char *results_skill_text_miss[] = {
     "Ｍｏｔｉｖａｃｉｏｎ",
-    "Ｖｉｓｕａｌ　ａｃｕｉｔｙ",
+    "Ａｇｕｄｅｚａ　ｖｉｓｕａｌ",
     "Ｐｏｓｉｔｉｖｉｓｍｏ",
     NULL
 };
@@ -89,22 +89,22 @@ const char *results_skill_text_miss[] = {
 
 // [D_089d7a08] DEBUG Skill Comments - Misses (Tracker 2)
 const char *results_skill_text_miss_trk2[] = {
-    "Ｒｅｆｌｅｘｅｓ",
-    "Ｆｌｅｘｉｂｉｌｉｔｙ",
-    "Ｃａｒｅｆｕｌｎｅｓｓ",
+    "Ｒｅｆｌｅｊｏｓ",
+    "Ｆｌｅｘｉｂｉｌｉｄａｄ",
+    "Ｃｕｉｄａｄｏ",
     NULL
 };
 
 
 // [D_089d7a18] DEBUG Skill Comments - Random
 const char *results_skill_text_random[] = {
-    "Ｌｏｖｅ　ｆｏｒｔｕｎｅ　ｆｏｒ　ｎｅｘｔ　ｙｅａｒ",
-    "Ｔｈｉｓ　ｙｅａｒ'ｓ　ｆｉｎａｎｃｉａｌ　ｆｏｒｔｕｎｅ",
-    "Ｔｏｍｏｒｒｏｗ'ｓ　ｗｅａｔｈｅｒ",
+    "Ｆｏｒｔｕｎａ　ａｍｏｒｏｓａ　（Ｐｒｏｘ　ａぜｏ）",
+    "Ｆｏｒｔｕｎａ　ｆｉｎａｎｃｉｅｒａ",
+    "Ｅｌ　ｃｌｉｍａ　ｄｅ　ｍａぜａｎａ",
     "Ｃｅｎａ　ｄｅ　ａｙｅｒ",
-    "（Ｐｒｅｄｉｃｔｉｎｇ）　Ｙｏｕｒ　ｂｌｏｏｄ　ｔｙｐｅ",
-    "Ｙｏｕｒ　ｌｅｖｅｌ　ｏｆ　ｕｐｂｒｉｎｇｉｎｇ",
-    "Ｙｏｕｒ　ｈｕｍａｎｉｔｙ",
+    "Ｔｕ　ｔｉｐｏ　ｄｅ　ｓａｎｇｒｅ",
+    "Ｔｕ　ｎｉｖｅｌ　ｄｅ　ｅｄｕｃａｃｉｏｎ",
+    "Ｔｕ　ｈｕｍａｎｉｄａｄ",
     NULL
 };
 
