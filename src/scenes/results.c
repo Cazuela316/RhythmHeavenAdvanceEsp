@@ -544,7 +544,7 @@ void results_render_skill_screen(void) {
     char numString[0x20];
     u32 badInputScore, score, level;
 
-    textAnim = bmp_font_obj_print_c(gResults->objFont, ":1" "��������" ":0" "�@�@�m�������@�@" ":1" "��������", 0, 7);
+    textAnim = bmp_font_obj_print_c(gResults->objFont, ":1" "＊＊＊＊" ":0" "　　Ｎｏｔａ　　" ":1" "＊＊＊＊", 0, 7);
     sprite_create(gSpriteHandler, textAnim->frames, 0, 120, 16, 0x4800, 1, 0, 0);
 
     results_tracker_calculate_skill_averages();
@@ -585,7 +585,7 @@ void results_render_skill_screen(void) {
     }
 
     strintf(numString, score);
-    memcpy(scoreString, ".5:1" "�q�|�h�p�@�@" ".6:0", 21);
+    memcpy(scoreString, ".5:1" "Ｒ－ＩＱ　　" ".6:0", 21);
     strcat(scoreString, numString);
 
     textAnim = bmp_font_obj_print_r(gResults->objFont, scoreString, 0, 0);
