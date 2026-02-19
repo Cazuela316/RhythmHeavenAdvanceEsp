@@ -23,11 +23,11 @@ const char D_0805b094[] = "Aˆ¦n necesitas trabajar en lo basico.";
 
 const char D_0805b0b0[] = "";
 
-const char D_0805b0b4[] = "Tus contrarritmos est‡cn mal.";
+const char D_0805b0b4[] = "Tus contraritmos est‡cn mal.";
 
-const char D_0805b0d0[] = "Tus contrarritmos sobresalieron!";
+const char D_0805b0d0[] = "Tus contraritmos sobresalieron!";
 
-const char D_0805b0e8[] = "El polirritmo arruin‡i tus tiempos!";
+const char D_0805b0e8[] = "El poliritmo arruin‡i tus tiempos!";
 
 const char D_0805b110[] = "No pudiste usar tus dos manos";
 
