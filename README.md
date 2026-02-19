@@ -86,7 +86,7 @@ If you have any other questions or concerns, join the [RHModding discord server]
 
 #### Unas gracias especiales a itaific, sin el no hubiera sabido todo sobre el modding de este increible juego, en serio, muchas gracias!
 
-Arreglos de codigo (?):
+Bug Fixing:
 + patataofcourse
 
 Ediciones Graficas:
