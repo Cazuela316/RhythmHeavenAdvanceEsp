@@ -163,7 +163,7 @@ struct GraphicsTable space_dance_remix_3_gfx_table[] = {
         /* Size  */ COMPRESSED_GFX_SOURCE
     },
     /* OBJ Tileset */ {
-        /* Src.  */ &space_dance_obj,
+        /* Src.  */ &space_dance_remix3_obj,
         /* Dest. */ OBJ_TILESET_BASE(0),
         /* Size  */ COMPRESSED_GFX_SOURCE
     },
@@ -173,7 +173,7 @@ struct GraphicsTable space_dance_remix_3_gfx_table[] = {
         /* Size  */ 0x140
     },
     /* OBJ Palette */ {
-        /* Src.  */ space_dance_obj_pal,
+        /* Src.  */ space_dance_obj_pal_remix_3,
         /* Dest. */ OBJ_PALETTE_BUFFER(0),
         /* Size  */ 0x140
     },

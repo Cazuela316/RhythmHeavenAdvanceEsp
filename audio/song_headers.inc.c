@@ -5304,7 +5304,7 @@ extern const u8 s_rap_oresira_naiyo_mid[];
 struct SongHeader s_rap_oresira_naiyo_seqData = {
     #ifdef SFX
     /* MIDI Sequence */ s_rap_oresira_naiyo_en_mid,
-    #else
+    #else /* Hay que editar esto okei? (creo) */
     /* MIDI Sequence */ s_rap_oresira_naiyo_mid,
     #endif
     /* Sound Player  */ SFX_PLAYER_1,

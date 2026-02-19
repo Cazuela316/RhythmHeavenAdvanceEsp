@@ -5811,6 +5811,10 @@
         {
             "sample": "shockshort.wav",
             "pitch": "C5"
+        },
+        {
+            "sample": "RAPMEN_EN_INVISIBLE.wav",
+            "pitch": "C5"
         }
     ]
 }

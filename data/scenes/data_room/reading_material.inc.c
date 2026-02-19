@@ -284,10 +284,10 @@ struct ReadingMaterial reading_material_table[] = {
             "RN: Y si no fuera suficiente, dejaron una nota\n"
             "despues de comerse todo.\n"
             "DJ: Y que dec‡ea?\n"
-            "RN: Dec‡ea \"Los dulces son Incre‡ebles!\"\n"
+            "RN: Dec‡ea \"Los dulces son incre‡ebles!\"\n"
             "DJ: Oh wow. Que incorregibles.\n"
             "RN: Verdad!? Fue lo suficiente para hacerme gritar...\n"
-            "DJ: A que dijiste \"Que ya no hay Disponibles?!\"\n"
+            "DJ: A que dijiste \"Esto es imposible?!\"\n"
             "RN: Uh... Seh! Como sab‡eas eso?\n"
             #ifdef PARADISE
             "DJ: Porque he estado jugando Rhythm Paradise\n"

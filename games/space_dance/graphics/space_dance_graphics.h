@@ -53,6 +53,7 @@ extern struct CompressedData cosmic_dance_bg_map_2;
 extern struct CompressedData cosmic_dance_obj;
 extern struct CompressedData space_dance_remix_3_bg_tiles;
 extern struct CompressedData space_dance_remix_3_bg_map;
+extern struct CompressedData space_dance_remix3_obj;
 extern struct CompressedData space_dance_obj;
 
 /* SPACE DANCE - PALETTES */
@@ -60,6 +61,7 @@ extern struct CompressedData space_dance_obj;
 extern Palette space_dance_obj_pal[];
 extern Palette space_dance_bg_pal[];
 extern Palette space_dance_remix_3_bg_pal[];
+extern Palette space_dance_obj_pal_remix_3[];
 
 /* COSMIC DANCE - ANIMATIONS */
 

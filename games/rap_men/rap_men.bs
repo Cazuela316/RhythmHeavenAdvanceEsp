@@ -100,11 +100,11 @@ text text_rap_men_herushii_kamo_ne
 endtext
 
 text text_rap_men_ore_no_sei_kamo_ne
-    .asciz ".9:1Ｆｕｉｍｏｓ　ｑｕｉｚａｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
+    .asciz ".9:1Ｎｏ　ｅｓｔいｎ　ａｑｕざ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_men_sore_mo_sou_kamo_ne
-    .asciz ".9:1Ａｓｉ　ｅｓ　ｑｕｅ　ｆｕｅ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
+    .asciz ".9:1Ａｓｉ　ｅｓ　ｃｏｍｏ　ｆｕｅ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_men_tanoshii_kamo_ne
@@ -128,11 +128,11 @@ text text_rap_men_kimi_tte_saikou
 endtext
 
 text text_rap_men_oyatsu_ga_nai_yo
-    .asciz ".a:1Ｑｕｅ　ｙａ　ｎｏ　ｈａｙ　.a:0Ｄｉｓｐｏｎｉｂｌｅｓ！？.8:1"
+    .asciz ".a:1Ｅｓｔｏ　ｅｓ　.a:0Ｉｍｐｏｓｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_men_ore_shiranai_yo
-    .asciz ".a:1Ｓｕｐｏｎｇｏ　ｓｏｎ　.a:0Ｐｒｅｓｃｉｎｄｉｂｌｅｓ！.8:1"
+    .asciz ".a:1Ｑｕｉｚい　ｓｏｎ　.a:0Ｉｎｖｉｓｉｂｌｅｓ！.8:1"
 endtext
 
 

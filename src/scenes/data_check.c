@@ -53,7 +53,7 @@ void data_check_scene_start(void *sVar, s32 dArg) {
         gDataCheck->textLineSprites[i] = -1;
     }
 
-    data_check_print_line(0, 1, "Gameplay Logs"); // Gameplay Logs
+    data_check_print_line(0, 1, "Registros de Gameplays"); // Gameplay Logs
     gDataCheck->currentPage = 0;
     gDataCheck->totalPages = game_select_get_total_levels();
     data_check_print_page(gDataCheck->currentPage);
@@ -164,7 +164,7 @@ void data_check_print_page(s32 id) {
     }
 
     memcpy(string, "  ", 3);
-    strcat(string, "Average Points: "); // Average Points:
+    strcat(string, "Promedio de puntos: "); // Average Points:
     strcat(string, number);
 
     if (avgPoints != DEFAULT_LEVEL_SCORE) {
@@ -178,24 +178,24 @@ void data_check_print_page(s32 id) {
     firstSuperb = saveData->levelFirstSuperb[id];
 
     memcpy(string, "  ", 3);
-    strcat(string, "Number of Times Played: "); // Number of Times Played:
+    strcat(string, "Veces jugado: "); // Number of Times Played:
     strintf(number, totalPlays);
     strcat(string, number);
     data_check_print_line(4, 0, string);
 
     if (totalPlays > 0) {
         memcpy(string, "  ", 3);
-        strcat(string, "( First OK: Attempt "); // ( First OK:
+        strcat(string, "( Primer OK: Intento "); // ( First OK:
 
         if (firstOK == 0) {
-            strcat(string, "None Yet"); // Not Yet
+            strcat(string, "Aun ninguno!"); // Not Yet
         } else {
             strintf(number, firstOK);
             strcat(string, number);
             strcat(string, ""); // [x]th Time
         }
 
-        strcat(string, "     First Superb: Attempt "); // First Superb:
+        strcat(string, "     Primer Genial: Intento "); // First Superb:
 
         if (firstSuperb == 0) {
             strcat(string, "0 )"); // Not Yet )

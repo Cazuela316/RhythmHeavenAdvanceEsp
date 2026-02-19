@@ -526,7 +526,7 @@ union Instrument inst_bank_15[] = {
     /* 016 */ { .pcm = &instrument_pcm_0430 }, NULL,                            { .pcm = &instrument_pcm_0431 }, { .pcm = &instrument_pcm_0432 },
     /* 020 */ { .pcm = &instrument_pcm_0433 }, { .pcm = &instrument_pcm_0434 }, { .pcm = &instrument_pcm_0435 }, { .pcm = &instrument_pcm_0436 },
     /* 024 */ { .pcm = &instrument_pcm_0437 }, { .pcm = &instrument_pcm_0438 }, { .pcm = &instrument_pcm_0439 }, NULL,
-    /* 028 */ NULL,                            { .pcm = &instrument_pcm_0440 }, { .pcm = &instrument_pcm_0441 }, { .pcm = &instrument_pcm_0442 },
+    /* 028 */ { .pcm = &instrument_pcm_2568 }, { .pcm = &instrument_pcm_0440 }, { .pcm = &instrument_pcm_0441 }, { .pcm = &instrument_pcm_0442 },
     /* 032 */ { .pcm = &instrument_pcm_0443 }, { .pcm = &instrument_pcm_0444 }, { .pcm = &instrument_pcm_0445 }, { .pcm = &instrument_pcm_0446 },
     /* 036 */ { .pcm = &instrument_pcm_0447 }, { .pcm = &instrument_pcm_0448 }, { .pcm = &instrument_pcm_0449 }, { .pcm = &instrument_pcm_0450 },
     /* 040 */ { .spl = &instrument_spl_0451 }, { .pcm = &instrument_pcm_0452 }, NULL,                            NULL,
