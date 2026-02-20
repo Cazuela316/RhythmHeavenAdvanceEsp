@@ -877,23 +877,28 @@ const char *cafe_dialogue_ranks_and_medals[] = {
 const char *cafe_dialogue_test[] = {
     /* ------------------------------------------------ */
         "\n"
-        "Frase test.\n"
+        "Oye, supiste de esa nueva consola que\n"
+        "Nontendo anunci‡i?\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Se llama como, \"Nontendo S‡cndwich\"\n"
+        "o algo asi, si no mal recuerdo...\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Test.\n"
-        "Test.\n"
+        "Es un nombre algo raro para una\n"
+        "consola, no crees?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Test.\n"
-        "Otra frase.\n"
+        "Ah? No se llamaba asi?\n"
+        "Huh...\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Mucho texto.\n"
-        "Test.\n"
-        "Fin del test!",
+        "Jurar‡ea que se llamaba asi...\n"
+        "Supongo que quedarme dormido tan\n"
+        "tarde es malo despu‡Qs de todo!",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
