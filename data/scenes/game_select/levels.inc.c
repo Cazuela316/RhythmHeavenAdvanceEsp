@@ -34,11 +34,11 @@ struct LevelData level_data_table[] = {
     },
     /* CLAPPY_TRIO */ {
         /* Entry Scene   */ &scene_clappy_trio,
-        /* Level Name    */ "Trio Saleroso",
+        /* Level Name    */ "Tráeo Saleroso",
         /* Level Desc.   */ "Aplaudan en orden!\n"
                             "Eres el tercero.\n"
-                            "Asi que estate atento\n"
-							"con los otros dos!",
+                            "Asáe que estate atento\n"
+							"a los otros dos!",
         /* Level Icon    */ 4,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_clappy_trio_gfx_tables,
@@ -139,7 +139,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "No puedo vender esto!",
-            /* OK        */ "P-porque a mis vegetales les salen pelos!?",
+            /* OK        */ "P-por quáQ a mis vegetales les salen pelos!?",
             /* SUPERB    */ "Que fresco y limpio! Hasta el aire es delicioso!"
         }
     },
@@ -273,11 +273,11 @@ struct LevelData level_data_table[] = {
     },
     /* SAMURAI_SLICE */ {
         /* Entry Scene   */ &scene_samurai_slice,
-        /* Level Name    */ "Samurai Rebanador",
-        /* Level Desc.   */ "Demonios han puesto\n"
+        /* Level Name    */ "Samuráci Rebanador",
+        /* Level Desc.   */ "Los demonios han puesto\n"
                             "el pueblo en panico!\n"
-                            "Vamos samurai,\n"
-                            "rebanalos a todos!",
+                            "Vamos samuráci,\n"
+                            "rebácnalos a todos!",
         /* Level Icon    */ 18,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_samurai_slice_gfx_tables,
@@ -291,7 +291,7 @@ struct LevelData level_data_table[] = {
         /* Entry Scene   */ &scene_spaceball,
         /* Level Name    */ "Spacebáil",
         /* Level Desc.   */ "Ignora los zooms de\n"
-                            "la camara! Haz la\n"
+                            "la cácmara! Haz la\n"
                             "pelota volar! Sin llorar!\n"
                             "Ni parpadear!",
         /* Level Icon    */ 9,
@@ -507,7 +507,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_rat_race_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "O sea, supongo que podemos comer el plato...",
-            /* OK        */ "Sabes, Me gusta el queso. Pero asi, BASTANTE.",
+            /* OK        */ "Sabes? Me encanta el queso. Pero MUCHO.",
             /* SUPERB    */ "Con todos juntos es aun mejor!"
         }
     },
@@ -626,8 +626,8 @@ struct LevelData level_data_table[] = {
     /* BON_ODORI */ {
         /* Entry Scene   */ &scene_bon_odori,
         /* Level Name    */ "Bon Åô Odori",
-        /* Level Desc.   */ "Celebremos el Festival\n"
-                            "Japones Bon!\n"
+        /* Level Desc.   */ "Celebremos el tradicional\n"
+                            "Festival Bon!\n"
                             "Aplaude mientras\n"
                             "cantan su cancion!",
         /* Level Icon    */ 35,
@@ -666,9 +666,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix1_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Tu destreza fue como... Un premio para gato.",
-            /* OK        */ "Tu destreza fue como... Un desayuno promedio.",
-            /* SUPERB    */ "Tu destreza fue como... Una deliciosa cena!"
+            /* TRY_AGAIN */ "Tu destreza fue como... un premio para gato.",
+            /* OK        */ "Tu destreza fue como... un desayuno promedio.",
+            /* SUPERB    */ "Tu destreza fue como... una deliciosa cena!"
         }
     },
     /* REMIX_2 */ {
@@ -682,9 +682,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Eso estuvo animado como... Jugar a la pelota solo.",
-            /* OK        */ "Eso estuvo animado como... Un buen juego de atrapar.",
-            /* SUPERB    */ "Eso estuvo animado como... Un toreno de beisball!"
+            /* TRY_AGAIN */ "Eso estuvo animado como... jugar a la pelota solo.",
+            /* OK        */ "Eso estuvo animado como... un buen juego de atrapar.",
+            /* SUPERB    */ "Eso estuvo animado como... un toreno de beisball!"
         }
     },
     /* REMIX_3 */ {
@@ -698,9 +698,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix3_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Su amor termino... En la friendzone...",
-            /* OK        */ "Su amor termino... Siendo buenos amigos.",
-            /* SUPERB    */ "Su amor termino... En un lindo matrimonio!"
+            /* TRY_AGAIN */ "Su amor termino... en la friendzone...",
+            /* OK        */ "Su amor termino... siendo buenos amigos.",
+            /* SUPERB    */ "Su amor termino... en un lindo matrimonio!"
         }
     },
     /* REMIX_4 */ {
@@ -714,9 +714,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix4_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "El clima de hoy... Lloviendo a cantaros.",
-            /* OK        */ "El clima de hoy... Bastante nublando.",
-            /* SUPERB    */ "El clima de hoy... Totalmente despejado!"
+            /* TRY_AGAIN */ "El clima de hoy... lloviendo a cantaros.",
+            /* OK        */ "El clima de hoy... bastante nublando.",
+            /* SUPERB    */ "El clima de hoy... totalmente despejado!"
         }
     },
     /* REMIX_5 */ {
@@ -730,9 +730,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix5_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Esta pareja... Esta en problemas!",
-            /* OK        */ "Esta pareja... Esta un poco nerviosa...",
-            /* SUPERB    */ "Esta pareja... Vivira felices por siempre!"
+            /* TRY_AGAIN */ "Esta pareja... esta en problemas!",
+            /* OK        */ "Esta pareja... esta un poco nerviosa...",
+            /* SUPERB    */ "Esta pareja... vivira felices por siempre!"
         }
     },
     /* REMIX_6 */ {
@@ -746,9 +746,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix6_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Tu pecera... Esta bastante escasa.",
-            /* OK        */ "Tu pecera... Es bastante unica!",
-            /* SUPERB    */ "Tu pecera... Es increible!"
+            /* TRY_AGAIN */ "Tu pecera... esta bastante escasa.",
+            /* OK        */ "Tu pecera... es bastante unica!",
+            /* SUPERB    */ "Tu pecera... es increible!"
         }
     },
     /* REMIX_7 */ {
@@ -762,9 +762,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix7_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "La visita jurasica... Fue tenebrosa!",
-            /* OK        */ "La visita jurasica... Fue muy aburrida.",
-            /* SUPERB    */ "La visita jurasica... Fue muy divertida!"
+            /* TRY_AGAIN */ "La visita jurasica... fue tenebrosa!",
+            /* OK        */ "La visita jurasica... fue muy aburrida.",
+            /* SUPERB    */ "La visita jurasica... fue muy divertida!"
         }
     },
     /* REMIX_8 */ {
@@ -778,9 +778,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix8_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Tu paseo estuvo... Oh dios...",
-            /* OK        */ "Tu paseo estuvo... Un poco cansador.",
-            /* SUPERB    */ "Tu paseo estuvo... Absolutamente espectacular!"
+            /* TRY_AGAIN */ "Tu paseo estuvo... oh dios...",
+            /* OK        */ "Tu paseo estuvo... un poco cansador.",
+            /* SUPERB    */ "Tu paseo estuvo... absolutamente espectacular!"
         }
     },
     /* CAFE */ {

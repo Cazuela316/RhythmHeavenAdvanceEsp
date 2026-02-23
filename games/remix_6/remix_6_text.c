@@ -17,7 +17,7 @@ const char D_0806a81c[] = "";
 
 const char D_0806a838[] = "";
 
-const char D_0806a850[] = "Notas de la liga de ritmo:";
+const char D_0806a850[] = "Notas de la Liga de Ritmo:";
 
 const char D_0806a86c[] = "】Ｖｅａｍｏｓ　ｓｉ　ｈａｓ　ａｐｒｅｎｄｉｄｏ！";
 

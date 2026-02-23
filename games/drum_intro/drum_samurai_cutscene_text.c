@@ -49,8 +49,8 @@ const char D_0805e070[] =
 const char D_0805e0a8[] =
     "Como te fue?\n"
     "Conseguiste un\n"
-    "un resultado que\n"
-    "te dejo satisfecho?";
+    "resultado que te\n"
+    "dejo satisfecho?";
 
 const char D_0805e0d8[] =
     "Bueno, tu sentido del\n"

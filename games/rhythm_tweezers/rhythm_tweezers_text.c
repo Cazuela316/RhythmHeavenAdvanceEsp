@@ -27,7 +27,7 @@ const char D_0805b580[] = "\x05\x30" "\x01\x34" "\x03\x31" "\x01\x6d" "OK.";
 
 const char D_0805b590[] = "\x05\x34" "\x01\x38" "\x03\x30" "\x01\x73" "Con un pelo curvo, manten ‡M o ‡O hasta arrancarlo.";
 
-const char D_0805b5c8[] = "\x05\x34" "\x01\x38" "\x03\x30" "\x01\x73" "Cuando hayan muchos pelos, usa las dos manos.";
+const char D_0805b5c8[] = "\x05\x34" "\x01\x38" "\x03\x30" "\x01\x73" "Cuando haya muchos pelos, usa las dos manos.";
 
 const char D_0805b5f4[] = "\x05\x34" "\x01\x38" "\x03\x30" "\x01\x73" "Es hora de la verdad. Hazme sentir orgulloso.";
 

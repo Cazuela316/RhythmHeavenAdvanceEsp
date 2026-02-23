@@ -15,9 +15,9 @@ const char D_0805bac4[] = "Les diste hasta cuando estaban callados.";
 
 const char D_0805bae4[] = "Deberias empezar a contar por ti mismo.";
 
-const char D_0805bb04[] = "Tu contador interno estaba muy activo!";
+const char D_0805bb04[] = "No perdiste la cuenta!";
 
-const char D_0805bb20[] = "Les disparaste hasta a los mas lentos.";
+const char D_0805bb20[] = "Les disparaste hasta a los m‡cs lentos.";
 
 const char D_0805bb40[] = "z‚c‚…‚”‚¬‚@‚…‚“‚‚“@‚†‚‚‚”‚‚“‚‚‚“I";
 
@@ -47,8 +47,8 @@ const char D_0805bc1c[] = "Les diste hasta cuando estaban callados.";
 
 const char D_0805bc3c[] = "Deberias empezar a contar por ti mismo.";
 
-const char D_0805bc5c[] = "Tu contador interno estaba muy activo!";
+const char D_0805bc5c[] = "No perdiste la cuenta!";
 
-const char D_0805bc78[] = "Les disparaste hasta a los mas lentos.";
+const char D_0805bc78[] = "Les disparaste hasta a los m‡cs lentos.";
 
 const char D_0805bc98[] = "Las voces tenebrosas dicen...";

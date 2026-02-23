@@ -17,7 +17,7 @@ const char D_0806a084[] = "もっと　ウデを　みがこう。";
 
 const char D_0806a0a0[] = "とても　テクニカルだ！";
 
-const char D_0806a0b8[] = "Notas de la liga de ritmo:";
+const char D_0806a0b8[] = "Notas de la Liga de Ritmo:";
 
 const char D_0806a0d4[] =
     "\x05\x31" "\x01\x35" "　♪　Honey Sweet Angel of Love";
