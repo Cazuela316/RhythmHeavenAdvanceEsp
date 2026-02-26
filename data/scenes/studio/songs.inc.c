@@ -58,7 +58,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_karate_man
     },
     /* CLAPPY_TRIO */ {
-        /* Full Title  */ "Trio Saleroso",
+        /* Full Title  */ "Tr‡eo Saleroso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_clappy_trio
     },
@@ -108,7 +108,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_rhythm_tweezers
     },
     /* SNAPPY_TRIO */ {
-        /* Full Title  */ "El Tr‡eo garboso",
+        /* Full Title  */ "Tr‡eo garboso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_snappy_trio
     },
@@ -173,7 +173,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_quiz_show
     },
     /* POWER_CALLIGRAPHY */ {
-        /* Full Title  */ "Poder Caligrafico",
+        /* Full Title  */ "Poder Caligr‡cfico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_power_calligraphy
     },

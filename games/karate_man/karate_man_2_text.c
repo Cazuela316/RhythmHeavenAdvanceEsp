@@ -19,6 +19,6 @@ const char D_0805b41c[] = "Seguiste el ritmo en las partes lentas!";
 
 const char D_0805b43c[] = "Pense que no ibas a fallar el final...";
 
-const char D_0805b460[] = "Ni siquiera las partes lentas no fueron problema!";
+const char D_0805b460[] = "Las partes lentas ni fueron un problema!";
 
 const char D_0805b480[] = "El Maestro dice...";
