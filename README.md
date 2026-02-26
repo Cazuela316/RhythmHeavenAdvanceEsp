@@ -110,7 +110,12 @@ Correcciones Ortograficas:
 + Apolo
 
 SFXs:
-+ (En proceso...) 
++ (En proceso...)
+
+Directores de sonido:
++ KonKon
++ Vero
++ doremisui
 
 Debugging:
 + KonKon
