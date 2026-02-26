@@ -108,7 +108,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_rhythm_tweezers
     },
     /* SNAPPY_TRIO */ {
-        /* Full Title  */ "El Trio Garboso",
+        /* Full Title  */ "El Tr‡eo garboso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_snappy_trio
     },
@@ -118,12 +118,12 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_tap_trial_2
     },
     /* WIZARDS_WALTZ */ {
-        /* Full Title  */ "Vals Magico",
+        /* Full Title  */ "Vals M‡cgico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_wizards_waltz
     },
     /* MARCHING_ORDERS */ {
-        /* Full Title  */ "Marca Animosa",
+        /* Full Title  */ "Marcha Animosa",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_marching_orders
     },
@@ -163,7 +163,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_bunny_hop
     },
     /* TRAM_PAULINE */ {
-        /* Full Title  */ "Tram & Paulin",
+        /* Full Title  */ "Tram & Paul‡en",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_tram_pauline
     },

@@ -61,4 +61,4 @@ const char D_0805c964[] = "Sigue refinando tu rutina!";
 
 const char D_0805c984[] = "Tu tecnica es impecable!";
 
-const char D_0805c9a0[] = "La entrendora dice";
+const char D_0805c9a0[] = "La entrenadora dice";

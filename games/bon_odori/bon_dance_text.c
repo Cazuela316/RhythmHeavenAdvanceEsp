@@ -11,11 +11,11 @@ const char D_0806a3a4[] = "La primera parte estuvo muy buena!";
 
 const char D_0806a3bc[] = "La segunda parte estuvo fuera de ritmo.";
 
-const char D_0806a3e0[] = "La segunda parte estuvo increible!";
+const char D_0806a3e0[] = "La segunda parte estuvo incre‡eble!";
 
 const char D_0806a3fc[] = "";
 
-const char D_0806a400[] = "El final si que se intensifico!";
+const char D_0806a400[] = "El final s‡e que fue intenso!";
 
 const char D_0806a424[] = "El final estuvo de pelicula!";
 

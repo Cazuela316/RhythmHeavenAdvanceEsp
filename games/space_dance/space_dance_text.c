@@ -7,7 +7,7 @@
 
 const char D_0805e2ac[] = "Tu desorganizacion fue notada.";
 
-const char D_0805e2c8[] = "Tu estuviste sincronizado!";
+const char D_0805e2c8[] = "Te mantuviste en sincron‡ea!";
 
 const char D_0805e2e4[] = "Tu panico fue expresado.";
 
@@ -15,7 +15,7 @@ const char D_0805e300[] = "Poses la habilidad del buen ritmo!";
 
 const char D_0805e320[] = "Tu gran velocidad fue sentida antes del coro.";
 
-const char D_0805e344[] = "La parte antes del coro tenia perfeccion!";
+const char D_0805e344[] = "La parte antes del coro tenia perfecc‡eon!";
 
 const char D_0805e364[] = "El Abuelo Espacial dice...";
 

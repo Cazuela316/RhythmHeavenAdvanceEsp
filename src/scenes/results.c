@@ -693,7 +693,7 @@ u32 results_get_negative_comments(void) {
 const char *results_try_again_comment_pool[] = {
     "",
     "Tambien ",
-    "Ademas... "
+    "Adem‡cs... "
 };
 
 
@@ -785,7 +785,7 @@ s24_8 results_get_positive_comments(void) {
                     memcpy(commentsText, "Y ", 9); // ("moreover,")
                     break;
                 default:
-                    memcpy(commentsText, "Ademas ", 9); // ("also,")
+                    memcpy(commentsText, "Adem‡cs ", 9); // ("also,")
                     break;
             }
             strcat(commentsText, modifiedComment);
@@ -825,9 +825,9 @@ s24_8 results_get_positive_comments(void) {
 
 // [D_089d7b40] Rank Comment Pool (OK)
 const char *results_ok_comment_pool[] = {
-    "O sea, podrias hacerlo mejor.",
+    "O sea, podr‡eas hacerlo mejor.",
     "Esta bien...",
-    "Eh... No se...",
+    "Eh... No s‡Q...",
     "Huh..."
 };
 

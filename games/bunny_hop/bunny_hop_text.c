@@ -9,13 +9,13 @@ const char D_0805cbbc[] = "Estabas algo inseguro.";
 
 const char D_0805cbd4[] = "Un muy buen y seguro ritmo!";
 
-const char D_0805cbec[] = "no pudiste seguir el flow...";
+const char D_0805cbec[] = "No pudiste seguir el flow...";
 
-const char D_0805cc10[] = "tu flow estaba increible!";
+const char D_0805cc10[] = "Tu flow estaba increible!";
 
-const char D_0805cc28[] = "fallaste muchas de las pausas.";
+const char D_0805cc28[] = "Fallaste muchas de las pausas.";
 
-const char D_0805cc48[] = "lograste las pausas muy bien!";
+const char D_0805cc48[] = "Lograste las pausas muy bien!";
 
 const char D_0805cc68[] = "Ｙ　ａｈｏｒａ．．．";
 

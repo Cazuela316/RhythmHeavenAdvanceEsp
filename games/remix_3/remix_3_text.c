@@ -17,7 +17,7 @@ const char D_0806a084[] = "もっと　ウデを　みがこう。";
 
 const char D_0806a0a0[] = "とても　テクニカルだ！";
 
-const char D_0806a0b8[] = "Notas de la Liga de Ritmo:";
+const char D_0806a0b8[] = "Notas de la Liga del Ritmo:";
 
 const char D_0806a0d4[] =
     "\x05\x31" "\x01\x35" "　♪　Honey Sweet Angel of Love";
@@ -33,4 +33,4 @@ const char D_0806a134[] =
 
 const char D_0806a154[] =
     "\n"
-    "\x05\x31" "\x01\x35" "\x01\x43" "Manejado por J.P. ROOM";
+    "\x05\x31" "\x01\x35" "\x01\x43" "En colaboracion con J.P. ROOM";

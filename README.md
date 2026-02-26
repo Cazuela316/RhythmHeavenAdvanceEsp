@@ -104,6 +104,7 @@ Traduccion y Localizacion:
 + TheSpheric
 
 Correcciones Ortograficas:
++ David Mismos
 + Darcy
 + Mako
 + Apolo

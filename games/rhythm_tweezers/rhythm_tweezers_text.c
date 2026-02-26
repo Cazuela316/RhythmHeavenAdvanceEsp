@@ -15,7 +15,7 @@ const char D_0805b4d0[] = "Los pelos curvos no se te resistieron!";
 
 const char D_0805b4ec[] = "Te costo mucho los vegetales con mucho pelo.";
 
-const char D_0805b510[] = "Lo hiciste increible en las partes peludas!";
+const char D_0805b510[] = "Lo hiciste incre‡eble en las partes peludas!";
 
 const char D_0805b530[] = "Comentarios del granjero";
 
@@ -41,7 +41,7 @@ const char D_0805b654[] = "Los pelos curvos no se te resistieron!";
 
 const char D_0805b670[] = "Te costo mucho los vegetales con mucho pelo.";
 
-const char D_0805b694[] = "Lo hiciste increible en las partes peludas!";
+const char D_0805b694[] = "Lo hiciste incre‡eble en las partes peludas!";
 
 const char D_0805b6b8[] = "Arrancabas pelos como una maquina!";
 

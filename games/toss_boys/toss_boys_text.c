@@ -7,7 +7,7 @@
 
 const char D_0805d618[] = "Tienen que practicar mas sus tajadas.";
 
-const char D_0805d634[] = "Sus tajadas fueron increibles!";
+const char D_0805d634[] = "Sus tajadas fueron incre‡ebles!";
 
 const char D_0805d64c[] = "Parecian estar un poco tensos.";
 
@@ -17,7 +17,7 @@ const char D_0805d678[] = "La velocidad les gano.";
 
 const char D_0805d694[] = "La velocidad no es nada para ustedes!";
 
-const char D_0805d6b0[] = "Tips del ‡clbitro";
+const char D_0805d6b0[] = "Notas del ‡crbitro";
 
 const char D_0805d6c4[] =
     "\n"
@@ -29,7 +29,7 @@ const char D_0805d6d4[] =
 
 const char D_0805d6e0[] = "Tienen que practicar mas sus tajadas.";
 
-const char D_0805d6fc[] = "Sus tajadas fueron increibles!";
+const char D_0805d6fc[] = "Sus tajadas fueron incre‡ebles!";
 
 const char D_0805d714[] = "Parecian estar un poco tensos.";
 
@@ -39,7 +39,7 @@ const char D_0805d740[] = "La velocidad les gano.";
 
 const char D_0805d75c[] = "La velocidad no es nada para ustedes!";
 
-const char D_0805d778[] = "Tips del ‡clbitro";
+const char D_0805d778[] = "Notas del ‡crbitro";
 
 const char D_0805d78c[] =
     "\n"
@@ -54,7 +54,7 @@ const char D_0805d7b4[] =
     "Muy bien! Practiquemos un poco antes!";
 
 const char D_0805d7cc[] =
-    "Tecnica de taje 1:\n"
+    "T‡Qcnica de tajo 1:\n"
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Pase A-B de Carmen" "\x03\x30" "\x01\x73" "\x05\x34" "\x01\x38";
 
 const char D_0805d7fc[] =
@@ -66,7 +66,7 @@ const char D_0805d80c[] =
     "Que buenas tajadas!";
 
 const char D_0805d818[] =
-    "Tecnica de taje 2:\n"
+    "T‡Qcnica de tajo 2:\n"
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Pase rebote de Cefir" "\x03\x30" "\x01\x73" "\x05\x34" "\x01\x38";
 
 const char D_0805d848[] =
@@ -78,7 +78,7 @@ const char D_0805d85c[] =
     "Bien hecho, chicos!";
 
 const char D_0805d86c[] =
-    "Tecnica de taje 3:\n"
+    "T‡Qcnica de tajo 3:\n"
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Pase rapido de Yema" "\x03\x30" "\x01\x73" "\x05\x34" "\x01\x38";
 
 const char D_0805d8a0[] =

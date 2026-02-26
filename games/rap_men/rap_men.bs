@@ -76,63 +76,63 @@ return
 @ Rap Men - Text
 
 text text_rap_men_sanji_desu_ka
-    .asciz ".b:1Ｓｏｎ　ｌａｓ　３，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｓｏｎ　ｌａｓ　３，　.b:0【ｈｕｈ？.8:1"
 endtext
 
 text text_rap_men_oyatsu_desu_ka
-    .asciz ".b:1Ａ　ｍｅｒｅｎｄａｒ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ａ　ｍｅｒｅｎｄａｒ，　.b:0【ｈｕｈ？.8:1"
 endtext
 
 text text_rap_men_honto_desu_ka
-    .asciz ".b:1Ｐｕｅｄｅ　ｓｅｒ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｐｕｅｄｅ　ｓｅｒ，　.b:0【ｈｕｈ？.8:1"
 endtext
 
 text text_rap_men_wakarimasu_ka
-    .asciz ".b:1Ｌｏ　ｃａｐｔａｓ　ｙａ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｌｏ　ｃａｐｔａｓ　ｙａ，　.b:0【ｈｕｈ？.8:1"
 endtext
 
 text text_rap_men_oishii_kamo_ne
-    .asciz ".9:1Ｒｉｃｏｓ　ｓｎａｃｋｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
+    .asciz ".9:1Ｒｉｃｏｓ　ｓｎａｃｋｓ，　.9:0【ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_men_herushii_kamo_ne
-    .asciz ".9:1Ｂｏｃａｄｏｓ　ｓａｎｏｓ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
+    .asciz ".9:1Ｂｏｃａｄｏｓ　ｓａｎｏｓ，　.9:0【ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_men_ore_no_sei_kamo_ne
-    .asciz ".9:1Ｎｏ　ｅｓｔいｎ　ａｑｕざ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
+    .asciz ".9:1Ｎｏ　ｅｓｔいｎ　ａｑｕざ，　.9:0【ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_men_sore_mo_sou_kamo_ne
-    .asciz ".9:1Ａｓｉ　ｅｓ　ｃｏｍｏ　ｆｕｅ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
+    .asciz ".9:1Ａｓｉ　ｅｓ　ｃｏｍｏ　ｆｕｅ，　.9:0【ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_men_tanoshii_kamo_ne
-    .asciz ".9:1Ｑｕｅ　ｄｉｖｅｒｓｉｏｎ，　.9:0Ｍｅ　ｃａｐｔａｓ？.8:1"
+    .asciz ".9:1Ｑｕｅ　ｄｉｖｅｒｓｉだｎ，　.9:0【ｍｅ　ｃａｐｔａｓ？.8:1"
 endtext
 
 text text_rap_men_oyatsu_wa_saikou
-    .asciz ".a:1Ｍｅｒｅｎｄａｒ　ｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
+    .asciz ".a:1Ｍｅｒｅｎｄａｒ　ｅｓ　.a:0】ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_men_kibun_wa_saikou
-    .asciz ".a:1Ｍｅ　ｓｉｅｎｔｏ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
+    .asciz ".a:1Ｍｅ　ｓｉｅｎｔｏ　.a:0】ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_men_ore_tte_saikou
-    .asciz ".a:1Ｔｏｄｏ　ｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:1"
+    .asciz ".a:1Ｔｏｄｏ　ｅｓ　.a:0】ｉｎｃｒｅｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_men_kimi_tte_saikou
-    .asciz ".a:1Ｅｒｅｓ　.a:0Ｉｎｃｒｅｉｂｌｅ！.8:0"
+    .asciz ".a:1Ｅｒｅｓ　.a:0】ｉｎｃｒｅｉｂｌｅ！.8:0"
 endtext
 
 text text_rap_men_oyatsu_ga_nai_yo
-    .asciz ".a:1Ｅｓｔｏ　ｅｓ　.a:0Ｉｍｐｏｓｉｂｌｅ！.8:1"
+    .asciz ".a:1Ｅｓｔｏ　ｅｓ　.a:0】ｉｍｐｏｓｉｂｌｅ！.8:1"
 endtext
 
 text text_rap_men_ore_shiranai_yo
-    .asciz ".a:1Ｑｕｉｚい　ｓｏｎ　.a:0Ｉｎｖｉｓｉｂｌｅｓ！.8:1"
+    .asciz ".a:1Ｑｕｉｚい　ｓｏｎ　.a:0】ｉｎｖｉｓｉｂｌｅｓ！.8:1"
 endtext
 
 
