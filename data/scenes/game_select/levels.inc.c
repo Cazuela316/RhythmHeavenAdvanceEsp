@@ -833,10 +833,10 @@ struct LevelData level_data_table[] = {
     },
     /* DRUM_LESSONS */ {
         /* Entry Scene   */ &scene_lessons_menu,
-        /* Level Name    */ "Toca Bateria",
+        /* Level Name    */ "Toca Bater‡ea",
         /* Level Desc.   */ "Colecta medallas y\n"
                             "toma lecciones de\n"
-                            "bateria. Y asi te\n"
+                            "bater‡ea. Y asi te\n"
                             "volveras un maestro!",
         /* Level Icon    */ 48,
         /* Level Type    */ LEVEL_TYPE_BONUS,
