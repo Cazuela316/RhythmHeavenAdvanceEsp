@@ -523,7 +523,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_tram_pauline_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Hemos transformado el show en un fracaso...!",
-            /* OK        */ "Al menos arrinamos la mitad del show...",
+            /* OK        */ "Al menos arruinamos la mitad del show...",
             /* SUPERB    */ "Somos el duo perfecto!"
         }
     },

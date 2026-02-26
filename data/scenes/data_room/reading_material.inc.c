@@ -928,7 +928,7 @@ struct ReadingMaterial reading_material_table[] = {
             "\001C" "- Tu sentido de ritmo es -\n"
             "\0031" "\001m" "Tipo Timido" "\0030" "\001s" "\n"
             "\n"
-            "\001C" "as‡e que da nervios tu sentido de ritmo, huh?\n"
+            "\001C" "As‡e que te da nervios tu sentido de ritmo, huh?\n"
             "Todo el mundo tiene un sentido de ritmo.\n"
             "Si vives tu vida notado los ritmos que hay\n"
             "alrededor tuyo, tu sentido de ritmo mejorar‡c.\n"

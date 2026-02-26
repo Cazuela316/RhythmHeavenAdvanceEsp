@@ -464,7 +464,7 @@ void cafe_print_dialogue(void) {
                     // Weren't you playing it just now?
                     s = gCafe->string;
                     memcpy(s, "", 1);
-                    strcat(s, "\n");
+                    strcat(s, ""); // nose si esto sirva, pero si no, solo a?adele un /n entre los "", okei?
                     strcat(s, "Con que... \n");
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
