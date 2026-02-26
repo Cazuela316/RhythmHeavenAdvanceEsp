@@ -39,7 +39,7 @@ const char D_0805aee8[] = "Las partes r‡cpidas las hiciste con ‡Qxito!";
 
 const char D_0805af08[] = "Comentarios de tus pares";
 
-const char D_0805af14[] = "Hola, somos el Trio Saleroso!";
+const char D_0805af14[] = "Hola, somos el Tr‡eo Saleroso!";
 
 const char D_0805af30[] = "Nosotros aplaudimos a un ritmo constante.";
 
