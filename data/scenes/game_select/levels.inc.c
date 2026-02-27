@@ -66,7 +66,7 @@ struct LevelData level_data_table[] = {
     },
     /* POLYRHYTHM */ {
         /* Entry Scene   */ &scene_polyrhythm,
-        /* Level Name    */ "Poliritmo",
+        /* Level Name    */ "Polirritmo",
         /* Level Desc.   */ "Maneja los caminos\n"
 							"‡O y ‡M para que las\n"
 							"cosas rojas rueden!\n"
@@ -82,11 +82,11 @@ struct LevelData level_data_table[] = {
     },
     /* POLYRHYTHM_2 */ {
         /* Entry Scene   */ &scene_polyrhythm_2,
-        /* Level Name    */ "Poliritmo 2",
+        /* Level Name    */ "Polirritmo 2",
         /* Level Desc.   */ "Los caminos ‡O y ‡M\n"
                             "tienen patrones raros!\n"
                             "Conc‡Qntrate y juega\n"
-                            "al poliritmo!",
+                            "al polirritmo!",
         /* Level Icon    */ 51,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_polyrhythm_2_gfx_tables,

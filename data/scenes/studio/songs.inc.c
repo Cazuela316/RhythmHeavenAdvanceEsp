@@ -178,7 +178,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_power_calligraphy
     },
     /* POLYRHYTHM */ {
-        /* Full Title  */ "Poliritmo",
+        /* Full Title  */ "Polirritmo",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_polyrhythm
     },

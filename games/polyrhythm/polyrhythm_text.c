@@ -27,7 +27,7 @@ const char D_0805b0b4[] = "Tus contraritmos est‡cn mal.";
 
 const char D_0805b0d0[] = "Tus contraritmos sobresalieron!";
 
-const char D_0805b0e8[] = "El poliritmo arruin‡i tus tiempos!";
+const char D_0805b0e8[] = "El polirritmo arruin‡i tus tiempos!";
 
 const char D_0805b110[] = "No pudiste usar tus dos manos";
 
