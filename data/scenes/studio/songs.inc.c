@@ -58,7 +58,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_karate_man
     },
     /* CLAPPY_TRIO */ {
-        /* Full Title  */ "Trio Saleroso",
+        /* Full Title  */ "Tr‡eo Saleroso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_clappy_trio
     },
@@ -73,13 +73,13 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_space_dance
     },
     /* HONEY_SWEET_ANGEL */ {
-        /* Full Title  */ "Honey Sweet Angel Of Love",
-        /* Short Title */ "Honey Sweet Angel...",
+        /* Full Title  */ "Mi dulce ‡cngel",
+        /* Short Title */ "Mi dulce ‡cngel",
         /* Drum Script */ script_studio_honey_sweet_angel
     },
     /* WISH */ {
-        /* Full Title  */ "WISH - Can't Wait For You",
-        /* Short Title */ "WISH - Can't Wait...",
+        /* Full Title  */ "DESEO - Me duele seguir esperando",
+        /* Short Title */ "DESEO - Me duele...",
         /* Drum Script */ script_studio_wish
     },
     /* NIGHT_WALK */ {
@@ -108,7 +108,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_rhythm_tweezers
     },
     /* SNAPPY_TRIO */ {
-        /* Full Title  */ "El Trio Garboso",
+        /* Full Title  */ "Tr‡eo garboso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_snappy_trio
     },
@@ -118,17 +118,17 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_tap_trial_2
     },
     /* WIZARDS_WALTZ */ {
-        /* Full Title  */ "Vals Magico",
+        /* Full Title  */ "Vals M‡cgico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_wizards_waltz
     },
     /* MARCHING_ORDERS */ {
-        /* Full Title  */ "Marca Animosa",
+        /* Full Title  */ "Marcha Animosa",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_marching_orders
     },
     /* SPACEBALL */ {
-        /* Full Title  */ "Beisbol Espacial",
+        /* Full Title  */ "Spaceb‡il",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_spaceball
     },
@@ -163,22 +163,22 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_bunny_hop
     },
     /* TRAM_PAULINE */ {
-        /* Full Title  */ "Tram & Paulin",
+        /* Full Title  */ "Tram & Paul‡en",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_tram_pauline
     },
     /* QUIZ_SHOW */ {
-        /* Full Title  */ "Opening de Trivia Ritmica",
+        /* Full Title  */ "Opening de Trivia Show",
         /* Short Title */ "Opening de Trivia...",
         /* Drum Script */ script_studio_quiz_show
     },
     /* POWER_CALLIGRAPHY */ {
-        /* Full Title  */ "Poder Caligrafico",
+        /* Full Title  */ "Poder Caligr‡cfico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_power_calligraphy
     },
     /* POLYRHYTHM */ {
-        /* Full Title  */ "Poliritmo",
+        /* Full Title  */ "Polirritmo",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_polyrhythm
     },

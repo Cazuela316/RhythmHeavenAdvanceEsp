@@ -40,23 +40,23 @@ const char *cafe_dialogue_first_visit[] = {
     /* ------------------------------------------------ */
         "\n"
         "Bienvenido a la caf‡Qteria.\n"
-        "Es tu primera vez aqui, no?\n"
+        "Es tu primera vez aqu‡e, no?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Sientete libre de venir cuando sientas\n"
-        "que algun juego " "\0051" "\0015" "es muy dificil " "\0054" "\0018" "o\n"
+        "Si‡Qntete libre de venir cuando sientas\n"
+        "que algˆ¦n juego " "\0051" "\0015" "es muy dif‡ecil " "\0054" "\0018" "o\n"
         "si solo quieres conversar un rato.",
     /* ------------------------------------------------ */
         "\n"
-        "Si hay algun en donde\n"
+        "Si hay algo lo que\n"
         "pueda ayudarte," "\0051" "\0015" "\n"
         "para eso estoy." "\0054" "\0018" "",
     /* ------------------------------------------------ */
         "Estoy un poco ocupado ahora,\n"
         "reci‡Qn acabamos de abrir,\n"
         "pero despu‡Qs tendremos\n"
-        "mas tiempo para hablar.",
+        "m‡cs tiempo para hablar.",
     /* ------------------------------------------------ */
         "\n"
         "Nos vemos!\n"
@@ -78,7 +78,7 @@ const char *cafe_dialogue_come_back_later[] = {
     /* ------------------------------------------------ */
         "\n"
         "Estoy atendiendo unos clientes\n"
-        "Te hablo mas tarde.\n"
+        "Te hablo m‡cs tarde.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -106,18 +106,18 @@ const char *cafe_dialogue_come_back_later[] = {
 const char *cafe_dialogue_keep_trying[] = {
     /* ------------------------------------------------ */
         "\n"
-        "Sigue practicando y lo h‡cras\n"
+        "Sigue practicando y lo har‡cs\n"
         "bien. Te lo aseguro!\n" 
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Estoy bastante seguro que\n"
-        "solo jugar siguiendo la mˆ¦sica\n"
-        "es divertido de por s‡e.",
+        " Sigue movi‡Qndote al ritmo de\n"
+        "la mˆ¦sica, y te divertir‡cs\n"
+        "haci‡Qndolo.",
     /* ------------------------------------------------ */
         "\n"
-        "Intenta no estresarte por ah‡e\n"
-        "afuera. Asegurate de pasarla bien.\n"
+        "No dejes que eso te frustre.\n"
+        "Se supone debes pasarlo bien.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -140,13 +140,13 @@ const char *cafe_dialogue_keep_trying[] = {
 const char *cafe_dialogue_practicing_perfect[] = {
     /* ------------------------------------------------ */
         "\n"
-        "...Perdon por gritar. Me emocione\n"
+        "...Perd‡in por gritar. Me emocion‡Q\n"
         "un poco.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
         "Buena suerte con esos perfectos!\n"
-        "Nos vemos despues.\n"
+        "Nos vemos luego!\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -170,12 +170,12 @@ const char *cafe_dialogue_not_practicing_perfect[] = {
     /* ------------------------------------------------ */
         "\n"
         "Ah en serio? Mis disculpas entonces.\n"
-        "Supongo que no deberia apegarme\n"
+        "Supongo que no deber‡ea apegarme\n"
         "tanto a los rumores.",
     /* ------------------------------------------------ */
         "\n"
         "Disfruta los juegos a tu ritmo,\n"
-        "vale? Nos vemos despues.\n"
+        "vale? Nos vemos!\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -213,22 +213,22 @@ const char *cafe_dialogue_not_practicing_perfect[] = {
 const char *cafe_dialogue_all_perfects_clear[] = {
     /* ------------------------------------------------ */
         "\n"
-        "Si has llegado hasta aqui, tienes"
+        "Si has llegado hasta aqu‡e, tienes"
         "un sentido del ritmo fuera\n"
         "de este mundo!",
     /* ------------------------------------------------ */
         "\n"
         "Estoy muy orgulloso de ti,\n"
-        "Hasta solte lagrimas!\n"
+        "Hasta solt‡Q l‡cgrimas!\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Se que no es mucho,\n"
-        "pero he abierto mas canciones en\n"
+        "S‡Q que no es mucho,\n"
+        "pero he abierto mis canciones en\n"
         "la rocola, solo para ti.\n",
     /* ------------------------------------------------ */
         "\n"
-        "asi que eso significa que has coleccionado\n"
+        "as‡e que eso significa que has coleccionado\n"
         "todo?\n"
         "Impresionante!",
     /* ------------------------------------------------ */
@@ -268,7 +268,7 @@ const char *cafe_dialogue_shouts_praise[] = {
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
-    "Increible!" "\0030" "\001s" "\0054" "\0018",
+    "No est‡c mal!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
@@ -324,7 +324,7 @@ const char *cafe_dialogue_shouts_cheer[] = {
     /* ------------------------------------------------ */
         "\0032" "\001l" "\0051" "\0015" "\n"
         "\n"
-        "Sigue asi!" "\0030" "\001s" "\0054" "\0018",
+        "Sigue as‡e!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
         "\0032" "\001l" "\0051" "\0015" "\n"
         "\n"
@@ -368,14 +368,14 @@ const char *cafe_dialogue_rhythm_sense[] = {
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Well, not like my rhythm couldn't do with\n"
-        "a bit of work, but...\n"
+        "Bueno, no es como si mi sentido del\n"
+        "ritmo el mejor, pero...\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Cuando tu sentido del ritmo\n"
-        "mejora... seguro es\n"
-        "euforico, no?",
+        "Pero te sentir‡cs algo mas feliz\n"
+        "cuando encuentres tu sentido del ritmo,\n"
+        "estoy seguro.",
     /* ------------------------------------------------ */
         "\n"
         "Tal vez deber‡ea probar esos\n"
@@ -418,8 +418,8 @@ const char *cafe_dialogue_offbeats[] = {
     /* ------------------------------------------------ */
         "\n"
         "Seguramente hayas escuchado de algo\n"
-        "llamado contratiempo. Sabes\n"
-        "lo que es?",
+        "llamado contratiempo.\n"
+        "Sabes lo que es?",
     /* ------------------------------------------------ */
         "\n"
         "No soy ningˆ¦n experto pero creo\n"
@@ -427,8 +427,8 @@ const char *cafe_dialogue_offbeats[] = {
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Asi que, supongo que aplaudes junto\n"
-        "con los pulsos de la musica, no?\n"
+        "As‡e que, supongo que aplaudes junto\n"
+        "con los pulsos de la mˆ¦sica, no?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
@@ -436,9 +436,9 @@ const char *cafe_dialogue_offbeats[] = {
         "el punto exacto en medio de cada una\n"
         "de tus palmadas.",
     /* ------------------------------------------------ */
-        "\n"
         "O al menos eso creo, No soy muy bueno\n"
-        "explicando estas cosas, pero espero te ayude.\n"
+        "explicando estas cosas, pero espero te\n"
+        "ayude un poco.\n"
         "Nos vemos luego.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -476,28 +476,28 @@ const char *cafe_dialogue_offbeats[] = {
 const char *cafe_dialogue_rhythm_test[] = {
     /* ------------------------------------------------ */
         "\n"
-        "Say, have you tried doing the\n"
-        "Rhythm Test again?\n"
+        "Cu‡Qntame, has probado\n"
+        "el Ritmometro de nuevo?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I've been giving it a spin lately.\n"
-        "Seems like 65 points is my limit.\n"
+        "Yo si que le probado.\n"
+        "Pero mi m‡cximo son 65 puntos.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "That second test gives me quite\n"
-        "a bit of trouble.\n"
+        "El segundo Test si que\n"
+        "es complicado, no crees?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Counting those silent beats...\n"
-        "It's tricky, don't you think?\n"
-        "\n",
+        "Contar por tu cuenta...\n"
+        "Ahora que lo digo, suena un poco\n"
+        "tonto, no crees?\n",
     /* ------------------------------------------------ */
         "\n"
-        "Well, let's take it one step at a time.\n"
-        "See you around.\n"
+        "Pero bueno, la pr‡cctica hace al maestro.\n"
+        "Nos vemos despues.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -535,29 +535,29 @@ const char *cafe_dialogue_rhythm_test[] = {
 const char *cafe_dialogue_drum_lessons[] = {
     /* ------------------------------------------------ */
         "\n"
-        "You ever check out the drum\n"
-        "lessons in the bonus corner?\n"
+        "Has probado las lecciones que\n"
+        "est‡cn dentro del toca bater‡ea?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I've been taking lessons every week,\n"
-        "but I never seem to get any better.\n"
+        "He estado tomando lecciones cada\n"
+        "semana, pero siento que no mejoro.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "My teacher told me that I have a\n"
-        "bit of a problem pacing myself, that\n"
-        "I shouldn't push myself so much.",
+        "Mi profe me dijo que tengo un\n"
+        "problemita para medir mi ritmo,\n"
+        "que no deber‡ea exigirme tanto.",
     /* ------------------------------------------------ */
         "\n"
-        "But once you start getting into it,\n"
-        "it's hard to stop.\n"
+        "Pero una vez entras,\n"
+        "es dif‡ecil parar.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I guess no one can master the drums\n"
-        "in a day, though. We should take\n"
-        "our time with that stuff.",
+        "Aunque s‡e, es obvio que no me puedo\n"
+        "volver un maestro en un solo dia.\n"
+        "Hay que tomarse las cosas con calma.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
@@ -589,24 +589,24 @@ const char *cafe_dialogue_drum_lessons[] = {
 const char *cafe_dialogue_adhd[] = {
     /* ------------------------------------------------ */
         "\n"
-        "I'm not sure why, but man, am I tired...\n"
+        "Dios, pero vaya que estoy cansado...\n"
         "\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I was up last night playing until\n"
-        "who-knows-when...\n"
+        "Estuve despierto toda la noche jugando.\n"
+        "No pude evitarlo...\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Oops! Sorry. I'm talking to myself again.\n"
-        "Don't mind me.\n"
+        "Que? Ah, estaba hablando solo.\n"
+        "Era un mon‡ilogo... lo siento.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Want to go for a drive with me, sometime?\n"
-        "If that's alright with you, I mean.\n"
-        "See you around.",
+        "Te gustar‡ea salir a dar una vuelta\n"
+        "conmigo? O sea, si quieres, claro.\n"
+        "Nos vemos despues.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
@@ -638,22 +638,22 @@ const char *cafe_dialogue_adhd[] = {
 const char *cafe_dialogue_coffee[] = {
     /* ------------------------------------------------ */
         "\n"
-        "So, I made you some coffee.\n"
+        "Bien, aqu‡e esta tu caf‡Q.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Wait, you didn't order coffee?\n"
-        "Oh, this is from the person\n"
-        "sitting next to you. His treat.",
+        "Espera, no pediste un caf‡Q?\n"
+        "Oh, ya veo. Es para el\n"
+        "chico que esta a tu lado... Oops.",
     /* ------------------------------------------------ */
         "\n"
-        "He's not much for words, but\n"
-        "he's pretty friendly, and I guess\n"
-        "generous too.",
+        "El no es muy comunicativo, pero\n"
+        "es muy amigable, y supongo que\n"
+        "generoso igual.",
     /* ------------------------------------------------ */
         "\n"
-        "Me? I can make coffee, but...\n"
-        "need to work on the rest. Heh...\n"
+        "Ah? Claro que puedo hacer caf‡Q, pero\n"
+        "tengo que mejorar en lo dem‡cs. Jeje...\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -686,23 +686,23 @@ const char *cafe_dialogue_coffee[] = {
 const char *cafe_dialogue_dog_barista[] = {
     /* ------------------------------------------------ */
         "\n"
-        "By the way, I'm actually a dog.\n"
+        "Por cierto, Soy un perro.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "I'm nine years old. Pretty spry\n"
-        "for my age if I say so.\n"
+        "Acabo de cumplir 9. Bastante ‡cgil\n"
+        "para mi edad, si me preguntas.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Time goes by pretty fast when you're\n"
-        "as old as I am.\n"
+        "El tiempo pasa super r‡cpido, cuando\n"
+        "eres igual de viejo que yo.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "You're a human, right? They say I'm\n"
-        "supposed to be your best friend.\n"
-        "We'd better get along then!",
+        "Eres un humano, verdad? Se supone\n"
+        "que debo ser tu mejor amigo.\n"
+        "Asi que espero nos llevemos bien!",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
@@ -734,23 +734,23 @@ const char *cafe_dialogue_dog_barista[] = {
 const char *cafe_dialogue_healing_with_music[] = {
     /* ------------------------------------------------ */
         "\n"
-        "So, when you're sad, what do\n"
-        "you do to cheer yourself up?\n"
-        "Me, I listen to music.",
+        "Cu‡Qntame, que haces cuando est‡cs\n"
+        "triste para alegrarte?\n"
+        "Por mi parte, escucho mˆ¦sica.",
     /* ------------------------------------------------ */
         "\n"
-        "Dusting off a favorite record of mine\n"
-        "and taking a nostalgia trip...\n"
-        "That never fails to put me at ease.",
+        "Re escuchar mis discos favoritos\n"
+        "y dar un paseo por la nostalgia...\n"
+        "Eso siempre logra relajarme.",
     /* ------------------------------------------------ */
         "\n"
-        "Music's weird like that. Why does\n"
-        "it have such power over our feelings,\n"
-        "do you think?",
+        "La mˆ¦sica si que es rara. Por que\n"
+        "tendra ese tipo de poder en nosotros?\n"
+        "Te lo has preguntado?",
     /* ------------------------------------------------ */
         "\n"
-        "Maybe if I studied this stuff I'd know,\n"
-        "but I haven't! Sorry! Heh.\n"
+        "Tal vez si lo estudiara lo sabr‡ea,\n"
+        "pero no es el caso! Disculpa! Jeje.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
@@ -788,29 +788,29 @@ const char *cafe_dialogue_healing_with_music[] = {
 const char *cafe_dialogue_speaking_with_music[] = {
     /* ------------------------------------------------ */
         "\n"
-        "I heard you can hold a conversation\n"
-        "with only rhythm.\n"
+        "He escuchado que puedes tener una\n"
+        "conversaci‡in usando solo ritmo.\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "You can put words and meanings\n"
-        "behind different rhythms like morse\n"
-        "code and talk without speaking.",
+        "Puedes poner palabras y significados\n"
+        "detr‡cs de diferentes ritmos, como el\n"
+        "c‡idigo morse y hablar sin decir nada.",
     /* ------------------------------------------------ */
         "\n"
-        "Like, bang out a message into one\n"
-        "of those taiko drums, and you could\n"
-        "communicate acres apart.",
+        "Como, golpear uno de esos tambores\n"
+        "de taiko, y as‡e comunicarte a\n"
+        "metros de alguien.",
     /* ------------------------------------------------ */
         "\n"
-        "At least that's what a customer\n"
-        "once told me. Doesn't that sound\n"
-        "fun?",
+        "O al menos eso es lo que me dijo un\n"
+        "cliente. A que no suena super\n"
+        "divertido?",
     /* ------------------------------------------------ */
         "\n"
-        "But if you had percussive election\n"
-        "speeches or bongo arguments...\n"
-        "Expect a lot of noise. Ahahaha!",
+        "Pero imagina discursos electoriales\n"
+        "o discusiones con bongos...\n"
+        "Ser‡ea puro ruido. Jajaja!",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
@@ -848,7 +848,7 @@ const char *cafe_dialogue_ranks_and_medals[] = {
     /* ------------------------------------------------ */
         "\n"
         "Por cierto, has conseguido el\n"
-        "rango Genial en algun juego?\n"
+        "rango Genial en algˆ¦n juego?\n"
         "\n",
     /* ------------------------------------------------ */
         "\n"
@@ -867,13 +867,137 @@ const char *cafe_dialogue_ranks_and_medals[] = {
         "intenta conseguirlas.",
     /* ------------------------------------------------ */
         "\n"
-        "Aunque probablemente ya sabias eso,\n"
-        "no? Perdon si te aburri.\n"
+        "Aunque probablemente ya sab‡eas eso,\n"
+        "no? Perd‡in si te aburr‡e.\n"
         "Nos vemos despues.",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
 };
 
+const char *cafe_dialogue_test[] = {
+    /* ------------------------------------------------ */
+        "\n"
+        "Oye, supiste de esa nueva consola que\n"
+        "Nontendo anunci‡i?\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Se llama como, \"Nontendo S‡cndwich\"\n"
+        "o algo asi, si no mal recuerdo...\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Es un nombre algo raro para una\n"
+        "consola, no crees?\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Ah? No se llamaba asi?\n"
+        "Huh...\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Jurar‡ea que se llamaba asi...\n"
+        "Supongo que quedarme dormido tan\n"
+        "tarde es malo despu‡Qs de todo!",
+    /* ------------------------------------------------ */
+    END_OF_DIALOGUE
+};
+
+const char *cafe_dialogue_testdos[] = {
+    /* ------------------------------------------------ */
+        "\n"
+        "Frase test2.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Test.\n"
+        "Test.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Test.\n"
+        "Otra frase.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Mucho texto.\n"
+        "Test.\n"
+        "Fin del test!",
+    /* ------------------------------------------------ */
+    END_OF_DIALOGUE
+};
+
+const char *cafe_dialogue_testtres[] = {
+    /* ------------------------------------------------ */
+        "\n"
+        "Frase test3.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Test.\n"
+        "Test.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Test.\n"
+        "Otra frase.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Mucho texto.\n"
+        "Test.\n"
+        "Fin del test!",
+    /* ------------------------------------------------ */
+    END_OF_DIALOGUE
+};
+
+const char *cafe_dialogue_testcuatro[] = {
+    /* ------------------------------------------------ */
+        "\n"
+        "Frase 4.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Test.\n"
+        "Test.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Test.\n"
+        "Otra frase.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Mucho texto.\n"
+        "Test.\n"
+        "Fin del test!",
+    /* ------------------------------------------------ */
+    END_OF_DIALOGUE
+};
+
+const char *cafe_dialogue_testcinco[] = {
+    /* ------------------------------------------------ */
+        "\n"
+        "Frase 5.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Test.\n"
+        "Test.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Test.\n"
+        "Otra frase.\n"
+        "\n",
+    /* ------------------------------------------------ */
+        "\n"
+        "Mucho texto.\n"
+        "Test.\n"
+        "Fin del test!",
+    /* ------------------------------------------------ */
+    END_OF_DIALOGUE
+};
 
 // [D_089cd44c] Random Dialogue Pool
 const char **cafe_random_conversation_pool[] = {
@@ -886,5 +1010,10 @@ const char **cafe_random_conversation_pool[] = {
     cafe_dialogue_dog_barista,
     cafe_dialogue_healing_with_music,
     cafe_dialogue_speaking_with_music,
-    cafe_dialogue_ranks_and_medals
+    cafe_dialogue_ranks_and_medals,
+	cafe_dialogue_test,
+	cafe_dialogue_testdos,
+	cafe_dialogue_testtres,
+	cafe_dialogue_testcuatro,
+	cafe_dialogue_testcinco
 };

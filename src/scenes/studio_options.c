@@ -9,7 +9,7 @@
 // [D_089d841c] Options
 const char *studio_options_no_replay[] = {
     /* LISTEN */ "Tocar",
-    /* DRUM   */ "Tocar Tambor",
+    /* DRUM   */ "Tocar Bateria",
     /* SORT   */ "Mover",
     /* MARK   */ "Marcar"
 };

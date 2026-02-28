@@ -33,4 +33,4 @@ const char D_0805ba1c[] = "Bloqueaste todas las rocas!";
 
 const char D_0805ba40[] = "Desviaste dos rocas a la vez! Brillante!";
 
-const char D_0805ba68[] = "Mi novia con calma comenta...";
+const char D_0805ba68[] = "Mi novia comenta con calma...";

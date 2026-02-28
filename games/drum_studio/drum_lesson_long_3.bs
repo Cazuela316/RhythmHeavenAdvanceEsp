@@ -30,10 +30,10 @@ define_gameplay_scene scene_drum_lesson_long_3, script_drum_lesson_long_3_entry
 @ Drum Lesson (Long 3) - Data
 
 text D_08063308
-    .ascii "Listen to my pattern, then\n"
-    .ascii "repeat when you're ready.\n"
-    .ascii "I'll show it to you again\n"
-    .asciz "if you stop playing."
+    .ascii "Escucha el patr‡in, y\n"
+    .ascii "rep‡etelo cuando est‡Qs listo.\n"
+    .ascii "Repetir‡Q el patr‡in si\n"
+    .asciz "dejas de tocar."
 endtext
 
 

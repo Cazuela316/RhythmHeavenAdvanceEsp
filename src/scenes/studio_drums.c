@@ -6,7 +6,7 @@
 /* STUDIO DRUM LIST */
 
 
-// [D_089d83d0] Drum Kit Names
+// [D_089d83d0] Drum Kit Names 
 const char *studio_drum_kit_names[] = {
     /* DEFAULT */ "Tambor Normal",
     /* DRY     */ "Dry Drum",
@@ -22,7 +22,7 @@ const char *studio_drum_kit_names[] = {
     /* SFX     */ "Sound FX Drum",
     /* TAP     */ "Tap Drum",
     /* AIR     */ "Swift Drum",
-    /* SAMURAI */ "Samurai Drum"
+    /* SAMURAI */ "Tambor Samurai"
 };
 
 

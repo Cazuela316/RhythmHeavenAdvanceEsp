@@ -11,7 +11,7 @@ const char D_08067bdc[] = "Ese fue un muy buen show!";
 
 const char D_08067bf4[] = "Las partes lentas te costaron.";
 
-const char D_08067c1c[] = "Las partes lentas las diste sin problema!";
+const char D_08067c1c[] = "Las partes lentas las hiciste sin problema!";
 
 const char D_08067c40[] = "";
 

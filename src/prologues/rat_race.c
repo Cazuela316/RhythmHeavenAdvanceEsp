@@ -48,7 +48,7 @@ void rat_race_prologue_engine_start(u32 ver) {
     scene_show_obj_layer();
     scene_set_bg_layer_display(BG_LAYER_1, TRUE, 0, 0, 0, 29, 1);
 
-    gPrologueEngineData->textSprite = sprite_create(gSpriteHandler, anim_rat_race_prologue_title, 0, 8, 8, 0, 0, 0x7f, 0);
+    gPrologueEngineData->textSprite = sprite_create(gSpriteHandler, anim_rat_race_prologue_title, 0, 45, 8, 0, 0, 0x7f, 0);
     gPrologueEngineData->ratSprite = sprite_create(gSpriteHandler, anim_rat_race_prologue_rat, 0, 190, 160, 0, 0, 0, 0);
 }
 

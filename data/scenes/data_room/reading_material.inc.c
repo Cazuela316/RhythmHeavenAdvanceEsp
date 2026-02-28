@@ -122,7 +122,7 @@ struct ReadingMaterial reading_material_table[] = {
             "\n"
             "\n"
             "\0031" "\001m" "\001C" "El secreto de\n"
-            "Trivia ritmica\n"
+            "Trivia Show\n"
             "\0030" "\001s" "\001C" "\n"
             "E" "\0031" "\001m" "áD" "\0030" "\001s" " este juego, el jug" "\0031" "\001m" "áB" "\0030" "\001s" "dor debe de " "\0031" "\001m" "á@" "\0030" "\001s" "resio" "\0031" "\001m" "áD" "\0030" "\001s" "ar los\n"
             "\0030" "\001s" "boto" "\0031" "\001m" "áD" "\0030" "\001s" "es " "\0031" "\001m" "áAáB" "\0030" "\001s" "s veces que e" "\0031" "\001m" "áA" "\0030" "\001s" " " "\0031" "\001m" "áB" "\0030" "\001s" "nfrition h" "\0031" "\001m" "áB" "\0030" "\001s" "g" "\0031" "\001m" "áB." "\0030" "\001s" "\n"
@@ -159,7 +159,7 @@ struct ReadingMaterial reading_material_table[] = {
             "P. Por que te pones mácscaras en medio del juego?\n"
             "R. Hm? De que hablas?\n"
             "\n"
-            "P. Pues, Como ese unádforme de conejo que te pusiste.\n"
+            "P. Pues, Como ese unáeforme de conejo que te pusiste.\n"
             "R. No tengo idea de lo que estas hablando.\n"
             "\n"
             "P. Por favor, responde mi pregunta!\n"
@@ -284,10 +284,10 @@ struct ReadingMaterial reading_material_table[] = {
             "RN: Y si no fuera suficiente, dejaron una nota\n"
             "despues de comerse todo.\n"
             "DJ: Y que decáea?\n"
-            "RN: Decáea \"Los dulces son Increáebles!\"\n"
+            "RN: Decáea \"Los dulces son increáebles!\"\n"
             "DJ: Oh wow. Que incorregibles.\n"
             "RN: Verdad!? Fue lo suficiente para hacerme gritar...\n"
-            "DJ: A que dijiste \"Que ya no hay Disponibles?!\"\n"
+            "DJ: A que dijiste \"Esto es imposible?!\"\n"
             "RN: Uh... Seh! Como sabáeas eso?\n"
             #ifdef PARADISE
             "DJ: Porque he estado jugando Rhythm Paradise\n"
@@ -392,11 +392,12 @@ struct ReadingMaterial reading_material_table[] = {
             "Cantante: Ami Tokito\n"
             "Mà¶sica: TSUNKU\n"
             "Arreglos: Hideyuki \"Daichi\" Suzuki\n"
-            "Traducciáin: Camus & Cazu Åô\n"
+            "Traducciáin: Camus, Apolo & Cazu Åô\n"
             "\n"
             "(Esta canciáin aparece en el Remix 3.)\n"
             "\n"
-            "El amor es primordáeal\n"
+            "\n"
+            "El amor es primordial\n"
             "Lleno de fe-licidad\n"
             "El amor es tan mácgico\n"
             "Ablanda el corazáin!\n"
@@ -405,19 +406,18 @@ struct ReadingMaterial reading_material_table[] = {
             "\n"
             "Cáimo podráea explicar,\n"
             "Lo que es un \"Te amo\",\n"
-            "yo, no lo sáQ no oh oh!\n"
-            "Podráea quizács expresarlo,\n"
-            "Como una brecha entre tu y yo,\n"
+            "Yo la verdad, no sáQ!\n"
+            "Podráea quizács decir,\n"
+            "Como una brecha entre ambos,\n"
             "Que crece sin ningà¶n, control!\n"
             "\n"
             "Es algo agridulce\n"
-            "Casáe como mucha miel!\n"
+            "Que no puedo soltar\n"
             "\n"
             "Es lo que no puedo evitar sentir por ti.\n"
-            "\n"
             "Te amo!\n"
             "\n"
-            "El amor es primordáeal\n"
+            "El amor es primordial\n"
             "Lleno de fe-licidad\n"
             "El amor es tan mácgico\n"
             "Ablanda el corazáin!\n"
@@ -433,52 +433,50 @@ struct ReadingMaterial reading_material_table[] = {
         /* TITLE ---------------------------------------------------------- */
             "Lyrics áB",
         /* BODY ----------------------------------------------------------- */
-            "No Puedo Esperarte\n"
+            "DESEO ~ Me duele seguir esperando\n"
             "Cantante: Sohshi Tanaka\n"
             "Mà¶sica: TSUNKU\n"
             "Arreglos: Koichi Yuasa\n"
-            "Traducciáin: Camus\n"
+            "Traducciáin: Camus & Apolo\n"
             "\n"
             "(Esta canciáin aparece en el Remix 5.)\n"
             "\n"
             "\n"
-            "No puedo esperarte por mucho\n"
-            "Estoy a punto de partir\n"
-            "Quisiera recibir un à¶ltimo beso de ti\n"
-            "Aquellas preciadas noches que pasamos tu y yo\n"
-            "Serácn como agujas en mi corazáin...\n"
+            "Me duele seguir esperando\n"
+            "esta noche serác el adiáis,\n"
+            "lo daráQ todo por cumplir a nuestro amor\n"
+            "Aquellas noches que pasamos solos juntos tà¶ y yo\n"
+            "Serácn como agujas en mi pecho...\n"
             "\n"
-            "Nos conocimos en este lugar\n"
-            "Cuácl llama que se avivái\n"
-            "Sin titubeos ni preocupaciáin\n"
-            "Asáe naciái nuestro amor\n"
+            "Nos cruzamos en aquel lugar\n"
+            "Cual llama que nunca cesái\n"
+            "Sin dudas nos abrazamos\n"
+            "Ya no habáea vuelta atrács\n"
             "\n"
-            "Mas solo fue algo fugaz\n"
-            "Nos comenzamos a distanciar\n"
-            "Cuando es que se apagái?\n"
-            "Hasta ahora lo notáQ yo\n"
+            "Mas solo lo nuestro fue fugaz\n"
+            "Los caprichos nos alejan\n"
+            "Cuando fue que esto se apago?\n"
+            "En tus besos ya no hay calor\n"
             "\n"
             "Mis deseos se empiezan a esfumar\n"
-            "Te comienzas a esfumar\n"
-            "El dolor el dolor\n"
-            "En mi corazáin\n"
-            "No lo aguanto mács, No!\n"
+            "Tà¶ te comienzas alejar,\n"
+            "El ardor, el ardor, que calor\n"
+            "En mi pecho ya no aguanto mas!\n"
             "\n"
             "No puedo esperarte por mucho\n"
-            "Estoy a punto de partir\n"
-            "Desearáea haberte amado mács cuando estabas junto\n"
-            "a máe\n"
-            "Aquellas preciadas noches que aquella estaciáin viái\n"
-            "Ahora estarácn en mi corazáin...\n"
-            "Ohhh!\n"
+            "Esta noche es nuestro adiáis\n"
+            "Debái haberte dado todo mi amor\n"
+            "Aquellas solas y preciadas noches bajo la estaciáin\n"
+            "Ahora estácn clavadas en mi pecho...\n"
+            "\n"
+            "Woooh!~\n"
             "\n"
             "No puedo esperarte por mucho\n"
-            "Estoy a punto de partir\n"
-            "Desearáea haberte amado mács cuando estabas junto\n"
-            "a máe\n"
-            "Recordarács aquellos lugares donde fuáe feliz junto\n"
-            "a ti?\n"
-            "Ahora tan solo estaran en mi corazáin...\n",
+            "Esta noche es nuestro adiáis\n"
+            "Debáe haberte dado todo mi amor\n"
+            "Recordarács cuando la lluvia perfumaba nuestro\n"
+            "amor?\n"
+            "Ahora no es mas que mi DESEO...\n",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_sea_gfx_table,
             /* BGM */ &reading_style_sea_bgm
@@ -635,7 +633,7 @@ struct ReadingMaterial reading_material_table[] = {
             "\n"
             "\n"
             "\n"
-            "Solo por mejorar mi sentido de ritmo...\n"
+            "Solo por mejorar mi sentido del ritmo...\n"
             "\n"
             "\0031" "\001m" "Me volvi... popular?\n"
             "\0030" "\001s" "\n"
@@ -648,7 +646,7 @@ struct ReadingMaterial reading_material_table[] = {
             "estoy en racha y con energáeas nuevas!\n"
             "\n"
             "\001R" "Sr. T, Edad 38, Trabajador de Oficina\n"
-            "\001L" "Solo por mejorar mi sentido de ritmo...\n"
+            "\001L" "Solo por mejorar mi sentido del ritmo...\n"
             "\n"
             "\0031" "\001m" "Me volvi...\n"
             "\0031" "\001R" "mejor cantando?"
@@ -661,7 +659,47 @@ struct ReadingMaterial reading_material_table[] = {
             "Era la definicion del diccionario de ser sorda al tono,\n"
             "pero ahora, la gente me dice que mi canto es mejor!\n"
             "Sigo siendo sorda al tono, claro, pero ahora soy feliz!\n"
-            "\001R" "Sra. H, Edad 29, Ama de casa\n",
+            "\001R" "Sra. H, Edad 29, Ama de casa\n"
+            "\001L" "Solo por mejorar mi sentido del ritmo...\n"
+            "\n"
+            "\0031" "\001m" "Me volvi... un musico?\n"
+            "\0030" "\001s" "\n"
+            #ifdef PARADISE
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            #else
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            #endif
+            "Apenas tocaba el triangulo en la orquestra escolar,\n"
+            "pero ahora, he llegado tan lejos, que hasta la gente\n"
+            "me pide clases de mà¶sica y, consejos para mejorar!\n"
+            "\001R" "Sr. A, Estudiante de arte, 18\n"
+            "\001L" "Solo por mejorar mi sentido del ritmo...\n"
+            "\n"
+            "\0031" "\001m" "Me volvi...\n"
+            "\0031" "\001R" "mejor traduciendo?"
+            "\0030" "\001s" "\n"
+            #ifdef PARADISE
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            #else
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            #endif
+            "Me distraáea demasiado mientras traducáea, pero\n"
+            "gracias a mi nuevo sentido de ritmo, hasta puedo\n"
+            "traducir todo un juego mientras mantengo mi flow!\n"
+            "\001R" "Sr. C, Estudiante de Informáctica, 19\n"
+            "\001L" "Solo por mejorar mi sentido del ritmo...\n"
+            "\n"
+            "\0031" "\001m" "Me volvi... mejor artista?\n"
+            "\0030" "\001s" "\n"
+            #ifdef PARADISE
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            #else
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            #endif
+            "Apenas y podáea hacer un circulo, pero gracias\n"
+            "a mi nuevo sentido de ritmo, ahora soy un gran\n"
+            "artista! Y ahora mis amigos me adoran!\n"
+            "\001R" "Sr. M, Estudiante de Artes, 16\n",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_mail_gfx_table,
             /* BGM */ &reading_style_mail_bgm
@@ -705,7 +743,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_DIAGNOSIS ("Rhythm Dáeagnosis") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Dáeagnostico Ritmico",
+            "Diagnáistico Ráetmico",
         /* BODY ----------------------------------------------------------- */
             "\001C" "\0031" "\001m" "Diagnostico Ritmico\n"
             "\0030" "\001s" "\n"
@@ -816,12 +854,12 @@ struct ReadingMaterial reading_material_table[] = {
             "\n"
             "-12-\n"
             "\n"
-            "Siento que no puedes mejorar tu sentido\n"
+            "Siento que puedes mejorar tu sentido\n"
             "de ritmo, siendo un adulto.\n"
             "\n"
             "\n"
-            "Si - Ve a la pácgina 21!\n"
-            "No - Ve a la pácgina 22!\n"
+            "No - Ve a la pácgina 21!\n"
+            "Si - Ve a la pácgina 22!\n"
             "\n"
             "-13-\n"
             "\n"
@@ -852,7 +890,7 @@ struct ReadingMaterial reading_material_table[] = {
             "\n"
             "-16-\n"
             "\n"
-            "Siento que el sentido de rimto se puede mejorar\n"
+            "Siento que el sentido de ritmo se puede mejorar\n"
             "en solo 30 segundos si es que le hechas ganas.\n"
             "\n"
             "\n"
@@ -890,7 +928,7 @@ struct ReadingMaterial reading_material_table[] = {
             "\001C" "- Tu sentido de ritmo es -\n"
             "\0031" "\001m" "Tipo Timido" "\0030" "\001s" "\n"
             "\n"
-            "\001C" "asáe que da nervios tu sentido de ritmo, huh?\n"
+            "\001C" "Asáe que te da nervios tu sentido de ritmo, huh?\n"
             "Todo el mundo tiene un sentido de ritmo.\n"
             "Si vives tu vida notado los ritmos que hay\n"
             "alrededor tuyo, tu sentido de ritmo mejorarác.\n"
@@ -922,7 +960,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_POEM ("Rhythm Poem Digest") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Coleccion de Poemács Ritmicos",
+            "Coleccion Poemas Ritmicos",
         /* BODY ----------------------------------------------------------- */
             "\001C" "\0031" "\001m" "\"Al nutrirlo\"\n"
             "\n"
@@ -958,7 +996,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_HAIKU ("Rhythm Haiku Folio") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Coleccion de Haikus Ritmicos",
+            "Coleccion Haikus Ritmicos",
         /* BODY ----------------------------------------------------------- */
             "\n"
             "\001L" "\0030" "\001s" "DáQjanos entrenar\n"

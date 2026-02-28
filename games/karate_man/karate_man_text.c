@@ -41,13 +41,13 @@ const char D_0805aca0[] =
     "es super estricto, no?";
 
 const char D_0805acd8[] =
-    "Prueba a golpear con\n"
-    "el ritmo de la musica!";
+    "Prueba a golpear al\n"
+    "ritmo de la musica!";
 
 const char D_0805ad04[] =
     "Como estuvo eso?\n"
     "Mucho mas facil con\n"
-    "musica, A que no?";
+    "musica, verdad?";
 
 const char D_0805ad38[] =
     "Y bueno, eso es todo!\n"
@@ -57,4 +57,4 @@ const char D_0805ad38[] =
 const char D_0805ad80[] =
     "\n"
     "Preparados, listos,\n"
-    "Golpea!";
+    "golpea!";

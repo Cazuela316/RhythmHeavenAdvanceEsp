@@ -323,12 +323,12 @@ void start_campaign_notice(s32 id) {
     string = notice->text;
     memcpy(string, "\001C" "Si consigues un perfecto en\n", 45); // [Right now]
     strcat(string, level->name); // "<game_name>"
-    strcat(string, "\nPodras ganar:\n"); // Get a perfect on this
+    strcat(string, "\nPodr‡cs ganar:\n"); // Get a perfect on this
     strcat(string, ""); // "
     if (!isSpecialSong) {
     strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
     } else {
-        strcat(string, "WISH - Can't Wait\n for You");
+        strcat(string, "DESEO - Me duele\n seguir esperando");
     }
     strcat(string, "\n"); // "
     if (isStandardSong) {

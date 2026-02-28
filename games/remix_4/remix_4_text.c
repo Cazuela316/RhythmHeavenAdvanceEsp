@@ -17,7 +17,7 @@ const char D_080680a0[] = "もっと　ウデを　みがこう。";
 
 const char D_080680bc[] = "とても　テクニカルだ！";
 
-const char D_080680d4[] = "Notas de la liga de ritmo:";
+const char D_080680d4[] = "Notas de la Liga del Ritmo:";
 
 const char D_080680f0[] =
     "\n"

@@ -2,7 +2,7 @@
 struct MedalCornerLevel endless_menu_levels[] = {
     /* MR_UPBEAT */ {
         /* Scene  */ &scene_mr_upbeat,
-        /* Title  */ "Don Contratiempo",
+        /* Title  */ "Don Sincopan",
         /* Anim   */ anim_endless_menu_mr_upbeat,
         /* Medals */ 1
     },
@@ -14,7 +14,7 @@ struct MedalCornerLevel endless_menu_levels[] = {
     },
     /* QUIZ_SHOW */ {
         /* Scene  */ &scene_quiz_show_endless,
-        /* Title  */ "Trivia Ritmica EX",
+        /* Title  */ "Trivia Show EX",
         /* Anim   */ anim_endless_menu_quiz_show,
         /* Medals */ 20
     },

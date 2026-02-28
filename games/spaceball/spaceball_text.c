@@ -15,7 +15,7 @@ const char D_0805be00[] = "Tienes un buen agarre!";
 
 const char D_0805be1c[] = "Te enfocaste mucho en la pantalla.";
 
-const char D_0805be34[] = "Podrias hasta batear a ciegas!";
+const char D_0805be34[] = "Podr‡eas hasta batear a ciegas!";
 
 const char D_0805be50[] = "La velocidad te gano.";
 
@@ -31,7 +31,7 @@ const char D_0805beb8[] = "Tienes un buen agarre!";
 
 const char D_0805bed4[] = "Te enfocaste mucho en la pantalla.";
 
-const char D_0805beec[] = "Podrias hasta batear a ciegas!";
+const char D_0805beec[] = "Podr‡eas hasta batear a ciegas!";
 
 const char D_0805bf08[] = "La velocidad te gano.";
 
@@ -47,7 +47,7 @@ const char D_0805bf70[] = "Tienes un buen agarre!";
 
 const char D_0805bf8c[] = "No te las podrias arreglar sin ver la pantalla.";
 
-const char D_0805bfa8[] = "Podrias hasta batear a ciegas!";
+const char D_0805bfa8[] = "Podr‡eas hasta batear a ciegas!";
 
 const char D_0805bfc4[] = "La velocidad te gano.";
 
@@ -65,7 +65,7 @@ const char D_0805c03c[] = "Tienes un buen agarre!";
 
 const char D_0805c058[] = "No te las podrias arreglar sin ver la pantalla.";
 
-const char D_0805c074[] = "Podrias hasta batear a ciegas!";
+const char D_0805c074[] = "Podr‡eas hasta batear a ciegas!";
 
 const char D_0805c090[] = "La velocidad te gano.";
 

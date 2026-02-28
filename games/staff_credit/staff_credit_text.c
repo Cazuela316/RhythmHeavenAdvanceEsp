@@ -163,26 +163,26 @@ const char D_08069dc8[] =
     "Hey! Lo lograstre!";
 
 const char D_08069ddc[] =
-    "Si que diste todo!\n"
-    "Y que tal? Sientes que tu\n"
-    "sentido de ritmo a mejorado\n"
+    "S‡e que diste todo!\n"
+    "Y qu‡Q tal? Sientes que tu\n"
+    "sentido del ritmo ha mejorado\n"
     "al menos un poquito?";
 
 const char D_08069e24[] =
-    "Aunque aun no terminas!\n"
-    "Llegaste a los creditos,\n"
-    "pero aun quedan mas\n"
+    "Aunque aˆ¦n no has terminado!\n"
+    "Llegaste a los cr‡Qditos,\n"
+    "pero aˆ¦n quedan m‡cs\n"
     "juegos!";
 
 const char D_08069e78[] =
-    "Pero antes de,\n"
-    "Dejame mostrarte a\n"
-    "la gente que trabajo\n"
+    "Pero antes de eso,\n"
+    "d‡Qjame mostrarte a\n"
+    "la gente que trabaj‡i\n"
     "en este juego.";
 
 const char D_08069ed4[] =
     "\n"
-    "Bien, Demosle!";
+    "Bien, demosle!";
 
 const char D_08069ee8[] =
     "\n"
@@ -208,4 +208,4 @@ const char D_08069f90[] =
 
 const char D_08069fe4[] =
     "\n"
-    "Bien, Demosle!";
+    "Bien, demosle!";

@@ -353,8 +353,8 @@ void cafe_print_dialogue(void) {
                 // You've been at this a while,
                 // haven't you? Please rest a little.
                 string = "\n"
-                         "Si que te has estado jugando, huh?\n"
-                         "Que tal si te tomas un descanso?\n"
+                         "S‡e que has estado jugando, huh?\n"
+                         "Qu‡Q tal si te tomas un descanso?\n"
                          "\n";
             }
             dialogueTask = CAFE_EV_START_TOPIC;
@@ -419,7 +419,7 @@ void cafe_print_dialogue(void) {
                     s = gCafe->string;
                     memcpy(s, "", 1);
                     strcat(s, "\n");
-                    strcat(s, "Oye! Escuche que sacaste un perfecto en ");
+                    strcat(s, "Oye! Escuch‡Q que sacaste un perfecto en ");
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
                     strcat(s, "\0054" "\0018" "!\n");
@@ -464,7 +464,7 @@ void cafe_print_dialogue(void) {
                     // Weren't you playing it just now?
                     s = gCafe->string;
                     memcpy(s, "", 1);
-                    strcat(s, "\n");
+                    strcat(s, ""); // nose si esto sirva, pero si no, solo a?adele un /n entre los "", okei?
                     strcat(s, "Con que... \n");
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
@@ -489,7 +489,7 @@ void cafe_print_dialogue(void) {
                     // Hey, here's a tip! Soon [...] is going to be having a perfect campaign.
                     s = gCafe->string;
                     memcpy(s, "", 1);
-                    strcat(s, "\nEscuche un rumor de que proximamente\n"
+                    strcat(s, "\nEscuch‡Q un rumor de que proximamente\n"
                               "tendras el chance de sacar perfecto en ");
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
@@ -500,7 +500,7 @@ void cafe_print_dialogue(void) {
                     break;
 
                 default:
-                    dialogue = cafe_random_conversation_pool[agb_random(10)];
+                    dialogue = cafe_random_conversation_pool[agb_random(15)];
                     break;
             }
             break;
@@ -621,7 +621,7 @@ void cafe_print_dialogue(void) {
             string = "\n"
                      "Creo que tienes un buen chance\n"
                      "para conseguirlo.\n"
-                     "I'll be rooting for you!\n";
+                     "Te estar‡Q animando!\n";
             dialogueExhausted = TRUE;
             break;
 

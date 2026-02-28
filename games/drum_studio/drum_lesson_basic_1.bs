@@ -30,10 +30,10 @@ define_gameplay_scene scene_drum_lesson_basic_1, script_drum_lesson_basic_1_entr
 @ Drum Lesson (Basic 1) - Data
 
 text D_080613e4
-    .ascii "Listen to my pattern, then\n"
-    .ascii "repeat when you're ready.\n"
-    .ascii "I'll show it to you again\n"
-    .asciz "if you stop playing."
+    .ascii "Escucha el patr‡in, y\n"
+    .ascii "rep‡etelo cuando est‡Qs listo.\n"
+    .ascii "Repetir‡Q el patr‡in si\n"
+    .asciz "dejas de tocar."
 endtext
 
 
@@ -58,8 +58,8 @@ return
 text D_080614cc
     .ascii "\n"
     .ascii "Here's a new drumbeat!\n"
-    .ascii "Alternate both ‡O and ‡M \n"
-    .asciz "for the fast beats.\n"
+    .ascii "Alterna entre el ‡O y el ‡M \n"
+    .asciz "para los tiempos rapidos.\n"
 endtext
 
 
@@ -128,7 +128,7 @@ return
 
 
 text D_08061704
-    .ascii "Welcome to Drum Lessons!\n"
+    .ascii "Bienvenido a Toca Bater‡ea!\n"
     .ascii "Let's start off simple\n"
     .ascii "with just the snare drum.\n"
     .asciz "We'll add more beats later.\n"

@@ -5,7 +5,7 @@
 /* Game Text - Quiz Show */
 
 
-const char D_0805ec44[] = "Hechale mas ganas la proxima.";
+const char D_0805ec44[] = "‡Pchale mas ganas la pr‡ixima.";
 
 const char D_0805ec60[] = "Estabas tan cerca!";
 

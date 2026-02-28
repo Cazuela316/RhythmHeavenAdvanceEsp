@@ -17,17 +17,17 @@ const char D_08067f40[] = "もっと　ウデを　みがこう。";
 
 const char D_08067f5c[] = "とても　テクニカルだ！";
 
-const char D_08067f74[] = "Notas de la liga de ritmo:";
+const char D_08067f74[] = "Notas de la Liga del Ritmo:";
 
 const char D_08067f90[] = ".1:0Ｄｏ－ｎ　ｄｏ－ｎ　.2:0ｐａ－ｎ　ｐａｎ";
 
 const char D_08067fcc[] = ".1:0Ｄｏｎｄｏ　.2:0ｐａ－ｎ　ｐａｎ";
 
-const char D_08067ff8[] = "Ｅｓｔａｓ　ｅｎａｍｏｒａｄｏ？";
+const char D_08067ff8[] = "【Ｅｓｔａｓ　ｅｎａｍｏｒａｄｏ？";
 
-const char D_08068008[] = "Ｎｏ　ｔｅ　ａｔｒａｓｅｓ！";
+const char D_08068008[] = "】Ｎｏ　ｔｅ　ａｔｒａｓｅｓ！";
 
-const char D_08068018[] = "Ｓｉｇｕｅ　ｅｌ　ｒｉｔｍｏ！";
+const char D_08068018[] = "】Ｓｉｇｕｅ　ｅｌ　ｒｉｔｍｏ！";
 
 const char D_08068019[] = "１";
 
@@ -35,10 +35,10 @@ const char D_0806801B[] = "２";
 
 const char D_0806801C[] = "３";
 
-const char D_0806801D[] = "Ａｈｏｒａ！";
+const char D_0806801D[] = "】Ａｈｏｒａ！";
 
-const char D_0806801E[] = "Ａｈｏｒａ　ｔｕ！";
+const char D_0806801E[] = "】Ａｈｏｒａ　ｔｕ！";
 
-const char D_0806801F[] = "Ｂｉｅｎ，　ｌａ　ｕｌｔｉｍａ！";
+const char D_0806801F[] = "】Ｂｉｅｎ，　ｌａ　ｕｌｔｉｍａ！";
 
 const char D_08068028[] = "";

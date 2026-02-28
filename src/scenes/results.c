@@ -660,9 +660,25 @@ u32 results_get_negative_comments(void) {
     for (i = 0; i < totalFailed; i++) {
         struct Animation *anim;
         u16 sprite;
+        char modifiedComment[0x100];
+
+        // Copy the comment to a modifiable buffer, TO BE ABLE TO ALTER IT CAUSE YOU CANT CHANGE THEM UNLESS YOU FIRST COPY THEM WHICH IS ANNOYING
+        strcpy(modifiedComment, comments[i]);
+
+        // Convert the first character to lowercase for all the comments except the first one
+        // Except for sentences where you don't need to change the capitalization
+        if (i > 0 && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+            modifiedComment[0] += 32;
+        }
+        // equivalente para ! y ? invertidos
+        // TODO(espanol): poner los caracteres que corresponden
+        else if (i > 0 && (modifiedComment[0] == '1' || modifiedComment[0] == '2') && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+            modifiedComment[1] += 32;
+        }
 
         strcpy(commentsText, results_try_again_comment_pool[clamp_int32(i, 0, 2)]);
-        strcat(commentsText, comments[i]);
+        strcat(commentsText, modifiedComment);
+
         anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_LEFT, 3);
         sprite = sprite_create(gSpriteHandler, anim, 0, 0, 0, 0x800, 0, 0, 0);
         sprite_set_base_palette(gSpriteHandler, sprite, COMMENT_PALETTE);
@@ -677,7 +693,7 @@ u32 results_get_negative_comments(void) {
 const char *results_try_again_comment_pool[] = {
     "",
     "Tambien ",
-    "Ademas... "
+    "Adem‡cs... "
 };
 
 
@@ -691,6 +707,7 @@ s24_8 results_get_positive_comments(void) {
     s24_8 averagePassed;
     u16 *commentSprites;
     u32 imperfectionPenalty;
+    char modifiedComment[0x100];
 
     tracker = score_handler->cueInputTrackers;
     commentSprites = &gResults->commentSprites[gResults->totalNegativeComments];
@@ -734,12 +751,32 @@ s24_8 results_get_positive_comments(void) {
             continue;
         }
 
+        strcpy(modifiedComment, criteria->positiveRemark);
+        
         if (gResults->totalNegativeComments > 0) {
-            memcpy(commentsText, "...Pero ", 9); // ("...but,")
-            strcat(commentsText, criteria->positiveRemark);
+            // Same system as before
+            if (modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+                modifiedComment[0] += 32;
+            }
+            // TODO(espanol): poner los caracteres que corresponden
+            else if ((modifiedComment[0] == '1' || modifiedComment[0] == '2') && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+                modifiedComment[1] += 32;
+            }
+
+            memcpy(commentsText, "...pero ", 8);
+            strcat(commentsText, modifiedComment);
             anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_RIGHT, 3);
             palette = EXTRA_COMMENT_PALETTE;
         } else {
+            // Same system as before
+            if (totalPassed > 0 && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+                modifiedComment[0] += 32;
+            }
+            // TODO(espanol): poner los caracteres que corresponden
+            else if (totalPassed && (modifiedComment[0] == '1' || modifiedComment[0] == '2') && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+                modifiedComment[1] += 32;
+            }
+            
             switch (totalPassed) {
                 case 0:
                     memcpy(commentsText, "", 1);
@@ -748,10 +785,10 @@ s24_8 results_get_positive_comments(void) {
                     memcpy(commentsText, "Y ", 9); // ("moreover,")
                     break;
                 default:
-                    memcpy(commentsText, "Ademas ", 9); // ("also,")
+                    memcpy(commentsText, "Adem‡cs ", 9); // ("also,")
                     break;
             }
-            strcat(commentsText, criteria->positiveRemark);
+            strcat(commentsText, modifiedComment);
             anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_LEFT, 3);
             palette = COMMENT_PALETTE;
         }
@@ -788,9 +825,9 @@ s24_8 results_get_positive_comments(void) {
 
 // [D_089d7b40] Rank Comment Pool (OK)
 const char *results_ok_comment_pool[] = {
-    "O sea, podrias hacerlo mejor.",
+    "O sea, podr‡eas hacerlo mejor.",
     "Esta bien...",
-    "Eh... No se...",
+    "Eh... No s‡Q...",
     "Huh..."
 };
 

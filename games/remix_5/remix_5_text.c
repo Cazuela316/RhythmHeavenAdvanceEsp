@@ -17,7 +17,7 @@ const char D_0806a2a4[] = "もっと　ウデを　みがこう。";
 
 const char D_0806a2c0[] = "とても　テクニカルだ！";
 
-const char D_0806a2d8[] = "Notas de la liga de ritmo:";
+const char D_0806a2d8[] = "Notas de la Liga del Ritmo:";
 
 const char D_0806a2f4[] =
     "\x01\x52" "\x05\x31" "\x01\x35" "♪ WISH - Can't Wait For You　";
@@ -32,4 +32,4 @@ const char D_0806a32c[] =
     "　　　　　　　　Yuasa Koichi";
 
 const char D_0806a370[] =
-    "\x01\x43" "Manejado por J.P. ROOM";
+    "\x01\x43" "En colaboracion con J.P. ROOM";
