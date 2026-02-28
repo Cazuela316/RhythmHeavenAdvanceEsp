@@ -19,7 +19,7 @@ const char D_0805ae08[] = "Demostraste un gran flow!";
 
 const char D_0805ae1c[] = "Las partes r‡cpidas fueron mucho para ti.";
 
-const char D_0805ae34[] = "Comentarios de tus pares";
+const char D_0805ae34[] = "Comentarios de tus amigos";
 
 const char D_0805ae40[] = "Trabaja en lo basico.";
 
@@ -37,7 +37,7 @@ const char D_0805aec8[] = "Las partes r‡cpidas fueron mucho para ti.";
 
 const char D_0805aee8[] = "Las partes r‡cpidas las hiciste con ‡Qxito!";
 
-const char D_0805af08[] = "Comentarios de tus pares";
+const char D_0805af08[] = "Comentarios de tus amigos";
 
 const char D_0805af14[] = "Hola, somos el Tr‡eo Saleroso!";
 
