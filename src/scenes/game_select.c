@@ -330,9 +330,9 @@ void start_campaign_notice(s32 id) {
     strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
     if (isSong) {
         if(isSpecialSong) {
-            strcat(string, " como una cancion!");
+            strcat(string, " como cancion!");
         } else {
-            strcat(string, "\" como una cancion!");
+            strcat(string, "\" como cancion!");
         }
     }
     if (giftType == CAMPAIGN_GIFT_DRUM_KIT || giftType == CAMPAIGN_GIFT_READING_MATERIAL) {
