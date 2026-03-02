@@ -17,4 +17,4 @@ const char D_08067c40[] = "";
 
 const char D_08067c44[] = "Lograste ESA parte! Impresionante!";
 
-const char D_08067c74[] = "Comentarios de tus amigos ?";
+const char D_08067c74[] = "Comentarios de tus amigos";

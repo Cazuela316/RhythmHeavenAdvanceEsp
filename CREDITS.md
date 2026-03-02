@@ -1,54 +1,44 @@
 # Credits
-## Programming
-### Maintainer
-- ShaffySwitcher
-- itaific
+#### Esta localizacion no podria ser posible sin el arduo trabajo de parte del [Equipo de Rhythm Heaven Advance!](https://github.com/RHAdvance/RhythmHeavenAdvance)
 
-### Contribution
-- Deni_iguess
-- patataofcourse
-- Everyone who has worked on the [decompilation](https://github.com/arthurtilly/rhythmtengoku).
+#### Unas gracias especiales a itaific, sin el no hubiera sabido todo sobre el modding de este increible juego, en serio, muchas gracias!
 
-## Assets
-### Art
-- SkyeStage
-- Cash Banooka
-- geometricentric
-- somethingAccurate
-- TinyCastleGuy
-- The Eggo55
-- vincells
-- WindowsTiger
-- Kievit
-- NotWario
-- amdree
-- patataofcourse
-- Nate Candles
-- Borists
-- Tailx
+## Bug Fixing:
++ patataofcourse
 
-### Localization / Translation
-- Cash Banooka
-- SkyeStage
-- somethingAccurate
-- ShaffySwitcher
-- Mizuka Lover
-- castIe
-- patataofcourse
-- Various Rhythm Heaven games
+## Ediciones Graficas:
++ Cazu
++ Mako
++ Apolo
 
-### Sound Effect
-- Various Rhythm Heaven games
-- Cherryberryfaygo
-- Nabix (& his family)
-- itaific
-- SesuRescue
-- FireChat
-- castIe
-- Kievit
+## Edicion de Animaciones:
++ Cazu
 
+## Traduccion y Localizacion:
++ Cazu
++ Camus
++ Mako
++ TheSpheric
 
-## Special Thanks
-- nwqol
-- The decomp folks again
-- ...and you! 
+## Correcciones Ortograficas:
++ David Mismos
++ Darcy
++ Mako
++ Apolo
+
+## SFXs:
++ (En proceso...)
+
+## Directores de sonido:
++ KonKon
++ Vero
++ doremisui
+
+## Debugging:
++ KonKon
+
+## Beta Testing:
+
++ JaviParra
++ Joaquin
++ Naru
