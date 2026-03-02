@@ -57,9 +57,9 @@ return
 
 text D_080614cc
     .ascii "\n"
-    .ascii "Here's a new drumbeat!\n"
+    .ascii "Ten un nuevo pulso!\n"
     .ascii "Alterna entre el ‡O y el ‡M \n"
-    .asciz "para los tiempos rapidos.\n"
+    .asciz "para los tiempos r‡cpidos.\n"
 endtext
 
 
@@ -79,9 +79,9 @@ return
 
 text D_08061578
     .ascii "\n"
-    .ascii "Let's add another drumbeat!\n"
-    .ascii "Look out for it!\n"
-    .asciz "I know you can handle it.\n"
+    .ascii "Vamos con otro pulso!\n"
+    .ascii "A ver si lo encuentras.!\n"
+    .asciz "Tˆ¦ puedes, lo s‡Q.\n"
 endtext
 
 
@@ -95,9 +95,9 @@ return
 
 text D_080615e4
     .ascii "\n"
-    .ascii "And now for another\n"
-    .ascii "drumbeat right at the\n"
-    .asciz "end! Can you get it?\n"
+    .ascii "Y ahora, otro\n"
+    .ascii "toque justo al final!\n"
+    .asciz "Crees que puedes?\n"
 endtext
 
 
@@ -129,93 +129,93 @@ return
 
 text D_08061704
     .ascii "Bienvenido a Toca Bater‡ea!\n"
-    .ascii "Let's start off simple\n"
-    .ascii "with just the snare drum.\n"
-    .asciz "We'll add more beats later.\n"
+    .ascii "Empecemos simple,\n"
+    .ascii "solo con la caja.\n"
+    .asciz "Luego pondremos m‡cs acci‡in.\n"
 endtext
 
 
 text D_08061740
     .ascii "\n"
-    .ascii "Hit the snare with ‡M or by\n"
-    .asciz "pressing Left on ‡O!\n"
+    .ascii "Dale a la caja con ‡M o\n"
+    .asciz "d‡cndole a la derecha en el ‡O!\n"
 endtext
 
 
 text D_0806178c
-    .ascii "Don't be discouraged if you\n"
-    .ascii "struggle at first. You can\n"
-    .ascii "try as much as you need.\n"
-    .asciz "With that, let's begin!\n"
+    .ascii "No te rindas si te\n"
+    .ascii "cuesta al inicio. Puedes\n"
+    .ascii "Intentarlo cuanto quieras.\n"
+    .asciz "Ya con eso, comencemos!\n"
 endtext
 
 
 text D_080617bc
     .ascii "\n"
-    .ascii "See the lights up there?\n"
-    .ascii "Those are Timing Lights!\n"
+    .ascii "Eh? Las luces de arriba?\n"
+    .ascii "Ah, son las luces al ritmo!\n"
     .asciz ""
 endtext
 
 
 text D_080617f0
-    .ascii "The lights blink to your timing:\n"
-    .ascii "Left if you're early,\n"
-    .ascii "Right if you're late,\n"
-    .asciz "Center if you're on beat!"
+    .ascii "Estas parpadean a tu ritmo:\n"
+    .ascii "Izquierda, si estas apurado,\n"
+    .ascii "Derecha, si estas atrasado,\n"
+    .asciz "Al centro si esta correcto!"
 endtext
 
 
 text D_0806183c
     .ascii "\n"
-    .ascii "If you're struggling to get the\n"
-    .ascii "timing down, look at the lamps\n"
-    .asciz "to help fix your timing."
+    .ascii "Si tienes problemas con\n"
+    .ascii "tu pulso, mira las luces\n"
+    .asciz "para guiarte sobre tus errores."
 endtext
 
 
 text D_08061884
     .ascii "\n"
-    .ascii "Now then, let's get on\n"
-    .asciz "with the lesson!"
+    .ascii "Bueno, bueno, sigamos\n"
+    .asciz "con la clase!"
 endtext
 
 
 text D_0806189c
-    .ascii "If I'm going too fast and\n"
-    .ascii "you're having trouble,\n"
-    .ascii "you can press START.\n"
+    .ascii "Si voy muy r‡cpido y\n"
+    .ascii "te cuesta captarme,\n"
+    .ascii "puedes pulsar START.\n"
     .asciz "\n"
 endtext
 
 
 text D_080618d8
     .ascii "\n"
-    .ascii "That will slow down the tempo.\n"
-    .ascii "This way, you can get a good\n"
-    .asciz "feel for the patterns.\n"
+    .ascii "Eso bajara el tempo.\n"
+    .ascii "Asi, podras o‡drme mejor.\n"
+    .asciz "Entendido?.\n"
 endtext
 
 
 text D_08061910
     .ascii "\n"
-    .ascii "Press the START Button\n"
-    .ascii "again to speed it back up\n"
-    .asciz "and try it for real."
+    .ascii "Pulsa START de nuevo\n"
+    .ascii "para deshacer la velocidad.\n"
+    .asciz "Ah, casi lo olvido..."
 endtext
 
 
 text D_08061950
     .ascii "\n"
-    .ascii "The lesson won't continue in\n"
-    .ascii "slow mode, by the way. You'll\n"
-    .asciz "need to do it at normal speed."
+    .ascii "La clase no puede avanzar\n"
+    .ascii "en modo lento. Tendr‡cs que\n"
+    .asciz "ir a la velocidad normal."
 endtext
 
 
 text D_08061980
     .ascii "\n"
-    .asciz "Now, let's finish this lesson!"
+    .asciz "Ahora, terminemos con esto!"
 endtext
 
 

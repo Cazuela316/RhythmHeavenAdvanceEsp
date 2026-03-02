@@ -82,7 +82,7 @@ return
 
 text D_08063bc8
     .ascii "\n"
-    .ascii "Vamos cambiando unas cosas\n"
+    .ascii "Vamos a cambiar unas cosas\n"
     .ascii "casi justo al final!\n"
     .asciz "Listo para tocarlo?\n"
 endtext

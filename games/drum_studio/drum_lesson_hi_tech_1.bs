@@ -95,8 +95,8 @@ return
 
 text D_0806582c
     .ascii "\n"
-    .ascii "Let's add some groove\n"
-    .asciz "with a little bit of hi-hat!\n"
+    .ascii "Agreguemos algo de ritmo\n"
+    .asciz "con un poco de hi-hat!\n"
 endtext
 
 
@@ -160,10 +160,10 @@ return
 
 
 text D_08065ad0
-    .ascii "If a little hi-hat adds\n"
-    .ascii "some groove, then even\n"
-    .ascii "more hi-hats should\n"
-    .asciz "add even more, right?\n"
+    .ascii "Si poco hi-hat agrega\n"
+    .ascii "poco ritmo, entonces\n"
+    .ascii "m‡cs hi-hats debe\n"
+    .asciz "de agregar m‡cs, no?\n"
 endtext
 
 
@@ -218,9 +218,9 @@ return
 
 text D_08065d34
     .ascii "\n"
-    .ascii "Let's add a snare\n"
-    .ascii "to end it all off!\n"
-    .asciz "Think you've got this?"
+    .ascii "Agreguemos caja para\n"
+    .ascii "terminarlo todo!\n"
+    .asciz "No te intimida, verdad?"
 endtext
 
 

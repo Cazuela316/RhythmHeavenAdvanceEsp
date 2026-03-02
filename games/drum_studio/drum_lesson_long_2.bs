@@ -65,9 +65,9 @@ return
 
 text D_08062ee0
     .ascii "\n"
-    .ascii "Time to kick things up a notch!\n"
-    .ascii "Add a crash at the start and a\n"
-    .asciz "snare at the end! Let's go!\n"
+    .ascii "Sub‡cmosle bien fuerte!\n"
+    .ascii "Pongamos un crash al inicio y\n"
+    .asciz "un platillo al final! Venga!\n"
 endtext
 
 
@@ -102,9 +102,9 @@ return
 
 text D_08063024
     .ascii "\n"
-    .ascii "Let's change the bass a bit.\n"
-    .ascii "Listen carefully and keep\n"
-    .asciz "the rhythm going!"
+    .ascii "Cambiemos el bajo un poco.\n"
+    .ascii "Escucha con cuidado y\n"
+    .asciz "que no pare el ritmo!"
 endtext
 
 
@@ -137,10 +137,10 @@ return
 
 
 text D_08063184
-    .ascii "Last but not least, let's add\n"
-    .ascii "one more bass beat in here.\n"
-    .ascii "We're reaching the end, so\n"
-    .asciz "Let's drive it home now!\n"
+    .ascii "Por ˆ¦ltimo, pero no menos\n"
+    .ascii "importante, otro pulso de bombo.\n"
+    .ascii "Ya casi podemos irnos a casa.\n"
+    .asciz "Dale, que no he almorzado!\n"
 endtext
 
 

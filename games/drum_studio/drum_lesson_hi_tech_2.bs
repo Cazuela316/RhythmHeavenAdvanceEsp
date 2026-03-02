@@ -30,10 +30,10 @@ define_gameplay_scene scene_drum_lesson_hi_tech_2, script_drum_lesson_hi_tech_2_
 @ Drum Lesson (Hi-Tech 2) - Data
 
 text D_08065f9c
-    .ascii "Let's not jump into the\n"
-    .ascii "deep end yet - here's\n"
-    .ascii "a bit of a refresher.\n"
-    .asciz "You've got this!"
+    .ascii "No saltemos directamente\n"
+    .ascii " al final aˆ¦n - mejor\n"
+    .ascii "repasemos un poco.\n"
+    .asciz "Yo s‡Q que puedes!"
 endtext
 
 
@@ -100,9 +100,9 @@ return
 
 text D_08066258
     .ascii "\n"
-    .ascii "Now we start for real!\n"
-    .ascii "Listen carefully and\n"
-    .asciz "follow along closely."
+    .ascii "Ahora vamos en serio!\n"
+    .ascii "Escucha con cuidado\n"
+    .asciz "y sigue con atenci‡in."
 endtext
 
 
@@ -152,9 +152,9 @@ return
 
 text D_08066480
     .ascii "\n"
-    .ascii "Let's add a little more\n"
-    .ascii "of the bass and snare.\n"
-    .asciz "Think you got this?"
+    .ascii "Vale, pongamos un poco\n"
+    .ascii "m‡cs de bombo y caja.\n"
+    .asciz "Crees poder con esto?"
 endtext
 
 
@@ -206,10 +206,10 @@ return
 
 
 text D_080666c0
-    .ascii "Let's throw in another\n"
-    .ascii "bass beat right in there!\n"
-    .ascii "It's in a really tricky spot,\n"
-    .asciz "so give it your all in here!"
+    .ascii "Pongamos un bombo\n"
+    .ascii "m‡cs, justo aqu‡e!\n"
+    .ascii "Esta en un tiempo dific‡el\n"
+    .asciz "As‡e que dalo con todo!"
 endtext
 
 
@@ -263,10 +263,10 @@ return
 
 
 text D_08066918
-    .ascii "Here comes some more\n"
-    .ascii "bass and snare beats!\n"
-    .ascii "I know you can do it!\n"
-    .asciz "Put your heart into it!"
+    .ascii "Aqu‡e vienen m‡cs\n"
+    .ascii "pulsos de caja y bombo!\n"
+    .ascii "No te rindas!\n"
+    .asciz "Hazlo con el coraz‡in!"
 endtext
 
 
@@ -323,9 +323,9 @@ return
 
 text D_08066ba4
     .ascii "\n"
-    .ascii "Add one more bass beat!\n"
-    .ascii "Stay focused and hit it\n"
-    .asciz "like there's no tomorrow!"
+    .ascii "Uno m‡cs de bombo!\n"
+    .ascii "Mantente atento y dale\n"
+    .asciz "como si no hubiera un ma?ana!"
 endtext
 
 
@@ -382,10 +382,10 @@ return
 
 
 text D_08066e20
-    .ascii "Let's stack some cymbals\n"
-    .ascii "on top of the bass and snare\n"
-    .ascii "pattern from before! You're\n"
-    .asciz "doing amazing, keep it up!"
+    .ascii "Apilemos unos platillos\n"
+    .ascii "sobre el patr‡in de\n"
+    .ascii "bombo y caja de antes. Lo\n"
+    .asciz "haces genial, no pares!"
 endtext
 
 
@@ -443,10 +443,10 @@ return
 
 
 text D_080670c4
-    .ascii "Okay! Now I've added one\n"
-    .ascii "more snare to the pattern!\n"
-    .ascii "We're so close to the grand\n"
-    .asciz "finale, stay determined!"
+    .ascii "Vale! puse un pulso\n"
+    .ascii "m‡cs de caja!\n"
+    .ascii "Se avecina el gran final\n"
+    .asciz "Mantente determinado!"
 endtext
 
 
@@ -505,10 +505,10 @@ return
 
 
 text D_08067370
-    .ascii "This is it! The final pattern!\n"
-    .ascii "Just one more tom beat!\n"
-    .ascii "Ride the rhythm and let it\n"
-    .asciz "flow within your soul!"
+    .ascii "Ahora si, el final!\n"
+    .ascii "Solo un pulso de tom m‡cs!\n"
+    .ascii "Monta el ritmo y deja\n"
+    .asciz "que fluya por tu alma!"
 endtext
 
 
@@ -569,24 +569,24 @@ return
 
 text D_08067638
     .ascii "\n"
-    .ascii "This final lesson will use all\n"
-    .ascii "the techniques you've learned\n"
-    .asciz "in the previous lessons!\n"
+    .ascii "Esta clase final va a\n"
+    .ascii "usar las tecnicas aprendidas\n"
+    .asciz "en las clases previas!\n"
 endtext
 
 
 text D_08067668
     .ascii "\n"
-    .ascii "This is going to be very\n"
-    .ascii "challenging, especially if\n"
-    .asciz "you've skipped any of them!"
+    .ascii "Va a estar muy complicado,\n"
+    .ascii "especialmente si te saltaste\n"
+    .asciz "cualquiera de ellas!"
 endtext
 
 
 text D_0806769c
     .ascii "\n"
-    .ascii "Are you all set then?\n"
-    .asciz "Let's get started!"
+    .ascii "Todo listo?\n"
+    .asciz "Empecemos!"
 endtext
 
 

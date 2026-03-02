@@ -55,9 +55,9 @@ return
 
 text D_08061a68
     .ascii "\n"
-    .ascii "I swapped a bass beat\n"
-    .ascii "out for a snare beat.\n"
-    .asciz "Hear the difference?"
+    .ascii "Cambie un pulso de bombo\n"
+    .ascii "por uno de caja.\n"
+    .asciz "Notas la diferencia?"
 endtext
 
 
@@ -73,8 +73,8 @@ return
 
 text D_08061ae4
     .ascii "\n"
-    .ascii "Now, another beat swap!\n"
-    .asciz "Think you can do it?\n"
+    .ascii "Ahora, otro cambio!\n"
+    .asciz "Crees poder?\n"
 endtext
 
 
@@ -90,8 +90,8 @@ return
 
 text D_08061b64
     .ascii "\n"
-    .ascii "Let's throw in one\n"
-    .ascii "more bass beat!\n"
+    .ascii "Agreguemos un pulso\n"
+    .ascii "m‡cs de bombo!\n"
     .asciz "You got this!"
 endtext
 
@@ -109,10 +109,10 @@ return
 
 
 text D_08061c00
-    .ascii "You hear that new bass beat?\n"
-    .ascii "Alternating between both\n"
-    .ascii "‡N and Down on ‡O should\n"
-    .asciz "make it easy!"
+    .ascii "Escuchas el pulso de bombo?\n"
+    .ascii "Alternar entre\n"
+    .ascii "‡N y Abajo en el ‡O\n"
+    .asciz "lo hace m‡cs f‡ccil!"
 endtext
 
 
@@ -131,10 +131,10 @@ return
 
 
 text D_08061cb0
-    .ascii "Here's one more new beat!\n"
-    .ascii "This is the last set in this\n"
-    .ascii "lesson, so show me what\n"
-    .asciz "you've learned!"
+    .ascii "Te traje un regalo!\n"
+    .ascii "Es un pulso nuevo!\n"
+    .ascii "Espero lo disfrutes,\n"
+    .asciz "que ya casi terminamos!"
 endtext
 
 
@@ -148,32 +148,32 @@ return
 
 text D_08061d18
     .ascii "\n"
-    .ascii "In this lesson,\n"
-    .ascii "we'll be using two drums:\n"
-    .asciz "the bass and the snare.\n"
+    .ascii "En esta clase,\n"
+    .ascii "usaremos dos tambores:\n"
+    .asciz "el bombo y la caja.\n"
 endtext
 
 
 text D_08061d70
     .ascii "\n"
-    .ascii "Hit the bass drum with ‡N\n"
-    .asciz "or by pressing Down on ‡O!\n"
+    .ascii "Dale a el bombo con ‡N\n"
+    .asciz "o pulsando Abajo en el ‡O!\n"
 endtext
 
 
 text D_08061dbc
-    .ascii "If you've played the last\n"
-    .ascii "lesson, you know you can\n"
-    .ascii "hit either ‡M or Left on ‡O\n"
-    .asciz "to play the snare."
+    .ascii "Si tomaste la ˆ¦ltima clase\n"
+    .ascii "sabras que puedes\n"
+    .ascii "darle a ‡M o a la Izquierda en el ‡O\n"
+    .asciz "para tocar la caja."
 endtext
 
 
 text D_08061e04
     .ascii "\n"
-    .ascii "Keep all of that in mind\n"
-    .ascii "as you play this set!\n"
-    .ascii "Let's begin, taking it slow.\n"
+    .ascii "Manten todo eso en mente\n"
+    .ascii "mientras toques este set!\n"
+    .ascii "Comencemos, lenta, mente...\n"
 endtext
 
 
