@@ -38,7 +38,7 @@ const char D_08068118[] =
 
 const char D_08068128[] =
     "\n"
-    "Increible!";
+    "Incre㌃ble!";
 
 const char D_08068138[] = "Ｂａｊｅｍｏｓ　ｕｎ　ｐｏｃｏ　ｅｌ　ｒｉｔｍｏ．．．";
 

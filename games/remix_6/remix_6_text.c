@@ -43,7 +43,7 @@ const char D_0806a900[] =
 
 const char D_0806a910[] =
     "\n"
-    "Increible!";
+    "Incre‡eble!";
 
 const char D_0806a920[] = ".1:0" "‚c‚‚‚„‚@" ".2:0" "‚‚‚‚‚";
 
