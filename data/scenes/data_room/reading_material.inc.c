@@ -960,7 +960,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_POEM ("Rhythm Poem Digest") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Coleccion Poemas Ritmicos",
+            "Coleccion de Poemas Ritmicos",
         /* BODY ----------------------------------------------------------- */
             "\001C" "\0031" "\001m" "\"Al nutrirlo\"\n"
             "\n"
@@ -996,7 +996,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_HAIKU ("Rhythm Haiku Folio") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Coleccion Haikus Ritmicos",
+            "Coleccion de Haikus Ritmicos",
         /* BODY ----------------------------------------------------------- */
             "\n"
             "\001L" "\0030" "\001s" "D‡Qjanos entrenar\n"
