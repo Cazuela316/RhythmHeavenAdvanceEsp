@@ -15,7 +15,7 @@ const char D_0805bcec[] = "Increible, cortaste la niebla!";
 
 const char D_0805bd10[] = "Te costo cuando subieron el ritmo.";
 
-const char D_0805bd30[] = "Hasta los mas rapidos no pudieron contigo!";
+const char D_0805bd30[] = "Hasta los mas r‡cpidos no pudieron contigo!";
 
 const char D_0805bd50[] = "Los mas lentos no pudieron derribarte!";
 
