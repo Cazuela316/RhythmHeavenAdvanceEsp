@@ -145,9 +145,9 @@ const char D_0805a06c[] = "\nMuy bien!";
 const char *drum_lessons_rank_text[] = {
     /* RANK_0 */ "\n",
     /* RANK_C */ "\nNada mal!",
-    /* RANK_B */ "\nVas a buen camino!",
+    /* RANK_B */ "\nVas por buen camino!",
     /* RANK_A */ "\nSip, lo hiciste muy bien!",
-    /* RANK_S */ "\nIncreible!",
+    /* RANK_S */ "\nIncre‡eble!",
 };
 
 const char D_0805a0c0[] = "\nObtuviste ";

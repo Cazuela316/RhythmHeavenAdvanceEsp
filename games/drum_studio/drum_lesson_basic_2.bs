@@ -92,7 +92,7 @@ text D_08061b64
     .ascii "\n"
     .ascii "Agreguemos un pulso\n"
     .ascii "m‡cs de bombo!\n"
-    .asciz "You got this!"
+    .asciz "Yo s‡Q que puedes!"
 endtext
 
 

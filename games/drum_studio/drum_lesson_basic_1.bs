@@ -80,7 +80,7 @@ return
 text D_08061578
     .ascii "\n"
     .ascii "Vamos con otro pulso!\n"
-    .ascii "A ver si lo encuentras.!\n"
+    .ascii "A ver si lo encuentras!\n"
     .asciz "Tˆ¦ puedes, lo s‡Q.\n"
 endtext
 
@@ -167,7 +167,6 @@ endtext
 
 
 text D_0806183c
-    .ascii "\n"
     .ascii "Si tienes problemas con\n"
     .ascii "tu pulso, mira las luces\n"
     .asciz "para guiarte sobre tus errores."
@@ -192,7 +191,7 @@ endtext
 text D_080618d8
     .ascii "\n"
     .ascii "Eso bajara el tempo.\n"
-    .ascii "Asi, podras o‡drme mejor.\n"
+    .ascii "Asi, podras o‡erme mejor.\n"
     .asciz "Entendido?.\n"
 endtext
 
