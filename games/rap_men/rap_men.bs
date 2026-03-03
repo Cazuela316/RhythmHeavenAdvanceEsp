@@ -76,7 +76,7 @@ return
 @ Rap Men - Text
 
 text text_rap_men_sanji_desu_ka
-    .asciz ".b:1Ｓｏｎ　ｌａｓ　３，　.b:0【ｈｕｈ？.8:1"
+    .asciz ".b:1Ｓｏｎ　ｌａｓ　１５：００，　.b:0【ｈｕｈ？.8:1"
 endtext
 
 text text_rap_men_oyatsu_desu_ka
@@ -112,27 +112,27 @@ text text_rap_men_tanoshii_kamo_ne
 endtext
 
 text text_rap_men_oyatsu_wa_saikou
-    .asciz ".a:1Ｍｅｒｅｎｄａｒ　ｅｓ　.a:0】ｉｎｃｒｅｉｂｌｅ！.8:1"
+    .asciz ".a:1Ｍｅｒｅｎｄａｒ　ｅｓ　.a:0】ａｓｏｍｂｒｏｓｏ！.8:1"
 endtext
 
 text text_rap_men_kibun_wa_saikou
-    .asciz ".a:1Ｍｅ　ｓｉｅｎｔｏ　.a:0】ｉｎｃｒｅｉｂｌｅ！.8:1"
+    .asciz ".a:1Ｍｅ　ｓｉｅｎｔｏ　.a:0】ａｓｏｍｂｒｏｓｏ！.8:1"
 endtext
 
 text text_rap_men_ore_tte_saikou
-    .asciz ".a:1Ｔｏｄｏ　ｅｓ　.a:0】ｉｎｃｒｅｉｂｌｅ！.8:1"
+    .asciz ".a:1Ｔｏｄｏ　ｅｓ　.a:0】ａｓｏｍｂｒｏｓｏ！.8:1"
 endtext
 
 text text_rap_men_kimi_tte_saikou
-    .asciz ".a:1Ｅｒｅｓ　.a:0】ｉｎｃｒｅｉｂｌｅ！.8:0"
+    .asciz ".a:1Ｅｒｅｓ　.a:0】ａｓｏｍｂｒｏｓｏ！.8:0"
 endtext
 
 text text_rap_men_oyatsu_ga_nai_yo
-    .asciz ".a:1Ｅｓｔｏ　ｅｓ　.a:0】ｉｍｐｏｓｉｂｌｅ！.8:1"
+    .asciz ".a:1Ｅｓｐｅｒａ，　ｐｅｒｄｉｍｏｓ　.a:0】ａｌｇｏ！.8:1"
 endtext
 
 text text_rap_men_ore_shiranai_yo
-    .asciz ".a:1Ｑｕｉｚい　ｓｏｎ　.a:0】ｉｎｖｉｓｉｂｌｅｓ！.8:1"
+    .asciz ".a:1Ｆｕｅ　ｍｕｙ　.a:0】ｓｉｌｅｎｃｉｏｓｏ！.8:1"
 endtext
 
 

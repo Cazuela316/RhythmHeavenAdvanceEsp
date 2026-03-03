@@ -13,9 +13,9 @@ const char D_0805e960[] = "Yo \"capto\" que podriamos hacerlo mejor.";
 
 const char D_0805e988[] = "T姶, en serio \"captaste\" el rap!";
 
-const char D_0805e9ac[] = "Las l㌃neas \"incre㌃bles!\"... no lo fueron.";
+const char D_0805e9ac[] = "Las l㌃neas \"asombrosas!\"... no lo fueron.";
 
-const char D_0805e9d8[] = "Las l㌃neas \"incre㌃bles!\", lo fueron!";
+const char D_0805e9d8[] = "Las l㌃neas \"asombrosas!\", lo fueron!";
 
 const char D_0805ea04[] = "RAPNOTAS de los chicos:";
 
@@ -53,10 +53,10 @@ const char D_0805eb94[] = "Ｅｓｃｕｃｈａ　ａｔｅｎｔａｍｅｎｔｅ．";
 
 const char D_0805ebac[] = "】Ｍｕｙ　ｂｕｅｎ　ｒａｐ！";
 
-const char D_0805ebc4[] = "Ｓｏｌｏ　ｆａｌｔａ　ｌａ　ｌざｎｅａ　“.a】ｉｎｃｒｅざｂｌｅ！.8”";
+const char D_0805ebc4[] = "Ｓｏｌｏ　ｆａｌｔａ　ｌａ　ｌざｎｅａ　“.a】ａｓｏｍｂｒｏｓｏ！.8”";
 
 const char D_0805ebf4[] = "Ｅｓｃｕｃｈａｌａ　ｍｕｙ　ｂｉｅｎ．．．";
 
 const char D_0805ec0c[] = "】Ａｈｏｒａ　ｓｉｇｕｅ　ｃｏｎ　ｅｌｌｏ！";
 
-const char D_0805ec24[] = "】Ｖａｙａ！　】Ｅｒｅｓ　ｍｕｙ　“.aｉｎｃｒｅざｂｌｅ.8”　ｅｎ　ｅｓｔｏ！";
+const char D_0805ec24[] = "】Ｖａｙａ！　】Ｅｒｅｓ　ｍｕｙ　“.aａｓｏｍｂｒｏｓｏ.8”　ｅｎ　ｅｓｔｏ！";

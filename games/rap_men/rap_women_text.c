@@ -13,9 +13,9 @@ const char D_08067ccc[] = "Yo \"capto\", que NO captaste nada.";
 
 const char D_08067cf4[] = "Tu, en serio como que \"captaste\" el rap!";
 
-const char D_08067d18[] = "Las l‡eneas \"incre‡ebles!\", fueron HORRIBLES.";
+const char D_08067d18[] = "Las l‡eneas \"asombrosas!\", fueron HORRIBLES.";
 
-const char D_08067d44[] = "Las l‡eneas \"incre‡ebles!\", lo Sˆ¥PER fueron!";
+const char D_08067d44[] = "Las l‡eneas \"asombrosas!\", lo Sˆ¥PER fueron!";
 
 const char D_08067d70[] = "RAPNOTAS de las chicas:";
 
@@ -31,9 +31,9 @@ const char D_08067dec[] = "Yo \"Capto\", que NO captabas nada.";
 
 const char D_08067e14[] = "Tu, en serio como que \"captaste\" el rap!";
 
-const char D_08067e3c[] = "Las l‡eneas \"incre‡ebles!\", fueron HORRIBLES.";
+const char D_08067e3c[] = "Las l‡eneas \"asombrosas!\", fueron HORRIBLES.";
 
-const char D_08067e6c[] = "Las l‡eneas \"incre‡ebles!\", lo Sˆ¥PER fueron!";
+const char D_08067e6c[] = "Las l‡eneas \"asombrosas!\", lo Sˆ¥PER fueron!";
 
 const char D_08067e98[] = "RAPNOTAS de las chicas:";
 
