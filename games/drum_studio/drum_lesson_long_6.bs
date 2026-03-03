@@ -31,9 +31,9 @@ define_gameplay_scene scene_drum_lesson_long_6, script_drum_lesson_long_6_entry
 
 text D_08064874
     .ascii "\n"
-    .ascii "Let's just start with\n"
-    .ascii "the end of last lesson.\n"
-    .asciz "Show me you still got it!"
+    .ascii "Retomemos con el final\n"
+    .ascii "de la ˆ¦ltima clase.\n"
+    .asciz "Dime si lo recuerdas!"
 endtext
 
 
@@ -99,10 +99,10 @@ return
 
 
 text D_08064b30
-    .ascii "Now, let's switch it up\n"
-    .ascii "on the second half!\n"
-    .ascii "The beat's a bit odd; listen\n"
-    .asciz "closely and follow my lead!"
+    .ascii "Ahora, cambiemos por\n"
+    .ascii "la segunda mitad!\n"
+    .ascii "El ritmo es algo raro; pero\n"
+    .asciz "escucha con cuidado y dale!"
 endtext
 
 
@@ -153,10 +153,10 @@ return
 
 
 text D_08064d70
-    .ascii "Let's stack up some cymbals\n"
-    .ascii "to really make it stand out!\n"
-    .ascii "It's not that different from\n"
-    .asciz "before, so don't worry!"
+    .ascii "Apilemos unos platillos\n"
+    .ascii "para darle identidad!\n"
+    .ascii "No es tan diferente a lo\n"
+    .asciz "de antes, no temas!"
 endtext
 
 
@@ -212,9 +212,9 @@ return
 
 text D_08064fd8
     .ascii "\n"
-    .ascii "Okay, now add some toms, to\n"
-    .ascii "give the beat some oomph!\n"
-    .asciz "We're on a roll! Let's go!"
+    .ascii "Vale, pongamos unos toms,\n"
+    .ascii "dale al ritmo algo de umph!\n"
+    .asciz "Y rodando, no pares!"
 endtext
 
 
@@ -272,10 +272,10 @@ return
 
 
 text D_08065268
-    .ascii "Final step! Replace the tom\n"
-    .ascii "we just added with a roll!\n"
-    .ascii "It sounds so cool now, it's\n"
-    .asciz "almost hard to believe!"
+    .ascii "Paso final! Cambia el tom\n"
+    .ascii "que pusimos recien por un\n"
+    .ascii "redoble! Suena cool,\n"
+    .asciz "me cuesta creerlo!"
 endtext
 
 
@@ -334,24 +334,24 @@ return
 
 text D_08065500
     .ascii "\n"
-    .ascii "For this lesson,\n"
-    .ascii "we'll pick up from right\n"
-    .asciz "where we last left off."
+    .ascii "Retomemos con el final\n"
+    .ascii "de la ˆ¦ltima clase.\n"
+    .asciz "Dime si lo recuerdas!"
 endtext
 
 
 text D_08065530
     .ascii "\n"
-    .ascii "I'd suggest you first brush\n"
-    .ascii "up on Advanced 5 before\n"
-    .asciz "giving this one a try!"
+    .ascii "Te recomiendo que te pases\n"
+    .ascii "por Avanzado 5 antes\n"
+    .asciz "de probar este!"
 endtext
 
 
 text D_08065564
     .ascii "\n"
-    .ascii "You ready to go?\n"
-    .asciz "Alright, let's do this!"
+    .ascii "Listo?\n"
+    .asciz "Venga, vamos!"
 
 endtext
 

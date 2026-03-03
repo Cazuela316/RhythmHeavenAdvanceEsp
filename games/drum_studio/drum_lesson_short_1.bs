@@ -55,9 +55,9 @@ return
 
 text D_0805f1e4
     .ascii "\n"
-    .ascii "Now let's swap one of\n"
-    .ascii "the bass beats for a snare.\n"
-    .asciz "You know what to do!\n"
+    .ascii "Ahora cambiemos algo\n"
+    .ascii "del bombo por la caja.\n"
+    .asciz "Sabes que hacer!\n"
 endtext
 
 
@@ -96,9 +96,9 @@ return
 
 text D_0805f32c
     .ascii "\n"
-    .ascii "One more snare at the end!\n"
-    .ascii "You're getting closer to\n"
-    .asciz "playing like a pro!\n"
+    .ascii "Una m‡cs de caja al final!\n"
+    .ascii "Ya comienzas a sonar como\n"
+    .asciz "todo un pro!\n"
 endtext
 
 
@@ -120,9 +120,9 @@ return
 
 text D_0805f3f8
     .ascii "\n"
-    .ascii "Let's round this out with\n"
-    .ascii "a bass beat at the start.\n"
-    .asciz "You've got this!\n"
+    .ascii "Hagamos esto ahora con\n"
+    .ascii "un pulso de bombo al final.\n"
+    .asciz "S‡Q que puedes!\n"
 endtext
 
 
@@ -136,9 +136,9 @@ return
 
 text D_0805f470
     .ascii "\n"
-    .ascii "Surprise! We've got a\n"
-    .ascii "triple beat at the end!\n"
-    .asciz "Ready?\n"
+    .ascii "Sorpresa! Un trecillo\n"
+    .ascii "justo al final!\n"
+    .asciz "Listo?\n"
 endtext
 
 

@@ -67,9 +67,9 @@ return
 
 text D_08062794
     .ascii "\n"
-    .ascii "Let's tack on some more\n"
-    .ascii "crashes and snares!\n"
-    .asciz "Follow my lead!"
+    .ascii "Probemos unos cuantos\n"
+    .ascii "crashes con cajas!\n"
+    .asciz "Sigueme!"
 endtext
 
 
@@ -105,10 +105,10 @@ return
 
 
 text D_080628f0
-    .ascii "Now, one more beat!\n"
-    .ascii "It sounds complicated,\n"
-    .ascii "but it really isn't!\n"
-    .asciz "Can you keep up?"
+    .ascii "Ahora, uno m‡cs!\n"
+    .ascii "Suena complicado,\n"
+    .ascii "pero no lo es!\n"
+    .asciz "Puedes hacerlo?"
 endtext
 
 
@@ -140,9 +140,9 @@ return
 
 text D_08062a64
     .ascii "\n"
-    .ascii "Let's make it pop a little!\n"
-    .ascii "Think you can pull this off?\n"
-    .asciz "Follow as best as you can!\n"
+    .ascii "Hagamoslo petar un poco!\n"
+    .ascii "Crees poder con esto?\n"
+    .asciz "Sigue el ritmo!\n"
 endtext
 
 
@@ -177,10 +177,10 @@ return
 
 
 text D_08062be4
-    .ascii "And lastly, add a crash!\n"
-    .ascii "Things are heating up here!\n"
-    .ascii "and there's no going back!\n"
-    .asciz "So let's finish this right!"
+    .ascii "Y por ˆ¦ltimo, un crash!\n"
+    .ascii "Esto se esta calentando!\n"
+    .ascii "Y ya no hay vuelta atr‡cs!\n"
+    .asciz "As‡e que hagamoslo!"
 endtext
 
 

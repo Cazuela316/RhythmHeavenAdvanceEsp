@@ -96,10 +96,10 @@ return
 
 
 text D_080640d8
-    .ascii "Now then, let's add a\n"
-    .ascii "snare and a crash in here.\n"
-    .ascii "Don't get too comfortable,\n"
-    .asciz "and stay focused!\n"
+    .ascii "Y ahora, pongamos caja\n"
+    .ascii "y un crash por aqu‡e.\n"
+    .ascii "No te pongas muy comodo,\n"
+    .asciz "y mantente atento!\n"
 endtext
 
 
@@ -164,10 +164,10 @@ return
 
 
 text D_0806439c
-    .ascii "Let's spice it up a little!\n"
-    .ascii "Switch this snare with a tom.\n"
-    .ascii "Just go along with the beat\n"
-    .asciz "and you'll be good to go!\n"
+    .ascii "Aloqu‡Qmonos un poco!\n"
+    .ascii "Cambiemos la caja por un tom.\n"
+    .ascii "Solo sigue el ritmo y\n"
+    .asciz "lo tendr‡cs en las manos!\n"
 endtext
 
 
@@ -221,10 +221,10 @@ return
 
 
 text D_080645fc
-    .ascii "To end it off, one last snare!\n"
-    .ascii "Keep your focus on the\n"
-    .ascii "order you hit the drums.\n"
-    .asciz "You've got this!\n"
+    .ascii "Para terminar, una de caja!\n"
+    .ascii "F‡ejate en el orden\n"
+    .ascii "de los tambores.\n"
+    .asciz "Tˆ¦ puedes!\n"
 endtext
 
 

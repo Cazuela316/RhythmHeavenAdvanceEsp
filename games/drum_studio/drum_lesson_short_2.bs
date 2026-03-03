@@ -55,9 +55,9 @@ return
 
 text D_08061ef4
     .ascii "\n"
-    .ascii "Now, a snare on the offbeat!\n"
-    .ascii "Makes it feels kind of intense!\n"
-    .asciz "One two, one two!"
+    .ascii "Ahora, un contratiempo\n"
+    .ascii "de caja! Intenso, no?\n"
+    .asciz "Una, dos, Una, dos!"
 endtext
 
 
@@ -86,10 +86,10 @@ return
 
 
 text D_08061ffc
-    .ascii "Okay, let's mix it up!\n"
-    .ascii "I moved one of the bass\n"
-    .ascii "beats back a little bit.\n"
-    .asciz "It's tricky, but doable!"
+    .ascii "Vale, hagamos una locura!\n"
+    .ascii "Cambiemos una nota de bajo\n"
+    .ascii "un poco mas atr‡cs.\n"
+    .asciz "Es pillo, pero se puede!"
 endtext
 
 
@@ -112,9 +112,9 @@ return
 
 text D_080620e4
     .ascii "\n"
-    .ascii "I'll squeeze another beat\n"
-    .ascii "into that gap there.\n"
-    .asciz "Do your best!\n"
+    .ascii "Pondre otro pulso\n"
+    .ascii "en ese espacio de ah‡e.\n"
+    .asciz "Dale con todo!\n"
 endtext
 
 
@@ -139,9 +139,9 @@ return
 
 text D_080621d4
     .ascii "\n"
-    .ascii "We'll wrap this up by doubling\n"
-    .ascii "up on that second bass beat.\n"
-    .asciz "Let's bring it home!"
+    .ascii "Acabemos con esto con un redoble\n"
+    .ascii "en ese segundo pulso de bombo.\n"
+    .asciz "A roquear!"
 endtext
 
 

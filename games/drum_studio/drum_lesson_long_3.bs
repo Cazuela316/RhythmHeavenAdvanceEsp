@@ -140,10 +140,10 @@ return
 
 
 text D_08063708
-    .ascii "Let's add one more beat\n"
-    .ascii "on top of the last part.\n"
-    .ascii "Yes, it's a bit tricky, but\n"
-    .asciz "I'm sure you've got this!\n"
+    .ascii "Pongamos otro toque\n"
+    .ascii "m‡cs por el final.\n"
+    .ascii "S‡e, es peliagudo pero,\n"
+    .asciz "Apuesto a que puedes!\n"
 endtext
 
 
@@ -176,10 +176,10 @@ return
 
 
 text D_08063870
-    .ascii "Okay, last change!\n"
-    .ascii "If you can pull this off,\n"
-    .ascii "you're basically a full-on\n"
-    .asciz "pro drummer in my eyes!"
+    .ascii "Vale, una cosa m‡cs!\n"
+    .ascii "Si puedes hacer esto,\n"
+    .ascii "en mis ojos seras el pro\n"
+    .asciz "definitivo de la bateria!"
 endtext
 
 
