@@ -1,22 +1,22 @@
 
-# Rhythm Heaven Advance
+# Rhythm Heaven Advance ESP
 
-![Rhythm Heaven Advance](media/rha.png?raw=true "Rhythm Heaven Advance")
+![Rhythm Heaven Advance](media/rha.png?raw=true "Rhythm Heaven Advance ESP")
 
-An unofficial English localization patch for *Rhythm Tengoku (リズ�?天国)* on the Game Boy Advance.
+Una traduccion no oficial para el juego de ritmo *Rhythm Tengoku (リズム天てん国)* de la Game Boy Advance.
 
-## About
+## Acerca de
 
-**Rhythm Heaven Advance** is a fan-made localization project for *Rhythm Tengoku*. This project provides a complete English translation patch for the game.
+**Rhythm Heaven Advance ESP** Es una traduccion hecha por fans del juego *Rhythm Tengoku*. Este proyecto entrega una traduccion totalmente al español del juego antes mencionado.
 
-Feel free to join our [Discord server](https://discord.gg/8PET8w8PU8) if you have any questions or suggestions, or if you would like to follow the project and participate!
+Sientete libre de unirte a nuestro [server de Discord](https://discord.com/invite/MNJ3Wv38T4) si es que tienes alguna sugerencia, o si te gustaria ayudar en el proyecto!
 
-## Installation (NO voy a traducir esto ok? [Tal vez algun dia lo hago])
+## Instalacion (NO voy a traducir esto ok? [Tal vez algun dia lo hago])
 
-### Requirements
+### Cosas necesarias
 
-- A legally obtained ROM of *Rhythm Tengoku* **(Rev 0)** with CRC32 checksum: `349D7025`
-- A ROM patcher tool (recommended: [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/))
+- Una rom obtenida legalmente de *Rhythm Tengoku* **(Rev 0)** con un CRC32 checksum de: `349D7025`
+- Un parcheador de ROMs (Les recomendamos: [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/))
 
 ### Steps
 
@@ -104,18 +104,17 @@ The patched ROM will be generated in the `build/` directory.
 
 macOS build instructions are coming soon! (Pull request appreciated...)
 
-## Credits
-Check out the full credits [here](CREDITS.md)!
+## Creditos
+Mira todos los creditos [aqui!](CREDITS.md)!
 
-## Contact
+## Contacto
 
-- **Discord:** https://discord.gg/8PET8w8PU8
-- **GitHub Issues:** [Report bugs](https://github.com/RHAdvance/RhythmHeavenAdvance/issues)
+- **Discord:** https://discord.com/invite/MNJ3Wv38T4
 
 ## Disclaimer
 
-This is an unofficial fan project and is not affiliated with, endorsed by, or associated with Nintendo. All trademarks and copyrights belong to their respective owners. This patch is intended for personal use only with legally obtained copies of the game.
+Este es un proyecto no oficial hecho por fans y no tiene esta, afiliado, respaldado, o asociado con Nintendo de ninguna manera. Todas las marcas pertenecen a sus respectivos dueños. Este parche esta hecho para uso personal y con copias legalmente obtenidas del juego antes mencionado.  
 
-You are NOT permitted to use the patch for commercial purposes.
+Esta ESTRICTAMENTE PROHIBIDO usar este parche para uso comercial.
 
-All rights concerning the assets or source code are reserved by the original authors and Nintendo for Rhythm Tengoku.
+Todos los derechos de los assets o el codigo fuente estan reservados por los autores originales y Nintendo.
