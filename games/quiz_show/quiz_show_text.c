@@ -20,7 +20,7 @@ const char D_0805eca4[] =
 
 const char D_0805ecb0[] =
     "Vuelve la\n"
-    "proxima semana!\n"
+    "pr‡ixima semana!\n"
     "\n";
 
 const char D_0805ecd4[] = "Un mensaje de nuestro patrocinador";
@@ -81,19 +81,19 @@ const char D_0805ed9c[] =
     "\n";
 
 const char D_0805eda8[] =
-    "Increible! Ganaste\n"
+    "Incre‡eble! Ganaste\n"
     "la trivia! Ganaste\n"
     "mil puntos!";
 
 const char D_0805edd8[] =
     "Nos vemos la\n"
-    "proxima semana!\n"
+    "pr‡ixima semana!\n"
     "\n";
 
 const char D_0805edf4[] =
-    "Buenos dias!\n"
+    "Buenos d‡eas!\n"
     "Es hora de la\n"
-    "trivia ritmica!\n";
+    "trivia r‡etmica!\n";
 
 const char D_0805ee20[] =
     "Las reglas\n"
@@ -112,7 +112,7 @@ const char D_0805ee5c[] =
 
 const char D_0805ee8c[] = 
     "Usa ‡M o ‡O.\n"
-    "Solo enfocate en\n"
+    "Solo enf‡icate en\n"
     "la cantidad!\n";
 
 const char D_0805eebc[] = 

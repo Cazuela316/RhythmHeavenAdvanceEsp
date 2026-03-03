@@ -58,7 +58,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_karate_man
     },
     /* CLAPPY_TRIO */ {
-        /* Full Title  */ "Tr‡eo Saleroso",
+        /* Full Title  */ "Tr‡eo saleroso",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_clappy_trio
     },
@@ -98,7 +98,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_bon_dance
     },
     /* COSMIC_DANCE */ {
-        /* Full Title  */ "Baile Cosmico",
+        /* Full Title  */ "Baile C‡ismico",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_cosmic_dance
     },
@@ -138,7 +138,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_sneaky_spirits
     },
     /* SAMURAI_SLICE */ {
-        /* Full Title  */ "Samurai Rebanador",
+        /* Full Title  */ "Samur‡ci Rebanador",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_samurai_slice
     },
@@ -188,7 +188,7 @@ struct StudioEntry studio_song_table[] = {
         /* Drum Script */ script_studio_bouncy_road
     },
     /* TOSS_BOYS */ {
-        /* Full Title  */ "Ases del Volley",
+        /* Full Title  */ "Ases del V‡iley",
         /* Short Title */ NULL,
         /* Drum Script */ script_studio_toss_boys
     },

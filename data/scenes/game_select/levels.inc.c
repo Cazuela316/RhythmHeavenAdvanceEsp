@@ -34,7 +34,7 @@ struct LevelData level_data_table[] = {
     },
     /* CLAPPY_TRIO */ {
         /* Entry Scene   */ &scene_clappy_trio,
-        /* Level Name    */ "Tr‡eo Saleroso",
+        /* Level Name    */ "Tr‡eo saleroso",
         /* Level Desc.   */ "Aplaudan en orden!\n"
                             "Eres el tercero.\n"
                             "As‡e que estate atento\n"
@@ -481,7 +481,7 @@ struct LevelData level_data_table[] = {
     },
     /* TOSS_BOYS_2 */ {
         /* Entry Scene   */ &scene_toss_boys_2,
-        /* Level Name    */ "Ases del Voley 2",
+        /* Level Name    */ "Ases del V‡iley 2",
         /* Level Desc.   */ "Este trio de amigos ama\n"
                             "practicar sus tajadas.\n"
                             "Y justo hoy estan\n"

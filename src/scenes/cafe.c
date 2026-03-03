@@ -464,7 +464,7 @@ void cafe_print_dialogue(void) {
                     // Weren't you playing it just now?
                     s = gCafe->string;
                     memcpy(s, "", 1);
-                    strcat(s, ""); // nose si esto sirva, pero si no, solo a?adele un /n entre los "", okei?
+                    //strcat(s, "\n"); nose si esto sirva, pero si no, simplemente elimina este mensaje y las lineas "//", okei?
                     strcat(s, "Con que... \n");
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
@@ -500,7 +500,7 @@ void cafe_print_dialogue(void) {
                     break;
 
                 default:
-                    dialogue = cafe_random_conversation_pool[agb_random(15)];
+                    dialogue = cafe_random_conversation_pool[agb_random(11)];
                     break;
             }
             break;
