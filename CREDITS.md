@@ -1,4 +1,4 @@
-# Credits
+# Creditos
 #### Esta localizacion no podria ser posible sin el arduo trabajo de parte del [Equipo de Rhythm Heaven Advance!](https://github.com/RHAdvance/RhythmHeavenAdvance)
 
 #### Unas gracias especiales a itaific, sin el no hubiera sabido todo sobre el modding de este increible juego, en serio, muchas gracias!
@@ -7,15 +7,15 @@
 + patataofcourse
 
 ## Ediciones Graficas:
-+ Cazu
++ Cazu ☆
 + Mako
 + Apolo
 
 ## Edicion de Animaciones:
-+ Cazu
++ Cazu ☆
 
 ## Traduccion y Localizacion:
-+ Cazu
++ Cazu ☆
 + Camus
 + Mako
 + TheSpheric
