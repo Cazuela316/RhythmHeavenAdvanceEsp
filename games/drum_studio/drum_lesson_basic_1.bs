@@ -128,7 +128,7 @@ return
 
 
 text D_08061704
-    .ascii "Bienvenido a Toca Bater‡ea!\n"
+    .ascii "Bienvenido a Toca la Bater‡ea!\n"
     .ascii "Empecemos simple,\n"
     .ascii "solo con la caja.\n"
     .asciz "Luego pondremos m‡cs acci‡in.\n"
