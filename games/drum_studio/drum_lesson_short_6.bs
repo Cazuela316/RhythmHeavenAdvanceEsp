@@ -54,10 +54,10 @@ return
 
 
 text D_08061070
-    .ascii "Now, let's add a snare\n"
-    .ascii "right at the very end.\n"
-    .ascii "Keep the bass pattern\n"
-    .asciz "the same, though!"
+    .ascii "Ahora, algo de caja\n"
+    .ascii "justo al final.\n"
+    .ascii "Eso si, manten el\n"
+    .asciz "bombo igualito!"
 endtext
 
 
@@ -73,10 +73,10 @@ return
 
 
 text D_08061110
-    .ascii "Let's add another snare,\n"
-    .ascii "this time on the 2nd beat.\n"
-    .ascii "Same as before, keep\n"
-    .asciz "the bass as it is!\n"
+    .ascii "Pongamos otro pulso de caja,\n"
+    .ascii "esta vez en la 2da negra.\n"
+    .ascii "Lo mismo de antes,\n"
+    .asciz "el bombo no cambia!\n"
 endtext
 
 
@@ -94,9 +94,9 @@ return
 
 text D_080611c0
     .ascii "\n"
-    .ascii "Let's keep this going!\n"
-    .ascii "This time, a hi-hat.\n"
-    .asciz "Press Up on ‡O for it!\n"
+    .ascii "Sigamos, sigamos!\n"
+    .ascii "Esta vez, con hi-hat.\n"
+    .asciz "Dale Arriba en el ‡O !\n"
 endtext
 
 
@@ -115,10 +115,10 @@ return
 
 
 text D_08061288
-    .ascii "Now for a surprise...\n"
-    .ascii "It's another hi-hat!\n"
-    .ascii "Don't mix up your left\n"
-    .asciz "and right hand, here!"
+    .ascii "Ahora una sorpresa...\n"
+    .ascii "Otro hi-hat!\n"
+    .ascii "Que no se te enreden\n"
+    .asciz "las manos aqu‡e!"
 endtext
 
 
@@ -132,9 +132,9 @@ return
 
 text D_08061300
     .ascii "\n"
-    .ascii "One last surprise!\n"
-    .ascii "Just one more hi-hat!\n"
-    .asciz "That's a groovy beat!\n"
+    .ascii "Vale, ˆ¦ltima sorpresa!\n"
+    .ascii "Solo un hi-hat m‡cs!\n"
+    .asciz "Que ritmo este, no?\n"
 endtext
 
 

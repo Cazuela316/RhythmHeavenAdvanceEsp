@@ -57,8 +57,8 @@ return
 
 text D_0805fb60
     .ascii "\n"
-    .ascii "Let's add some more snare.\n"
-    .asciz "Use both hands to hit this!\n"
+    .ascii "Pongamos m‡cs caja.\n"
+    .asciz "Usa ambas manos para esto!\n"
 endtext
 
 
@@ -79,9 +79,9 @@ return
 
 text D_0805fc24
     .ascii "\n"
-    .ascii "And now we slip in\n"
-    .ascii "one more bass beat!\n"
-    .asciz "Should be simple enough!"
+    .ascii "Y ahora deslizamos\n"
+    .ascii "un pulso de bombo!\n"
+    .asciz "Deber‡ea de ser simple!"
 endtext
 
 
@@ -95,9 +95,9 @@ return
 
 text D_0805fc90
     .ascii "\n"
-    .ascii "And another one!\n"
-    .ascii "It's easier if you use both\n"
-    .asciz "‡N and Down on ‡O for it.\n"
+    .ascii "Pon otro!\n"
+    .ascii "Es m‡cs f‡ccil si usas\n"
+    .asciz "‡N y Abajo en el ‡O .\n"
 endtext
 
 
@@ -113,9 +113,9 @@ return
 
 text D_0805fd14
     .ascii "\n"
-    .ascii "Surprise! It's time for\n"
-    .ascii "some more bass beats!\n"
-    .asciz "Take all the time you need.\n"
+    .ascii "Sorpresa! M‡cs bombo!\n"
+    .ascii "Que no pare mi bombo!\n"
+    .asciz "T‡imate tu tiempo.\n"
 endtext
 
 
@@ -132,10 +132,10 @@ return
 
 
 text D_0805fdbc
-    .ascii "We're almost done!\n"
-    .ascii "Just one more beat\n"
-    .ascii "on the bass, and that's\n"
-    .asciz "it for this lesson!\n"
+    .ascii "Ya casi estamos!\n"
+    .ascii "Solo un pulso m‡cs\n"
+    .ascii "en el bombo y ya\n"
+    .asciz "estamos por esta clase!\n"
 endtext
 
 

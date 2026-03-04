@@ -57,8 +57,8 @@ return
 
 text D_0805f648
     .ascii "\n"
-    .ascii "I slipped in another bass beat!\n"
-    .asciz "We're only just starting!\n"
+    .ascii "Puse otro pulso de bombo!\n"
+    .asciz "Apenas comenzamos!\n"
 endtext
 
 
@@ -71,9 +71,9 @@ return
 
 text D_0805f6ac
     .ascii "\n"
-    .ascii "There's a new addition to the\n"
-    .ascii "drum set, what could it be?\n"
-    .asciz "Press Up on ‡O to find out!"
+    .ascii "Hay una nueva adici‡in al\n"
+    .ascii "set, que ser‡c?\n"
+    .asciz "Pulsa Arriba en el ‡O !"
 endtext
 
 
@@ -89,9 +89,9 @@ return
 
 text D_0805f740
     .ascii "\n"
-    .ascii "Let's put some syncopation\n"
-    .ascii "at the end here. This one's a\n"
-    .asciz "little technical!\n"
+    .ascii "Pongamos algo de S‡encopa\n"
+    .ascii "al final. La verdad, esto\n"
+    .asciz "es algo t‡Qcnico!\n"
 endtext
 
 
@@ -110,10 +110,10 @@ return
 
 
 text D_0805f7f4
-    .ascii "Now for a tom beat, right\n"
-    .ascii "at the very end!\n"
-    .ascii "Remember where that is?\n"
-    .asciz "(Hint: Right on ‡O!)"
+    .ascii "Ahora un pulso de\n"
+    .ascii " tom, justo al final!\n"
+    .ascii "Recuerdas d‡inde est‡c?\n"
+    .asciz "( ‡O )"
 endtext
 
 
@@ -135,9 +135,9 @@ return
 
 text D_0805f8dc
     .ascii "\n"
-    .ascii "Surprise! One final snare\n"
-    .ascii "here in the middle!\n"
-    .asciz "It's all coming together!\n"
+    .ascii "Sorpresa! Un pulso de\n"
+    .ascii "caja aqu‡e en medio!\n"
+    .asciz "Comienza a agarrar forma!\n"
 endtext
 
 
@@ -161,24 +161,24 @@ return
 
 text D_0805f9cc
     .ascii "\n"
-    .ascii "That just now was our first\n"
-    .ascii "cymbal, the hi-hat!\n"
-    .asciz "You can hit it with Up on ‡O.\n"
+    .ascii "Ese fue nuestro primer platillo\n"
+    .ascii "c‡embal, el hi-hat!\n"
+    .asciz "Puedes darle con Arriba en el ‡O.\n"
 endtext
 
 
 text D_0805fa10
     .ascii "\n"
-    .ascii "Up on ‡O can be either the\n"
-    .ascii "hi-hat or the roll, depending\n"
-    .asciz "on the drum set we're using.\n"
+    .ascii "Arriba en el ‡O puede ser o\n"
+    .ascii "el hi-hat o el redoble, depende\n"
+    .asciz "de que set de bater‡ea estemos usando.\n"
 endtext
 
 
 text D_0805fa60
     .ascii "\n"
-    .ascii "Now then, let's get on\n"
-    .asciz "with the lesson!"
+    .ascii "Ahora s‡e, v‡cmonos\n"
+    .asciz "con la clase!"
 endtext
 
 

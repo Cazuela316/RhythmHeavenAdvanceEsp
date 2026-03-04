@@ -153,13 +153,13 @@ endtext
 text D_080617bc
     .ascii "\n"
     .ascii "Eh? Las luces de arriba?\n"
-    .ascii "Ah, son las luces al ritmo!\n"
+    .ascii "Ah, son las luces exactas!\n"
     .asciz ""
 endtext
 
 
 text D_080617f0
-    .ascii "Estas parpadean a tu ritmo:\n"
+    .ascii "Estas parpadean a tu tiempo:\n"
     .ascii "Izquierda, si estas apurado,\n"
     .ascii "Derecha, si estas atrasado,\n"
     .asciz "Al centro si esta correcto!"

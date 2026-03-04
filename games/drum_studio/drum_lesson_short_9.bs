@@ -55,9 +55,9 @@ return
 
 text D_080609dc
     .ascii "\n"
-    .ascii "Kick each bass twice!\n"
-    .ascii "Think you've got this?\n"
-    .asciz "I'd suggest only using ‡N."
+    .ascii "Dale a los dos bajos!\n"
+    .ascii "Crees poder con esto?\n"
+    .asciz "Te recomiendo usar ‡N."
 endtext
 
 
@@ -86,10 +86,10 @@ return
 
 
 text D_08060af4
-    .ascii "Now let's do a new snare\n"
-    .ascii "beat, right before the end.\n"
-    .ascii "Careful though, the bass\n"
-    .asciz "is still the same as before!"
+    .ascii "Ahora un pulso de\n"
+    .ascii "caja, justo antes del fin.\n"
+    .ascii "Con cuidado, el bajo,\n"
+    .asciz "O bombos, siguen igual!"
 endtext
 
 
@@ -112,9 +112,9 @@ return
 
 text D_08060be0
     .ascii "\n"
-    .ascii "Let's add another snare\n"
-    .ascii "right after the last one.\n"
-    .asciz "The bass still hasn't changed!"
+    .ascii "P‡ingamos m‡cs caja\n"
+    .ascii "justo despˆ¦es del ultimo.\n"
+    .asciz "El bajo sigue igual!"
 endtext
 
 
@@ -138,10 +138,10 @@ return
 
 
 text D_08060cd0
-    .ascii "Okay, let's add a bit more\n"
-    .ascii "snare at the beginning.\n"
-    .ascii "Listen carefully and keep\n"
-    .asciz "the beat steady!"
+    .ascii "Vale, p‡ingamos m‡cs caja\n"
+    .ascii "al principio.\n"
+    .ascii "Escucha con cuidado y\n"
+    .asciz "mant‡Qn el ritmo firme!"
 endtext
 
 
@@ -168,9 +168,9 @@ return
 
 text D_08060de4
     .ascii "\n"
-    .ascii "Another snare beat! It's a\n"
-    .ascii "simple change, but it makes\n"
-    .asciz "things a lot more difficult."
+    .ascii "Otro pulso de caja! Es un\n"
+    .ascii "cambio simple pero, hace\n"
+    .asciz "todo m‡cs dif‡ecil."
 endtext
 
 
@@ -198,10 +198,10 @@ return
 
 
 text D_08060f10
-    .ascii "You're almost done! Now\n"
-    .ascii "another one, at the start.\n"
-    .ascii "It's pretty tricky, but it\n"
-    .asciz "makes it sound great!\n"
+    .ascii "Ya casi terminas! Ahora\n"
+    .ascii "otro, al principio.\n"
+    .ascii "No es f‡ccil, pero hace\n"
+    .asciz "que suene genial!\n"
 endtext
 
 

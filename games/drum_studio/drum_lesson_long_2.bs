@@ -140,7 +140,7 @@ text D_08063184
     .ascii "Por ˆ¦ltimo, pero no menos\n"
     .ascii "importante, otro pulso de bombo.\n"
     .ascii "Ya casi podemos irnos a casa.\n"
-    .asciz "Dale, que no he almorzado!\n"
+    .asciz "Dale, que es mi cumple!\n"
 endtext
 
 
