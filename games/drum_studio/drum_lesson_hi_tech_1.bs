@@ -163,7 +163,7 @@ text D_08065ad0
     .ascii "Si poco hi-hat agrega\n"
     .ascii "poco ritmo, entonces\n"
     .ascii "m‡cs hi-hats debe\n"
-    .asciz "de agregar m‡cs, no?\n"
+    .asciz "de agregar m‡cs ritmo, no?\n"
 endtext
 
 

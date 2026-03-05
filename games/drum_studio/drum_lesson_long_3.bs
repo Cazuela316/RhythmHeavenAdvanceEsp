@@ -30,10 +30,10 @@ define_gameplay_scene scene_drum_lesson_long_3, script_drum_lesson_long_3_entry
 @ Drum Lesson (Long 3) - Data
 
 text D_08063308
-    .ascii "Ey, podemos hablar?\n"
-    .ascii "La verdad era broma,\n"
-    .ascii "si almorc‡Q, solo\n"
-    .asciz "quer‡ea hacerte sonre‡er."
+    .ascii "Ey, no te preocupes.\n"
+    .ascii "No me gustan los regalos,\n"
+    .ascii "Pero si puedo pedir algo por\n"
+    .asciz "mi cumple, es verte sonre‡er."
 endtext
 
 

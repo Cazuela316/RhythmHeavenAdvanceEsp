@@ -56,9 +56,9 @@ return
 
 text D_0805ff7c
     .ascii "\n"
-    .ascii "Now, let's add a crash cymbal!\n"
-    .ascii "Hit it with ‡L, and time it with\n"
-    .asciz "the bass drum here."
+    .ascii "Ahora, un crash de c‡embal!\n"
+    .ascii "Dale con ‡L, y enc‡cjalo con\n"
+    .asciz "el bombo aqu‡e."
 endtext
 
 
@@ -71,8 +71,8 @@ return
 
 text D_0805ffe4
     .ascii "\n"
-    .ascii "Now for a new snare beat.\n"
-    .asciz "Listen carefully and go for it!\n"
+    .ascii "Ahora un nuevo ritmo de caja.\n"
+    .asciz "Escucha con cuidado y dale!\n"
 endtext
 
 
@@ -89,10 +89,10 @@ return
 
 
 text D_08060080
-    .ascii "Let's add a tom beat.\n"
-    .ascii "Remember, you can use\n"
-    .ascii "either ‡M or Left on ‡O\n"
-    .asciz "for the snare.\n"
+    .ascii "Y un pulso de tom por aqu‡e.\n"
+    .ascii "Recuerda, puedes usar\n"
+    .ascii "‡M o Izquierda en el ‡O\n"
+    .asciz "para la caja.\n"
 endtext
 
 
@@ -112,9 +112,9 @@ return
 
 text D_08060148
     .ascii "\n"
-    .ascii "Now let's squeeze in one more\n"
-    .ascii "snare right before the end.\n"
-    .asciz "This should be easy!\n"
+    .ascii "Ahora pongamos un pulso de\n"
+    .ascii "caja justo antes del final.\n"
+    .asciz "Deber‡ea de ser f‡ccil!\n"
 endtext
 
 
@@ -135,10 +135,10 @@ return
 
 
 text D_08060220
-    .ascii "We're not done yet!\n"
-    .ascii "Add one more snare beat\n"
-    .ascii "at the end, and we'll\n"
-    .asciz "wrap up this lesson!"
+    .ascii "Aˆ¦n no terminamos!\n"
+    .ascii "Un pulso de caja m‡cs\n"
+    .ascii "al final, y ya vamos\n"
+    .asciz "terminando la clase!"
 endtext
 
 
