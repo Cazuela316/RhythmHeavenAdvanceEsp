@@ -16,6 +16,7 @@
 
 ## Traduccion y Localizacion:
 + Cazu ☆
++ Apolo
 + Camus
 + Mako
 + TheSpheric
@@ -38,7 +39,6 @@
 + KonKon
 
 ## Beta Testing:
-
 + JaviParra
 + Joaquin
 + Naru

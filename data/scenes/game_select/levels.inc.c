@@ -833,7 +833,7 @@ struct LevelData level_data_table[] = {
     },
     /* DRUM_LESSONS */ {
         /* Entry Scene   */ &scene_lessons_menu,
-        /* Level Name    */ "Toca Bater‡ea",
+        /* Level Name    */ "Toca la Bater‡ea",
         /* Level Desc.   */ "Colecta medallas y\n"
                             "toma lecciones de\n"
                             "bater‡ea. Y asi te\n"

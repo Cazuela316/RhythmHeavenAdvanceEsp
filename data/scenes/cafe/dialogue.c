@@ -212,8 +212,7 @@ const char *cafe_dialogue_not_practicing_perfect[] = {
 
 const char *cafe_dialogue_all_perfects_clear[] = {
     /* ------------------------------------------------ */
-        "\n"
-        "Si has llegado hasta aqu‡e, tienes"
+        "Si has llegado hasta aqu‡e, tienes\n"
         "un sentido del ritmo fuera\n"
         "de este mundo!",
     /* ------------------------------------------------ */
@@ -228,7 +227,7 @@ const char *cafe_dialogue_all_perfects_clear[] = {
         "la rocola, solo para ti.\n",
     /* ------------------------------------------------ */
         "\n"
-        "as‡e que eso significa que has coleccionado\n"
+        "As‡e que eso significa que has coleccionado\n"
         "todo?\n"
         "Impresionante!",
     /* ------------------------------------------------ */
@@ -268,7 +267,7 @@ const char *cafe_dialogue_shouts_praise[] = {
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
-    "No esta mal!" "\0030" "\001s" "\0054" "\0018",
+    "Nada mal!" "\0030" "\001s" "\0054" "\0018",
     /* ------------------------------------------------ */
     "\0032" "\001l" "\0051" "\0015" "\n"
     "\n"
