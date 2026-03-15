@@ -7,466 +7,6 @@
 
 // [D_089ddbe8] Debug Menu Table
 struct DebugMenuEntry debug_menu_entry_table[] = {
-    /* Drum LIVE */ {
-        /* Scene */ &scene_drum_live,
-        /* Label */ "Ｃｏｎｃｉｅｒｔｏ",
-        /* Epil. */ TRUE
-    },
-    /* Sick Beats Endless */ {
-        /* Scene */ &scene_sick_beats_endless,
-        /* Label */ "Ｒｉｔｍｏ　Ｃｏｎｔａｇｉｏｓｏ　ＥＸ",
-        /* Epil. */ FALSE
-    },
-    /* Quiz Show Endless */ {
-        /* Scene */ &scene_quiz_show_endless,
-        /* Label */ "Ｔｒｉｖｉａ　Ｓｈｏｗ　ＥＸ",
-        /* Epil. */ FALSE
-    },
-    /* Mannequin Factory */ {
-        /* Scene */ &scene_mannequin_factory,
-        /* Label */ "Ｆａｂｒｉｃａ　ｄｅ　Ｍａｎｉｑｕｉｓ",
-        /* Epil. */ FALSE
-    },
-    /* Mr. Upbeat */ {
-        /* Scene */ &scene_mr_upbeat,
-        /* Label */ "Ｄｏｎ　Ｓｉｎｃｏｐａｎ",
-        /* Epil. */ FALSE
-    },
-    /* Remix 8 */ {
-        /* Scene */ &scene_remix_8,
-        /* Label */ "Ｒｅｍｉｘ　８",
-        /* Epil. */ TRUE
-    },
-    /* Remix 7 */ {
-        /* Scene */ &scene_remix_7,
-        /* Label */ "Ｒｅｍｉｘ　７",
-        /* Epil. */ TRUE
-    },
-    /* Remix 6 */ {
-        /* Scene */ &scene_remix_6,
-        /* Label */ "Ｒｅｍｉｘ　６",
-        /* Epil. */ TRUE
-    },
-    /* Remix 5 */ {
-        /* Scene */ &scene_remix_5,
-        /* Label */ "Ｒｅｍｉｘ　５",
-        /* Epil. */ TRUE
-    },
-    /* Remix 4 */ {
-        /* Scene */ &scene_remix_4,
-        /* Label */ "Ｒｅｍｉｘ　４",
-        /* Epil. */ TRUE
-    },
-    /* Remix 3 */ {
-        /* Scene */ &scene_remix_3,
-        /* Label */ "Ｒｅｍｉｘ　３",
-        /* Epil. */ TRUE
-    },
-    /* Remix 2 */ {
-        /* Scene */ &scene_remix_2,
-        /* Label */ "Ｒｅｍｉｘ　２",
-        /* Epil. */ TRUE
-    },
-    /* Remix 1 */ {
-        /* Scene */ &scene_remix_1,
-        /* Label */ "Ｒｅｍｉｘ　１",
-        /* Epil. */ TRUE
-    },
-    /* The Bon Odori */ {
-        /* Scene */ &scene_bon_odori,
-        /* Label */ "Ｂｏｎ　Ｏｄｏｒｉ",
-        /* Epil. */ TRUE
-    },
-    /* Bon Dance */ {
-        /* Scene */ &scene_bon_dance,
-        /* Label */ "Ｂｏｎ　Ｄａｎｃｅ",
-        /* Epil. */ TRUE
-    },
-    /* Rhythm Toys (Cat Machine) */ {
-        /* Scene */ &scene_cat_machine,
-        /* Label */ "Ｇａｔｏ　Ｍｅｃａｎｉｃｏ",
-        /* Epil. */ FALSE
-    },
-    /* Rhythm Toys (Confession Machine) */ {
-        /* Scene */ &scene_love_machine,
-        /* Label */ "Ｍａｑｕｉｎａ　ｄｅｌ　Ａｍｏｒ",
-        /* Epil. */ FALSE
-    },
-    /* Rhythm Toys (Rap Machine) */ {
-        /* Scene */ &scene_rap_machine,
-        /* Label */ "Ｍａｑｕｉｎａ　ｄｅ　Ｒａｐ",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 1) */ {
-        /* Scene */ &scene_drum_lesson_short_1,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　１）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 4) */ {
-        /* Scene */ &scene_drum_lesson_short_4,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　４）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 8) */ {
-        /* Scene */ &scene_drum_lesson_short_8,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　８）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 5) */ {
-        /* Scene */ &scene_drum_lesson_short_5,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　５）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 7) */ {
-        /* Scene */ &scene_drum_lesson_short_7,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　７）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 6) */ {
-        /* Scene */ &scene_drum_lesson_short_6,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　６）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 9) */ {
-        /* Scene */ &scene_drum_lesson_short_9,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　９）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Basic 1) */ {
-        /* Scene */ &scene_drum_lesson_basic_1,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｉｎｔｒｏ　１）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Basic 2) */ {
-        /* Scene */ &scene_drum_lesson_basic_2,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｉｎｔｒｏ　２）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 2) */ {
-        /* Scene */ &scene_drum_lesson_short_2,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　２）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Short 3) */ {
-        /* Scene */ &scene_drum_lesson_short_3,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　３）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Long 4) */ {
-        /* Scene */ &scene_drum_lesson_long_4,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　４）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Long 2) */ {
-        /* Scene */ &scene_drum_lesson_long_2,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　２）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Long 3) */ {
-        /* Scene */ &scene_drum_lesson_long_3,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　３）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Long 1) */ {
-        /* Scene */ &scene_drum_lesson_long_1,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　１）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Long 5) */ {
-        /* Scene */ &scene_drum_lesson_long_5,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　５）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (Long 6) */ {
-        /* Scene */ &scene_drum_lesson_long_6,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　６）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (High-Tech 1) */ {
-        /* Scene */ &scene_drum_lesson_hi_tech_1,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｔｅｃｎｉｃｏ　１）",
-        /* Epil. */ FALSE
-    },
-    /* Lesson (High-Tech 2) */ {
-        /* Scene */ &scene_drum_lesson_hi_tech_2,
-        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｔｅｃｎｉｃｏ　２）",
-        /* Epil. */ FALSE
-    },
-    /* Studio Drummer */ {
-        /* Scene */ &scene_drum_studio_ver0,
-        /* Label */ "Ｔａｍｂｏｒ　ｄｅ　ｒｏｃｏｌａ　（Ｖｅｒ．０）",
-        /* Epil. */ FALSE
-    },
-    /* Studio Drummer */ {
-        /* Scene */ &scene_drum_studio_ver2,
-        /* Label */ "Ｔａｍｂｏｒ　ｄｅ　ｒｏｃｏｌａ　（Ｖｅｒ．２）",
-        /* Epil. */ FALSE
-    },
-    /* Rhythm Test */ {
-        /* Scene */ &scene_rhythm_test,
-        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ",
-        /* Epil. */ FALSE
-    },
-    /* Reading Material */ {
-        /* Scene */ &scene_reading,
-        /* Label */ "Ｅｍａｉｌ",
-        /* Epil. */ FALSE
-    },
-    /* Quiz Show */ {
-        /* Scene */ &scene_quiz_show,
-        /* Label */ "Ｔｒｉｖｉａ　Ｓｈｏｗ",
-        /* Epil. */ TRUE
-    },
-    /* Rap Men */ {
-        /* Scene */ &scene_rap_men,
-        /* Label */ "Ｒａｐｄｉｃａｌｅｓ",
-        /* Epil. */ TRUE
-    },
-    /* Rap Women (by YONE) */ {
-        /* Scene */ &scene_rap_women,
-        /* Label */ "Ｒａｐｎｉｆｉｃａｓ　（ｐｏｒ　ＹＯＮＥ）",
-        /* Epil. */ TRUE
-    },
-    /* Rap Women (by KAZU) */ {
-        /* Scene */ &scene_rap_women_unused,
-        /* Label */ "Ｒａｐｎｉｆｉｃａｓ　（ｐｏｒ　ＫＡＺＵ）",
-        /* Epil. */ TRUE
-    },
-    /* Space Dance */ {
-        /* Scene */ &scene_space_dance,
-        /* Label */ "Ｂａｉｌｅ　Ａｓｔｒａｌ",
-        /* Epil. */ TRUE
-    },
-    /* Cosmic Dance */ {
-        /* Scene */ &scene_cosmic_dance,
-        /* Label */ "Ｂａｉｌｅ　Ｃｏｓｍｉｃｏ",
-        /* Epil. */ TRUE
-    },
-    /* Showtime */ {
-        /* Scene */ &scene_showtime,
-        /* Label */ "Ｈｏｒａ　ｄｅｌ　Ｓｈｏｗ",
-        /* Epil. */ TRUE
-    },
-    /* RIQ Data Check */ {
-        /* Scene */ &scene_data_check,
-        /* Label */ "Ｒ－ＩＱ　Ｄａｔａ　Ｃｈｅｃｋ",
-        /* Epil. */ FALSE
-    },
-    /* Opening (B Type) */ {
-        /* Scene */ &scene_drum_samurai_opening_cutscene,
-        /* Label */ "Ｏｐｅｎｉｎｇ　（Ｔｉｐｏ　Ｂ）",
-        /* Epil. */ FALSE
-    },
-    /* Opening (A Type) */ {
-        /* Scene */ &scene_drum_samurai_demo_cutscene,
-        /* Label */ "Ｏｐｅｎｉｎｇ　（Ｔｉｐｏ　Ａ）",
-        /* Epil. */ FALSE
-    },
-    /* Drum Inrto (Unused 1) */ {
-        /* Scene */ &scene_drum_intro_unused,
-        /* Label */ "Ｉｎｔｒｏ　ｓａｍｕｒａｉ　（Ｎｏ　ｕｓａｄｏ）",
-        /* Epil. */ TRUE
-    },
-    /* Drum Intro (Unused 2) */ {
-        /* Scene */ &scene_drum_intro_unused_2,
-        /* Label */ "Ｉｎｔｒｏ　ｓａｍｕｒａｉ　（Ｎｏ　ｕｓａｄｏ　２）",
-        /* Epil. */ TRUE
-    },
-    /* Drum Intro (Unused 3) */ {
-        /* Scene */ &scene_drum_intro_unused_3,
-        /* Label */ "Ｉｎｔｒｏ　ｓａｍｕｒａｉ　（Ｎｏ　ｕｓａｄｏ　３）",
-        /* Epil. */ TRUE
-    },
-    /* Tram & Pauline */ {
-        /* Scene */ &scene_tram_pauline,
-        /* Label */ "Ｔｒａｍ　＆　Ｐａｕｌざｎ",
-        /* Epil. */ TRUE
-    },
-    /* Toss Boys */ {
-        /* Scene */ &scene_toss_boys,
-        /* Label */ "Ａｓｅｓ　ｄｅｌ　ｖだｌｅｙ",
-        /* Epil. */ TRUE
-    },
-    /* Toss Boys 2 */ {
-        /* Scene */ &scene_toss_boys_2,
-        /* Label */ "Ａｓｅｓ　ｄｅｌ　ｖだｌｅｙ　２",
-        /* Epil. */ TRUE
-    },
-    /* Drum Girls LIVE */ {
-        /* Scene */ &scene_drum_girls_live_unused,
-        /* Label */ "Ｄｒｕｍ　Ｇｉｒｌｓ",
-        /* Epil. */ TRUE
-    },
-    /* Power Calligraphy */ {
-        /* Scene */ &scene_power_calligraphy,
-        /* Label */ "Ｐｏｄｅｒ　Ｃａｌｉｇｒａｆｉｃｏ",
-        /* Epil. */ TRUE
-    },
-    /* Rat Race */ {
-        /* Scene */ &scene_rat_race,
-        /* Label */ "Ｒａｔｏｎｅｓ　Ｅｓｃｕｒｒｉｄｉｚｏｓ",
-        /* Epil. */ TRUE
-    },
-    /* Flash Memory Test */ {
-        /* Scene */ &scene_flash_mem_test,
-        /* Label */ "Ｔｅｓｔ　Ｍｅｍｏｒｉａ　ｆｌａｓｈ",
-        /* Epil. */ FALSE
-    },
-    /* Fireworks */ {
-        /* Scene */ &scene_fireworks,
-        /* Label */ "Ｐｉｒｏｔｅｃｎｉａ",
-        /* Epil. */ TRUE
-    },
-    /* Metronome */ {
-        /* Scene */ &scene_metronome,
-        /* Label */ "Ｍｅｔｒだｎｏｍｏ",
-        /* Epil. */ TRUE
-    },
-    /* Bunny Hop */ {
-        /* Scene */ &scene_bunny_hop,
-        /* Label */ "Ｃｏｎｅｊｏ　Ｓａｌｔａｒｉｎ",
-        /* Epil. */ TRUE
-    },
-    /* Dance Lesson 1 */ {
-        /* Scene */ &scene_remix_1_unused,
-        /* Label */ "Ｌｅｃｃｉｏｎ　ｄｅ　ｂａｉｌｅ　１",
-        /* Epil. */ TRUE
-    },
-    /* Wizard's Waltz */ {
-        /* Scene */ &scene_wizards_waltz,
-        /* Label */ "Ｖａｌｓ　Ｍいｇｉｃｏ",
-        /* Epil. */ TRUE
-    },
-    /* Marching Orders */ {
-        /* Scene */ &scene_marching_orders,
-        /* Label */ "Ｍａｒｃｈａ　Ａｎｉｍｏｓａ",
-        /* Epil. */ TRUE
-    },
-    /* Marching Orders 2 */ {
-        /* Scene */ &scene_marching_orders_2,
-        /* Label */ "Ｍａｒｃｈａ　Ａｎｉｍｏｓａ　２",
-        /* Epil. */ TRUE
-    },
-    /* Mechanical Horse */ {
-        /* Scene */ &scene_mechanical_horse,
-        /* Label */ "Ｃａｂａｌｌｏ　Ｍｅｃいｎｉｃｏ",
-        /* Epil. */ FALSE
-    },
-    /* Tap Trial */ {
-        /* Scene */ &scene_tap_trial,
-        /* Label */ "Ｐｒｕｅｂａ　ｄｅ　Ｃｌａｑｕぎ",
-        /* Epil. */ TRUE
-    },
-    /* Tap Trial 2 */ {
-        /* Scene */ &scene_tap_trial_2,
-        /* Label */ "Ｐｒｕｅｂａ　ｄｅ　Ｃｌａｑｕぎ　２",
-        /* Epil. */ TRUE
-    },
-    /* Samurai Slice */ {
-        /* Scene */ &scene_samurai_slice,
-        /* Label */ "Ｓａｍｕｒａｉ　Ｒｅｂａｎａｄｏｒ",
-        /* Epil. */ TRUE
-    },
-    /* Spaceball */ {
-        /* Scene */ &scene_spaceball,
-        /* Label */ "Ｓｐａｃｅｂだｌ",
-        /* Epil. */ TRUE
-    },
-    /* Spaceball 2 */ {
-        /* Scene */ &scene_spaceball_2,
-        /* Label */ "Ｓｐａｃｅｂだｌ　２",
-        /* Epil. */ TRUE
-    },
-    /* Sneaky Spirits */ {
-        /* Scene */ &scene_sneaky_spirits,
-        /* Label */ "Ｆａｎｔａｓｍａｓ　Ｂｕｒｌｏｎｅｓ",
-        /* Epil. */ TRUE
-    },
-    /* Sneaky Spirits 2 */ {
-        /* Scene */ &scene_sneaky_spirits_2,
-        /* Label */ "Ｆａｎｔａｓｍａｓ　Ｂｕｒｌｏｎｅｓ　２",
-        /* Epil. */ TRUE
-    },
-    /* Ninja Bodyguard */ {
-        /* Scene */ &scene_ninja_bodyguard,
-        /* Label */ "Ｇｕａｒｄｉａ　Ｎｉｎｊａ",
-        /* Epil. */ TRUE
-    },
-    /* Ninja Bodyguard 2 */ {
-        /* Scene */ &scene_ninja_reincarnate,
-        /* Label */ "Ｄｅｓｃｅｎｄｉｅｎｔｅ　Ｎｉｎｊａ",
-        /* Epil. */ TRUE
-    },
-    /* Bouncy Road */ {
-        /* Scene */ &scene_bouncy_road,
-        /* Label */ "Ｂｏｌａｓ　Ｓａｌｔａｒｉｎａｓ",
-        /* Epil. */ TRUE
-    },
-    /* Bouncy Road 2 */ {
-        /* Scene */ &scene_bouncy_road_2,
-        /* Label */ "Ｂｏｌａｓ　Ｓａｌｔａｒｉｎａｓ　２",
-        /* Epil. */ TRUE
-    },
-    /* Sick Beats */ {
-        /* Scene */ &scene_sick_beats,
-        /* Label */ "Ｒｉｔｍｏ　Ｃｏｎｔａｇｉｏｓｏ",
-        /* Epil. */ TRUE
-    },
-    /* Rhythm Tweezers */ {
-        /* Scene */ &scene_rhythm_tweezers,
-        /* Label */ "Ｐｉｎｚａｓ　Ｒｉｔｍｉｃａｓ",
-        /* Epil. */ TRUE
-    },
-    /* Rhythm Tweezers 2 */ {
-        /* Scene */ &scene_rhythm_tweezers_2,
-        /* Label */ "Ｐｉｎｚａｓ　Ｒｉｔｍｉｃａｓ　２",
-        /* Epil. */ TRUE
-    },
-    /* Night Walk */ {
-        /* Scene */ &scene_night_walk,
-        /* Label */ "Ｐａｓｅｏ　Ｎｏｃｔｕｒｎｏ",
-        /* Epil. */ TRUE
-    },
-    /* Night Walk 2 */ {
-        /* Scene */ &scene_night_walk_2,
-        /* Label */ "Ｐａｓｅｏ　Ｎｏｃｔｕｒｎｏ　２",
-        /* Epil. */ TRUE
-    },
-    /* Polyrhythm */ {
-        /* Scene */ &scene_polyrhythm,
-        /* Label */ "Ｐｏｌｉｒｉｔｍｏ",
-        /* Epil. */ TRUE
-    },
-    /* Polyrhythm 2 */ {
-        /* Scene */ &scene_polyrhythm_2,
-        /* Label */ "Ｐｏｌｉｒｉｔｍｏ　２",
-        /* Epil. */ TRUE
-    },
-    /* The Clappy Trio */ {
-        /* Scene */ &scene_clappy_trio,
-        /* Label */ "Ｔｒｉｏ　Ｓａｌｅｒｏｓｏ",
-        /* Epil. */ TRUE
-    },
-    /* The Snappy Trio */ {
-        /* Scene */ &scene_snappy_trio,
-        /* Label */ "Ｔｒｉｏ　Ｇａｒｂｏｓｏ",
-        /* Epil. */ TRUE
-    },
-    /* Karate Man */ {
-        /* Scene */ &scene_karate_man,
-        /* Label */ "Ｋａｒａｔｅ　Ｋｉｌｌｏ",
-        /* Epil. */ TRUE
-    },
-    /* Karate Man 2 */ {
-        /* Scene */ &scene_karate_man_2,
-        /* Label */ "Ｋａｒａｔｅ　Ｋｉｌｌｏ　２",
-        /* Epil. */ TRUE
-    },
-    /* Tanuki and Monkey */ {
-        /* Scene */ &scene_tanuki_and_monkey,
-        /* Label */ "Ｔａｎｕｋｉ　＆　Ｍｏｎｉｔｏ",
-        /* Epil. */ TRUE
-    },
     /* R-IQ (Title Screen) */ {
         /* Scene */ &scene_title,
         /* Label */ "Ｒ－ＩＱ　（Ｔｉｔｕｌｏ）",
@@ -539,7 +79,7 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
     },
     /* R-IQ (Endless Games) */ {
         /* Scene */ &scene_endless_menu,
-        /* Label */ "Ｒ－ＩＱ　（Ｍｉｎｉｊｕｅｇｏ）",
+        /* Label */ "Ｒ－ＩＱ　（Ｍｉｎｉｊｕｅｇｏｓ）",
         /* Epil. */ FALSE
     },
     /* R-IQ (Drum Lessons) */ {
@@ -557,21 +97,6 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "Ｒ－ＩＱ　（Ｃａｆｅ）",
         /* Epil. */ FALSE
     },
-    /* Ending (from clearing Remix 6) */ {
-        /* Scene */ &scene_staff_credit_remix_6,
-        /* Label */ "Ｅｎｄｉｎｇ　（Ｊｕｅｇｏ　Ｃｏｍｐｌｅｔｏ）",
-        /* Epil. */ FALSE
-    },
-    /* Ending (from Game Select) */ {
-        /* Scene */ &scene_staff_credit,
-        /* Label */ "Ｅｎｄｉｎｇ　（Ｖｅｒ　ｄｅ　ｎｕｅｖｏ）",
-        /* Epil. */ FALSE
-    },
-    /* Data Clear */ {
-        /* Scene */ &scene_data_clear,
-        /* Label */ "Ｂｏｒｒａｒ　Ｐａｒｔｉｄａ",
-        /* Epil. */ FALSE
-    },
     /* Warning */ {
         /* Scene */ &scene_warning,
         /* Label */ "Ａｄｖｅｒｔｅｎｃｉａ",
@@ -582,19 +107,476 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "Ｄｉｓｃｌａｉｍｅｒ",
         /* Epil. */ FALSE
     },
-    /* Snappy Trio (Unused) */ {
-        /* Scene */ &scene_snappy_trio_unused,
-        /* Label */ "Ｔｒｉｏ　Ｇａｒｂｏｓｏ　（Ｎｏ　ｕｓａｄｏ）",
+    /* Opening (A Type) */ {
+        /* Scene */ &scene_drum_samurai_demo_cutscene,
+        /* Label */ "Ｏｐｅｎｉｎｇ　（Ｔｉｐｏ　Ａ）",
+        /* Epil. */ FALSE
+    },
+    /* Opening (B Type) */ {
+        /* Scene */ &scene_drum_samurai_opening_cutscene,
+        /* Label */ "Ｏｐｅｎｉｎｇ　（Ｔｉｐｏ　Ｂ）",
+        /* Epil. */ FALSE
+    },
+    /* Rhythm Test (Total) */ {
+        /* Scene */ &scene_rhythm_test_opening,
+        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ　（Ｏｐｅｎｉｎｇ）"
+    },
+    /* Rhythm Test (Click) */ {
+        /* Scene */ &scene_rhythm_test_click,
+        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ　（Ｃｌｉｃｋ）",
+    },
+    /* Rhythm Test (Cue) */ {
+        /* Scene */ &scene_rhythm_test_cue,
+        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ　（Ｃｕｅ）",
+    },
+    /* Rhythm Test (Trick) */ {
+        /* Scene */ &scene_rhythm_test_trick,
+        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ　（Ｅｎｇａぜｏｓｏ）"
+    },
+    /* Reading Material */ {
+        /* Scene */ &scene_reading,
+        /* Label */ "Ｅｍａｉｌ",
+        /* Epil. */ FALSE
+    },
+    /* Studio Drummer */ {
+        /* Scene */ &scene_drum_studio_ver0,
+        /* Label */ "Ｔａｍｂｏｒ　ｄｅ　ｒｏｃｏｌａ　（Ｖｅｒ．　０）",
+        /* Epil. */ FALSE
+    },
+    /* Studio Drummer */ {
+        /* Scene */ &scene_drum_studio_ver2,
+        /* Label */ "Ｔａｍｂｏｒ　ｄｅ　ｒｏｃｏｌａ　（Ｖｅｒ．　２）",
+        /* Epil. */ FALSE
+    },
+ /* Drum LIVE */ {
+        /* Scene */ &scene_drum_live,
+        /* Label */ "Ｃｏｎｃｉｅｒｔｏ",
         /* Epil. */ TRUE
     },
-    /* Bouncy Road (Unused) */ {
-        /* Scene */ &scene_bouncy_road_unused,
-        /* Label */ "Ｂｏｌａｓ　Ｓａｌｔａｒｉｎａｓ　（Ｎｏ　ｕｓａｄｏ）",
+    /* Ending (from clearing Remix 6) */ {
+        /* Scene */ &scene_staff_credit_remix_6,
+        /* Label */ "Ｅｎｄｉｎｇ　（Ｊｕｅｇｏ　Ｃｏｍｐｌｅｔｏ）",
+        /* Epil. */ FALSE
+    },
+    /* Ending (from Game Select) */ {
+        /* Scene */ &scene_staff_credit,
+        /* Label */ "Ｅｎｄｉｎｇ　（Ｖｅｒ　ｄｅ　ｎｕｅｖｏ）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Basic 1) */ {
+        /* Scene */ &scene_drum_lesson_basic_1,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｉｎｔｒｏ　１）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Basic 2) */ {
+        /* Scene */ &scene_drum_lesson_basic_2,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｉｎｔｒｏ　２）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 1) */ {
+        /* Scene */ &scene_drum_lesson_short_1,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　１）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 2) */ {
+        /* Scene */ &scene_drum_lesson_short_2,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　２）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 3) */ {
+        /* Scene */ &scene_drum_lesson_short_3,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　３）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 4) */ {
+        /* Scene */ &scene_drum_lesson_short_4,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　４）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 5) */ {
+        /* Scene */ &scene_drum_lesson_short_5,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　５）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 6) */ {
+        /* Scene */ &scene_drum_lesson_short_6,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　６）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 7) */ {
+        /* Scene */ &scene_drum_lesson_short_7,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　７）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 8) */ {
+        /* Scene */ &scene_drum_lesson_short_8,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏ　８）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Short 9) */ {
+        /* Scene */ &scene_drum_lesson_short_9,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｂａｓｉｃｏｏ　９）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Long 1) */ {
+        /* Scene */ &scene_drum_lesson_long_1,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　１）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Long 2) */ {
+        /* Scene */ &scene_drum_lesson_long_2,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　２）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Long 3) */ {
+        /* Scene */ &scene_drum_lesson_long_3,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　３）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Long 4) */ {
+        /* Scene */ &scene_drum_lesson_long_4,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　４）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Long 5) */ {
+        /* Scene */ &scene_drum_lesson_long_5,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　５）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (Long 6) */ {
+        /* Scene */ &scene_drum_lesson_long_6,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ａｖａｎｚａｄｏ　６）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (High-Tech 1) */ {
+        /* Scene */ &scene_drum_lesson_hi_tech_1,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｔｅｃｎｉｃｏ　１）",
+        /* Epil. */ FALSE
+    },
+    /* Lesson (High-Tech 2) */ {
+        /* Scene */ &scene_drum_lesson_hi_tech_2,
+        /* Label */ "Ｌｅｃｃｉｏｎ　（Ｔｅｃｎｉｃｏ　２）",
+        /* Epil. */ FALSE
+    },
+    /* Mr. Upbeat */ {
+        /* Scene */ &scene_mr_upbeat,
+        /* Label */ "Ｄｏｎ　Ｓｉｎｃｏｐａｎ",
+        /* Epil. */ FALSE
+    },
+    /* Sick Beats Endless */ {
+        /* Scene */ &scene_sick_beats_endless,
+        /* Label */ "Ｒｉｔｍｏ　Ｃｏｎｔａｇｉｏｓｏ　ＥＸ",
+        /* Epil. */ FALSE
+    },
+    /* Quiz Show Endless */ {
+        /* Scene */ &scene_quiz_show_endless,
+        /* Label */ "Ｔｒｉｖｉａ　Ｓｈｏｗ　ＥＸ",
+        /* Epil. */ FALSE
+    },
+    /* Mannequin Factory */ {
+        /* Scene */ &scene_mannequin_factory,
+        /* Label */ "Ｆａｂｒｉｃａ　ｄｅ　Ｍａｎｉｑｕｉｓ",
+        /* Epil. */ FALSE
+    },
+    /* Rhythm Toys (Cat Machine) */ {
+        /* Scene */ &scene_cat_machine,
+        /* Label */ "Ｇａｔｏ　Ｍｅｃａｎｉｃｏ",
+        /* Epil. */ FALSE
+    },
+    /* Mechanical Horse */ {
+        /* Scene */ &scene_mechanical_horse,
+        /* Label */ "Ｃａｂａｌｌｏ　Ｍｅｃいｎｉｃｏ",
+        /* Epil. */ FALSE
+
+    },
+    /* Rhythm Toys (Confession Machine) */ {
+        /* Scene */ &scene_love_machine,
+        /* Label */ "Ｍａｑｕｉｎａ　ｄｅｌ　Ａｍｏｒ",
+        /* Epil. */ FALSE
+    },
+    /* Rhythm Toys (Rap Machine) */ {
+        /* Scene */ &scene_rap_machine,
+        /* Label */ "Ｍａｑｕｉｎａ　ｄｅ　Ｒａｐ",
+        /* Epil. */ FALSE
+    },
+    /* Karate Man */ {
+        /* Scene */ &scene_karate_man,
+        /* Label */ "Ｋａｒａｔｅ　Ｋｉｌｌｏ",
         /* Epil. */ TRUE
     },
-    /* Bouncy Road (Unused 2) */ {
-        /* Scene */ &scene_bouncy_road_unused_2,
-        /* Label */ "Ｂｏｌａｓ　Ｓａｌｔａｒｉｎａｓ　（Ｎｏ　ｕｓａｄｏ　２）",
+    /* Karate Man 2 */ {
+        /* Scene */ &scene_karate_man_2,
+        /* Label */ "Ｋａｒａｔｅ　Ｋｉｌｌｏ　２",
+        /* Epil. */ TRUE
+    },
+    /* Rhythm Tweezers */ {
+        /* Scene */ &scene_rhythm_tweezers,
+        /* Label */ "Ｐｉｎｚａｓ　Ｒｉｔｍｉｃａｓ",
+        /* Epil. */ TRUE
+    },
+    /* Rhythm Tweezers 2 */ {
+        /* Scene */ &scene_rhythm_tweezers_2,
+        /* Label */ "Ｐｉｎｚａｓ　Ｒｉｔｍｉｃａｓ　２",
+        /* Epil. */ TRUE
+    },
+    /* Marching Orders */ {
+        /* Scene */ &scene_marching_orders,
+        /* Label */ "Ｍａｒｃｈａ　Ａｎｉｍｏｓａ",
+        /* Epil. */ TRUE
+    },
+    /* Marching Orders 2 */ {
+        /* Scene */ &scene_marching_orders_2,
+        /* Label */ "Ｍａｒｃｈａ　Ａｎｉｍｏｓａ　２",
+        /* Epil. */ TRUE
+    },
+    /* Spaceball */ {
+        /* Scene */ &scene_spaceball,
+        /* Label */ "Ｓｐａｃｅｂだｌ",
+        /* Epil. */ TRUE
+    },
+    /* Spaceball 2 */ {
+        /* Scene */ &scene_spaceball_2,
+        /* Label */ "Ｓｐａｃｅｂだｌ　２",
+        /* Epil. */ TRUE
+    },
+    /* The Clappy Trio */ {
+        /* Scene */ &scene_clappy_trio,
+        /* Label */ "Ｔｒｉｏ　Ｓａｌｅｒｏｓｏ",
+        /* Epil. */ TRUE
+    },
+    /* The Snappy Trio */ {
+        /* Scene */ &scene_snappy_trio,
+        /* Label */ "Ｔｒｉｏ　Ｇａｒｂｏｓｏ",
+        /* Epil. */ TRUE
+    },
+    /* Sneaky Spirits */ {
+        /* Scene */ &scene_sneaky_spirits,
+        /* Label */ "Ｆａｎｔａｓｍａｓ　Ｂｕｒｌｏｎｅｓ",
+        /* Epil. */ TRUE
+    },
+    /* Sneaky Spirits 2 */ {
+        /* Scene */ &scene_sneaky_spirits_2,
+        /* Label */ "Ｆａｎｔａｓｍａｓ　Ｂｕｒｌｏｎｅｓ　２",
+        /* Epil. */ TRUE
+    },
+    /* Samurai Slice */ {
+        /* Scene */ &scene_samurai_slice,
+        /* Label */ "Ｓａｍｕｒａｉ　Ｒｅｂａｎａｄｏｒ",
+        /* Epil. */ TRUE
+    },
+    /* Rat Race */ {
+        /* Scene */ &scene_rat_race,
+        /* Label */ "Ｒａｔｏｎｅｓ　Ｅｓｃｕｒｒｉｄｉｚｏｓ",
+        /* Epil. */ TRUE
+    },
+    /* Sick Beats */ {
+        /* Scene */ &scene_sick_beats,
+        /* Label */ "Ｒｉｔｍｏ　Ｃｏｎｔａｇｉｏｓｏ",
+        /* Epil. */ TRUE
+    },
+    /* The Bon Odori */ {
+        /* Scene */ &scene_bon_odori,
+        /* Label */ "Ｂｏｎ　Ｏｄｏｒｉ",
+        /* Epil. */ TRUE
+    },
+    /* Bon Dance */ {
+        /* Scene */ &scene_bon_dance,
+        /* Label */ "Ｂｏｎ　Ｄａｎｃｅ",
+        /* Epil. */ TRUE
+    },
+    /* Wizard's Waltz */ {
+        /* Scene */ &scene_wizards_waltz,
+        /* Label */ "Ｖａｌｓ　Ｍいｇｉｃｏ",
+        /* Epil. */ TRUE
+    },
+    /* Showtime */ {
+        /* Scene */ &scene_showtime,
+        /* Label */ "Ｈｏｒａ　ｄｅｌ　Ｓｈｏｗ",
+        /* Epil. */ TRUE
+    },
+    /* Bunny Hop */ {
+        /* Scene */ &scene_bunny_hop,
+         /* Label */ "Ｃｏｎｅｊｏ　Ｓａｌｔａｒｉｎ",
+        /* Epil. */ TRUE
+    },
+    /* Tram & Pauline */ {
+        /* Scene */ &scene_tram_pauline,
+        /* Label */ "Ｔｒａｍ　＆　Ｐａｕｌざｎ",
+        /* Epil. */ TRUE
+    },
+    /* Space Dance */ {
+        /* Scene */ &scene_space_dance,
+        /* Label */ "Ｂａｉｌｅ　Ａｓｔｒａｌ",
+        /* Epil. */ TRUE
+    },
+    /* Cosmic Dance */ {
+        /* Scene */ &scene_cosmic_dance,
+        /* Label */ "Ｂａｉｌｅ　Ｃｏｓｍｉｃｏ",
+        /* Epil. */ TRUE
+    },
+    /* Quiz Show */ {
+        /* Scene */ &scene_quiz_show,
+        /* Label */ "Ｔｒｉｖｉａ　Ｓｈｏｗ",
+        /* Epil. */ TRUE
+    },
+    /* Night Walk */ {
+        /* Scene */ &scene_night_walk,
+        /* Label */ "Ｐａｓｅｏ　Ｎｏｃｔｕｒｎｏ",
+        /* Epil. */ TRUE
+    },
+    /* Night Walk 2 */ {
+        /* Scene */ &scene_night_walk_2,
+        /* Label */ "Ｐａｓｅｏ　Ｎｏｃｔｕｒｎｏ　２",
+        /* Epil. */ TRUE
+    },
+    /* Power Calligraphy */ {
+        /* Scene */ &scene_power_calligraphy,
+        /* Label */ "Ｐｏｄｅｒ　Ｃａｌｉｇｒａｆｉｃｏ",
+        /* Epil. */ TRUE
+    },
+    /* Polyrhythm */ {
+        /* Scene */ &scene_polyrhythm,
+        /* Label */ "Ｐｏｌｉｒｉｔｍｏ",
+        /* Epil. */ TRUE
+    },
+    /* Polyrhythm 2 */ {
+        /* Scene */ &scene_polyrhythm_2,
+        /* Label */ "Ｐｏｌｉｒｉｔｍｏ　２",
+        /* Epil. */ TRUE
+    },
+    /* Rap Men */ {
+        /* Scene */ &scene_rap_men,
+        /* Label */ "Ｒａｐｄｉｃａｌｅｓ",
+        /* Epil. */ TRUE
+    },
+    /* Rap Women (by YONE) */ {
+        /* Scene */ &scene_rap_women,
+        /* Label */ "Ｒａｐｎｉｆｉｃａｓ　（ｐｏｒ　ＹＯＮＥ）",
+        /* Epil. */ TRUE
+    },
+    /* Bouncy Road */ {
+        /* Scene */ &scene_bouncy_road,
+        /* Label */ "Ｂｏｌａｓ　Ｓａｌｔａｒｉｎａｓ",
+        /* Epil. */ TRUE
+    },
+    /* Bouncy Road 2 */ {
+        /* Scene */ &scene_bouncy_road_2,
+        /* Label */ "Ｂｏｌａｓ　Ｓａｌｔａｒｉｎａｓ　２",
+        /* Epil. */ TRUE
+    },
+    /* Ninja Bodyguard */ {
+        /* Scene */ &scene_ninja_bodyguard,
+        /* Label */ "Ｇｕａｒｄｉａ　Ｎｉｎｊａ",
+        /* Epil. */ TRUE
+    },
+    /* Ninja Bodyguard 2 */ {
+        /* Scene */ &scene_ninja_reincarnate,
+        /* Label */ "Ｄｅｓｃｅｎｄｉｅｎｔｅ　Ｎｉｎｊａ",
+        /* Epil. */ TRUE
+    },
+    /* Toss Boys */ {
+        /* Scene */ &scene_toss_boys,
+        /* Label */ "Ａｓｅｓ　ｄｅｌ　ｖだｌｅｙ",
+        /* Epil. */ TRUE
+    },
+    /* Toss Boys 2 */ {
+        /* Scene */ &scene_toss_boys_2,
+        /* Label */ "Ａｓｅｓ　ｄｅｌ　ｖだｌｅｙ　２",
+        /* Epil. */ TRUE
+    },
+    /* Fireworks */ {
+        /* Scene */ &scene_fireworks,
+        /* Label */ "Ｐｉｒｏｔｅｃｎｉａ",
+        /* Epil. */ TRUE
+    },
+    /* Tap Trial */ {
+        /* Scene */ &scene_tap_trial,
+        /* Label */ "Ｐｒｕｅｂａ　ｄｅ　Ｃｌａｑｕぎ",
+        /* Epil. */ TRUE
+    },
+    /* Tap Trial 2 */ {
+        /* Scene */ &scene_tap_trial_2,
+        /* Label */ "Ｐｒｕｅｂａ　ｄｅ　Ｃｌａｑｕぎ　２",
+        /* Epil. */ TRUE
+    },
+    /* Remix 1 */ {
+        /* Scene */ &scene_remix_1,
+        /* Label */ "Ｒｅｍｉｘ　１",
+        /* Epil. */ TRUE
+    },
+    /* Remix 2 */ {
+        /* Scene */ &scene_remix_2,
+        /* Label */ "Ｒｅｍｉｘ　２",
+        /* Epil. */ TRUE
+    },
+    /* Remix 3 */ {
+        /* Scene */ &scene_remix_3,
+        /* Label */ "Ｒｅｍｉｘ　３",
+        /* Epil. */ TRUE
+    },
+    /* Remix 4 */ {
+        /* Scene */ &scene_remix_4,
+        /* Label */ "Ｒｅｍｉｘ　４",
+        /* Epil. */ TRUE
+    },
+    /* Remix 5 */ {
+        /* Scene */ &scene_remix_5,
+        /* Label */ "Ｒｅｍｉｘ　５",
+        /* Epil. */ TRUE
+    },
+    /* Remix 6 */ {
+        /* Scene */ &scene_remix_6,
+        /* Label */ "Ｒｅｍｉｘ　６",
+        /* Epil. */ TRUE
+    },
+    /* Remix 7 */ {
+        /* Scene */ &scene_remix_7,
+        /* Label */ "Ｒｅｍｉｘ　７",
+        /* Epil. */ TRUE
+    },
+    /* Remix 8 */ {
+        /* Scene */ &scene_remix_8,
+        /* Label */ "Ｒｅｍｉｘ　８",
+        /* Epil. */ TRUE
+    },
+    /* Drum Inrto (Unused 1) */ {
+        /* Scene */ &scene_drum_intro_unused,
+        /* Label */ "Ｉｎｔｒｏ　ｓａｍｕｒａｉ　（Ｎｏ　ｕｓａｄｏ）",
+        /* Epil. */ TRUE
+    },
+    /* Drum Intro (Unused 2) */ {
+        /* Scene */ &scene_drum_intro_unused_2,
+        /* Label */ "Ｉｎｔｒｏ　ｓａｍｕｒａｉ　（Ｎｏ　ｕｓａｄｏ　２）",
+        /* Epil. */ TRUE
+    },
+    /* Drum Intro (Unused 3) */ {
+        /* Scene */ &scene_drum_intro_unused_3,
+        /* Label */ "Ｉｎｔｒｏ　ｓａｍｕｒａｉ　（Ｎｏ　ｕｓａｄｏ　３）",
+        /* Epil. */ TRUE
+    },
+    /* Tanuki and Monkey */ {
+        /* Scene */ &scene_tanuki_and_monkey,
+        /* Label */ "Ｔａｎｕｋｉ　＆　Ｍｏｎｉｔｏ　（Ｎｏ　ｕｓａｄｏ）",
+        /* Epil. */ TRUE
+    },
+    /* Metronome */ {
+        /* Scene */ &scene_metronome,
+        /* Label */ "Ｍｅｔｒだｎｏｍｏ　（Ｎｏ　ｕｓａｄｏ）",
+        /* Epil. */ TRUE
+    },
+    /* Drum Girls LIVE */ {
+        /* Scene */ &scene_drum_girls_live_unused,
+        /* Label */ "Ｄｒｕｍ　Ｇｉｒｌｓ　（Ｎｏ　ｕｓａｄｏ）",
+        /* Epil. */ TRUE
+    },
+    /* Horse Machine (Unused) */ {
+        /* Scene */ &scene_mechanical_horse_unused,
+        /* Label */ "Ｃａｂａｌｌｏ　Ｍｅｃいｎｉｃｏ　（Ｎｏ　ｕｓａｄｏ）",
+        /* Epil. */ TRUE
+    },
+    /* Marching Orders (Unused) */ {
+        /* Scene */ &scene_marching_orders_unused,
+        /* Label */ "Ｍａｒｃｈａ　Ａｎｉｍｏｓａ　（Ｎｏ　ｕｓａｄｏ）",
         /* Epil. */ TRUE
     },
     /* Spaceball (Unused) */ {
@@ -607,19 +589,54 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "Ｓｐａｃｅｂだｌ　（Ｎｏ　ｕｓａｄｏ　２）",
         /* Epil. */ TRUE
     },
+    /* Snappy Trio (Unused) */ {
+        /* Scene */ &scene_snappy_trio_unused,
+        /* Label */ "Ｔｒｉｏ　Ｇａｒｂｏｓｏ　（Ｎｏ　ｕｓａｄｏ）",
+        /* Epil. */ TRUE
+    },
+    /* Rap Women (by KAZU) */ {
+        /* Scene */ &scene_rap_women_unused,
+        /* Label */ "Ｒａｐｎｉｆｉｃａｓ　（ｐｏｒ　ＫＡＺＵ）",
+        /* Epil. */ TRUE
+    },
+    /* Bouncy Road (Unused) */ {
+        /* Scene */ &scene_bouncy_road_unused,
+        /* Label */ "Ｂｏｌａｓ　Ｓａｌｔａｒｉｎａｓ　（Ｎｏ　ｕｓａｄｏ）",
+        /* Epil. */ TRUE
+    },
+    /* Bouncy Road (Unused 2) */ {
+        /* Scene */ &scene_bouncy_road_unused_2,
+        /* Label */ "Ｂｏｌａｓ　Ｓａｌｔａｒｉｎａｓ　（Ｎｏ　ｕｓａｄｏ　２）",
+        /* Epil. */ TRUE
+    },
     /* Tap Trial (Unused) */ {
         /* Scene */ &scene_tap_trial_unused,
         /* Label */ "Ｐｒｕｅｂａ　ｄｅ　Ｃｌａｑｕぎ　（Ｎｏ　ｕｓａｄｏ）",
         /* Epil. */ TRUE
     },
-    /* Marching Orders (Unused) */ {
-        /* Scene */ &scene_marching_orders_unused,
-        /* Label */ "Ｍａｒｃｈａ　Ａｎｉｍｏｓａ　（Ｎｏ　ｕｓａｄｏ）",
+    /* Dance Lesson 1 */ {
+        /* Scene */ &scene_remix_1_unused,
+        /* Label */ "Ｌｅｃｃｉｏｎ　ｄｅ　ｂａｉｌｅ　１　（Ｎｏ　ｕｓａｄｏ）",
         /* Epil. */ TRUE
     },
-    /* Horse Machine (Unused) */ {
-        /* Scene */ &scene_mechanical_horse_unused,
-        /* Label */ "Ｃａｂａｌｌｏ　Ｍｅｃいｎｉｃｏ　（Ｎｏ　ｕｓａｄｏ）",
+    /* RIQ Data Check */ {
+        /* Scene */ &scene_data_check,
+        /* Label */ "Ｒ－ＩＱ　Ｄａｔａ　Ｃｈｅｃｋ",
+        /* Epil. */ FALSE
+    },
+    /* Flash Memory Test */ {
+        /* Scene */ &scene_flash_mem_test,
+        /* Label */ "Ｔｅｓｔ　Ｍｅｍｏｒｉａ　ｆｌａｓｈ",
+        /* Epil. */ FALSE
+    },
+    /* Data Clear */ {
+        /* Scene */ &scene_data_clear,
+        /* Label */ "Ｂｏｒｒａｒ　Ｐａｒｔｉｄａ",
+        /* Epil. */ FALSE
+    },
+    /* Sequence Test */ {
+        /* Scene */ &scene_debug_menu,
+        /* Label */ "",
         /* Epil. */ TRUE
     },
     END_OF_DEBUG_ENTRIES
@@ -663,7 +680,7 @@ void debug_menu_render_table(s32 targetPage, s32 targetRow) {
 
         for (j = 0, i = (targetPage * DEBUG_MENU_ENTRY_PER_PAGE); (i < (targetPage * DEBUG_MENU_ENTRY_PER_PAGE) + DEBUG_MENU_ENTRY_PER_PAGE) && (i < gDebugMenu->totalEntries); j++, i++) {
             textAnim = bmp_font_obj_print_l(gDebugMenu->objFont, debug_menu_entry_table[i].label, 1, 0);
-            gDebugMenu->textLines[j] = sprite_create(gSpriteHandler, textAnim->frames, 0, 32, (j * 18) + 32, 0x800, 0, 0, 0);
+            gDebugMenu->textLines[j] = sprite_create(gSpriteHandler, textAnim->frames, 0, 32, (j * 21) + 32, 0x800, 0, 0, 0);
         }
 
         delete_bmp_font_obj_text_anim(gDebugMenu->objFont, gDebugMenu->counter);
@@ -685,5 +702,5 @@ void debug_menu_render_table(s32 targetPage, s32 targetRow) {
     }
 
     sprite_set_base_palette(gSpriteHandler, gDebugMenu->textLines[gDebugMenu->row], 7);
-    sprite_set_x_y(gSpriteHandler, gDebugMenu->cursor, 16, (gDebugMenu->row * 18) + 32);
+    sprite_set_x_y(gSpriteHandler, gDebugMenu->cursor, 16, (gDebugMenu->row * 21) + 32);
 }
