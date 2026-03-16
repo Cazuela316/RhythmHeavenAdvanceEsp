@@ -1023,8 +1023,8 @@ void drum_studio_show_save_options(void) {
     if (gDrumStudio->version == ENGINE_VER_DRUM_STUDIO_PLAY) {
         if (!drum_studio_cannot_save_replay()) {
             set_pause_beatscript_scene(TRUE);
-            text_printer_set_string(gDrumStudio->replayTextPrinter, "Do you want to save\n"
-                                                                    "your performance?");
+            text_printer_set_string(gDrumStudio->replayTextPrinter, "Quieres guardar un\n"
+                                                                    "replay?");
             gDrumStudio->saveOptionsDelayTime = (gDrumStudio->replayData->songID == STUDIO_SONG_SILENCE) ? 15 : 60;
             gDrumStudio->state = DRUM_STUDIO_STATE_SAVING_REPLAY;
         }

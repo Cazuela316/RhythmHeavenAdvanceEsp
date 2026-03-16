@@ -123,11 +123,11 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
     },
     /* Rhythm Test (Click) */ {
         /* Scene */ &scene_rhythm_test_click,
-        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ　（Ｃｌｉｃｋ）",
+        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ　（Ｔａｐ）",
     },
     /* Rhythm Test (Cue) */ {
         /* Scene */ &scene_rhythm_test_cue,
-        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ　（Ｃｕｅ）",
+        /* Label */ "Ｒｉｔｍｏｍｅｔｒｏ　（Ｃｏｎｔａｒ）",
     },
     /* Rhythm Test (Trick) */ {
         /* Scene */ &scene_rhythm_test_trick,

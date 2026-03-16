@@ -220,8 +220,8 @@ void studio_option_list_update(void) {
                             STUDIO_WARNING_OPT_N,
                             // You'll erase this performance
                             // data! Is that really OK?
-                            "Se borrara el replay!\n"
-                            "Esta bien?",
+                            "Se eliminara el replay!\n"
+                            "Estas seguro?",
                             studio_option_list_warning_deletion_result, 0,
                             &s_menu_se13_seqData);
                 }

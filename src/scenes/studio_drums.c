@@ -9,20 +9,20 @@
 // [D_089d83d0] Drum Kit Names 
 const char *studio_drum_kit_names[] = {
     /* DEFAULT */ "Tambor Normal",
-    /* DRY     */ "Dry Drum",
-    /* POWER   */ "Power Drum",
-    /* TECHNO  */ "Techno Drum",
-    /* MATTE   */ "Matte Drum",
-    /* ASIAN   */ "Asian Drum",
-    /* LIGHT   */ "Light Drum",
-    /* HEAVY   */ "Heavy Drum",
-    /* HIHAT   */ "Hi-Hat Drum",
-    /* HEEL1   */ "Heel Drop Drum 1",
-    /* HEEL2   */ "Heel Drop Drum 2",
-    /* SFX     */ "Sound FX Drum",
-    /* TAP     */ "Tap Drum",
-    /* AIR     */ "Swift Drum",
-    /* SAMURAI */ "Tambor Samurai"
+    /* DRY     */ "Tambor Seco",
+    /* POWER   */ "Tambor Poderoso",
+    /* TECHNO  */ "Tambor Tecno",
+    /* MATTE   */ "Tambor Matte",
+    /* ASIAN   */ "Tambor Japones",
+    /* LIGHT   */ "Tambor Liviano",
+    /* HEAVY   */ "Tambor Pesado",
+    /* HIHAT   */ "Tambor Hi-Hat",
+    /* HEEL1   */ "Ca‡eda de tal‡in 1",
+    /* HEEL2   */ "Ca‡eda de tal‡in 2",
+    /* SFX     */ "Tambor FX",
+    /* TAP     */ "Tambor de Claqu‡Q",
+    /* AIR     */ "Tambor claro",
+    /* SAMURAI */ "Tambor Samur‡ci"
 };
 
 
