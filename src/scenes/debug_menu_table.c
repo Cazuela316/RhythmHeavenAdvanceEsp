@@ -634,10 +634,30 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "‚a‚‚’‚’‚‚’@‚o‚‚’‚”‚‰‚„‚",
         /* Epil. */ FALSE
     },
+    /* R-IQ Save Editor */ {
+        /* Scene */ &scene_save_editor,
+        /* Label */ "‚q|‚h‚p@‚r‚‚–‚…@‚d‚„‚‰‚”‚‚’",
+        /* Epil. */ FALSE
+    },
+    /* Asset Test */ {
+        /* Scene */ &scene_asset_test,
+        /* Label */ "‚`‚“‚“‚…‚”@‚s‚…‚“‚”",
+        /* Epil. */ FALSE  
+    },
+    /* Template Scene */ {
+        /* Scene */ &scene_template,
+        /* Label */ "‚s‚…‚‚‚Œ‚‚”‚…@‚r‚ƒ‚…‚‚…",
+        /* Epil. */ FALSE  
+    },
+    /* Read Error */ {
+        /* Scene */ &scene_read_error,
+        /* Label */ "‚q‚…‚‚„@‚d‚’‚’‚‚’",
+        /* Epil. */ FALSE  
+    },
     /* Sequence Test */ {
         /* Scene */ &scene_debug_menu,
-        /* Label */ "",
-        /* Epil. */ TRUE
+        /* Label */ "‚c‚…‚‚‚•‚‡@‚l‚…‚‚•",
+        /* Epil. */ FALSE
     },
     END_OF_DEBUG_ENTRIES
 };
