@@ -13,7 +13,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Hay un futuro por delante...",
             /* OK        */ "Mejor descansemos para almorzar~",
-            /* SUPERB    */ "Aprecien todo lo que golpee!"
+            /* SUPERB    */ "Aprecien todo lo que golpe‡Q!"
         }
     },
     /* KARATE_MAN_2 */ {
