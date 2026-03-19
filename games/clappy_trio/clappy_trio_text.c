@@ -47,7 +47,7 @@ const char D_0805af48[] = "Tˆ¦ aplaude tercero, vale?";
 
 const char D_0805af60[] = "Practiquemoslo!";
 
-const char D_0805af7c[] = "Presiona ‡M para el trecer aplauso.";
+const char D_0805af7c[] = "Presiona ‡M para el tercer aplauso.";
 
 const char D_0805afa0[] = "Bien!";
 
