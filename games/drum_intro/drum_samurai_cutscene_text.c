@@ -9,9 +9,9 @@ const char D_0805df4c[] =
     "Bienvenido al\n"
     "vibrante mundo de\n"
     #ifdef PARADISE
-    "Rhythm Paradise Advance!";
+    "Rhythm Paradise Advance ESP!";
     #else
-    "Rhythm Heaven Advance!";
+    "Rhythm Heaven Advance ESP!";
     #endif
 
 const char D_0805df88[] =

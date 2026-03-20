@@ -8,9 +8,9 @@ struct ReadingMaterial reading_material_table[] = {
             "\n"
             "Muchas gracias por comprar\n"
             #ifdef PARADISE
-            "Rhythm Paradise Advance.\n"
+            "Rhythm Paradise Advance ESP.\n"
             #else
-            "Rhythm Heaven Advance.\n"
+            "Rhythm Heaven Advance ESP.\n"
             #endif
             "Oh... Se lo compraste a un amigo?\n"
             "E-eh y esta... u-usado!?\n"
@@ -271,7 +271,7 @@ struct ReadingMaterial reading_material_table[] = {
             "Rapnificos!\n"
             "DJ: Su ˆ¦ltima canci‡in es super buena, no?\n"
             "RN: Claro! Lo captas, huh?\n"
-            "DJ: Duh! Es incre‡eble!\n"
+            "DJ: Duh! Es asombrosa!\n"
             "RN: Aˆ¦nque si, estamos en un aprieto, sabes?\n"
             "DJ: Oh? Que pas‡i?\n"
             "RN: Bueno, para empezar, acaban de aparecer otro\n"
@@ -284,19 +284,20 @@ struct ReadingMaterial reading_material_table[] = {
             "RN: Y si no fuera suficiente, dejaron una nota\n"
             "despues de comerse todo.\n"
             "DJ: Y que dec‡ea?\n"
-            "RN: Dec‡ea \"Los dulces son incre‡ebles!\"\n"
+            "RN: Dec‡ea \"Que plan tan sencillo!\"\n"
             "DJ: Oh wow. Que incorregibles.\n"
             "RN: Verdad!? Fue lo suficiente para hacerme gritar...\n"
-            "DJ: A que dijiste \"Esto es imposible?!\"\n"
+            "DJ: A que dijiste \"Espera, perdimos algo!\"\n"
             "RN: Uh... Seh! Como sab‡eas eso?\n"
             #ifdef PARADISE
             "DJ: Porque he estado jugando Rhythm Paradise\n"
-            "Advance! Pausa publicit‡cria!\n"
-            "AN: Mejora tu ritmo con Rhythm Paradise Advance!\n"
+            "Advance ESP! Pausa publicit‡cria!\n"
+            "AN: Mejora tu ritmo con Rhythm Paradise Advance\n"
+            "ESP!\n"
             #else
             "DJ: Porque he estado jugando Rhythm Heaven\n"
-            "Advance! Pausa publicit‡cria!\n"
-            "AN: Mejora tu ritmo con Rhythm Heaven Advance!\n"
+            "Advance ESP! Pausa publicit‡cria!\n"
+            "AN: Mejora tu ritmo con Rhythm Heaven Advance ESP!\n"
             #endif
             "Disponible ahora! El juego y la consola se venden\n"
             "por separado.\n"
@@ -495,9 +496,9 @@ struct ReadingMaterial reading_material_table[] = {
             "deber‡ea estar felicitandote, pero no lo har‡Q as‡e.\n"
             "Si que te haz lucido aqu‡e, en\n"
             #ifdef PARADISE
-            "Rhythm Paradise Advance.\n"
+            "Rhythm Paradise Advance ESP.\n"
             #else
-            "Rhythm Heaven Advance.\n"
+            "Rhythm Heaven Advance ESP.\n"
             #endif
             "Eso es innegable, y todo el mundo lo reconoce.\n"
             "Eres lo mejor! Uno de los m‡cs incre‡ebles! ...es como\n"
@@ -622,9 +623,9 @@ struct ReadingMaterial reading_material_table[] = {
         /* BODY ----------------------------------------------------------- */
             "Hemos recibido tantas cartas de\n"
             #ifdef PARADISE
-            "jugadores satisfechos con Rhythm Paradise Advance.\n"
+            "jugadores satisfechos con Rhythm Paradise Advance ESP.\n"
             #else
-            "jugadores satisfechos con Rhythm Heaven Advance.\n"
+            "jugadores satisfechos con Rhythm Heaven Advance ESP.\n"
             #endif
             "Y son TANTAS que este email tendria 1000 p‡cginas\n"
             "si las mostr‡cramos todas!\n"
@@ -632,15 +633,14 @@ struct ReadingMaterial reading_material_table[] = {
             "pensamientos de los jugadores!\n"
             "\n"
             "\n"
-            "\n"
             "Solo por mejorar mi sentido del ritmo...\n"
             "\n"
             "\0031" "\001m" "Me volvi... popular?\n"
             "\0030" "\001s" "\n"
             #ifdef PARADISE
-            "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            "Antes de encontrar \"Rhythm Paradise Advance ESP\",\n"
             #else
-            "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            "Antes de encontrar \"Rhythm Heaven Advance ESP\",\n"
             #endif
             "No me iba muy bien en el amor, pero ahora\n"
             "estoy en racha y con energ‡eas nuevas!\n"
@@ -652,9 +652,9 @@ struct ReadingMaterial reading_material_table[] = {
             "\0031" "\001R" "mejor cantando?"
             "\0030" "\001s" "\n"
             #ifdef PARADISE
-            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance ESP\",\n"
             #else
-            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance ESP\",\n"
             #endif
             "Era la definicion del diccionario de ser sorda al tono,\n"
             "pero ahora, la gente me dice que mi canto es mejor!\n"
@@ -665,9 +665,9 @@ struct ReadingMaterial reading_material_table[] = {
             "\0031" "\001m" "Me volvi... un musico?\n"
             "\0030" "\001s" "\n"
             #ifdef PARADISE
-            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance ESP\",\n"
             #else
-            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance ESP\",\n"
             #endif
             "Apenas tocaba el triangulo en la orquestra escolar,\n"
             "pero ahora, he llegado tan lejos, que hasta la gente\n"
@@ -679,9 +679,9 @@ struct ReadingMaterial reading_material_table[] = {
             "\0031" "\001R" "mejor traduciendo?"
             "\0030" "\001s" "\n"
             #ifdef PARADISE
-            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance ESP\",\n"
             #else
-            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance ESP\",\n"
             #endif
             "Me distra‡ea demasiado mientras traduc‡ea, pero\n"
             "gracias a mi nuevo sentido de ritmo, hasta puedo\n"
@@ -692,9 +692,9 @@ struct ReadingMaterial reading_material_table[] = {
             "\0031" "\001m" "Me volvi... mejor artista?\n"
             "\0030" "\001s" "\n"
             #ifdef PARADISE
-            "\001L" "Antes de encontrar \"Rhythm Paradise Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Paradise Advance ESP\",\n"
             #else
-            "\001L" "Antes de encontrar \"Rhythm Heaven Advance\",\n"
+            "\001L" "Antes de encontrar \"Rhythm Heaven Advance ESP\",\n"
             #endif
             "Apenas y pod‡ea hacer un circulo, pero gracias\n"
             "a mi nuevo sentido de ritmo, ahora soy un gran\n"
