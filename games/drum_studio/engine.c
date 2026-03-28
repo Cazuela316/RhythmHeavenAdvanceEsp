@@ -127,11 +127,11 @@ const char D_08059fb4[] = "\nAtento al inicio!";
 
 const char D_08059fd0[] = "\nNo te disocies!";
 
-const char D_08059fe8[] = "\nPresiona el boton A tambien.";
+const char D_08059fe8[] = "\nPresiona el boton ‡N tambien.";
 
-const char D_0805a004[] = "\nPresiona el boton R tambien.";
+const char D_0805a004[] = "\nPresiona el boton ‡L tambien.";
 
-const char D_0805a020[] = "\npresionalos al mismo tiempo!";
+const char D_0805a020[] = "\nPresionalos al mismo tiempo!";
 
 const char D_0805a038[] = "\nNo te apresures!";
 

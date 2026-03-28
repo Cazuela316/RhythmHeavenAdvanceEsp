@@ -1032,7 +1032,7 @@ struct ReadingMaterial reading_material_table[] = {
             "\001L" "\0030" "\001s" "\n"
             "\001C" "\0030" "\001s" "\"Puede ser complicado seguir el ritmo en una pausa,\n"
             "y es m‡cs f‡ccil seguir el ritmo de manera anticipada,\n"
-            "pero la habilidad de pausar y descansar, mejorar\n"
+            "pero la habilidad de pausar y descansar, mejorara\n"
             "mucho tu flow.\"\n"
             "\n"
             "\001L" "\0030" "\001s" "Incluso los adultos,\n"

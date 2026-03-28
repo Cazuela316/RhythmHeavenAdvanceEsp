@@ -9,13 +9,13 @@ const char D_0806802c[] = "Ponle mas ganas.";
 
 const char D_0806803c[] = "Eso estuvo muy bien!";
 
-const char D_08068058[] = "はんだん　りょくが　かけてます。";
+const char D_08068058[] = "Your decisions took too long.";
 
-const char D_0806807c[] = "すばらしい　はんだん　りょくだ！";
+const char D_0806807c[] = "You thought on the spot well!";
 
-const char D_080680a0[] = "もっと　ウデを　みがこう。";
+const char D_080680a0[] = "Keep working on your rhythm.";
 
-const char D_080680bc[] = "とても　テクニカルだ！";
+const char D_080680bc[] = "You had really great rhythm!";
 
 const char D_080680d4[] = "Notas de la Liga del Ritmo:";
 

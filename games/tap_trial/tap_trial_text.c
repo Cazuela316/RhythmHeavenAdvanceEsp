@@ -53,7 +53,7 @@ const char D_0805c2a8[] = "Necesitas concentrarte mas.";
 
 const char D_0805c2bc[] = "Se notaba lo concentrada que estabas.";
 
-const char D_0805c2d4[] = "Puede que necesites mas practica.";
+const char D_0805c2d4[] = "Acaso te distrajiste al final?";
 
 const char D_0805c2e8[] = "";
 

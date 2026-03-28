@@ -57,11 +57,6 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "‚q|‚h‚p@i‚q‚…‚“‚•‚Œ‚”‚‚„‚@‚Sj",
         /* Epil. */ TRUE
     },
-    /* R-IQ (Debug Menu) */ {
-        /* Scene */ &scene_debug_menu,
-        /* Label */ "‚q|‚h‚p@i‚c‚…‚‚‚•‚‡j",
-        /* Epil. */ FALSE
-    },
     /* R-IQ (Rhythm Library) */ {
         /* Scene */ &scene_arrival,
         /* Label */ "‚q|‚h‚p@i‚d‚‚‚‰‚Œj",
@@ -624,10 +619,25 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "‚q|‚h‚p@‚c‚‚”‚@‚b‚ˆ‚…‚ƒ‚‹",
         /* Epil. */ FALSE
     },
+    /* Asset Test */ {
+        /* Scene */ &scene_asset_test,
+        /* Label */ "‚`‚“‚“‚…‚”@‚s‚…‚“‚”",
+        /* Epil. */ FALSE  
+    },
     /* Flash Memory Test */ {
         /* Scene */ &scene_flash_mem_test,
         /* Label */ "‚s‚…‚“‚”@‚l‚…‚‚‚’‚‰‚@‚†‚Œ‚‚“‚ˆ",
         /* Epil. */ FALSE
+    },
+    /* Read Error */ {
+        /* Scene */ &scene_read_error,
+        /* Label */ "‚q‚…‚‚„@‚d‚’‚’‚‚’",
+        /* Epil. */ FALSE  
+    },
+    /* Template Scene */ {
+        /* Scene */ &scene_template,
+        /* Label */ "‚s‚…‚‚‚Œ‚‚”‚…@‚r‚ƒ‚…‚‚…",
+        /* Epil. */ FALSE  
     },
     /* Data Clear */ {
         /* Scene */ &scene_data_clear,
@@ -639,24 +649,9 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "‚q|‚h‚p@‚r‚‚–‚…@‚d‚„‚‰‚”‚‚’",
         /* Epil. */ FALSE
     },
-    /* Asset Test */ {
-        /* Scene */ &scene_asset_test,
-        /* Label */ "‚`‚“‚“‚…‚”@‚s‚…‚“‚”",
-        /* Epil. */ FALSE  
-    },
-    /* Template Scene */ {
-        /* Scene */ &scene_template,
-        /* Label */ "‚s‚…‚‚‚Œ‚‚”‚…@‚r‚ƒ‚…‚‚…",
-        /* Epil. */ FALSE  
-    },
-    /* Read Error */ {
-        /* Scene */ &scene_read_error,
-        /* Label */ "‚q‚…‚‚„@‚d‚’‚’‚‚’",
-        /* Epil. */ FALSE  
-    },
     /* Sequence Test */ {
         /* Scene */ &scene_debug_menu,
-        /* Label */ "‚c‚…‚‚‚•‚‡@‚l‚…‚‚•",
+        /* Label */ "@",
         /* Epil. */ FALSE
     },
     END_OF_DEBUG_ENTRIES

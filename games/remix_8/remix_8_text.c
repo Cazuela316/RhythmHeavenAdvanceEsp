@@ -9,13 +9,13 @@ const char D_0806a97c[] = "Ponle mas ganas.";
 
 const char D_0806a98c[] = "Eso estuvo muy bien!";
 
-const char D_0806a9a8[] = "";
+const char D_0806a9a8[] = "Your decisions took too long.";
 
-const char D_0806a9cc[] = "";
+const char D_0806a9cc[] = "You thought on the spot well!";
 
-const char D_0806a9f0[] = "";
+const char D_0806a9f0[] = "Keep working on your rhythm.";
 
-const char D_0806aa0c[] = "";
+const char D_0806aa0c[] = "You had really great rhythm!";
 
 const char D_0806aa24[] = "Notas de la Liga del Ritmo:";
 
