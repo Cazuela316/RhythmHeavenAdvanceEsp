@@ -621,7 +621,7 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
     },
     /* Asset Test */ {
         /* Scene */ &scene_asset_test,
-        /* Label */ "‚`‚“‚“‚…‚”@‚s‚…‚“‚”",
+        /* Label */ "‚s‚…‚“‚”@‚„‚…@‚`‚“‚“‚…‚”‚“",
         /* Epil. */ FALSE  
     },
     /* Flash Memory Test */ {
@@ -636,7 +636,7 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
     },
     /* Template Scene */ {
         /* Scene */ &scene_template,
-        /* Label */ "‚s‚…‚‚‚Œ‚‚”‚…@‚r‚ƒ‚…‚‚…",
+        /* Label */ "‚d‚“‚ƒ‚…‚‚@‚‚Œ‚‚‚”‚‰‚Œ‚Œ‚",
         /* Epil. */ FALSE  
     },
     /* Data Clear */ {
@@ -646,7 +646,7 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
     },
     /* R-IQ Save Editor */ {
         /* Scene */ &scene_save_editor,
-        /* Label */ "‚q|‚h‚p@‚r‚‚–‚…@‚d‚„‚‰‚”‚‚’",
+        /* Label */ "‚q|‚h‚p@‚d‚„‚‰‚”‚‚’@‚„‚…@‚‚‚’‚”‚‰‚„‚",
         /* Epil. */ FALSE
     },
     /* Sequence Test */ {

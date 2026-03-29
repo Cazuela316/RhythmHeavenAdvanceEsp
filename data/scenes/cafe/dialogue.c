@@ -223,7 +223,7 @@ const char *cafe_dialogue_all_perfects_clear[] = {
     /* ------------------------------------------------ */
         "\n"
         "S‡Q que no es mucho,\n"
-        "pero he abierto mis canciones en\n"
+        "pero he abierto mas canciones en\n"
         "la rocola, solo para ti.\n",
     /* ------------------------------------------------ */
         "\n"
