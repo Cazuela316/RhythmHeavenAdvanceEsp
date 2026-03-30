@@ -5,7 +5,7 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Karate Killo",
         /* Level Desc.   */ "La clave del karate,\n"
                             "como en la vida, es ritmo.\n"
-                            "Como sea, golpea las\n"
+                            "Como sea, àøgolpea las\n"
                             "cosas que te lanzemos!",
         /* Level Icon    */ 8,
         /* Level Type    */ LEVEL_TYPE_GAME,
@@ -13,39 +13,39 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Hay un futuro por delante...",
             /* OK        */ "Mejor descansemos para almorzar~",
-            /* SUPERB    */ "Aprecien todo lo que golpeáQ!"
+            /* SUPERB    */ "àøAprecien todo lo que golpeáQ!"
         }
     },
     /* KARATE_MAN_2 */ {
         /* Entry Scene   */ &scene_karate_man_2,
         /* Level Name    */ "Karate Killo 2",
-        /* Level Desc.   */ "Algo le pasa a la\n"
+        /* Level Desc.   */ "àøAlgo le pasa a la\n"
                             "velocidad! Mantente\n"
-                            "alerta, mientras te\n"
+                            "alerta, àømientras te\n"
                             "lanzamos mács cosas!",
         /* Level Icon    */ 0,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_karate_man_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Cual es el punto de esos horribles cambios de ritmo!?",
-            /* OK        */ "Bah, como sea. A comer!",
-            /* SUPERB    */ "Ya soy todo un experto rompe macetas!"
+            /* TRY_AGAIN */ "àæàøCual es el punto de esos horribles cambios de ritmo!?",
+            /* OK        */ "Bah, como sea. àøA comer!",
+            /* SUPERB    */ "àøYa soy todo un experto rompe macetas!"
         }
     },
     /* CLAPPY_TRIO */ {
         /* Entry Scene   */ &scene_clappy_trio,
         /* Level Name    */ "Tráeo saleroso",
-        /* Level Desc.   */ "Aplaudan en orden!\n"
+        /* Level Desc.   */ "àøAplaudan en orden!\n"
                             "Eres el tercero.\n"
-                            "Asáe que estate atento\n"
+                            "Aàøsáe que estate atento\n"
 							"a los otros dos!",
         /* Level Icon    */ 4,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_clappy_trio_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "El trio ahora es un solo!",
+            /* TRY_AGAIN */ "àøEl trio ahora es un solo!",
             /* OK        */ "Necesitas llegar mas a nuestros ensayos...",
-            /* SUPERB    */ "Tráas bien!"
+            /* SUPERB    */ "àøTráas bien!"
         }
     },
     /* SNAPPY_TRIO */ {
@@ -53,174 +53,174 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Tráeo garboso",
         /* Level Desc.   */ "Mira al trio en sus\n"
                             "trajes del Oeste.\n"
-                            "Van tan divinos! Lucen\n"
-                            "muy... garbosos?",
+                            "àøVan tan divinos! Lucen\n"
+                            "muy... àægarbosos?",
         /* Level Icon    */ 10,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_snappy_trio_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Gaste todo lo que tenia en este conjunto!",
+            /* TRY_AGAIN */ "àøGaste todo lo que tenia en este conjunto!",
             /* OK        */ "Estabamos tan cerca...",
-            /* SUPERB    */ "QuáQ ráetmo! Debe de ser el conjunto, verdad?"
+            /* SUPERB    */ "àøQuáQ ráetmo! àæDebe de ser el conjunto, verdad?"
         }
     },
     /* POLYRHYTHM */ {
         /* Entry Scene   */ &scene_polyrhythm,
         /* Level Name    */ "Polirritmo",
-        /* Level Desc.   */ "Maneja los caminos\n"
+        /* Level Desc.   */ "àøManeja los caminos\n"
 							"áO y áM para que las\n"
 							"cosas rojas rueden!\n"
-							"Sencillo, no?",
+							"Sencillo, àæno?",
         /* Level Icon    */ 3,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_polyrhythm_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Producir estas cosas en masa es bastante dificil...",
-            /* OK        */ "Ya le estoy agarrando la mano a estas cosas rojas!",
-            /* SUPERB    */ "Hemos producido mács de lo que podemos reponer!"
+            /* OK        */ "àøYa le estoy agarrando la mano a estas cosas rojas!",
+            /* SUPERB    */ "àøHemos producido mács de lo que podemos reponer!"
         }
     },
     /* POLYRHYTHM_2 */ {
         /* Entry Scene   */ &scene_polyrhythm_2,
         /* Level Name    */ "Polirritmo 2",
-        /* Level Desc.   */ "Los caminos áO y áM\n"
+        /* Level Desc.   */ "àøLos caminos áO y áM\n"
                             "tienen patrones raros!\n"
-                            "ConcáQntrate y juega\n"
+                            "àøConcáQntrate y juega\n"
                             "al polirritmo!",
         /* Level Icon    */ 51,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_polyrhythm_2_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Necesitamos producir muchas mas cosas rojas...",
-            /* OK        */ "Producir mas cosas rojas no hara mal!",
-            /* SUPERB    */ "La producciáin de cosas rojas estác que arde!"
+            /* OK        */ "àøProducir mas cosas rojas no hara mal!",
+            /* SUPERB    */ "àøLa producciáin de cosas rojas estác que arde!"
         }
     },
     /* NIGHT_WALK */ {
         /* Entry Scene   */ &scene_night_walk,
         /* Level Name    */ "Paseo Nocturno",
-        /* Level Desc.   */ "QuáQ mejor que pasear\n"
+        /* Level Desc.   */ "àæQuáQ mejor que pasear\n"
                             "bajo las estrellas?\n"
-                            "Pues obvio! Saltar\n"
+                            "àøPues obvio! àøSaltar\n"
                             "bajo las estrellas!",
         /* Level Icon    */ 7,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_night_walk_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "No vi ese hoyo en la oscuridad!",
+            /* TRY_AGAIN */ "àøNo vi ese hoyo en la oscuridad!",
             /* OK        */ "Nada como un paseo bajo las estrellas.",
-            /* SUPERB    */ "Nos seguiste hasta aquáe!"
+            /* SUPERB    */ "àøNos seguiste hasta aquáe!"
         }
     },
     /* NIGHT_WALK_2 */ {
         /* Entry Scene   */ &scene_night_walk_2,
         /* Level Name    */ "Paseo Nocturno 2",
-        /* Level Desc.   */ "Hora de saltar de nuevo\n"
+        /* Level Desc.   */ "àøHora de saltar\n"
                             "bajo las estrellas!\n"
-                            "Pero ten cuidado con\n"
+                            "àøPero cuidado con\n"
                             "los peces eláQctricos!",
         /* Level Icon    */ 41,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_night_walk_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "No! Me caáe!",
+            /* TRY_AGAIN */ "àøNo! àøMe caáe!",
             /* OK        */ "La brisa nocturna es tan refrescante...",
-            /* SUPERB    */ "Te hiciste amigo de las estrellas!"
+            /* SUPERB    */ "àøTe hiciste amigo de las estrellas!"
         }
     },
     /* RHYTHM_TWEEZERS */ {
         /* Entry Scene   */ &scene_rhythm_tweezers,
         /* Level Name    */ "Pinzas Ráetmicas",
         /* Level Desc.   */ "\n"
-                            "Se me ven mis raices!\n"
-                            "Podrias arrancarlas?\n",
+                            "àøSe me ven mis raices!\n"
+                            "àæPodrias arrancarlas?\n",
         /* Level Icon    */ 14,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "No puedo vender esto!",
-            /* OK        */ "P-por quáQ a mis vegetales les salen pelos!?",
-            /* SUPERB    */ "Que fresco y limpio! Hasta el aire es delicioso!"
+            /* TRY_AGAIN */ "àøNo puedo vender esto!",
+            /* OK        */ "àæàøP-por quáQ a mis vegetales les salen pelos!?",
+            /* SUPERB    */ "àøQue fresco y limpio! àøHasta el aire es delicioso!"
         }
     },
     /* RHYTHM_TWEEZERS_2 */ {
         /* Entry Scene   */ &scene_rhythm_tweezers_2,
         /* Level Name    */ "Pinzas Ráetmicas 2",
-        /* Level Desc.   */ "Mis raáeces volvieron\n"
+        /* Level Desc.   */ "àøMis raáeces volvieron\n"
                             "a crecer!\n"
-                            "Por favor, arrácncalas\n"
+                            "àøPor favor, arrácncalas\n"
                             "de nuevo!",
         /* Level Icon    */ 25,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Por quáQ tienes que ser tan peludo!?",
-            /* OK        */ "Por quáQ solo nuestros vegetales tienen pelo...?",
-            /* SUPERB    */ "Que refrescante! Hasta el aire esta fresco!"
+            /* TRY_AGAIN */ "àæàøPor quáQ tienes que ser tan peludo!?",
+            /* OK        */ "àæPor quáQ solo nuestros vegetales tienen pelo...?",
+            /* SUPERB    */ "àøQue refrescante! àøHasta el aire esta fresco!"
         }
     },
     /* SICK_BEATS */ {
         /* Entry Scene   */ &scene_sick_beats,
         /* Level Name    */ "Ritmo Contagioso",
         /* Level Desc.   */ "\0023" "Nota del asistente:\n"
-                            "\"Ha surgido un brote\n"
-                            "de un virus desconocido!\n"
-                            "Ayuda, Dr. Tenedorcio!\"",
+                            "\"àøHa surgido un brote de\n"
+                            "un virus desconocido!\n"
+                            "àøSOS, Dr. Tenedorcio!\"",
         /* Level Icon    */ 13,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_sick_beats_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Toda nuestra busqueda... para nada...",
             /* OK        */ "El fracaso puede ser el camino al exito!",
-            /* SUPERB    */ "Finalmente encontramos la cura!"
+            /* SUPERB    */ "àøFinalmente encontramos la cura!"
         }
     },
     /* BOUNCY_ROAD */ {
         /* Entry Scene   */ &scene_bouncy_road,
         /* Level Name    */ "Bolas Saltarinas",
-        /* Level Desc.   */ "Ves esa bolita saltando\n"
-                            "por el camino?\n"
+        /* Level Desc.   */ "àæVes esa bolita\n"
+                            "saltando por el camino?\n"
                             "No dejarács que se\n"
-							"caiga... verdad?",
+							"caiga... àæverdad?",
         /* Level Icon    */ 12,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_bouncy_road_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Ow! Que complicado...",
-            /* OK        */ "Buen combo!",
-            /* SUPERB    */ "Y donde esta el reto?~"
+            /* TRY_AGAIN */ "àøOw! Que complicado...",
+            /* OK        */ "àøBuen combo!",
+            /* SUPERB    */ "àæY donde esta el reto?~"
         }
     },
     /* BOUNCY_ROAD_2 */ {
         /* Entry Scene   */ &scene_bouncy_road_2,
         /* Level Name    */ "Bolas Saltarinas 2",
-        /* Level Desc.   */ "Ves esa bolita saltando\n"
-                            "por el camino?\n"
-                            "Es una bola tan linda,\n"
-                            "asi que no la dejes caer!",
+        /* Level Desc.   */ "àæVes esa bolita\n"
+                            "saltando por el camino?\n"
+                            "Es muy linda, àøasi\n"
+                            "que no la dejes caer!",
         /* Level Icon    */ 50,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_bouncy_road_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Ow! Hemos fallado!",
-            /* OK        */ "Estamos dácndolo todo!",
+            /* TRY_AGAIN */ "àøOw! àøHemos fallado!",
+            /* OK        */ "àøEstamos dácndolo todo!",
             /* SUPERB    */ "Facil viene, facil se va~"
         }
     },
     /* NINJA_BODYGUARD */ {
         /* Entry Scene   */ &scene_ninja_bodyguard,
         /* Level Name    */ "Guardia Ninja",
-        /* Level Desc.   */ "Los enemigos estácn\n"
+        /* Level Desc.   */ "àøLos enemigos estácn\n"
                             "atacando a tu noble!\n"
-                            "Usa la áO y la áM\n"
+                            "àøUsa la áO y la áM\n"
 							"para bloquear!",
         /* Level Icon    */ 5,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_ninja_bodyguard_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Mi noble se desmayo! Nooooo!",
-            /* OK        */ "No puedo parar de disculparme, mi noble!",
-            /* SUPERB    */ "Ni una herida!"
+            /* TRY_AGAIN */ "àøMi noble se desmayo! àøNooooo!",
+            /* OK        */ "No puedo parar de disculparme, àømi noble!",
+            /* SUPERB    */ "àøNi una herida!"
         }
     },
     /* NINJA_REINCARNATE */ {
@@ -229,14 +229,14 @@ struct LevelData level_data_table[] = {
         /* Level Desc.   */ "Sabes, mis ancestros\n"
                             "vienen de un gran\n"
                             "linaje de ninjas.\n"
-                            "A que es genial?",
+                            "àæA que es genial?",
         /* Level Icon    */ 38,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_ninja_reincarnate_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "No te rindas! Contamos contigo!",
-            /* OK        */ "Eres... muy fuerte. No te rindas aun!",
-            /* SUPERB    */ "Demostraste tu valia! Tienes nuestra bendicion..."
+            /* TRY_AGAIN */ "àøNo te rindas! àøContamos contigo!",
+            /* OK        */ "Eres... muy fuerte. àøNo te rindas aun!",
+            /* SUPERB    */ "àøDemostraste tu valia! Tienes nuestra bendicion..."
         }
     },
     /* SNEAKY_SPIRITS */ {
@@ -251,72 +251,71 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_sneaky_spirits_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Estos fantasmas no dan mas que problemas.",
-            /* OK        */ "Este no se ira a ninguna parte!",
-            /* SUPERB    */ "Ningun fantasma se me escapa!"
+            /* OK        */ "àøEste no se ira a ninguna parte!",
+            /* SUPERB    */ "àøNingun fantasma se me escapa!"
         }
     },
     /* SNEAKY_SPIRITS_2 */ {
         /* Entry Scene   */ &scene_sneaky_spirits_2,
         /* Level Name    */ "Fantasmas Burlones 2",
-        /* Level Desc.   */ "Los fantasmas vinieron\n"
+        /* Level Desc.   */ "àøLos fantasmas vinieron\n"
                             "a molestar de nuevo!\n"
-                            "Aggh!\n"
-                            "Alista el arco!",
+                            "àøAlista el arco!",
         /* Level Icon    */ 53,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_sneaky_spirits_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Agh! Pasaron justo delante tuyo!",
-            /* OK        */ "\"D-dejame ir, por favor!\"",
-            /* SUPERB    */ "Estarácn aqui hasta que piensen en lo que hicieron!"
+            /* TRY_AGAIN */ "àøAgh! àøPasaron justo delante tuyo!",
+            /* OK        */ "\"àøD-dejame ir, por favor!\"",
+            /* SUPERB    */ "àøEstarácn aqui hasta que piensen en lo que hicieron!"
         }
     },
     /* SAMURAI_SLICE */ {
         /* Entry Scene   */ &scene_samurai_slice,
         /* Level Name    */ "Samuráci Rebanador",
-        /* Level Desc.   */ "Los demonios han puesto\n"
+        /* Level Desc.   */ "àøLos demonios dejaron\n"
                             "el pueblo en panico!\n"
                             "Vamos samuráci,\n"
-                            "rebácnalos a todos!",
+                            "àørebácnalos a todos!",
         /* Level Icon    */ 18,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_samurai_slice_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Se rompio mi katana!",
-            /* OK        */ "Tengo que dar aun mas de mi!",
-            /* SUPERB    */ "Habias visto una espada asi de afilada?"
+            /* TRY_AGAIN */ "àøSe rompio mi katana!",
+            /* OK        */ "àøTengo que dar aun mas de mi!",
+            /* SUPERB    */ "àæHabias visto una espada asi de afilada?"
         }
     },
     /* SPACEBALL */ {
         /* Entry Scene   */ &scene_spaceball,
         /* Level Name    */ "Spacebáil",
-        /* Level Desc.   */ "Ignora los zooms de\n"
-                            "la cácmara! Haz la\n"
-                            "pelota volar! Sin llorar!\n"
-                            "Ni parpadear!",
+        /* Level Desc.   */ "àøIgnora los zooms de\n"
+                            "la cácmara! àøHaz la\n"
+                            "pelota volar! àøSin llorar!\n"
+                            "àøNi parpadear!",
         /* Level Icon    */ 9,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_spaceball_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Me devuelves la pelota? Te doy mi bola de arroz...",
+            /* TRY_AGAIN */ "àæMe devuelves la pelota? Te doy mi bola de arroz...",
             /* OK        */ "Debo... entrenar... mas...",
-            /* SUPERB    */ "No hay \"espacio\" para el fracaso!"
+            /* SUPERB    */ "àøNo hay \"espacio\" para el fracaso!"
         }
     },
     /* SPACEBALL_2 */ {
         /* Entry Scene   */ &scene_spaceball_2,
         /* Level Name    */ "Spacebáil 2",
-        /* Level Desc.   */ "Ignora los zooms de\n"
-                            "la camara! Cree en ti\n"
+        /* Level Desc.   */ "àøIgnora los zooms de\n"
+                            "la camara! àøCree en ti\n"
                             "y manda la pelota a\n"
                             "volar por el espacio!",
         /* Level Icon    */ 52,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_spaceball_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Para la proxima, tira la pelota a otro lado!",
-            /* OK        */ "No me puedo rendir ahora!",
-            /* SUPERB    */ "Chicos, chicos! Miren lo que gane!"
+            /* TRY_AGAIN */ "Para la proxima, àøtira la pelota a otro lado!",
+            /* OK        */ "àøNo me puedo rendir ahora!",
+            /* SUPERB    */ "àøChicos, chicos! àøMiren lo que gane!"
         }
     },
     /* TAP_TRIAL */ {
@@ -324,13 +323,13 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Prueba de ClaquáQ",
         /* Level Desc.   */ "Tà¶ eres la chica.\n"
                             "Ellos son los monos.\n"
-                            "Sigue el ritmo para\n"
+                            "àøSigue el ritmo para\n"
                             "llegar al estrellato!",
         /* Level Icon    */ 6,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_tap_trial_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Que ridiculo!",
+            /* TRY_AGAIN */ "àøQue ridiculo!",
             /* OK        */ "CASI al nivel de los monos...",
             /* SUPERB    */ "El claquáQ tambiáQn te ama, Jirafa~"
         }
@@ -338,23 +337,23 @@ struct LevelData level_data_table[] = {
     /* TAP_TRIAL_2 */ {
         /* Entry Scene   */ &scene_tap_trial_2,
         /* Level Name    */ "Prueba de ClaquáQ 2",
-        /* Level Desc.   */ "Los monos vienen\n"
-                            "con todo! Podrács seguir\n"
-                            "su ritmo? No dejes que\n"
+        /* Level Desc.   */ "àøLos monos vienen con\n"
+                            "todo! àæPodrács seguir\n"
+                            "su ritmo? àøNo dejes que\n"
                             "te superen en claquáQ!",
         /* Level Icon    */ 11,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_tap_trial_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Parece que clanqueamos MUY fuerte!",
-            /* OK        */ "Oye... Y nuestro ritmo donde se fue?",
-            /* SUPERB    */ "Los monos son clave para el claquáQ!"
+            /* TRY_AGAIN */ "àøParece que clanqueamos MUY fuerte!",
+            /* OK        */ "Oye... àæY nuestro ritmo donde se fue?",
+            /* SUPERB    */ "àøLos monos son clave para el claquáQ!"
         }
     },
     /* MARCHING_ORDERS */ {
         /* Entry Scene   */ &scene_marching_orders,
         /* Level Name    */ "Marcha Animosa",
-        /* Level Desc.   */ "Listos, marchen! Sigue\n"
+        /* Level Desc.   */ "àøListos, marchen! àøSigue\n"
                             "las ordenes en equipo\n"
                             "y fortalece la union!\n"
 							"Y claro, el ritmo.",
@@ -362,16 +361,16 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_marching_orders_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Espere! Se fue sin nosotros!",
+            /* TRY_AGAIN */ "àøEspere! àøSe fue sin nosotros!",
             /* OK        */ "Mision de hoy: Limpiar. ",
-            /* SUPERB    */ "Mision lograda! Hemos rescatado al alien!"
+            /* SUPERB    */ "àøMision lograda! àøHemos rescatado al alien!"
         }
     },
     /* MARCHING_ORDERS_2 */ {
         /* Entry Scene   */ &scene_marching_orders_2,
         /* Level Name    */ "Marcha Animosa 2",
-        /* Level Desc.   */ "Listos, marchen!\n"
-                            "Esta misiáin requiere\n"
+        /* Level Desc.   */ "àøListos, marchen!\n"
+                            "àøEsta misiáin requiere\n"
                             "mucha táQcnica,\n"
                             "asáe que marchen bien!",
         /* Level Icon    */ 20,
@@ -379,32 +378,32 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_marching_orders_2_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Esto es inaceptable...",
-            /* OK        */ "SáQ que podemos hacerlo mejor!",
-            /* SUPERB    */ "Ahora ESTO es una recompensa!"
+            /* OK        */ "àøSáQ que podemos hacerlo mejor!",
+            /* SUPERB    */ "àøAhora ESTO es una recompensa!"
         }
     },
     /* WIZARDS_WALTZ */ {
         /* Entry Scene   */ &scene_wizards_waltz,
         /* Level Name    */ "Vals Mácgico",
         /* Level Desc.   */ "Tenemos aqui una chica\n"
-                            "solitaria. Usa tu magia\n"
+                            "solitaria. àøUsa tu magia\n"
                             "para el bien, y haz que\n"
                             "mejore su animái!",
         /* Level Icon    */ 23,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_wizards_waltz_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "... Tengo miedo!",
-            /* OK        */ "Se veran tan lindas cuando florescan!",
-            /* SUPERB    */ "QuiáQn se sentiria sola con todas estas flores?"
+            /* TRY_AGAIN */ "... àøTengo miedo!",
+            /* OK        */ "àøSe veran tan lindas cuando florescan!",
+            /* SUPERB    */ "àæQuiáQn se sentiria sola con todas estas flores?"
         }
     },
     /* BUNNY_HOP */ {
         /* Entry Scene   */ &scene_bunny_hop,
         /* Level Name    */ "Conejo Saltaráen",
         /* Level Desc.   */ "Este conejo tiene un\n"
-                            "deseo imposible: saltar\n"
-                            "hasta la luna! Lograrács\n"
+                            "deseo imposible: àøsaltar\n"
+                            "hasta la luna! àæPodrács\n"
                             "cumplir su deseo?",
         /* Level Icon    */ 24,
         /* Level Type    */ LEVEL_TYPE_GAME,
@@ -412,15 +411,15 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Creo que no pense esto criticamente...",
             /* OK        */ "Debo de practicar el aterrizaje...",
-            /* SUPERB    */ "Aterrizaje perfecto! QuiáQn necesita cohetes?!"
+            /* SUPERB    */ "àøAterrizaje perfecto! àøàæQuiáQn necesita cohetes?!"
         }
     },
     /* FIREWORKS */ {
         /* Entry Scene   */ &scene_fireworks,
         /* Level Name    */ "Pirotecnia",
-        /* Level Desc.   */ "No es verano sin\n"
+        /* Level Desc.   */ "àøNo es verano sin\n"
                             "fuegos artificiales!\n"
-                            "EnciáQndelos para llenar\n"
+                            "àøEnciáQndelos para llenar\n"
                             "el cielo de colores!",
         /* Level Icon    */ 26,
         /* Level Type    */ LEVEL_TYPE_GAME,
@@ -428,7 +427,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Cof, cof... Creo que me apresure...",
             /* OK        */ "Eso no estuvo tan mal!",
-            /* SUPERB    */ "Soy el rey de los fuegos artificiales!"
+            /* SUPERB    */ "àøSoy el rey de los fuegos artificiales!"
         }
     },
     /* POWER_CALLIGRAPHY */ {
@@ -443,14 +442,14 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_power_power_calligraphy_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Mejor me quedo con los lapices...",
-            /* OK        */ "Precision! Gracia! Que mas me falta?",
-            /* SUPERB    */ "Yay! Fiesta de caligrafia!"
+            /* OK        */ "àøPrecision! àøGracia! àæQue mas me falta?",
+            /* SUPERB    */ "àøYay! àøFiesta de caligrafia!"
         }
     },
     /* POWER_CALLIGRAPHY_2 */ {
         /* Entry Scene   */ &scene_power_calligraphy,
         /* Level Name    */ "Power Calligraphy 2",
-        /* Level Desc.   */ "haha unused\n"
+        /* Level Desc.   */ "haha no usado, mako eres una perra\n"
                             "\n"
                             "\n"
                             "",
@@ -468,15 +467,15 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Ases del Váiley",
         /* Level Desc.   */ "Este tráeo de amigos ama\n"
                             "practicar sus tajadas.\n"
-                            "Escucha sus nombres\n"
+                            "àøEscucha sus nombres\n"
                             "mientras tajan!",
         /* Level Icon    */ 30,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_toss_boys_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Hemos sido tajados!",
-            /* OK        */ "A la proxima, tajaremos como nadie!",
-            /* SUPERB    */ "Campeonato Mundial de Tajadas, Allác vamos!"
+            /* TRY_AGAIN */ "àøHemos sido tajados!",
+            /* OK        */ "A la proxima, àøtajaremos como nadie!",
+            /* SUPERB    */ "Campeonato Mundial de Tajadas, àøAllác vamos!"
         }
     },
     /* TOSS_BOYS_2 */ {
@@ -484,15 +483,15 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Ases del Váiley 2",
         /* Level Desc.   */ "Este trio de amigos ama\n"
                             "practicar sus tajadas.\n"
-                            "Y justo hoy estan\n"
+                            "àøY justo hoy estan\n"
                             "dandolo todo!",
         /* Level Icon    */ 29,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_toss_boys_2_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Nuestros espiritus han sido derrotados...",
-            /* OK        */ "Aun nos queda un largo camino!",
-            /* SUPERB    */ "Tres hurras para nuestros tajadores estrella!"
+            /* OK        */ "àøAun nos queda un largo camino!",
+            /* SUPERB    */ "àøTres hurras para nuestros tajadores estrella!"
         }
     },
     /* RAT_RACE */ {
@@ -507,56 +506,56 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_rat_race_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "O sea, supongo que podemos comer el plato...",
-            /* OK        */ "Sabes? Me encanta el queso. Pero MUCHO.",
-            /* SUPERB    */ "Con todos juntos es aun mejor!"
+            /* OK        */ "àæSabes? Me encanta el queso. Pero MUCHO.",
+            /* SUPERB    */ "àøCon todos juntos es aun mejor!"
         }
     },
     /* TRAM_PAULINE */ {
         /* Entry Scene   */ &scene_tram_pauline,
         /* Level Name    */ "Tram & Pauláen",
-        /* Level Desc.   */ "Acerquense todos!\n"
-                            "El show acrobatico\n"
+        /* Level Desc.   */ "àøAcerquense todos!\n"
+                            "àøEl show acrobatico\n"
                             "de Tram y Pauláen\n"
 							"esta por comenzar!",
         /* Level Icon    */ 32,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_tram_pauline_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Hemos transformado el show en un fracaso...!",
+            /* TRY_AGAIN */ "àøHemos transformado el show en un fracaso...!",
             /* OK        */ "Al menos arruinamos la mitad del show...",
-            /* SUPERB    */ "Somos el duo perfecto!"
+            /* SUPERB    */ "àøSomos el duo perfecto!"
         }
     },
     /* SHOWTIME */ {
         /* Entry Scene   */ &scene_showtime,
         /* Level Name    */ "Hora del Show",
-        /* Level Desc.   */ "Nuestros valientes\n"
+        /* Level Desc.   */ "àøNuestros valientes\n"
                             "pingà®inos estan listos!\n"
-                            "Salgan e impresionen\n"
+                            "àøSalgan e impresionen\n"
                             "a la audiencia!",
         /* Level Icon    */ 36,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_showtime_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Decepcionamos a la audiencia...",
-            /* OK        */ "Nosotros podemos dar mas que esto...!",
-            /* SUPERB    */ "La audiencia nos amo!"
+            /* OK        */ "àøNosotros podemos dar mas que esto...!",
+            /* SUPERB    */ "àøLa audiencia nos amo!"
         }
     },
     /* SPACE_DANCE */ {
         /* Entry Scene   */ &scene_space_dance,
         /* Level Name    */ "Baile Astral",
-        /* Level Desc.   */ "Asi que quieres un\n"
-                            "reto? Intenta bailar\n"
+        /* Level Desc.   */ "àæAsi que quieres un\n"
+                            "reto? àøIntenta bailar\n"
                             "en gravedad cero!\n"
-							"EN EL ESPACIOOOOO!",
+							"àøEN EL ESPACIOOOOO!",
         /* Level Icon    */ 40,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_space_dance_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Tu desesperacion nos llevo a un agujero negro!",
-            /* OK        */ "Tenemos que llegar hasta las estrellas!",
-            /* SUPERB    */ "Somos las estrellas super espaciales!"
+            /* TRY_AGAIN */ "àøTu desesperacion nos llevo a un agujero negro!",
+            /* OK        */ "àøTenemos que llegar hasta las estrellas!",
+            /* SUPERB    */ "àøSomos las estrellas super espaciales!"
         }
     },
     /* COSMIC_DANCE */ {
@@ -565,21 +564,21 @@ struct LevelData level_data_table[] = {
         /* Level Desc.   */ "Estos dechados del\n"
                             "baile han perfeccionado\n"
                             "sus movimientos,\n"
-                            "y se quieren lucir!",
+                            "àøy se quieren lucir!",
         /* Level Icon    */ 16,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_cosmic_dance_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "No podemos presentarnos ASI!",
-            /* OK        */ "Es lo mejor que pueden hacer?",
-            /* SUPERB    */ "Somos las estrellas sà¶per cáismicas!"
+            /* TRY_AGAIN */ "àøNo podemos presentarnos ASI!",
+            /* OK        */ "àæEs lo mejor que pueden hacer?",
+            /* SUPERB    */ "àøSomos las estrellas sà¶per cáismicas!"
         }
     },
     /* RAP_MEN */ {
         /* Entry Scene   */ &scene_rap_men,
         /* Level Name    */ "Rapdicales",
-        /* Level Desc.   */ "El dà¶o mas radical\n"
-                            "ha llegado! Sus\n"
+        /* Level Desc.   */ "àøEl dà¶o mas radical\n"
+                            "ha llegado! àøSus\n"
                             "hablidades raperas\n"
                             "darácn que hablar!",
         /* Level Icon    */ 42,
@@ -588,23 +587,23 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Necesitamos mas practica...",
             /* OK        */ "Como que su tono estaba raro.",
-            /* SUPERB    */ "Esperamos oir mas de ustedes otra vez!"
+            /* SUPERB    */ "àøEsperamos oir mas de ustedes otra vez!"
         }
     },
     /* RAP_WOMEN */ {
         /* Entry Scene   */ &scene_rap_women,
         /* Level Name    */ "Rapnificas",
-        /* Level Desc.   */ "Los Rapdicales\n"
+        /* Level Desc.   */ "àøLos Rapdicales\n"
                             "tienen rivales!\n"
-                            "No caigas ante\n"
+                            "àøNo caigas ante\n"
                             "sus lindas voces!",
         /* Level Icon    */ 15,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rap_women_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "No... Esto no puede estar bien.",
-            /* OK        */ "SáQ que podemos rapear mejor que esto!",
-            /* SUPERB    */ "Si, si, SI! Lo tenemos!"
+            /* OK        */ "àøSáQ que podemos rapear mejor que esto!",
+            /* SUPERB    */ "àøSi, si, SI! àøLo tenemos!"
         }
     },
     /* QUIZ_SHOW */ {
@@ -612,23 +611,23 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Trivia Show",
         /* Level Desc.   */ "Juega una trivia donde\n"
                             "hay que copiar un\n"
-                            "patron. Simple, no?\n"
+                            "patron. Simple, àæno?\n"
                             "Simple, pero no facil.",
         /* Level Icon    */ 43,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_quiz_show_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Puedo hacerlo mejor... puedo hacerlo mejor!",
+            /* TRY_AGAIN */ "Puedo hacerlo mejor... àøpuedo hacerlo mejor!",
             /* OK        */ "Tengo que estudiar... para la proxima... Zzz...",
-            /* SUPERB    */ "Gane el premio! Un viaje por el mundo!"
+            /* SUPERB    */ "àøGane el premio! àøUn viaje por el mundo!"
         }
     },
     /* BON_ODORI */ {
         /* Entry Scene   */ &scene_bon_odori,
         /* Level Name    */ "Bon Åô Odori",
-        /* Level Desc.   */ "A celebrar el tradicional\n"
+        /* Level Desc.   */ "àøA celebrar el\n"
                             "Festival Bon!\n"
-                            "Aplaude mientras\n"
+                            "àøAplaude mientras\n"
                             "cantan su cancion!",
         /* Level Icon    */ 35,
         /* Level Type    */ LEVEL_TYPE_GAME,
@@ -636,47 +635,47 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Tengo tanto frio...",
             /* OK        */ "Oh... El leve siseo de una bengala...",
-            /* SUPERB    */ "Fue muy divertido! No puedo esperar para la proxima!"
+            /* SUPERB    */ "àøFue muy divertido! àøNo puedo esperar para la proxima!"
         }
     },
     /* BON_DANCE */ {
         /* Entry Scene   */ &scene_bon_dance,
         /* Level Name    */ "Bon Åô Dance",
-        /* Level Desc.   */ "El Festival Bon tiene\n"
+        /* Level Desc.   */ "àøEl Festival Bon tiene\n"
                             "un nuevo estilo moderno!\n"
-                            "Aplaude junto con esta\n"
+                            "àøAplaude junto con esta\n"
                             "nueva canciáin!",
         /* Level Icon    */ 17,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_bon_dance_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Eso estuvo horrible...",
-            /* OK        */ "Cuando se puso a llover?",
-            /* SUPERB    */ "Nuestro nuevo bon dance es tan divertido!"
+            /* OK        */ "àæCuando se puso a llover?",
+            /* SUPERB    */ "àøNuestro nuevo bon dance es tan divertido!"
         }
     },
     /* REMIX_1 */ {
         /* Entry Scene   */ &scene_remix_1,
         /* Level Name    */ "Remix 1",
-        /* Level Desc.   */ "Veamos tu habilidad!\n"
-                            "Hemos mezclado todos\n"
+        /* Level Desc.   */ "àøVeamos tu habilidad!\n"
+                            "àøHemos mezclado todos\n"
                             "los juegos del primer\n"
-                            "nivel! Podras pasarlo?",
+                            "nivel! àæPodras pasarlo?",
         /* Level Icon    */ 22,
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix1_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Tu destreza fue como... un premio para gato.",
             /* OK        */ "Tu destreza fue como... un desayuno promedio.",
-            /* SUPERB    */ "Tu destreza fue como... una deliciosa cena!"
+            /* SUPERB    */ "Tu destreza fue como... àøuna deliciosa cena!"
         }
     },
     /* REMIX_2 */ {
         /* Entry Scene   */ &scene_remix_2,
         /* Level Name    */ "Remix 2",
-        /* Level Desc.   */ "Veamos tu habilidad!\n"
+        /* Level Desc.   */ "àøVeamos tu habilidad!\n"
                             "Este tiene una animada\n"
-                            "atmosfera, perfecta\n"
+                            "atmosfera, àøperfecta\n"
                             "para lecciones de baile!",
         /* Level Icon    */ 27,
         /* Level Type    */ LEVEL_TYPE_REMIX,
@@ -684,15 +683,15 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Eso estuvo animado como... jugar a la pelota solo.",
             /* OK        */ "Eso estuvo animado como... un buen juego de atrapar.",
-            /* SUPERB    */ "Eso estuvo animado como... un toreno de beisball!"
+            /* SUPERB    */ "Eso estuvo animado como... àøun toreno de beisball!"
         }
     },
     /* REMIX_3 */ {
         /* Entry Scene   */ &scene_remix_3,
         /* Level Name    */ "Remix 3",
-        /* Level Desc.   */ "Veamos tu habilidad!\n"
+        /* Level Desc.   */ "àøVeamos tu habilidad!\n"
                             "Este tiene una adorable\n"
-                            "cancion de amor, con\n"
+                            "cancion de amor, àøcon\n"
                             "una adorable letra!",
         /* Level Icon    */ 33,
         /* Level Type    */ LEVEL_TYPE_REMIX,
@@ -700,13 +699,13 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Su amor terminái... en la friendzone...",
             /* OK        */ "Su amor terminái... siendo buenos amigos.",
-            /* SUPERB    */ "Su amor terminái... en un lindo matrimonio!"
+            /* SUPERB    */ "Su amor terminái... àøen un lindo matrimonio!"
         }
     },
     /* REMIX_4 */ {
         /* Entry Scene   */ &scene_remix_4,
         /* Level Name    */ "Remix 4",
-        /* Level Desc.   */ "Veamos tu habilidad!\n"
+        /* Level Desc.   */ "àøVeamos tu habilidad!\n"
                             "Este tiene una calmada,\n"
                             "y relajada vibra, como\n"
                             "un relajante paseo...",
@@ -716,30 +715,30 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "El clima de hoy... lloviendo a cantaros.",
             /* OK        */ "El clima de hoy... bastante nublando.",
-            /* SUPERB    */ "El clima de hoy... totalmente despejado!"
+            /* SUPERB    */ "El clima de hoy... àøtotalmente despejado!"
         }
     },
     /* REMIX_5 */ {
         /* Entry Scene   */ &scene_remix_5,
         /* Level Name    */ "Remix 5",
-        /* Level Desc.   */ "Veamos tu habilidad!\n"
-                            "Este remix tiene una\n"
+        /* Level Desc.   */ "àøVeamos tu habilidad!\n"
+                            "àøEste remix tiene una\n"
                             "canciáin melancáilica.\n"
                             "Mantente fresco!",
         /* Level Icon    */ 39,
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix5_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Esta pareja... estác en problemas!",
+            /* TRY_AGAIN */ "Esta pareja... àøestác en problemas!",
             /* OK        */ "Esta pareja... estác un poco nerviosa...",
-            /* SUPERB    */ "Esta pareja... vivira felices por siempre!"
+            /* SUPERB    */ "Esta pareja... àøvivira felices por siempre!"
         }
     },
     /* REMIX_6 */ {
         /* Entry Scene   */ &scene_remix_6,
         /* Level Name    */ "Remix 6",
-        /* Level Desc.   */ "Veamos tu habilidad!\n"
-                            "Todos los juegos que\n"
+        /* Level Desc.   */ "àøVeamos tu habilidad!\n"
+                            "àøTodos los juegos que\n"
                             "has jugado estan aquáe,\n"
                             "demuestra tu ritmo!",
         /* Level Icon    */ 2,
@@ -747,46 +746,46 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_remix6_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Tu pecera... esta bastante escasa.",
-            /* OK        */ "Tu pecera... es bastante unica!",
-            /* SUPERB    */ "Tu pecera... es increáeble!"
+            /* OK        */ "Tu pecera... àøes bastante unica!",
+            /* SUPERB    */ "Tu pecera... àøes increáeble!"
         }
     },
     /* REMIX_7 */ {
         /* Entry Scene   */ &scene_remix_7,
         /* Level Name    */ "Remix 7",
-        /* Level Desc.   */ "Veamos tu habilidad!\n"
+        /* Level Desc.   */ "àøVeamos tu habilidad!\n"
                             "Varios remixes han\n"
                             "vuelto aquáe!\n"
-                            "Es un remix de remixes!",
+                            "àøEs un remix de remixes!",
         /* Level Icon    */ 19,
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix7_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "La visita jurácsica... fue tenebrosa!",
+            /* TRY_AGAIN */ "La visita jurácsica... àøfue tenebrosa!",
             /* OK        */ "La visita jurácsica... fue muy aburrida.",
-            /* SUPERB    */ "La visita jurácsica... fue muy divertida!"
+            /* SUPERB    */ "La visita jurácsica... àøfue muy divertida!"
         }
     },
     /* REMIX_8 */ {
         /* Entry Scene   */ &scene_remix_8,
         /* Level Name    */ "Remix 8",
-        /* Level Desc.   */ "Veamos tu habilidad!\n"
-                            "Este remix sáe que es\n"
+        /* Level Desc.   */ "àøVeamos tu habilidad!\n"
+                            "àøEste remix sáe que es\n"
                             "un desafio de verdad!\n"
-                            "Demuestra lo aprendido!",
+                            "àøDemuestra tu flow!",
         /* Level Icon    */ 37,
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix8_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Tu paseo estuvo... oh dios...",
             /* OK        */ "Tu paseo estuvo... un poco cansador.",
-            /* SUPERB    */ "Tu paseo estuvo... absolutamente espectacular!"
+            /* SUPERB    */ "Tu paseo estuvo... àøabsolutamente espectacular!"
         }
     },
     /* CAFE */ {
         /* Entry Scene   */ &scene_cafe,
         /* Level Name    */ "Cafeteráea",
-        /* Level Desc.   */ "Como has estado?\n"
+        /* Level Desc.   */ "àæComo has estado?\n"
                             "Si algo te molesta\n"
                             "sientete libre de\n"
                             "venir a hablar.",
@@ -802,10 +801,10 @@ struct LevelData level_data_table[] = {
     /* RHYTHM_TOYS */ {
         /* Entry Scene   */ &scene_toys_menu,
         /* Level Name    */ "Rit-Juguetes",
-        /* Level Desc.   */ "Colecta medallas\n"
+        /* Level Desc.   */ "àøColecta medallas\n"
                             "para jugar con\n"
                             "juguetes ritmicos!\n"
-                            "Checalos!",
+                            "àøChecalos!",
         /* Level Icon    */ 46,
         /* Level Type    */ LEVEL_TYPE_BONUS,
         /* Epilogue GFX  */ epilogue_toys_menu_gfx_tables,
@@ -818,10 +817,10 @@ struct LevelData level_data_table[] = {
     /* ENDLESS_GAMES */ {
         /* Entry Scene   */ &scene_endless_menu,
         /* Level Name    */ "Juegos Infinitos",
-        /* Level Desc.   */ "Colecta medallas\n"
+        /* Level Desc.   */ "àøColecta medallas\n"
                             "y desbloquea\n"
                             "juegos infinitos!\n"
-                            "Checalos!",
+                            "àøChecalos!",
         /* Level Icon    */ 47,
         /* Level Type    */ LEVEL_TYPE_BONUS,
         /* Epilogue GFX  */ epilogue_endless_menu_gfx_tables,
@@ -836,7 +835,7 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Toca la Bateráea",
         /* Level Desc.   */ "Colecta medallas y\n"
                             "toma lecciones de\n"
-                            "bateráea. Y asi te\n"
+                            "bateráea. àøY asi te\n"
                             "volveras un maestro!",
         /* Level Icon    */ 48,
         /* Level Type    */ LEVEL_TYPE_BONUS,
@@ -852,7 +851,7 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Creditos del Staff",
         /* Level Desc.   */ "Aquáe estác el staff\n"
                             "que ayudái a desarollar\n"
-                            "este juego. SiáQntete\n"
+                            "este juego. àøSiáQntete\n"
                             "libre de verlos!",
         /* Level Icon    */ 49,
         /* Level Type    */ LEVEL_TYPE_BONUS,
@@ -866,17 +865,17 @@ struct LevelData level_data_table[] = {
     /* LIVE_MENU */ {
         /* Entry Scene   */ &scene_drum_live,
         /* Level Name    */ "Concierto",
-        /* Level Desc.   */ "Auspiciamos un\n"
-                            "concierto! Tienes\n"
+        /* Level Desc.   */ "àøAuspiciamos un\n"
+                            "concierto! àæTienes\n"
                             "buen ritmo, no?\n"
-                            "Anda, intáQntalo!",
+                            "Anda, àøintáQntalo!",
         /* Level Icon    */ 44,
         /* Level Type    */ LEVEL_TYPE_BONUS,
         /* Epilogue GFX  */ epilogue_drum_live_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "El de la limpieza dice... \"Se que puedes hacerlo mejor!\"",
-            /* OK        */ "El gerente dice... \"Tienes un buena hablidad, lo sabes!\"",
-            /* SUPERB    */ "El productor dice... \"Deberias tocar en nuestro local!\""
+            /* TRY_AGAIN */ "El de la limpieza dice... \"àøSe que puedes hacerlo mejor!\"",
+            /* OK        */ "El gerente dice... \"Tienes un buena hablidad, àølo sabes!\"",
+            /* SUPERB    */ "El productor dice... \"àøDeberias tocar en nuestro local!\""
         }
     }
 };
