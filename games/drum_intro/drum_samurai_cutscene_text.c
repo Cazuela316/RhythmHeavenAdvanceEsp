@@ -20,7 +20,7 @@ const char D_0805df88[] =
 
 const char D_0805dfcc[] =
     "\n"
-    "Y bueno, nos vemos despues!";
+    "Y bueno, nos vemos despu‡Qs!";
 
 
 /* Game Text - Drumming Intro (Part 1) */
@@ -64,4 +64,4 @@ const char D_0805e10c[] =
     "sentido mejora!";
 
 const char D_0805e15c[] =
-    "Y eso, nos vemos despues!";
+    "Y eso, nos vemos despu‡Qs!";

@@ -37,7 +37,7 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Tr‡eo saleroso",
         /* Level Desc.   */ "ˆ¿Aplaudan en orden!\n"
                             "Eres el tercero.\n"
-                            "Aˆ¿s‡e que estate atento\n"
+                            "ˆ¿As‡e que estate atento\n"
 							"a los otros dos!",
         /* Level Icon    */ 4,
         /* Level Type    */ LEVEL_TYPE_GAME,
@@ -754,7 +754,7 @@ struct LevelData level_data_table[] = {
         /* Entry Scene   */ &scene_remix_7,
         /* Level Name    */ "Remix 7",
         /* Level Desc.   */ "ˆ¿Veamos tu habilidad!\n"
-                            "Varios remixes han\n"
+                            "ˆ¿Varios remixes han\n"
                             "vuelto aqu‡e!\n"
                             "ˆ¿Es un remix de remixes!",
         /* Level Icon    */ 19,
