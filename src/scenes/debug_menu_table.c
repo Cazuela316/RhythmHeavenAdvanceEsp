@@ -67,11 +67,6 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "‚q|‚h‚p@i‚o‚…‚’‚†‚…‚ƒ‚”‚j",
         /* Epil. */ FALSE
     },
-    /* R-IQ (Cafe) */ {
-        /* Scene */ &scene_cafe,
-        /* Label */ "‚q|‚h‚p@i‚b‚‚†‚…j",
-        /* Epil. */ FALSE
-    },
     /* R-IQ (Endless Games) */ {
         /* Scene */ &scene_endless_menu,
         /* Label */ "‚q|‚h‚p@i‚l‚‰‚‚‰‚Š‚•‚…‚‡‚‚“j",
@@ -649,9 +644,14 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "‚q|‚h‚p@‚d‚„‚‰‚”‚‚’@‚„‚…@‚‚‚’‚”‚‰‚„‚",
         /* Epil. */ FALSE
     },
-    /* Sequence Test */ {
+    /* Debug Menu */ {
         /* Scene */ &scene_debug_menu,
-        /* Label */ "@",
+        /* Label */ "‚c‚…‚‚‚•‚‡@‚l‚…‚‚•",
+        /* Epil. */ FALSE
+    },
+    /* GBP Handshake */ {
+        /* Scene */ &scene_gbp_handshake,
+        /* Label */ "‚f‚a‚o@‚g‚‚‚„‚“‚ˆ‚‚‹‚…",
         /* Epil. */ FALSE
     },
     END_OF_DEBUG_ENTRIES
