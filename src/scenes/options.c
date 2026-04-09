@@ -74,16 +74,16 @@ static const char *options_scene_bitmap_get_value(s32 entry) {
     switch (entry) {
 #ifdef RUMBLE
         case OPTIONS_BITMAP_RUMBLE:
-            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_DISABLE_RUMBLE) ? "‚n‚†‚†" : "‚n‚";
+            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_DISABLE_RUMBLE) ? "‚m‚" : "‚r‚‰";
 #endif
         case OPTIONS_BITMAP_SKIP_DISCLAIMER:
-            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_SKIP_DISCLAIMER) ? "‚r‚‹‚‰‚" : "‚r‚ˆ‚‚—";
+            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_SKIP_DISCLAIMER) ? "‚r‚‚Œ‚”‚‚’" : "‚l‚‚“‚”‚’‚‚’";
 
         case OPTIONS_BITMAP_ALT_GAME_SELECT_MUSIC:
-            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_USE_ALT_GAME_SELECT_MUSIC) ? "‚n‚" : "‚n‚†‚†";
+            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_USE_ALT_GAME_SELECT_MUSIC) ? "‚r‚‰" : "‚m‚";
     }
 
-    return "‚r‚g‚`‚e‚e‚x@‚e‚t‚b‚j‚d‚c@‚t‚o";
+    return "‚r‚g‚`‚e‚e‚x@‚k‚`@‚b‚`‚f‚n";
 }
 
 static void options_scene_bitmap_build_line_text(s32 line) {

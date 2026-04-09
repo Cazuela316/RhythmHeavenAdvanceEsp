@@ -220,13 +220,14 @@ extern u8 haveSeenDisclaimer;
 
 // since no cart reseller with 2 functioning braincells will fall for this, i took the liberty
 // of replacing the messages with stuff that won't traumatize people!!!
-char* badBoyMessages[6] = {
-    "oh noes anti piracy",
-    "3800 yen",
-    "hello world",
-    "rhythm rhythm rhythm",
-    "i love tap!",
+char* badBoyMessages[7] = {
+    "NO PIRATES",
+    "3800 yenes",
+    "hola mundo",
+    "ritmo ritmo ritmo",
+    "amo el claque!",
     "super mario"
+    "STAN LOONA Y F(x)"
 };
 
 // Print Formatted Line to VRAM (return width in pixels)

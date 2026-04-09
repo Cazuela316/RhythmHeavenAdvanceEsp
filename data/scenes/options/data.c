@@ -79,27 +79,27 @@ const char *options_desc_text[] = {
 
 const char *advance_options_label_text[] = {
 #ifdef RUMBLE
-    "Ｒｕｍｂｌｅ",
+    "Ｖｉｂｒａｃｉだｎ",
 #endif
-    "Ｓｈｏｗ　Ｄｉｓｃｌａｉｍｅｒ",
-    "Ａｌｔ．　Ｇａｍｅ　Ｓｅｌｅｃｔ　Ｍｕｓｉｃ",
+    "Ｍｏｓｔｒａｒ　Ｄｉｓｃｌａｉｍｅｒ",
+    "Ｍなｓｉｃａ　Ａｌｔ．　ｅｎ　ｅｌ　ｊｕｅｇｏ　ｒざｔｍｉｃｏ",
 };
 
 const char *advance_options_desc_text[] = {
     /* RUMBLE ----------------------------------------- */
 #ifdef RUMBLE
-        "\0023" "\0013" "\001C" "Rumble\n"
-        "\0024" "\0011" "\001L" "On　　　 " "\0021" "Rumble is active during gameplay.\n"
-        "\0024" "\0011" "\001L" "Off　　　 " "\0021" "Rumble is disabled.",
+        "\0023" "\0013" "\001C" "Vibraci㌍n\n"
+        "\0024" "\0011" "\001L" "Si　　　 " "\0021" "Se sentira vibraci㌍n en los juegos.\n"
+        "\0024" "\0011" "\001L" "No　　　 " "\0021" "La vibraci㌍n esta desactivada.",
 #endif
     /* SHOW DISCLAIMER -------------------------------- */
-        "\0023" "\0013" "\001C" "Show Disclaimer\n"
-        "\0024" "\0011" "\001L" "Show　　 " "\0021" "Show the disclaimer at startup.\n"
-        "\0024" "\0011" "\001L" "Skip　　 " "\0021" "Skip the disclaimer at startup.",
+        "\0023" "\0013" "\001C" "Mostrar Disclaimer\n"
+        "\0024" "\0011" "\001L" "Mostrar　　 " "\0021" "Muestra el disclaimer al inicio.\n"
+        "\0024" "\0011" "\001L" "Saltar　　 " "\0021" "Salta el disclaimer al inicio.",
     /* ALT GAME SELECT MUSIC --------------------------- */
-        "\0023" "\0013" "\001C" "Alt. Game Select Music\n"
-        "\0024" "\0011" "\001L" "On　　　 " "\0021" "Use alternate music in Game Select.\n"
-        "\0024" "\0011" "\001L" "Off　　　 " "\0021" "Use normal music in Game Select.",
+        "\0023" "\0013" "\001C" "Musica Alt. en el Juego R㌃tmico\n"
+        "\0024" "\0011" "\001L" "Si　　　 " "\0021" "Usa m姶sica alternativa en el juego r㌃tmico.\n"
+        "\0024" "\0011" "\001L" "No　　　 " "\0021" "Usa la m姶sica normal en el juego r㌃tmico.",
 };
 
 
