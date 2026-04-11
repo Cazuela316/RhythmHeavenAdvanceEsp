@@ -239,10 +239,16 @@ s32 text_printer_print_formatted_line(s32 tileBaseX, s32 tileBaseY, s32 font, co
     s32 maxWidthExceeded;
     s32 glyphID;
     u32 i;
+    char buffer[20];
 
-    if(!haveSeenDisclaimer){
-        i = agb_random(ARRAY_COUNT(badBoyMessages));
-        stream = badBoyMessages[i];
+    if (!haveSeenDisclaimer) {
+        u16 funValue = agb_random(ARRAY_COUNT(badBoyMessages) + 1);
+        if (funValue >= ARRAY_COUNT(badBoyMessages)) {
+            snprintf(buffer, sizeof(buffer), "%i yen", agb_random(38000));
+            stream = buffer;
+        } else {
+            stream = funValue[badBoyMessages];
+        }
     } else {
         stream = *charStream;
     }

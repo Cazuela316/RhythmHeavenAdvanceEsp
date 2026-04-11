@@ -72,8 +72,14 @@ FEATURES ?=
 DEFINES := REV=$(REV) $(FEATURES)
 C_DEFINES := $(foreach d,$(DEFINES),-D$(d))
 
-CFLAGS := -mthumb-interwork -Wparentheses -O2 -fhex-asm
+CFLAGS := -mthumb-interwork -Wparentheses -fhex-asm
 CPPFLAGS := -I tools/agbcc -I tools/agbcc/include -I . -iquote include -nostdinc -undef $(C_DEFINES)
+
+ifeq ($(DEBUG), 1)
+	CFLAGS += -ffix-debug-line -O0 -g
+else
+	CFLAGS += -O2
+endif
 
 #---------------------------------------------------------------------------------
 
@@ -104,7 +110,6 @@ ALL_DIRS       := $(sort $(ALL_DIRS)) # remove duplicates
 BUILD_DIRS     := $(BUILD) $(addprefix $(BUILD)/,$(ALL_DIRS))
 
 LD_SCRIPT := advance.ld
-SYMBOLS := symbols.ld
 
 #---------------------------------------------------------------------------------
 
@@ -186,12 +191,12 @@ $(BUILD_DIRS):
 	$(V)mkdir -p $@
 
 $(OUTPUT).gba	:	$(OUTPUT).elf
-	$(V)$(OBJCOPY) --pad-to=0x1000000 --gap-fill=0x00 -O binary $< $@
+	$(V)$(OBJCOPY) --pad-to=0x2000000 --gap-fill=0x00 -O binary $< $@
 	$(call step,ROM Assembled!)
 
 $(OUTPUT).elf	:	$(OFILES) | $(BUILD)/$(LD_SCRIPT)
-	$(call step,Linking ROM...)
-	$(V)$(LD) $(OFILES) tools/agbcc/lib/libgcc.a tools/agbcc/lib/libc.a -T $(BUILD)/$(LD_SCRIPT) -T $(SYMBOLS) -Wl,--no-warn-rwx-segments,-Map $(@:.elf=.map) -nostartfiles -o $@
+	$(V)echo "Building ROM..."
+	$(V)$(LD) $(OFILES) tools/agbcc/lib/libgcc.a tools/agbcc/lib/libc.a -T $(BUILD)/$(LD_SCRIPT) -Wl,--no-warn-rwx-segments,-Map $(@:.elf=.map) -nostartfiles -o $@
 
 
 # Binary data

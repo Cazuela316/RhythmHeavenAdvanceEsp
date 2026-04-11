@@ -61,7 +61,7 @@ void perfect_scene_start(void *sVar, s32 dArg) {
         giftType = campaign_gifts_table[gPerfect->campaignID].type;
         giftID = campaign_gifts_table[gPerfect->campaignID].id;
 
-        if (!D_030046a8->data.campaignsCleared[gPerfect->campaignID]) {
+        if (!get_campaign_cleared(&D_030046a8->data, gPerfect->campaignID)) {
             switch (giftType) {
                 case CAMPAIGN_GIFT_SONG:
                     save_studio_song(giftID, -1, 1, 0);
@@ -72,12 +72,12 @@ void perfect_scene_start(void *sVar, s32 dArg) {
                     break;
 
                 case CAMPAIGN_GIFT_READING_MATERIAL:
-                    D_030046a8->data.readingMaterialUnlocked[giftID] = TRUE;
+                    set_reading_material_unlocked(&D_030046a8->data, giftID, TRUE);
                     break;
             }
 
             D_030046a8->data.totalPerfects++;
-            D_030046a8->data.campaignsCleared[gPerfect->campaignID] = TRUE;
+            set_campaign_cleared(&D_030046a8->data, gPerfect->campaignID, TRUE);
 
             if (D_030046a8->data.totalPerfects == TOTAL_PERFECT_CAMPAIGNS) {
                 unlock_all_unassigned_campaign_gift_songs();
@@ -85,7 +85,7 @@ void perfect_scene_start(void *sVar, s32 dArg) {
             }
 
             cafe_session_add_perfect_level(get_level_id_from_grid_xy(D_030046a8->data.recentLevelX, D_030046a8->data.recentLevelY));
-            results_save_to_cart(LEVEL_STATE_NULL);
+            results_save_to_cart(LEVEL_STATE_PERFECT);
         }
     } else {
         gPerfect->campaignID = 0;
@@ -127,11 +127,13 @@ void perfect_scene_start(void *sVar, s32 dArg) {
         strcat(gPerfect->string, "Parece que aun te quedan " "\0021" "\0011"); // There are still...
         strcat(gPerfect->string, count);
         if (campaignsLeft > 1) {
-            strcat(gPerfect->string, "" "\0020" "\0010" " regalos.\n" // ...gifts
+            strcat(gPerfect->string, "Parece que aun te quedan " "\0021" "\0011"); // There are still...
+            strcat(gPerfect->string, count);
+            strcat(gPerfect->string, "" "\0020" "\0010" "regalos.\n" // ...gifts
                                          "Sigue dandolo todo!"); // left to get. Keep going!
         } else {
-            strcat(gPerfect->string, "" "\0020" "\0010" " regalos.\n" // ...gift
-                                         "Sigue dandolo todo!"); // left to get. Keep going!
+            strcat(gPerfect->string, "Solo te queda " "\0021" "\0011" "un " "\0020" "\0010" "regalo.\n" // ...gift
+                                         "Yo se que puedes!"); // left to get. Keep going!
         }
     } else {
         strcat(gPerfect->string,"\0021" "\0011" "Conseguiste todos los regalos!" "\0020" "\0010" "\n"); // You finally got them all!

@@ -60,6 +60,8 @@ enum SaveEditorMemberIdx {
     SE_MBR_CURRENT_FLOW,
     SE_MBR_UNK_B0,
     SE_MBR_ADVANCE_FLAGS,
+    SE_MBR_EXTRA_VERSION,
+    SE_MBR_EXTRA_GAME_FLAGS,
     SE_MBR_TOTAL_SONGS,
     SE_MBR_UNK_B3,
     SE_MBR_STUDIO_SONGS,
@@ -110,7 +112,7 @@ enum SaveEditorLine {
     SE_LINE_FLAG_5  = 8,
     SE_LINE_FLAG_6  = 9,
     SE_LINE_FLAG_7  = 10,
-    SE_LINE_COUNT   = 11
+    SE_LINE_COUNT
 };
 
 struct SaveEditorSceneData {

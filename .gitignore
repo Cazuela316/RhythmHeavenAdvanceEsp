@@ -11,7 +11,10 @@ tools/agbcc/*
 *.sav
 *.dump
 *.bps
-*.reapeaks
 *.Identifier
+.reapeaks
 .vscode/*
 ctx.c
+
+# my handy graphics tool
+bitesthedust.py

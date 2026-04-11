@@ -377,7 +377,7 @@ void cafe_print_dialogue(void) {
                     continue;
                 }
 
-                switch (D_030046a8->data.levelStates[activity->levelID]) {
+                switch (get_level_state(&D_030046a8->data, activity->levelID)) {
                     case LEVEL_STATE_OPEN:
                         if ((activity->totalStalePlays >= D_030046a8->data.minFailsForBaristaHelp)
                           && barista_can_clear_level(activity->levelID)) {
@@ -393,7 +393,7 @@ void cafe_print_dialogue(void) {
 
                     case LEVEL_STATE_HAS_MEDAL:
                         if ((D_030046a8->data.totalPerfects < TOTAL_PERFECT_CAMPAIGNS)
-                          && !D_030046a8->data.campaignsCleared[get_campaign_from_level_id(activity->levelID)]
+                          && !get_campaign_cleared(&D_030046a8->data, get_campaign_from_level_id(activity->levelID))
                           && (activity->totalStalePlays > 2)) {
                             topic = CAFE_TOPIC_TROUBLE_CLEARING_CAMPAIGN;
                         }

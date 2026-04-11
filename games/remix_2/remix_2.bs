@@ -846,7 +846,9 @@ script script_remix_2_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
+    #ifdef PLUS
     play_sfx s_rat_squeak_seqData
+    #endif
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -898,7 +900,9 @@ script script_remix_2_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
+    #ifdef PLUS
     play_sfx s_rat_squeak_seqData
+    #endif
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -970,7 +974,9 @@ script script_remix_2_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
+    #ifdef PLUS
     play_sfx s_rat_squeak_seqData
+    #endif
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -1013,7 +1019,9 @@ script script_remix_2_main
     rest 6
     rat_race_event0D 2
     rat_race_event01 2
+    #ifdef PLUS
     play_sfx s_rat_squeak_seqData
+    #endif
     spawn_cue CUE_DASH
     rest 12
     rest 6
@@ -1085,7 +1093,9 @@ script script_remix_2_main
     sneaky_spirits_wind_sfx_enabled TRUE
     sneaky_spirits_set_ghost_height 256
     sneaky_spirits_show_ghost 0
+    #ifdef PLUS
     sneaky_spirits_print_text D_0806801F
+    #endif
     beat_anim
     rest 24
     sneaky_spirits_set_ghost_height 192

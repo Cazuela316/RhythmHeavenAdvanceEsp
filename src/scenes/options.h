@@ -11,12 +11,14 @@ enum OptionsPageEnum {
 };
 
 enum OptionsBitmapEntryEnum {
+    OPTIONS_BITMAP_NON_JP_SFX,
+    OPTIONS_BITMAP_NON_JP_MUSIC,
 #ifdef RUMBLE
     OPTIONS_BITMAP_RUMBLE,
 #endif
     OPTIONS_BITMAP_SKIP_DISCLAIMER,
     OPTIONS_BITMAP_ALT_GAME_SELECT_MUSIC,
-    OPTIONS_BITMAP_TOTAL
+    OPTIONS_BITMAP_TOTAL,
 };
 
 enum OptionsSceneStatesEnum {
@@ -60,7 +62,7 @@ enum OptionsWarningEnum {
 #define gOptionsMenu ((struct OptionsSceneData *)gCurrentSceneData)
 
 #define OPTIONS_BITMAP_VISIBLE_ROWS 3
-#define OPTIONS_BITMAP_LINE_SPRITE_COUNT (OPTIONS_BITMAP_VISIBLE_ROWS + 1)
+#define OPTIONS_BITMAP_LINE_SPRITE_COUNT (OPTIONS_BITMAP_VISIBLE_ROWS + 2)
 #define OPTIONS_BITMAP_LINE_CENTER_INDEX 1
 #define OPTIONS_BITMAP_LINE_START_Y 40
 #define OPTIONS_BITMAP_LINE_SPACING_Y 20
@@ -104,7 +106,7 @@ struct OptionsSceneData {
     u8 bitmapTopIndex;
     s16 bitmapCursorY;
     s16 bitmapCursorTargetY;
-    char bitmapLineBuffer[OPTIONS_BITMAP_LINE_BUFFER_SIZE];
+    char bitmapLineBuffer[OPTIONS_BITMAP_LINE_SPRITE_COUNT][OPTIONS_BITMAP_LINE_BUFFER_SIZE];
 };
 
 

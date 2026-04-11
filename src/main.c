@@ -16,7 +16,7 @@ static u8 D_03000080;
 static struct Scene *D_03000084;
 static s32 D_03000088;
 
-static u8 sIsBadFlashCart = 0;
+COMMON_DATA u8 sIsBadFlashCart = 0;
 
 #ifdef DEBUG
 #define INITIAL_SCENE &scene_debug_menu
@@ -72,11 +72,9 @@ void func_08000224(void) {
 	set_playtest_save_data();
 #endif
 	flush_save_buffer_to_sram_backup();
-	
+
 	// Initialize disclaimer flag from save data
-	if (CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_SEEN_DISCLAIMER)) {
-		haveSeenDisclaimer = TRUE;
-	}
+	haveSeenDisclaimer = CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_SEEN_DISCLAIMER);
 	
 	set_sound_mode(D_030046a8->data.unk294[8]); // Set DirectSound Mode (Stereo/Mono)
 	set_scene_object_current_text_id(scene_get_default_text_id());
@@ -86,7 +84,6 @@ void func_08000224(void) {
 	func_080091d8();
 	D_03004498 = TRUE;
 }
-
 
 void agb_main(void) {
 	REG_WAITCNT = (WAITCNT_SRAM_8
@@ -112,7 +109,7 @@ void agb_main(void) {
 	REG_IME = 0;
 
 	D_03004498 = FALSE;
-
+    
 	init_ewram();
 	func_08000224();
 	debug_menu_scene_init_memory();
@@ -122,9 +119,6 @@ void agb_main(void) {
 
 	REG_DISPSTAT = 8;
 	REG_IE = (INTERRUPT_CART | INTERRUPT_DMA2 | INTERRUPT_TIMER3 | INTERRUPT_VBLANK
-#ifdef RUMBLE
-		| INTERRUPT_COMM
-#endif
 	);
 	REG_IF = 0xFFFF;
 	REG_IME = 1;
@@ -144,6 +138,7 @@ void agb_main(void) {
 
 	while (TRUE) {
 		func_080013a8();
+		update_save_buffer_sram_writes();
 		get_agb_random_var();
 		update_key_listener();
 		#ifdef RUMBLE

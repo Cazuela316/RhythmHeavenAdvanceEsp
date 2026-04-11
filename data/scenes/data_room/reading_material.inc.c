@@ -1,5 +1,7 @@
+#include "reading_materials.h"
+
 // [D_089d7e74] Reading Material Table
-struct ReadingMaterial reading_material_table[] = {
+struct ReadingMaterial reading_material_table[TOTAL_READING_MATERIALS] = {
     /* WELCOME ("Rhythm Tengoku Welcome") */ {
         /* TITLE ---------------------------------------------------------- */
             "Bienvenida",
@@ -1046,6 +1048,85 @@ struct ReadingMaterial reading_material_table[] = {
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_haiku_gfx_table,
             /* BGM */ &reading_style_haiku_bgm
+        /* ---------------------------------------------------------------- */
+    },
+
+    /* READING_MATERIAL_CREDITS */ {
+        /* TITLE ---------------------------------------------------------- */
+            "Credits",
+        /* BODY ----------------------------------------------------------- */
+            "This is a temporary, unlocked after Karate Man EX!,\n"
+            "credits reading material for the\n"
+            "Rhythm Heaven Advance project.\n"
+            "\n"
+            "I implemented this to see if its possible and if the\n"
+            "system is working correctly!\n"
+            "\n"
+            "For the actual system, I want it to be after Remix 1 EX!\n"
+            "And for the writing to be (not to spoil it) unique\n"
+            "But for now though, here are the proper credits for all\n"
+            "the incredible people who contributed to this project:\n"
+            "\n"
+            "Asset Assembly:\n"
+            "+ SkyeStage\n"
+            "+ Cash Banooka\n"
+            "+ geometricentric\n"
+            "+ somethingAccurate\n"
+            "+ TinyCastleGuy\n"
+            "+ The Eggo55\n"
+            "+ Vincells\n"
+            "+ WindowsTiger\n"
+            "+ Kievit\n"
+            "+ NotWario\n"
+            "+ amdree\n"
+            "+ patataofcourse\n"
+            "+ Nate Candles\n"
+            "\n"
+            "Graphic Design:\n"
+            "+ Tailx\n"
+            "+ vincells\n"
+            "+ Borists\n"
+            "\n"
+            "Main Programming:\n"
+            "+ Itaific\n"
+            "+ ShaffySwitcher\n"
+            "\n"
+            "Coding Contributions:\n"
+            "+ Deni_iguess\n"
+            "+ patataofcourse\n"
+            "+ Arthurtilly\n"
+            "+ Estexnt\n"
+            "+ Nibblez\n"
+            "+ Conhlee\n"
+            "+ MissKnowledge\n"
+            "\n"
+            "\n"
+            "Translation and Localization:\n"
+            "+ Mizuka Lover\n"
+            "+ ShaffySwitcher\n"
+            "+ somethingAccurate\n"
+            "+ patataofcourse\n"
+            "\n"
+            "Localization Support:\n"
+            "+ Cash Banooka\n"
+            "+ SkyStage\n"
+            "+ RedRobocon\n"
+            "+ ThisIsMyUsername\n"
+            "\n"
+            "SFX:\n"
+            "+ Rhythm Heaven Megamix\n"
+            "+ Cherryberryfaygo\n"
+            "+ Nabix and all of his siblings\n"
+            "\n"
+            "Bug Testing:\n"
+            "Everyone on the Rhythm Heaven Advance discord!\n"
+            "with special mention to nwqol\n"
+            "\n"
+            "Thank you all for your hard work!\n"
+            "Rhythm Heaven Advance exists because of you!\n",
+        /* STYLE ---------------------------------------------------------- */
+            /* GFX */ reading_style_mail_gfx_table,
+            /* BGM */ &reading_style_mail_bgm
         /* ---------------------------------------------------------------- */
     }
 };

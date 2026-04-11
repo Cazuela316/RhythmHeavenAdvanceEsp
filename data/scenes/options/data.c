@@ -53,18 +53,6 @@ const char options_data_clear_confirm_text[] =
         "\0021" "\0011" "\001C" "Si\n"
         "No";
 
-
-// [D_089cfb14] Option Descriptions
-    /* -------------------------------- */
-        // Sound Mode
-        // <Stereo>  For headphones, Nintendo DS, etc.
-        // <Mono>  For GBAs without headphones.
-    /* -------------------------------- */
-        // Clear Save Data
-        // Erase progress, gifts, drum lessons,
-        // <everything>! Think about it!
-    /* -------------------------------- */
-
 const char *options_desc_text[] = {
     /* SOUND MODE ------------------------------------- */
         "\0023" "\0013" "\001C" "Modo de sonido\n"
@@ -78,6 +66,8 @@ const char *options_desc_text[] = {
 };
 
 const char *advance_options_label_text[] = {
+    "ÇrÇèÇïÇéÇÑÅ@ÇdÇÜÇÜÇÖÇÉÇîÇì",
+    "ÇlÇïÇìÇâÇÉ",
 #ifdef RUMBLE
     "ÇuÇâÇÇÇíÇÅÇÉÇâÇæÇé",
 #endif
@@ -86,6 +76,14 @@ const char *advance_options_label_text[] = {
 };
 
 const char *advance_options_desc_text[] = {
+    /* NON-JP SFX ------------------------------------- */
+        "\0023" "\0013" "\001C" "Sound Effects\n"
+        "\0024" "\0011" "\001L" "English   " "\0021" "Use the localized sound effects.\n"
+        "\0024" "\0011" "\001L" "Japanese  " "\0021" "Use the original sound effects.",
+    /* NON-JP MUSIC ----------------------------------- */
+        "\0023" "\0013" "\001C" "Music\n"
+        "\0024" "\0011" "\001L" "English   " "\0021" "Use the localized music.\n"
+        "\0024" "\0011" "\001L" "Japanese  " "\0021" "Use the original music.",
     /* RUMBLE ----------------------------------------- */
 #ifdef RUMBLE
         "\0023" "\0013" "\001C" "Vibraciáin\n"

@@ -458,6 +458,7 @@ script script_remix_8_main
     rest 24
     print_text_f 3
     #endif
+    beat_anim
     rest 24
     clear_text_f
     spawn_cue CUE_ROCK
@@ -525,13 +526,13 @@ script script_remix_8_main
     rest 24
     beat_anim
     rest 22
-    play_sfx s_space_ikeo_turn_seqData
+    play_sfx_localized s_space_ikeo_turn_seqData, s_space_ikeo_turn_en_seqData
     rest 2
     space_dance_event00 3
     spawn_cue CUE_TURN_RIGHT
     beat_anim
     rest 22
-    play_sfx s_space_ikeo_right_seqData
+    play_sfx_localized s_space_ikeo_right_seqData, s_space_ikeo_right_en_seqData
     rest 2
     space_dance_event00 0
     beat_anim
@@ -585,7 +586,9 @@ script script_remix_8_main
     rest 24
     marching_orders_event01
     play_sfx s_guntai_v_migi_seqData
+    #ifdef PLUS
     print_text_f D_0806aa51
+    #endif
     spawn_cue CUE_TURN_RIGHT
     rest 24
     marching_orders_event00 4
@@ -609,7 +612,9 @@ script script_remix_8_main
     rest 24
     marching_orders_event01
     play_sfx s_guntai_v_migi_jp_seqData
+    #ifdef PLUS
     print_text_f D_0806aa51
+    #endif
     spawn_cue CUE_TURN_RIGHT
     rest 24
     marching_orders_event00 4
