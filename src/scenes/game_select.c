@@ -288,9 +288,9 @@ void start_campaign_notice(s32 id) {
     string = notice->text;
     memcpy(string, "\001C" "Si consigues un perfecto en \n\"", 45); // [Right now]
     strcat(string, level->name); // "<game_name>"
-    strcat(string, "\"\nPodr‡cs ganar:\n"); // Get a perfect on this
+    strcat(string, "\"\nPodr‡cs ganar:\n \""); // Get a perfect on this
     if(!isSpecialSong) {
-        strcat(string, "\""); // "
+        strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"; // "
     }
     if (isSong) {
         if(isSpecialSong) {
@@ -302,7 +302,6 @@ void start_campaign_notice(s32 id) {
     if (giftType == CAMPAIGN_GIFT_DRUM_KIT || giftType == CAMPAIGN_GIFT_READING_MATERIAL) {
         strcat(string, "\" como regalo!"); // received as a present!!
     }
-    strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
     text_printer_set_string(notice->printer, string);
 
     sprite_set_visible(gSpriteHandler, gGameSelect->selectionBorderSprite, FALSE);
@@ -2217,7 +2216,7 @@ void game_select_process_info_pane(void) {
                 sprite_set_origin_x_y(gSpriteHandler, gGameSelect->infoPaneName, &bgOfs->x, &bgOfs->y);
                 sprite_set_visible(gSpriteHandler, gGameSelect->infoPaneRank, TRUE);
                 sprite_set_origin_x_y(gSpriteHandler, gGameSelect->infoPaneRank, &bgOfs->x, &bgOfs->y);
-                sprite_set_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, 187, 112);
+                sprite_set_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, 180, 112);
 
                 campaign = get_campaign_from_grid_xy(gGameSelect->cursorX, gGameSelect->cursorY);
                 if ((campaign >= 0) && get_campaign_cleared(&D_030046a8->data, campaign)) {
@@ -2235,7 +2234,7 @@ void game_select_process_info_pane(void) {
                 #ifdef PLUS
                 if (gGameSelect->infoPaneLevelData->flags & LEVEL_DATA_FLAG_NO_PRACTICE) {
                     sprite_set_visible(gSpriteHandler, gGameSelect->noPracticeSprite, TRUE);
-                    sprite_set_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, 187, 115);
+                    sprite_set_x_y(gSpriteHandler, gGameSelect->perfectClearedSprite, 180, 115);
                     text_printer_set_line_spacing(gGameSelect->infoPaneDesc, 14);
                     text_printer_set_x_y(gGameSelect->infoPaneDesc, 129, 47);
                 }

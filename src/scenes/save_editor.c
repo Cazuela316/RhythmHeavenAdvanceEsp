@@ -10,7 +10,7 @@ static const struct SaveEditorFlag sAdvanceFlags[] = {
     { "Use. Alt GS Music",       1 },
     { "Disclaimer Visto",         2 },
     { "Disclaimer Saltado",         3 },
-    { "Desactivar Vibracion"         4 },
+    { "Desactivar Vibracion",         4 },
     { "Non-JP Sound Effects",    5 },
     { "Non-JP Music",            6 },
     END_OF_FLAG

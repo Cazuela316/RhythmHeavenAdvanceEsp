@@ -73,10 +73,10 @@ static void options_scene_refresh_classic_visuals(void) {
 static const char *options_scene_bitmap_get_value(s32 entry) {
     switch (entry) {
         case OPTIONS_BITMAP_NON_JP_SFX:
-            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_NON_JP_SFX) ? "ÇdÇéÇáÇåÇâÇìÇà" : "ÇiÇÅÇêÇÅÇéÇÖÇìÇÖ";
+            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_NON_JP_SFX) ? "ÇhÇéÇáÇåÇÖÇì" : "ÇiÇÅÇêÇèÇéÇÖÇì";
 
         case OPTIONS_BITMAP_NON_JP_MUSIC:
-            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_NON_JP_MUSIC) ? "ÇdÇéÇáÇåÇâÇìÇà" : "ÇiÇÅÇêÇÅÇéÇÖÇìÇÖ";
+            return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_NON_JP_MUSIC) ? "ÇhÇéÇáÇåÇÖÇì" : "ÇiÇÅÇêÇèÇéÇÖÇì";
 #ifdef RUMBLE
         case OPTIONS_BITMAP_RUMBLE:
             return CHECK_ADVANCE_FLAG(D_030046a8->data.advanceFlags, ADVANCE_FLAG_DISABLE_RUMBLE) ? "ÇmÇè" : "ÇrÇâ";

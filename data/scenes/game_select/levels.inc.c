@@ -881,11 +881,11 @@ struct LevelData level_data_table[] = {
     },
     /* KARATE_MAN */ {
         /* Entry Scene   */ &scene_karate_man_extra,
-        /* Level Name    */ "Karate Man",
-        /* Level Desc.   */ "We've increased the\n"
-                            "speed! Do your best,\n"
-                            "as we throw more stuff\n"
-                            "for you to punch.",
+        /* Level Name    */ "Karate Killo EX",
+        /* Level Desc.   */ "ˆ¿Subimos la\n"
+                            "velocidad! ˆ¿Golpea\n"
+                            "sin flaquear de lo\n"
+                            "que arrojemos!",
         /* Level Icon    */ 54,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_karate_man_extra_gfx_tables,
@@ -898,10 +898,11 @@ struct LevelData level_data_table[] = {
     },
     /* RHYTHM_TWEEZERS */ {
         /* Entry Scene   */ &scene_rhythm_tweezers_extra,
-        /* Level Name    */ "Rhythm Tweezers",
-        /* Level Desc.   */ "My roots are showing!\n"
-                            "Don't let the speed trip\n"
-                            "you up! Pluck them off!\n",
+        /* Level Name    */ "Pinzas R‡etmicas EX",
+        /* Level Desc.   */ "ˆ¿Mis ra‡eces volvieron\n"
+                            "a crecer!\n"
+                            "ˆ¿Ignora la velocidad,\n"
+                            "arr‡cncalas de nuevo!",
         /* Level Icon    */ 55,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_extra_gfx_tables,
@@ -914,11 +915,11 @@ struct LevelData level_data_table[] = {
     },
     /* MARCHING_ORDERS */ {
         /* Entry Scene   */ &scene_marching_orders_extra,
-        /* Level Name    */ "Marching Orders",
-        /* Level Desc.   */ "Ready, march!\n"
-                            "This mission will require\n"
-                            "quick marching, so stay\n"
-							"focused!",
+        /* Level Name    */ "Marcha Animosa EX",
+        /* Level Desc.   */ "ˆ¿Listas, marchen!\n"
+                            "ˆ¿Ya no tendr‡Q piedad!\n"
+                            "ˆ¿Conc‡Qntrense o\n"
+							"quedan fuera!",
         /* Level Icon    */ 56,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_marching_orders_extra_gfx_tables,
@@ -931,11 +932,11 @@ struct LevelData level_data_table[] = {
     },
     /* SPACEBALL */ {
         /* Entry Scene   */ &scene_spaceball_extra,
-        /* Level Name    */ "Spaceball",
-        /* Level Desc.   */ "Ignore the camera's\n"
-                            "zooms! Make the ball\n"
-                            "zoom away!\n"
-                            "Don't lose to the speed!",
+        /* Level Name    */ "Spaceb‡il EX",
+        /* Level Desc.   */ "ˆ¿Ignora los zooms!\n"
+                            "ˆ¿Batea con fuerza!\n"
+                            "ˆ¿Que la velocidad\n"
+                            "no te supere!",
         /* Level Icon    */ 57,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_spaceball_extra_gfx_tables,
@@ -948,11 +949,11 @@ struct LevelData level_data_table[] = {
     },
     /* CLAPPY_TRIO */ {
         /* Entry Scene   */ &scene_clappy_trio_extra,
-        /* Level Name    */ "The Clappy Trio",
-        /* Level Desc.   */ "Clap your hands in\n"
-                            "order! You're the third\n"
-                            "clapper. Watch out\n"
-							"for your fast friends!",
+        /* Level Name    */ "Tr‡eo garboso EX",
+        /* Level Desc.   */ "ˆ¿Aplaudan en orden!\n"
+                            "Eres el tercero.\n"
+                            "ˆ¿Atento a tus dos\n"
+							"veloces amigos!",
         /* Level Icon    */ 58,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_clappy_trio_extra_gfx_tables,
@@ -965,11 +966,11 @@ struct LevelData level_data_table[] = {
     },
     /* REMIX_1 */ {
         /* Entry Scene   */ &scene_remix_1_extra,
-        /* Level Name    */ "Extra Remix",
-        /* Level Desc.   */ "Let's test your skills!\n"
-                            "This remix is faster\n"
-                            "than ever!\n"
-                            "Think you can beat it?",
+        /* Level Name    */ "Remix Extra",
+        /* Level Desc.   */ "ˆ¿Sorpresa!\n"
+                            "ˆ¿Este remix es tan\n"
+                            "rapido que marea!\n"
+                            "ˆ¾P‡idras con ‡Ql?",
         /* Level Icon    */ 59,
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix1_extra_gfx_tables,

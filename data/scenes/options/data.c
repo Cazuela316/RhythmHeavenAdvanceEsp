@@ -66,8 +66,8 @@ const char *options_desc_text[] = {
 };
 
 const char *advance_options_label_text[] = {
-    "ÇrÇèÇïÇéÇÑÅ@ÇdÇÜÇÜÇÖÇÉÇîÇì",
-    "ÇlÇïÇìÇâÇÉ",
+    "ÇdÇÜÇÖÇÉÇîÇèÇìÅ@ÇÑÇÖÅ@ÇìÇèÇéÇâÇÑÇè",
+    "ÇlÇ»ÇìÇâÇÉÇÅ",
 #ifdef RUMBLE
     "ÇuÇâÇÇÇíÇÅÇÉÇâÇæÇé",
 #endif
@@ -77,13 +77,13 @@ const char *advance_options_label_text[] = {
 
 const char *advance_options_desc_text[] = {
     /* NON-JP SFX ------------------------------------- */
-        "\0023" "\0013" "\001C" "Sound Effects\n"
-        "\0024" "\0011" "\001L" "English   " "\0021" "Use the localized sound effects.\n"
-        "\0024" "\0011" "\001L" "Japanese  " "\0021" "Use the original sound effects.",
+        "\0023" "\0013" "\001C" "Efectos de sonido\n"
+        "\0024" "\0011" "\001L" "Ingles   " "\0021" "Usar los efectos de sonido localizados.\n"
+        "\0024" "\0011" "\001L" "Japones  " "\0021" "Usar los efectos de sonido originales.",
     /* NON-JP MUSIC ----------------------------------- */
-        "\0023" "\0013" "\001C" "Music\n"
-        "\0024" "\0011" "\001L" "English   " "\0021" "Use the localized music.\n"
-        "\0024" "\0011" "\001L" "Japanese  " "\0021" "Use the original music.",
+        "\0023" "\0013" "\001C" "Mà¶sica\n"
+        "\0024" "\0011" "\001L" "Ingles   " "\0021" "Usar la mà¶sica localizada.\n"
+        "\0024" "\0011" "\001L" "Japones  " "\0021" "Usar la mà¶sica original.",
     /* RUMBLE ----------------------------------------- */
 #ifdef RUMBLE
         "\0023" "\0013" "\001C" "Vibraciáin\n"

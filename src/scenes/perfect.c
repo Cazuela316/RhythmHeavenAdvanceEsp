@@ -124,12 +124,11 @@ void perfect_scene_start(void *sVar, s32 dArg) {
     strcat(gPerfect->string, perfect_gift_directive_text[giftType]);
 
     if (campaignsLeft > 0) {
-        strcat(gPerfect->string, "Parece que aun te quedan " "\0021" "\0011"); // There are still...
-        strcat(gPerfect->string, count);
+        strcat(gPerfect->string, "\0021" "\0011"); // There are still...
         if (campaignsLeft > 1) {
             strcat(gPerfect->string, "Parece que aun te quedan " "\0021" "\0011"); // There are still...
             strcat(gPerfect->string, count);
-            strcat(gPerfect->string, "" "\0020" "\0010" "regalos.\n" // ...gifts
+            strcat(gPerfect->string, " " "\0020" "\0010" "regalos.\n" // ...gifts
                                          "Sigue dandolo todo!"); // left to get. Keep going!
         } else {
             strcat(gPerfect->string, "Solo te queda " "\0021" "\0011" "un " "\0020" "\0010" "regalo.\n" // ...gift
