@@ -949,7 +949,7 @@ struct LevelData level_data_table[] = {
     },
     /* CLAPPY_TRIO */ {
         /* Entry Scene   */ &scene_clappy_trio_extra,
-        /* Level Name    */ "Tr‡eo garboso EX",
+        /* Level Name    */ "Tr‡eo saleroso EX",
         /* Level Desc.   */ "ˆ¿Aplaudan en orden!\n"
                             "Eres el tercero.\n"
                             "ˆ¿Atento a tus dos\n"
