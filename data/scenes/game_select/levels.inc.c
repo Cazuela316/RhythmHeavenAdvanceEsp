@@ -78,7 +78,8 @@ struct LevelData level_data_table[] = {
             /* TRY_AGAIN */ "Producir estas cosas en masa es bastante dificil...",
             /* OK        */ "ˆ¿Ya le estoy agarrando la mano a estas cosas rojas!",
             /* SUPERB    */ "ˆ¿Hemos producido m‡cs de lo que podemos reponer!"
-        }
+        },
+        /* Level Flags   */ LEVEL_DATA_FLAG_NO_PRACTICE
     },
     /* POLYRHYTHM_2 */ {
         /* Entry Scene   */ &scene_polyrhythm_2,
@@ -157,7 +158,8 @@ struct LevelData level_data_table[] = {
             /* TRY_AGAIN */ "ˆ¾ˆ¿Por qu‡Q tienes que ser tan peludo!?",
             /* OK        */ "ˆ¾Por qu‡Q solo nuestros vegetales tienen pelo...?",
             /* SUPERB    */ "ˆ¿Que refrescante! ˆ¿Hasta el aire esta fresco!"
-        }
+        },
+        /* Level Flags   */ LEVEL_DATA_FLAG_NO_PRACTICE
     },
     /* SICK_BEATS */ {
         /* Entry Scene   */ &scene_sick_beats,
@@ -493,7 +495,8 @@ struct LevelData level_data_table[] = {
             /* TRY_AGAIN */ "Nuestros espiritus han sido derrotados...",
             /* OK        */ "ˆ¿Aun nos queda un largo camino!",
             /* SUPERB    */ "ˆ¿Tres hurras para nuestros tajadores estrella!"
-        }
+        },
+        /* Level Flags   */ LEVEL_DATA_FLAG_NO_PRACTICE
     },
     /* RAT_RACE */ {
         /* Entry Scene   */ &scene_rat_race,

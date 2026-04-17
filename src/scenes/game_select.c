@@ -112,11 +112,7 @@ void get_all_uncleared_campaigns(void) {
 
     notice->totalAvailable = 0;
 
-#ifdef TEMPOUP
-    for (i = 0; i < TOTAL_PERFECT_CAMPAIGNS; i++) {
-#else
-    for (i = 0; i < TOTAL_BASE_PERFECT_CAMPAIGNS; i++) {
-#endif
+    for (i = 0; i < ACTIVE_AVAILABLE_CAMPAIGNS; i++) {
         if (!get_campaign_cleared(&D_030046a8->data, i)) {
             if (get_level_state_from_grid_xy(gift->x, gift->y) == LEVEL_STATE_HAS_MEDAL) {
                 notice->indexes[notice->totalAvailable] = i;
@@ -140,13 +136,13 @@ void start_new_campaign(void) {
     }
 
     playsUntilNewCampaign = 0;
-    if (D_030046a8->data.totalMedals < MAX_MEDALS) {
+    if (D_030046a8->data.totalMedals < BASE_CAMPAIGN_MEDAL_GATE) {
         playsUntilNewCampaign = 1;
     }
-    if (D_030046a8->data.totalMedals < (MAX_MEDALS - 3)) {
+    if (D_030046a8->data.totalMedals < (BASE_CAMPAIGN_MEDAL_GATE - 3)) {
         playsUntilNewCampaign = agb_random(2) + 2;
     }
-    if (D_030046a8->data.totalMedals < (MAX_MEDALS - 18)) {
+    if (D_030046a8->data.totalMedals < (BASE_CAMPAIGN_MEDAL_GATE - 18)) {
         playsUntilNewCampaign = agb_random(4) + 3;
     }
 
@@ -1203,6 +1199,9 @@ void game_select_read_inputs_sub2(void) {
 void game_select_read_inputs(void) {
     struct LevelData *levelData;
     s32 levelState, levelID;
+#ifdef PLUS
+    s32 replayCampaignID;
+#endif
     u32 canHaveCampaign;
 
     if (!game_select_scene_inputs_enabled()) {
@@ -1240,12 +1239,11 @@ void game_select_read_inputs(void) {
                     canHaveCampaign = TRUE;
                     #ifdef PLUS
                     // hold select to replay a cleared campaign level
-                    if(get_campaign_cleared(&D_030046a8->data, get_campaign_from_level_id(levelID)) && (D_03004ac0 & SELECT_BUTTON)) {
-                        D_030046a8->data.campaignState = CAMPAIGN_STATE_ACTIVE;
-                        D_030046a8->data.campaignAttemptsLeft = 1;
-                        gGameSelect->campaignNotice.id = get_campaign_from_level_id(levelID);
-                        gGameSelect->campaignNotice.x = gGameSelect->cursorX;
-                        gGameSelect->campaignNotice.y = gGameSelect->cursorY;
+                    replayCampaignID = get_campaign_from_level_id(levelID);
+                    if ((replayCampaignID >= 0)
+                     && get_campaign_cleared(&D_030046a8->data, replayCampaignID)
+                     && (D_03004ac0 & SELECT_BUTTON)) {
+                        set_current_campaign(replayCampaignID);
                         sReplayingCampaign = TRUE;
                     } else {
                         sReplayingCampaign = FALSE;
@@ -1271,7 +1269,10 @@ void game_select_read_inputs(void) {
             D_030046a8->data.gsCursorY = D_030046a8->data.recentLevelY = gGameSelect->cursorY;
             D_030046a8->data.recentLevelState = LEVEL_STATE_NULL;
 
-            if (canHaveCampaign && (D_030046a8->data.campaignState == CAMPAIGN_STATE_ACTIVE) && (gGameSelect->campaignNotice.id >= 0)) {
+            if (canHaveCampaign
+             && !sReplayingCampaign
+             && (D_030046a8->data.campaignState == CAMPAIGN_STATE_ACTIVE)
+             && (gGameSelect->campaignNotice.id >= 0)) {
                 if ((gGameSelect->cursorX == gGameSelect->campaignNotice.x) && (gGameSelect->cursorY == gGameSelect->campaignNotice.y)) {
                     set_current_campaign(gGameSelect->campaignNotice.id);
                     D_030046a8->data.campaignAttemptsLeft--;
@@ -2274,6 +2275,7 @@ u32 game_select_calculate_flow(u32 *modifierReq, u32 *averageReq) {
     struct TengokuSaveData *saveData = &D_030046a8->data;
     s24_8 completionModifier;
     u32 modifiedScore;
+    u32 clampedGames;
     u32 totalGames = 0;
     u32 totalScore = 0;
     u32 i;
@@ -2291,9 +2293,15 @@ u32 game_select_calculate_flow(u32 *modifierReq, u32 *averageReq) {
         return 0;
     }
 
+    clampedGames = totalGames;
+    if (clampedGames > BASE_CAMPAIGN_MILESTONE_TOTAL) {
+        clampedGames = BASE_CAMPAIGN_MILESTONE_TOTAL;
+    }
+
     // Min = 0.7 (0 levels played)
-    // Max = 1.4 (48 levels played)
-    completionModifier = INT_TO_FIXED((TOTAL_RHYTHM_GAMES + totalGames) * 7) / (TOTAL_RHYTHM_GAMES * 10);
+    // Max = 1.4 (48+ levels played)
+    completionModifier = INT_TO_FIXED((BASE_CAMPAIGN_MILESTONE_TOTAL + clampedGames) * 7)
+                        / (BASE_CAMPAIGN_MILESTONE_TOTAL * 10);
 
     // Min = 0 (0 * 0.7)
     // Max = 1400 (1000 * 1.4)
@@ -3115,7 +3123,7 @@ u32 game_select_try_queue_tempo_up_unlock(u32 startEvents) {
     s32 x, y;
     s32 state;
 
-    if (D_030046a8->data.totalMedals < 48) {
+    if (D_030046a8->data.totalMedals < BASE_CAMPAIGN_MEDAL_GATE) {
         return FALSE;
     }
 
