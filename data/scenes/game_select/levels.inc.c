@@ -34,7 +34,7 @@ struct LevelData level_data_table[] = {
     },
     /* CLAPPY_TRIO */ {
         /* Entry Scene   */ &scene_clappy_trio,
-        /* Level Name    */ "Tr‡eo saleroso",
+        /* Level Name    */ "Tr‡eo Saleroso",
         /* Level Desc.   */ "ˆ¿Aplaudan en orden!\n"
                             "Eres el tercero.\n"
                             "ˆ¿As‡e que estate atento\n"
@@ -50,7 +50,7 @@ struct LevelData level_data_table[] = {
     },
     /* SNAPPY_TRIO */ {
         /* Entry Scene   */ &scene_snappy_trio,
-        /* Level Name    */ "Tr‡eo garboso",
+        /* Level Name    */ "Tr‡eo Garboso",
         /* Level Desc.   */ "Mira al trio en sus\n"
                             "trajes del Oeste.\n"
                             "ˆ¿Van tan divinos! Lucen\n"
@@ -893,9 +893,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_karate_man_extra_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "The tournament didn't go so well...",
-            /* OK        */ "I may not have won, but I did really well!",
-            /* SUPERB    */ "I won the tournament and took home the gold"
+            /* TRY_AGAIN */ "El torneo no fue tan bien...",
+            /* OK        */ "Pues no gan‡Q, ?pero s‡e que le di pelea!",
+            /* SUPERB    */ "ˆ¿Gan‡Q el torneo y me llev‡Q el oro a casa!"
         },
         /* Level Flags   */ LEVEL_DATA_FLAG_IS_EXTRA | LEVEL_DATA_FLAG_NO_PRACTICE
     },
@@ -910,9 +910,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_extra_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "I can't pluck anything at this speed!",
-            /* OK        */ "These hairs are pretty tough to pluck.",
-            /* SUPERB    */ "Look at those flowers! They're so relaxing..."
+            /* TRY_AGAIN */ "ˆ¿No puedo arrancar nada as‡e de r‡cpido!",
+            /* OK        */ "Estos pelos s‡e que son rebeldes de depilar.",
+            /* SUPERB    */ "ˆ¿Mira esas flores! Qu‡Q relajante..."
         },
         /* Level Flags   */ LEVEL_DATA_FLAG_IS_EXTRA | LEVEL_DATA_FLAG_NO_PRACTICE
     },
@@ -927,9 +927,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_marching_orders_extra_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "MONSTER! Retreat! Retreat!",
-            /* OK        */ "Ah, there's the lost puppy!",
-            /* SUPERB    */ "We rescued the lost puppy! Hooray!"
+            /* TRY_AGAIN */ "ˆ¿MONSTRUO! ˆ¿Retirada! ˆ¿Retirada!",
+            /* OK        */ "ˆ¿Ah, ah‡e est‡c el cachorro perdido!",
+            /* SUPERB    */ "ˆ¿Hemos rescatado al cachorro! ˆ¿Viva!"
         },
         /* Level Flags   */ LEVEL_DATA_FLAG_IS_EXTRA | LEVEL_DATA_FLAG_NO_PRACTICE
     },
@@ -944,15 +944,15 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_spaceball_extra_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Ahhh! Nooooooo!",
-            /* OK        */ "Graaaah!",
-            /* SUPERB    */ "A home run! I did it!"
+            /* TRY_AGAIN */ "ˆ¿Ahhh! ˆ¿Nooooooo!",
+            /* OK        */ "ˆ¿Graaaah!",
+            /* SUPERB    */ "ˆ¿Un home run! ˆ¿Lo logr‡Q!"
         },
         /* Level Flags   */ LEVEL_DATA_FLAG_IS_EXTRA | LEVEL_DATA_FLAG_NO_PRACTICE
     },
     /* CLAPPY_TRIO */ {
         /* Entry Scene   */ &scene_clappy_trio_extra,
-        /* Level Name    */ "Tr‡eo saleroso EX",
+        /* Level Name    */ "Tr‡eo Saleroso EX",
         /* Level Desc.   */ "ˆ¿Aplaudan en orden!\n"
                             "Eres el tercero.\n"
                             "ˆ¿Atento a tus dos\n"
@@ -961,9 +961,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_clappy_trio_extra_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Wait! Don't leave without us!",
-            /* OK        */ "This is one nice space cruise!",
-            /* SUPERB    */ "I've discovered a new planet! Stellar!"
+            /* TRY_AGAIN */ "ˆ¿Esperen! ˆ¿No nos dejen!",
+            /* OK        */ "ˆ¿Pues este s‡e que es un buen crucero espacial!",
+            /* SUPERB    */ "ˆ¿Descubri un nuevo planeta! ˆ¿Garboso!"
         },
         /* Level Flags   */ LEVEL_DATA_FLAG_IS_EXTRA | LEVEL_DATA_FLAG_NO_PRACTICE
     },
@@ -978,9 +978,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix1_extra_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "This is going to take a while...",
-            /* OK        */ "Just a normal chick. Cheep-Cheep!",
-            /* SUPERB    */ "You've grown splendidly! You look downright dignified!"
+            /* TRY_AGAIN */ "Aˆ¦n queda un largo camino...",
+            /* OK        */ "Aˆ¦n eres un lindo pollito. ˆ¿Pio-Pio!",
+            /* SUPERB    */ "ˆ¿Has crecido de maravilla! ˆ¿Pareces hasta un rey!"
         },
         /* Level Flags   */ LEVEL_DATA_FLAG_IS_EXTRA | LEVEL_DATA_FLAG_NO_PRACTICE
     }
