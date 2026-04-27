@@ -138,15 +138,15 @@ static const char *sequence_player_get_song_title(const struct SongHeader *song)
 
 static const char *sequence_player_get_status_text(void) {
     if (gSequencePlayer->activePlayer != NULL && soundplayer_is_playing(gSequencePlayer->activePlayer)) {
-        return "Playing";
+        return "Tocando";
     }
 
     switch (gSequencePlayer->lastAction) {
         case SP_ACTION_PLAY_OK:       return "Play request sent";
-        case SP_ACTION_STOPPED:       return "Stopped";
-        case SP_ACTION_SONG_NULL:     return "Song entry is NULL";
+        case SP_ACTION_STOPPED:       return "Parado";
+        case SP_ACTION_SONG_NULL:     return "La cancion es NULL";
         case SP_ACTION_PLAYER_INVALID:return "Player override is invalid";
-        case SP_ACTION_PLAY_FAILED:   return "Play failed";
+        case SP_ACTION_PLAY_FAILED:   return "Tocar Fallo";
         default:                      return "Idle";
     }
 }
@@ -157,7 +157,7 @@ static void sequence_player_format_option(char *buf, u32 bufSize, u32 optionInde
     switch (optionIndex) {
         case 0:
             snprintf(buf, bufSize, "%s Override Player: %s", marker,
-                    gSequencePlayer->overridePlayer ? "ON" : "OFF");
+                    gSequencePlayer->overridePlayer ? "SI" : "NO");
             break;
 
         case 1:
@@ -167,12 +167,12 @@ static void sequence_player_format_option(char *buf, u32 bufSize, u32 optionInde
             break;
 
         case 2:
-            snprintf(buf, bufSize, "%s Volume: %u/256", marker,
+            snprintf(buf, bufSize, "%s Volumen: %u/256", marker,
                     gSequencePlayer->volume);
             break;
 
         case 3:
-            snprintf(buf, bufSize, "%s Pitch: %+d semitones", marker,
+            snprintf(buf, bufSize, "%s Tono: %+d semitonos", marker,
                     gSequencePlayer->pitch);
             break;
 
@@ -182,7 +182,7 @@ static void sequence_player_format_option(char *buf, u32 bufSize, u32 optionInde
             break;
 
         default:
-            snprintf(buf, bufSize, "%s <invalid option>", marker);
+            snprintf(buf, bufSize, "%s <opcion invalida>", marker);
             break;
     }
 }
@@ -496,9 +496,9 @@ void sequence_player_render_page(void) {
     status = sequence_player_get_status_text();
 
     if (songCount == 0) {
-        snprintf(buf, sizeof(buf), "No valid songs.");
+        snprintf(buf, sizeof(buf), "Sin canciones validas.");
     } else {
-        snprintf(buf, sizeof(buf), "Song [%03u/%03u]", gSequencePlayer->currentSong, songCount - 1);
+        snprintf(buf, sizeof(buf), "Cancion [%03u/%03u]", gSequencePlayer->currentSong, songCount - 1);
     }
     sequence_player_draw_line(SP_LINE_HEADER, 0, buf, 8, 10);
 
@@ -532,12 +532,12 @@ void sequence_player_render_page(void) {
         sequence_player_clear_line(SP_LINE_OPTION_0 + i);
     }
 
-    snprintf(buf, sizeof(buf), "Options %u-%u/%u -- ‡O Up/Down: Scroll", optionTop + 1, optionEnd, SP_TOTAL_OPTIONS);
+    snprintf(buf, sizeof(buf), "Opciones %u-%u/%u -- ‡O Up/Down: Scroll", optionTop + 1, optionEnd, SP_TOTAL_OPTIONS);
     sequence_player_draw_line(SP_LINE_OPTION_4, 0, buf, 8, 120);
 
-    sequence_player_draw_line(SP_LINE_HINT, 0, "‡K/‡L: Song -- ‡O Left/Right: Edit -- ‡M: Play", 8, 134);
+    sequence_player_draw_line(SP_LINE_HINT, 0, "‡K/‡L: Cancion -- ‡O Izquierda/Derecha: Editar -- ‡M: Tocar", 8, 134);
 
-    snprintf(buf, sizeof(buf), "Status: %.32s", status);
+    snprintf(buf, sizeof(buf), "Estado: %.32s", status);
     sequence_player_draw_line(SP_LINE_STATUS, 0, buf, 8, 148);
 }
 
