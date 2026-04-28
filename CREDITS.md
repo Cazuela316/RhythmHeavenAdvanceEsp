@@ -10,6 +10,7 @@
 ## Ediciones Graficas:
 + Cazu ☆
 + Mako
++ Darcy
 + Apolo
 
 ## Edicion de Animaciones:
