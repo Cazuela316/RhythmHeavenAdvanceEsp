@@ -18,6 +18,7 @@
 
 ## Traduccion y Localizacion:
 + Cazu ☆
++ Darcy
 + Apolo
 + Camus
 + Mako
