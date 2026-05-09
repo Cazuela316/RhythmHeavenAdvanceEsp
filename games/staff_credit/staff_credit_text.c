@@ -9,7 +9,7 @@ const char D_08069a48[] = "\0023" "Staff Credits";
 
 const char D_08069a58[] = "\0023" "Producers";
 
-const char D_08069a64[] = "TSUNKUÅâ";
+const char D_08069a64[] = "TsunkuÅâ";
 
 const char D_08069a70[] = "Y. Sakamoto";
 
@@ -77,7 +77,7 @@ const char D_08069bdc[] = "\0023" "Songs";
 
 const char D_08069be4[] = "Ami Tokito";
 
-const char D_08069bf0[] = "Sohshi Tanaka";
+const char D_08069bf0[] = "Soshi Tanaka";
 
 const char D_08069bfc[] = "\0023" "Voice";
 
@@ -157,7 +157,7 @@ const char D_08069da0[] = "S. Terai";
 
 const char D_08069da8[] = "";
 
-const char D_08069dac[] = "(C)2006 Nintendo / J.P. ROOM";
+const char D_08069dac[] = "(C) 2006 Nintendo / J.P ROOM";
 
 const char D_08069dc8[] =
     "Hey! Lo lograstre!";

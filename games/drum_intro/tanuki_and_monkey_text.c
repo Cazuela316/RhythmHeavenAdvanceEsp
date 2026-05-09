@@ -6,28 +6,28 @@
 
 
 const char D_0805dcb8[] =
-    "Boo!\n"
-    "Fin del juego!\n"
-    "Parece que hemos ganado!";
+    "ˆ¿Boo!\n"
+    "ˆ¿Fin del juego!\n"
+    "ˆ¿Parece que hemos ganado!";
 
 const char D_0805dcf0[] = 
     "Intenta retarnos\n"
     "de nuevo,\n"
-    "alguna otra vez!";
+    "ˆ¿alguna otra vez!";
 
 const char D_0805dd04[] =
-    "Perdimos!\n"
-    "Has ganado!";
+    "ˆ¿Perdimos!\n"
+    "ˆ¿Has ganado!";
 
 const char D_0805dd28[] = 
     "Ven a jugar de nuevo\n"
     "con nosotros,\n"
-    "alguna otra vez!";
+    "ˆ¿alguna otra vez!";
 
 const char D_0805dd40[] =
     "\n"
     "\n"
-    "Bienvenido!";
+    "ˆ¿Bienvenido!";
 
 const char D_0805dd50[] =
     "Somos Ponta y Monito.\n"
@@ -36,7 +36,7 @@ const char D_0805dd50[] =
     "a jugar contigo.";
 
 const char D_0805dd90[] =
-    "Esta vez nosotros\n"
+    "ˆ¿Esta vez nosotros\n"
     "daremos las\n"
     "lecciones!";
 
@@ -47,7 +47,7 @@ const char D_0805ddb8[] =
 
 const char D_0805dde0[] =
     "Escucha bien,\n"
-    "y despues repite el patron!";
+    "ˆ¿y despues repite el patron!";
 
 const char D_0805ddfc[] =
     "Ahora, Ponta se unira.\n"
@@ -67,12 +67,12 @@ const char D_0805de88[] =
 
 const char D_0805dea0[] =
     "Este va a ser un poco mas\n"
-    "complicado. Asi que suerte\n"
+    "complicado. ˆ¿Asi que suerte\n"
     "en la de verdad!";
 
 const char D_0805dec0[] =
-    "Muy bien! Preparate!\n"
-    "Es hora de comenzar\n"
+    "ˆ¿Muy bien! ˆ¿Preparate!\n"
+    "ˆ¿Es hora de comenzar\n"
     "nuestra batalla de ritmo!";
 
 const char D_0805def8[] =
@@ -81,5 +81,5 @@ const char D_0805def8[] =
     "patron.";
 
 const char D_0805df28[] =
-    "Que tanto podras\n"
+    "ˆ¾Que tanto podras\n"
     "aguantar?~";

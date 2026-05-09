@@ -5,21 +5,21 @@
 /* Game Text - Mechanical Horse */
 
 
-const char D_0805c3d4[] = "Ｉｎｔｅｎｔａ　ｌａ　Ｌｅｃｃｉだｎ　１　ｄｅ　ｎｕｅｖｏ．";
+const char D_0805c3d4[] = "Intenta la Lecci㌍n 1 de nuevo.";
 
-const char D_0805c3f0[] = "】Ｌｅｃｃｉだｎ　１　ｃｏｍｐｌｅｔａ！";
+const char D_0805c3f0[] = "袷Lecci㌍n 1 completa!";
 
-const char D_0805c40c[] = "Ｉｎｔｅｎｔａ　ｌａ　Ｌｅｃｃｉだｎ　２　ｄｅ　ｎｕｅｖｏ．";
+const char D_0805c40c[] = "Intenta la Lecci㌍n 2 de nuevo.";
 
-const char D_0805c428[] = "】Ｌｅｃｃｉだｎ　２　ｃｏｍｐｌｅｔａ！";
+const char D_0805c428[] = "袷Lecci㌍n 2 completa!";
 
-const char D_0805c444[] = "Ｉｎｔｅｎｔａ　ｌａ　Ｌｅｃｃｉだｎ　３　ｄｅ　ｎｕｅｖｏ．";
+const char D_0805c444[] = "Intenta la Lecci㌍n 3 de nuevo.．";
 
-const char D_0805c460[] = "】Ｌｅｃｃｉだｎ　３　ｃｏｍｐｌｅｔａ！";
+const char D_0805c460[] = "袷Lecci㌍n 3 completa!";
 
-const char D_0805c47c[] = "Ｉｎｔｅｎｔａ　ｌａ　Ｌｅｃｃｉだｎ　４　ｄｅ　ｎｕｅｖｏ．";
+const char D_0805c47c[] = "Intenta la Lecci㌍n 4 de nuevo.";
 
-const char D_0805c498[] = "】Ｌｅｃｃｉだｎ　４　ｃｏｍｐｌｅｔａ！";
+const char D_0805c498[] = "袷Lecci㌍n 4 completa!";
 
 const char D_0805c4b4[] = "Ｓｉｇｕｅ　ｅｌ　ｒｉｔｍｏ　ｄｅ　ｌｏｓ　ｐａｓｏｓ．";
 
