@@ -160,18 +160,18 @@ const char D_08069da8[] = "";
 const char D_08069dac[] = "(C) 2006 Nintendo / J.P ROOM";
 
 const char D_08069dc8[] =
-    "Hey! Lo lograstre!";
+    "ˆ¿Hey! ˆ¿Lo lograstre!";
 
 const char D_08069ddc[] =
-    "S‡e que diste todo!\n"
-    "Y qu‡Q tal? Sientes que tu\n"
+    "ˆ¿S‡e que diste todo!\n"
+    "ˆ¾Y qu‡Q tal? ˆ¾Sientes que tu\n"
     "sentido del ritmo ha mejorado\n"
     "al menos un poquito?";
 
 const char D_08069e24[] =
-    "Aunque aˆ¦n no has terminado!\n"
+    "ˆ¿Aunque aˆ¦n no has terminado!\n"
     "Llegaste a los cr‡Qditos,\n"
-    "pero aˆ¦n quedan m‡cs\n"
+    "ˆ¿pero aˆ¦n quedan m‡cs\n"
     "juegos!";
 
 const char D_08069e78[] =
@@ -182,23 +182,23 @@ const char D_08069e78[] =
 
 const char D_08069ed4[] =
     "\n"
-    "Bien, demosle!";
+    "Bien, ˆ¿demosle!";
 
 const char D_08069ee8[] =
     "\n"
-    "Hey! Hola de nuevo!";
+    "ˆ¿Hey! ˆ¿Hola de nuevo!";
 
 const char D_08069ef8[] =
-    "Que tal te va?\n"
-    "Tu sentido de ritmo\n"
+    "ˆ¾Que tal te va?\n"
+    "ˆ¾Tu sentido de ritmo\n"
     "sigue mejorando?\n"
-    "Espero que si!";
+    "ˆ¿Espero que si!";
 
 const char D_08069f40[] =
     "Sabes, no hay nada\n"
     "mejor que volverte un\n"
     "maestro en un juego.\n"
-    "Que tal si lo haces en este?";
+    "ˆ¾Que tal si lo haces en este?";
 
 const char D_08069f90[] =
     "Como sea, Aqui esta el\n"
@@ -208,4 +208,4 @@ const char D_08069f90[] =
 
 const char D_08069fe4[] =
     "\n"
-    "Bien, demosle!";
+    "Bien, ˆ¿demosle!";
