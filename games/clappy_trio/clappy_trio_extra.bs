@@ -68,8 +68,8 @@ struct clappy_trio_extra_marking_criteria_0
     /* Negative Remark */     .word D_0805ae40
     /* Flags */               .hword CHECK_AVERAGE_HITS | OVERRIDE_COMMENTS | CHECK_AVERAGE_MISSES
     /* Pos: Required Hits */  .hword 0x00 @ 0%
-    /* Neg: Minimum Hits */   .hword 0x80 @ 50%
-    /* Neg: Maximum Misses */ .hword 0x4C @ 30%
+    /* Neg: Minimum Hits */   .hword 0xE6 @ 90%
+    /* Neg: Maximum Misses */ .hword 0x1A @ 10%
 endstruct
 
 struct clappy_trio_extra_marking_criteria_1
