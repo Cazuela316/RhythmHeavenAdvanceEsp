@@ -894,7 +894,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_karate_man_extra_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "El torneo no fue tan bien...",
-            /* OK        */ "Pues no gan‡Q, ?pero s‡e que le di pelea!",
+            /* OK        */ "Pues no gan‡Q, ˆ¿pero s‡e que le di pelea!",
             /* SUPERB    */ "ˆ¿Gan‡Q el torneo y me llev‡Q el oro a casa!"
         },
         /* Level Flags   */ LEVEL_DATA_FLAG_IS_EXTRA | LEVEL_DATA_FLAG_NO_PRACTICE
