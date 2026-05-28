@@ -667,12 +667,11 @@ u32 results_get_negative_comments(void) {
 
         // Convert the first character to lowercase for all the comments except the first one
         // Except for sentences where you don't need to change the capitalization
-        if (i > 0 && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+        if (i > 0 && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z' && !(modifiedComment[0] == 'I' && (modifiedComment[1] == ' ' || modifiedComment[1] == '\'' && modifiedComment[0] == 'ˆ¾' && modifiedComment[0] == 'ˆ¿'))) {
             modifiedComment[0] += 32;
         }
         // equivalente para ! y ? invertidos
-        // TODO(espanol): poner los caracteres que corresponden
-        else if (i > 0 && (modifiedComment[0] == '1' || modifiedComment[0] == '2') && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+        else if (i > 0 && (modifiedComment[0] == 'ˆ¾' || modifiedComment[0] == 'ˆ¿') && modifiedComment[1] >= 'A' && modifiedComment[1] <= 'Z') {
             modifiedComment[1] += 32;
         }
 
@@ -755,25 +754,25 @@ s24_8 results_get_positive_comments(void) {
         
         if (gResults->totalNegativeComments > 0) {
             // Same system as before
-            if (modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+            if (modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z' && !(modifiedComment[0] == 'I' && (modifiedComment[1] == ' ' || modifiedComment[1] == '\'' && modifiedComment[0] == 'ˆ¾' && modifiedComment[0] == 'ˆ¿'))) {
                 modifiedComment[0] += 32;
             }
-            // TODO(espanol): poner los caracteres que corresponden
-            else if ((modifiedComment[0] == '1' || modifiedComment[0] == '2') && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+            
+            else if ((modifiedComment[0] == 'ˆ¾' || modifiedComment[0] == 'ˆ¿') && modifiedComment[1] >= 'A' && modifiedComment[1] <= 'Z'){
                 modifiedComment[1] += 32;
             }
 
-            memcpy(commentsText, "...pero ", 8);
+            memcpy(commentsText, "...pero ", 9);
             strcat(commentsText, modifiedComment);
             anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_RIGHT, 3);
             palette = EXTRA_COMMENT_PALETTE;
         } else {
             // Same system as before
-            if (totalPassed > 0 && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+            if (totalPassed > 0 && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z' && !(modifiedComment[0] == 'I' && (modifiedComment[1] == ' ' || modifiedComment[1] == '\'' && modifiedComment[0] == 'ˆ¾' && modifiedComment[0] == 'ˆ¿'))) {
                 modifiedComment[0] += 32;
             }
-            // TODO(espanol): poner los caracteres que corresponden
-            else if (totalPassed && (modifiedComment[0] == '1' || modifiedComment[0] == '2') && modifiedComment[0] >= 'A' && modifiedComment[0] <= 'Z') {
+
+            else if (totalPassed && (modifiedComment[0] == 'ˆ¾' || modifiedComment[0] == 'ˆ¿') && modifiedComment[1] >= 'A' && modifiedComment[1] <= 'Z') {
                 modifiedComment[1] += 32;
             }
             
