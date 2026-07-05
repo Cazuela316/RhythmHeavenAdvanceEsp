@@ -111,7 +111,7 @@ const char *cafe_dialogue_keep_trying[] = {
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        " Sigue movi‡Qndote al ritmo de\n"
+        "Sigue movi‡Qndote al ritmo de\n"
         "la mˆ¦sica, y te divertir‡cs\n"
         "haci‡Qndolo.",
     /* ------------------------------------------------ */

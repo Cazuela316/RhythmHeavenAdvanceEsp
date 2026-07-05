@@ -298,6 +298,8 @@ void start_campaign_notice(s32 id) {
     if (giftType == CAMPAIGN_GIFT_DRUM_KIT || giftType == CAMPAIGN_GIFT_READING_MATERIAL) {
         strcat(string, "\" como regalo!"); // received as a present!!
     }
+    strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
+    strcat(string, ".\n");
     text_printer_set_string(notice->printer, string);
 
     sprite_set_visible(gSpriteHandler, gGameSelect->selectionBorderSprite, FALSE);

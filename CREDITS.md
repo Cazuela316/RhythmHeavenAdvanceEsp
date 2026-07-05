@@ -8,16 +8,16 @@
 + patataofcourse
 
 ## Ediciones Graficas:
-+ Cazu â˜†
++ Cazu â˜?
 + Mako
 + Darcy
 + Apolo
 
 ## Edicion de Animaciones:
-+ Cazu â˜†
++ Cazu â˜?
 
 ## Traduccion y Localizacion:
-+ Cazu â˜†
++ Cazu â˜?
 + Darcy
 + Apolo
 + Camus
