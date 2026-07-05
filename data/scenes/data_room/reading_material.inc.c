@@ -661,19 +661,6 @@ struct ReadingMaterial reading_material_table[TOTAL_READING_MATERIALS] = {
             "\001R" "Sra. H, Edad 29, Ama de casa\n"
             "\001L" "Solo por mejorar mi sentido del ritmo...\n"
             "\n"
-            "\0031" "\001m" "Me volvi... un musico?\n"
-            "\0030" "\001s" "\n"
-            #ifdef PARADISE
-            "\001L" "Antes de encontrar \"Rhythm Paradise Advance ESP\",\n"
-            #else
-            "\001L" "Antes de encontrar \"Rhythm Heaven Advance ESP\",\n"
-            #endif
-            "Apenas tocaba el triangulo en la orquestra escolar,\n"
-            "pero ahora, he llegado tan lejos, ˆ¿que hasta la gente\n"
-            "me pide clases de mˆ¦sica y, consejos para mejorar!\n"
-            "\001R" "Sr. A, Estudiante de arte, 18\n"
-            "\001L" "Solo por mejorar mi sentido del ritmo...\n"
-            "\n"
             "\0031" "\001m" "Me volvi...\n"
             "\0031" "\001R" "mejor traduciendo?"
             "\0030" "\001s" "\n"
