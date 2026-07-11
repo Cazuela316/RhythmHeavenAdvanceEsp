@@ -19,6 +19,11 @@ const char D_0805d694[] = "La velocidad no es nada para ustedes!";
 
 const char D_0805d6b0[] = "Notas del ‡crbitro";
 
+#ifdef PARADISE
+const char D_0805d6c4[] =
+    "\n"
+    "Time to throw our best!";
+#else
 const char D_0805d6c4[] =
     "\n"
     "Hora de tajar como nunca antes!";
@@ -61,6 +66,11 @@ const char D_0805d7fc[] =
     "\n"
     "Hagamoslo una vez mas!";
 
+#ifdef PARADISE
+const char D_0805d80c[] =
+    "\n"
+    "Great throwing!";
+#else
 const char D_0805d80c[] =
     "\n"
     "Que buenas tajadas!";
