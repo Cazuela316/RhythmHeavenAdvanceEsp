@@ -6,19 +6,19 @@
 #include "studio.h"
 
 static const struct SaveEditorFlag sAdvanceFlags[] = {
-    { "Save Converted",          0 },
-    { "Use. Alt GS Music",       1 },
+    { "Archivo Guardado",          0 },
+    { "Usar Mˆ¦sica Alt.",       1 },
     { "Disclaimer Visto",         2 },
     { "Disclaimer Saltado",         3 },
     { "Desactivar Vibracion",         4 },
-    { "Non-JP Sound Effects",    5 },
-    { "Non-JP Music",            6 },
+    { "SE en Ingles",    5 },
+    { "BGM en Ingles",            6 },
     END_OF_FLAG
 };
 
 static const struct SaveEditorFlag sAdvanceGameFlags[] = {
-    { "Non-JP Sound Effects",    0 },
-    { "Non-JP Music",            1 },
+    { "SE en Ingles",    0 },
+    { "BGM en Ingles",            1 },
     END_OF_FLAG
 };
 
@@ -53,9 +53,9 @@ struct SaveEditorMember gSaveEditorMembers[SE_MBR_COUNT] = {
     /* SE_MBR_UNK_B0 */
     { "unkB0",                               SE_KIND_U8,    0,  -1, -1, NULL,   0, NULL,               0 },
     /* SE_MBR_ADVANCE_FLAGS */
-    { "Advance Flags",                       SE_KIND_BITFLAGS,    0,  -1, -1, sAdvanceFlags, 7, NULL,               0 },
+    { "Opciones Advance",                       SE_KIND_BITFLAGS,    0,  -1, -1, sAdvanceFlags, 7, NULL,               0 },
     /* SE_MBR_EXTRA_VERSION */
-    { "Extra Data Version",                  SE_KIND_U16,         0,  -1, -1, NULL,          0, NULL,               0 },
+    { "Version Extra Data",                  SE_KIND_U16,         0,  -1, -1, NULL,          0, NULL,               0 },
     /* SE_MBR_EXTRA_GAME_FLAGS */
     { "Game Data Flags",                     SE_KIND_BITFLAGS, TOTAL_LEVELS, -1, -1, sAdvanceGameFlags, 1, NULL,    0 },
     /* SE_MBR_TOTAL_SONGS */
