@@ -7,17 +7,17 @@
 
 const char D_080676b4[] = "La primera parte estuvo rara...";
 
-const char D_080676d4[] = "La primera parte estuvo muy buena!";
+const char D_080676d4[] = "ˆ¿La primera parte estuvo muy buena!";
 
 const char D_080676ec[] = "La segunda parte estuvo fuera de ritmo.";
 
-const char D_08067710[] = "La segunda parte estuvo increible!";
+const char D_08067710[] = "ˆ¿La segunda parte estuvo incre‡eble!";
 
 const char D_0806772c[] = "";
 
-const char D_08067730[] = "El final si que se intensifico!";
+const char D_08067730[] = "ˆ¿El final s‡e que se intensific‡i!";
 
-const char D_08067754[] = "El final estuvo de pelicula!";
+const char D_08067754[] = "ˆ¿El final estuvo de pel‡ecula!";
 
 const char D_08067778[] = "La gente dice...";
 

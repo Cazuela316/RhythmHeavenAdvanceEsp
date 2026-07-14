@@ -5,56 +5,56 @@
 /* Game Text - Karate Man */
 
 
-const char D_0805ab50[] = "Necesitabas centrarte en lo fundamental.";
+const char D_0805ab50[] = "Necesitas centrarte en lo fundamental.";
 
 const char D_0805ab68[] = "";
 
-const char D_0805ab6c[] = "Tus golpes seguidos estuvieron malos.";
+const char D_0805ab6c[] = "Tus golpes seguidos fueron malos.";
 
-const char D_0805ab90[] = "Increibles golpes seguidos!";
+const char D_0805ab90[] = "ˆ¿Incre‡ebles golpes seguidos!";
 
-const char D_0805abb0[] = "Lo diste todo en el final!";
+const char D_0805abb0[] = "ˆ¿Lo diste todo al final!";
 
 const char D_0805abc4[] =
     "\n"
-    "Recuerda seguir el flow!";
+    "ˆ¿Recuerda seguir el flow!";
 
 const char D_0805abdc[] = "El Maestro dice...";
 
 const char D_0805abec[] =
-    "Bienvenido al entrena-\n"
+    "ˆ¿Bienvenido al entrena-\n"
     "miento de karate!";
 
 const char D_0805ac0c[] = 
     "Presiona ‡M para golpear\n"
     "los objetos que te\n"
-    "lanzan.\n"
-    "Pero no es tarea facil!\n";
+    "lancen.\n"
+    "ˆ¿Pero no es tarea f‡ccil!\n";
 
 const char D_0805ac60[] =
-    "Bueno, que tal si\n"
+    "Bueno, ˆ¾qu‡Q tal si\n"
     "lo intentas?";
 
 const char D_0805aca0[] =
-    "Ves?\n"
+    "ˆ¾Ves?\n"
     "El momento de golpear\n"
-    "es super estricto, no?";
+    "es sˆ¦per estricto, ˆ¾no?";
 
 const char D_0805acd8[] =
-    "Prueba a golpear al\n"
-    "ritmo de la musica!";
+    "ˆ¿Prueba a golpear al\n"
+    "ritmo de la mˆ¦sica!";
 
 const char D_0805ad04[] =
-    "Como estuvo eso?\n"
+    "ˆ¾Como estuvo eso?\n"
     "Mucho mas facil con\n"
-    "musica, verdad?";
+    "musica, ˆ¾verdad?";
 
 const char D_0805ad38[] =
-    "Y bueno, eso es todo!\n"
-    "Fluye con la musica y\n"
+    "Y bueno, ˆ¿eso es todo!\n"
+    "ˆ¿Fluye con la mˆ¦sica y\n"
     "golpea todo lo que veas!";
 
 const char D_0805ad80[] =
     "\n"
     "Preparados, listos,\n"
-    "golpea!";
+    "ˆ¿golpea!";

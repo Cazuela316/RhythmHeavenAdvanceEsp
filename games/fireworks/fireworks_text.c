@@ -5,13 +5,13 @@
 /* Game Text - Fireworks */
 
 
-const char D_0805cd60[] = "Metente alerta ahi fuera!";
+const char D_0805cd60[] = "ˆ¿Mantente alerta ah‡e fuera!";
 
-const char D_0805cd7c[] = "Qu‡Q incre‡ebles explosiones!";
+const char D_0805cd7c[] = "ˆ¿Qu‡Q incre‡ebles explosiones!";
 
-const char D_0805cda0[] = "Tienes que reaccionar mas rapido!";
+const char D_0805cda0[] = "ˆ¿Tienes que reaccionar m‡cs r‡cpido!";
 
-const char D_0805cdb4[] = "Reaccionas mas rapido que una mosca!";
+const char D_0805cdb4[] = "ˆ¿Reaccionas m‡cs r‡cpido que una mosca!";
 
 const char D_0805cdc8[] = "Comentarios del director";
 
