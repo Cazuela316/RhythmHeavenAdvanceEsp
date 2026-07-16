@@ -5,9 +5,9 @@
 /* Game Text - Remix 4 */
 
 
-const char D_0806802c[] = "Ponle mas ganas.";
+const char D_0806802c[] = "Ponle m‡cs ganas.";
 
-const char D_0806803c[] = "Eso estuvo muy bien!";
+const char D_0806803c[] = "ˆ¿Eso estuvo muy bien!";
 
 const char D_08068058[] = "Your decisions took too long.";
 
@@ -21,7 +21,7 @@ const char D_080680d4[] = "Notas de la Liga del Ritmo:";
 
 const char D_080680f0[] =
     "\n"
-    "Comencemos!";
+    "ˆ¿Comencemos!";
 
 const char D_080680fc[] =
     "\n"
@@ -29,22 +29,22 @@ const char D_080680fc[] =
 
 const char D_08068108[] =
     "\n"
-    "Yyyy basta!\n"
+    "ˆ¿Yyyy basta!\n"
     "\n";
 
 const char D_08068118[] =
     "\n"
-    "Aww, que pena!";
+    "Aww, ˆ¿qu‡Q pena!";
 
 const char D_08068128[] =
     "\n"
-    "Incre‡eble!";
+    "ˆ¿Incre‡eble!";
 
 const char D_08068138[] = "‚a‚‚Š‚…‚‚‚“@‚•‚@‚‚‚ƒ‚@‚…‚Œ@‚’‚‰‚”‚‚DDD";
 
 const char D_0806814c[] =
-    "Esta es,\n"
-    "la ultima\n"
+    "Esta es:\n"
+    "ˆ¿la ultima\n"
     "pregunta!\n";
 
 const char D_0806815c[] =

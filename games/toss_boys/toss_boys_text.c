@@ -5,53 +5,53 @@
 /* Game Text - Toss Boys */
 
 
-const char D_0805d618[] = "Tienen que practicar mas sus tajadas.";
+const char D_0805d618[] = "Tienen que practicar m‡cs sus tajadas.";
 
-const char D_0805d634[] = "Sus tajadas fueron incre‡ebles!";
+const char D_0805d634[] = "ˆ¿Sus tajadas fueron incre‡ebles!";
 
-const char D_0805d64c[] = "Parecian estar un poco tensos.";
+const char D_0805d64c[] = "Parec‡ean estar un poco tensos.";
 
-const char D_0805d660[] = "Estuvieron serenos todo el tiempo!";
+const char D_0805d660[] = "ˆ¿Estuvieron serenos todo el tiempo!";
 
-const char D_0805d678[] = "La velocidad les gano.";
+const char D_0805d678[] = "La velocidad les gan‡i.";
 
-const char D_0805d694[] = "La velocidad no es nada para ustedes!";
+const char D_0805d694[] = "ˆ¿La velocidad no es nada para ustedes!";
 
 const char D_0805d6b0[] = "Notas del ‡crbitro";
 
 const char D_0805d6c4[] =
     "\n"
-    "Hora de tajar como nunca antes!";
+    "ˆ¿Hora de tajar como nunca antes!";
 
 const char D_0805d6d4[] =
     "\n"
-    "Bien hecho!";
+    "ˆ¿Bien hecho!";
 
-const char D_0805d6e0[] = "Tienen que practicar mas sus tajadas.";
+const char D_0805d6e0[] = "Tienen que practicar m‡cs sus tajadas.";
 
-const char D_0805d6fc[] = "Sus tajadas fueron incre‡ebles!";
+const char D_0805d6fc[] = "ˆ¿Sus tajadas fueron incre‡ebles!";
 
-const char D_0805d714[] = "Parecian estar un poco tensos.";
+const char D_0805d714[] = "Parec‡ean estar un poco tensos.";
 
-const char D_0805d728[] = "Estuvieron serenos todo el tiempo!";
+const char D_0805d728[] = "ˆ¿Estuvieron serenos todo el tiempo!";
 
-const char D_0805d740[] = "La velocidad les gano.";
+const char D_0805d740[] = "La velocidad les gan‡i.";
 
-const char D_0805d75c[] = "La velocidad no es nada para ustedes!";
+const char D_0805d75c[] = "ˆ¿La velocidad no es nada para ustedes!";
 
 const char D_0805d778[] = "Notas del ‡crbitro";
 
 const char D_0805d78c[] =
     "\n"
-    "Hagamos nuestra rutina!";
+    "ˆ¿Hagamos nuestra rutina!";
 
 const char D_0805d7a8[] =
     "\n"
-    "Bien hecho!";
+    "ˆ¿Bien hecho!";
 
 const char D_0805d7b4[] =
     "\n"
-    "Muy bien! Practiquemos un poco antes!";
+    "ˆ¿Muy bien! ˆ¿Practiquemos un poco antes!";
 
 const char D_0805d7cc[] =
     "T‡Qcnica de tajo 1:\n"
@@ -59,11 +59,11 @@ const char D_0805d7cc[] =
 
 const char D_0805d7fc[] =
     "\n"
-    "Hagamoslo una vez mas!";
+    "ˆ¿Hagamoslo una vez m‡cs!";
 
 const char D_0805d80c[] =
     "\n"
-    "Que buenas tajadas!";
+    "ˆ¿Que buenas tajadas!";
 
 const char D_0805d818[] =
     "T‡Qcnica de tajo 2:\n"
@@ -71,11 +71,11 @@ const char D_0805d818[] =
 
 const char D_0805d848[] =
     "\n"
-    "Una vez mas!";
+    "ˆ¿Una vez m‡cs!";
 
 const char D_0805d85c[] =
     "\n"
-    "Bien hecho, chicos!";
+    "ˆ¿Bien hecho, chicos!";
 
 const char D_0805d86c[] =
     "T‡Qcnica de tajo 3:\n"
@@ -83,11 +83,11 @@ const char D_0805d86c[] =
 
 const char D_0805d8a0[] =
     "\n"
-    "Otra vez para confirmar!";
+    "ˆ¿Otra vez para confirmar!";
 
 const char D_0805d8b0[] =
     "\n"
-    "Okay!";
+    "ˆ¿Okay!";
 
 const char D_0805d8bc[] =
     "\n"

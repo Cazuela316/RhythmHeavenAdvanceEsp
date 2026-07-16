@@ -5,15 +5,15 @@
 /* Game Text - Rat Race */
 
 
-const char D_0805d104[] = "No sabias cuando parar.";
+const char D_0805d104[] = "No sab‡eas cu‡cndo parar.";
 
-const char D_0805d118[] = "Paraste justo a tiempo!";
+const char D_0805d118[] = "ˆ¿Paraste justo a tiempo!";
 
-const char D_0805d130[] = "Tenias que partir antes!";
+const char D_0805d130[] = "ˆ¿Ten‡eas que partir antes!";
 
-const char D_0805d14c[] = "Partiste justo a tiempo!";
+const char D_0805d14c[] = "ˆ¿Partiste justo a tiempo!";
 
-const char D_0805d164[] = "Deja de estorbar!";
+const char D_0805d164[] = "ˆ¿Deja de estorbar!";
 
 const char D_0805d180[] = "";
 

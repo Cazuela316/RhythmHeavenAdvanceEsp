@@ -5,17 +5,17 @@
 /* Game Text - Space Dance */
 
 
-const char D_0805e2ac[] = "Tu desorganizacion fue notada.";
+const char D_0805e2ac[] = "Tu desorganizaci‡in fue notada.";
 
-const char D_0805e2c8[] = "Te mantuviste en sincron‡ea!";
+const char D_0805e2c8[] = "ˆ¿Te mantuviste en sincron‡ea!";
 
-const char D_0805e2e4[] = "Tu panico fue expresado.";
+const char D_0805e2e4[] = "Tu p‡cnico fue expresado.";
 
-const char D_0805e300[] = "Poses la habilidad del buen ritmo!";
+const char D_0805e300[] = "ˆ¿Posees la habilidad del buen ritmo!";
 
 const char D_0805e320[] = "Tu gran velocidad fue sentida antes del coro.";
 
-const char D_0805e344[] = "La parte antes del coro tenia perfecc‡eon!";
+const char D_0805e344[] = "ˆ¿La parte antes del coro ten‡ea perfecc‡eon!";
 
 const char D_0805e364[] = "El Abuelo Espacial dice...";
 

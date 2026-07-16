@@ -5,19 +5,19 @@
 /* Game Text - Sneaky Spirits */
 
 
-const char D_0805ba80[] = "Tu arqueria basica necesita mejorar.";
+const char D_0805ba80[] = "Tu arquer‡ea b‡csica necesita mejorar.";
 
 const char D_0805ba9c[] = "";
 
-const char D_0805baa0[] = "Los fantasmas sileciosos pasaron frente tuyo.";
+const char D_0805baa0[] = "Los fantasmas silenciosos pasaron frente a ti.";
 
-const char D_0805bac4[] = "Les diste hasta cuando estaban callados.";
+const char D_0805bac4[] = "Les diste incluso cuando estaban callados.";
 
 const char D_0805bae4[] = "Deberias empezar a contar por ti mismo.";
 
-const char D_0805bb04[] = "No perdiste la cuenta!";
+const char D_0805bb04[] = "ˆ¿No perdiste la cuenta!";
 
-const char D_0805bb20[] = "Les disparaste hasta a los m‡cs lentos.";
+const char D_0805bb20[] = "Les disparaste incluso a los m‡cs lentos.";
 
 const char D_0805bb40[] = "z‚c‚…‚”‚¬‚@‚…‚“‚‚“@‚†‚‚‚”‚‚“‚‚‚“I";
 
@@ -37,18 +37,18 @@ const char D_0805bba8[] = "z‚g‚‚’‚@‚„‚…@‚…‚‚‚…‚š‚‚’@‚…‚@‚“‚…‚’‚‰‚I"
 
 const char D_0805bbc8[] = "Las voces tenebrosas dicen...";
 
-const char D_0805bbd8[] = "Tu arqueria basica necesita mejorar.";
+const char D_0805bbd8[] = "Tu arquer‡ea b‡csica necesita mejorar.";
 
 const char D_0805bbf4[] = "";
 
-const char D_0805bbf8[] = "Los fantasmas callados pasaron frente tuyo.";
+const char D_0805bbf8[] = "Los fantasmas silenciosos pasaron frente a ti.";
 
-const char D_0805bc1c[] = "Les diste hasta cuando estaban callados.";
+const char D_0805bc1c[] = "Les diste incluso cuando estaban callados.";
 
 const char D_0805bc3c[] = "Deberias empezar a contar por ti mismo.";
 
-const char D_0805bc5c[] = "No perdiste la cuenta!";
+const char D_0805bc5c[] = "ˆ¿No perdiste la cuenta!";
 
-const char D_0805bc78[] = "Les disparaste hasta a los m‡cs lentos.";
+const char D_0805bc78[] = "Les disparaste incluso a los m‡cs lentos.";
 
 const char D_0805bc98[] = "Las voces tenebrosas dicen...";

@@ -5,9 +5,9 @@
 /* Game Text - Remix 6 */
 
 
-const char D_0806a7a8[] = "Ponle mas ganas.";
+const char D_0806a7a8[] = "Ponle m‡cs ganas.";
 
-const char D_0806a7b8[] = "Eso estuvo muy bien!";
+const char D_0806a7b8[] = "ˆ¿Eso estuvo muy bien!";
 
 const char D_0806a7d4[] = "Your decisions took too long.";
 
@@ -27,7 +27,7 @@ const char D_0806a8c8[] = "z‚`‚“‚´@‚‘‚•‚…@‚„‚‰‚–‚‰‚¬‚’‚”‚…‚”‚…I";
 
 const char D_0806a8d8[] =
     "\n"
-    "Comencemos!";
+    "ˆ¿Comencemos!";
 
 const char D_0806a8e4[] =
     "\n"
@@ -35,15 +35,15 @@ const char D_0806a8e4[] =
 
 const char D_0806a8f0[] =
     "\n"
-    "Yyyy basta!";
+    "ˆ¿Yyyy basta!";
 
 const char D_0806a900[] =
     "\n"
-    "Aww, que pena!";
+    "Aww, ˆ¿qu‡Q pena!";
 
 const char D_0806a910[] =
     "\n"
-    "Incre‡eble!";
+    "ˆ¿Incre‡eble!";
 
 const char D_0806a920[] = ".1:0" "‚c‚‚‚„‚@" ".2:0" "‚‚‚‚‚";
 

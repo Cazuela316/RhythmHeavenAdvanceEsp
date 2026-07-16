@@ -464,27 +464,27 @@ quiz_show_endless_table D_08069958, D_08a59cf4
 
 text D_08069960
     .ascii "\n"
-    .ascii "Aww, que pena!\n"
+    .ascii "Aww, ˆ¿qu‡Q pena!\n"
     .ascii "\n"
 endtext
 
 
 text D_0806996c
-    .ascii "Vuelve la\n"
-    .ascii "proxima semana!\n"
+    .ascii "ˆ¿Vuelve la\n"
+    .ascii "pr‡ixima semana!\n"
     .ascii "\n"
 endtext
 
 
 text D_08069990
-    .ascii "Buenos dias!\n"
-    .ascii "Es hora de la\n"
-    .asciz "trivia ritmica!"
+    .ascii "ˆ¿Buenos d‡eas!\n"
+    .ascii "ˆ¿Es hora de la\n"
+    .asciz "trivia r‡etmica!"
 endtext
 
 
 text D_080699bc
-    .ascii "Hoy, vamos a\n"
+    .ascii "Hoy, ˆ¿vamos a\n"
     .ascii "estar jugando\n"
     .asciz "un round especial!"
 endtext
@@ -492,14 +492,14 @@ endtext
 
 text D_080699e0
     .ascii "Ya con eso dicho...\n"
-    .ascii "Comencemos!\n"
+    .ascii "ˆ¿Comencemos!\n"
     .ascii "\n"
 endtext
 
 
 text D_08069a04
     .ascii "\n"
-    .ascii "Yyyy basta!\n"
+    .ascii "ˆ¿Yyyy basta!\n"
     .ascii "\n"
 endtext
 
@@ -513,7 +513,7 @@ endtext
 
 text D_08069a28
     .ascii "\n"
-    .ascii "Correcto!\n"
+    .ascii "ˆ¿Correcto!\n"
     .ascii "\n"
 endtext
 

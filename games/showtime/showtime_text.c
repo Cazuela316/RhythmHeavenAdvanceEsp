@@ -7,7 +7,7 @@
 
 const char D_0805e180[] = "No muy felices.";
 
-const char D_0805e194[] = "Bastante satisfechos!";
+const char D_0805e194[] = "ˆ¿Bastante satisfechos!";
 
 const char D_0805e1a8[] = "Los pingˆ¨inos parecen...";
 

@@ -5,11 +5,11 @@
 /* Game Text - Sick Beats */
 
 
-const char D_0805b6f8[] = "Los virus pasaron en frente tuyo.";
+const char D_0805b6f8[] = "Los virus pasaron frente a ti.";
 
-const char D_0805b71c[] = "Exterminaste los virus con precision!";
+const char D_0805b71c[] = "ˆ¿Exterminaste los virus con precisi‡in!";
 
-const char D_0805b73c[] = "Perdimos un monton...";
+const char D_0805b73c[] = "Perdimos un mont‡in...";
 
 const char D_0805b760[] = "";
 

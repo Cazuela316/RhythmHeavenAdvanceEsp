@@ -5,9 +5,9 @@
 /* Game Text - Remix 7 */
 
 
-const char D_0806a16c[] = "Ponle mas ganas.";
+const char D_0806a16c[] = "Ponle m‡cs ganas.";
 
-const char D_0806a17c[] = "Eso estuvo muy bien!";
+const char D_0806a17c[] = "ˆ¿Eso estuvo muy bien!";
 
 const char D_0806a198[] = "Your decisions took too long.";
 

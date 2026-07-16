@@ -5,9 +5,9 @@
 /* Game Text - Dance Lesson 1 */
 
 
-const char D_0805ca34[] = "Ponle mas ganas.";
+const char D_0805ca34[] = "Ponle m‡cs ganas.";
 
-const char D_0805ca44[] = "Eso estuvo muy bien!";
+const char D_0805ca44[] = "ˆ¿Eso estuvo muy bien!";
 
 const char D_0805ca60[] = "Your decisions took too long.";
 
@@ -23,9 +23,9 @@ const char D_0805cadc[] = "Notas de la Liga del Ritmo:";
 /* Game Text - Remix 1 */
 
 
-const char D_0805caf8[] = "Ponle mas ganas.";
+const char D_0805caf8[] = "Ponle m‡cs ganas.";
 
-const char D_0805cb08[] = "Eso estuvo muy bien!";
+const char D_0805cb08[] = "ˆ¿Eso estuvo muy bien!";
 
 const char D_0805cb24[] = "Your decisions took too long.";
 

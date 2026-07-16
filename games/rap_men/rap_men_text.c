@@ -5,17 +5,17 @@
 /* Game Text - Rap Men */
 
 
-const char D_0805e914[] = "Las l‡eneas \"huh?\" fueron confusas.";
+const char D_0805e914[] = "Las l‡eneas \"ˆ¾huh?\" fueron confusas.";
 
-const char D_0805e938[] = "Las l‡eneas \"huh?\" ten‡ean mucho ritmo!";
+const char D_0805e938[] = "ˆ¿Las l‡eneas \"ˆ¾huh?\" ten‡ean mucho ritmo!";
 
 const char D_0805e960[] = "Yo \"capto\" que podriamos hacerlo mejor.";
 
-const char D_0805e988[] = "Tˆ¦, en serio \"captaste\" el rap!";
+const char D_0805e988[] = "Tˆ¦, ˆ¿en serio \"captaste\" el rap!";
 
-const char D_0805e9ac[] = "Las l‡eneas \"asombrosas!\"... no lo fueron.";
+const char D_0805e9ac[] = "Las l‡eneas \"ˆ¿asombrosas!\"... no lo fueron.";
 
-const char D_0805e9d8[] = "Las l‡eneas \"asombrosas!\", lo fueron!";
+const char D_0805e9d8[] = "Las l‡eneas \"ˆ¿asombrosas!\", ˆ¿lo fueron!";
 
 const char D_0805ea04[] = "RAPNOTAS de los chicos:";
 

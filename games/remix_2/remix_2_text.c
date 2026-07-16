@@ -5,9 +5,9 @@
 /* Game Text - Remix 2 */
 
 
-const char D_08067ecc[] = "Ponle mas ganas.";
+const char D_08067ecc[] = "Ponle m‡cs ganas.";
 
-const char D_08067edc[] = "Eso estuvo muy bien!";
+const char D_08067edc[] = "ˆ¿Eso estuvo muy bien!";
 
 const char D_08067ef8[] = "Your decisions took too long.";
 
@@ -37,8 +37,8 @@ const char D_0806801C[] = "‚R";
 
 const char D_0806801D[] = "z‚`‚ˆ‚‚’‚I";
 
-const char D_0806801E[] = "z‚`‚ˆ‚‚’‚@‚”‚•I";
+const char D_0806801E[] = "z‚`‚ˆ‚‚’‚@‚”‚ÈI";
 
-const char D_0806801F[] = "z‚a‚‰‚…‚C@‚Œ‚@‚•‚Œ‚”‚‰‚‚I";
+const char D_0806801F[] = "z‚a‚‰‚…‚C@‚Œ‚@‚È‚Œ‚”‚‰‚‚I";
 
 const char D_08068028[] = "";

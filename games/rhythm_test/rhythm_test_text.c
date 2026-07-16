@@ -7,7 +7,7 @@
 
 const char D_0805eed8[] = "Presiona la ‡M junto al sonido.";
 
-const char D_0805ef00[] = "Ya casi terminas!";
+const char D_0805ef00[] = "ˆ¿Ya casi terminas!";
 
 const char D_0805ef0c[] = "3";
 
@@ -23,19 +23,19 @@ const char D_0805ef74[] = "Ahora, empezaremos a medir.";
 
 const char D_0805ef8c[] = "Presiona la ‡M junto al sonido.";
 
-const char D_0805efb4[] = "Sigue presionando!";
+const char D_0805efb4[] = "ˆ¿Sigue presionando!";
 
-const char D_0805efd8[] = "Tendras que echarle muchas ganas...";
+const char D_0805efd8[] = "Tendr‡cs que echarle muchas ganas...";
 
-const char D_0805eff4[] = "Necesitaras esforzarte un poco mas.";
+const char D_0805eff4[] = "Necesitar‡cs esforzarte un poco m‡cs.";
 
 const char D_0805f014[] = "Tu ritmo es el de una persona cualquiera.";
 
-const char D_0805f034[] = "Eres igual de preciso que un reloj biologico!";
+const char D_0805f034[] = "ˆ¿Eres igual de preciso que un reloj biol‡igico!";
 
-const char D_0805f054[] = "Vaya! Eres igual de preciso que un reloj atomico!";
+const char D_0805f054[] = "ˆ¿Vaya! ˆ¿Eres igual de preciso que un reloj at‡imico!";
 
-const char D_0805f078[] = "Veamos que tan bueno es tu ritmo.";
+const char D_0805f078[] = "Veamos qu‡Q tan bueno es tu ritmo.";
 
 const char D_0805f09c[] = "Hemos preparado 3 tests para verlo.";
 

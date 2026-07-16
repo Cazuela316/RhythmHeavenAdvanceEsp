@@ -5,15 +5,15 @@
 /* Game Text - Tap Trial */
 
 
-const char D_0805c0d0[] = "Necesitas repasar lo basico de nuevo.";
+const char D_0805c0d0[] = "Necesitas repasar lo b‡csico de nuevo.";
 
-const char D_0805c0ec[] = "Te lograste adaptar muy bien!";
+const char D_0805c0ec[] = "ˆ¿Te lograste adaptar muy bien!";
 
 const char D_0805c104[] = "No lograste decidirte bien en el momento.";
 
-const char D_0805c11c[] = "Tienes buenas hablidades para decidir rapido!";
+const char D_0805c11c[] = "ˆ¿Tienes buenas habilidades para decidir r‡cpido!";
 
-const char D_0805c130[] = "Necesitas concentrarte mas.";
+const char D_0805c130[] = "Necesitas concentrarte m‡cs.";
 
 const char D_0805c144[] = "Se notaba lo concentrada que estabas.";
 
@@ -43,17 +43,17 @@ const char D_0805c240[] = "z‚n‚jC@‚‚‚•‚…‚@‚”‚’‚‚‚‚‚Š‚I";
 
 const char D_0805c248[] = "Tus bases estaban algo flojas.";
 
-const char D_0805c264[] = "Mostraste mucho potencial!";
+const char D_0805c264[] = "ˆ¿Mostraste mucho potencial!";
 
 const char D_0805c274[] = "No terminabas de encontrar el ritmo.";
 
-const char D_0805c290[] = "Si que te preocupaste por tu ritmo!";
+const char D_0805c290[] = "ˆ¿S‡e que te preocupaste por tu ritmo!";
 
-const char D_0805c2a8[] = "Necesitas concentrarte mas.";
+const char D_0805c2a8[] = "Necesitas concentrarte m‡cs.";
 
 const char D_0805c2bc[] = "Se notaba lo concentrada que estabas.";
 
-const char D_0805c2d4[] = "Acaso te distrajiste al final?";
+const char D_0805c2d4[] = "ˆ¾Acaso te distrajiste al final?";
 
 const char D_0805c2e8[] = "";
 

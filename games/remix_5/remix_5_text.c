@@ -5,9 +5,9 @@
 /* Game Text - Remix 5 */
 
 
-const char D_0806a230[] = "Ponle mas ganas.";
+const char D_0806a230[] = "Ponle m㌘s ganas.";
 
-const char D_0806a240[] = "Eso estuvo muy bien!";
+const char D_0806a240[] = "袷Eso estuvo muy bien!";
 
 const char D_0806a25c[] = "Your decisions took too long.";
 
@@ -26,7 +26,7 @@ const char D_0806a314[] =
     "\x01\x4c" "　Cantante:　　Sohshi Tanaka";
 
 const char D_0806a32c[] =
-    "\x01\x4c" "Musica:\n"
+    "\x01\x4c" "M姶sica:\n"
     "　　　　　　　　TSUNKU♂\n"
     "Arreglos:\n"
     "　　　　　　　　Yuasa Koichi";
