@@ -48,7 +48,7 @@ struct CompressedData *score_results_buffered_textures[] = {
     // Almost there.
     // Hmm...
 const char *score_results_default_comments[] = {
-    /* BEST */ "ˆ¿ˆ¿El nivel mas alto!!",
+    /* BEST */ "ˆ¿ˆ¿El nivel m‡cs alto!!",
     /* HIGH */ "ˆ¿Nada mal!",
     /* MID  */ "Normal.",
     /* LOW  */ "Casi.",

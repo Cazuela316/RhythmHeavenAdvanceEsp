@@ -331,8 +331,8 @@ void cafe_print_dialogue(void) {
                 // Oh! You're here, you're here!
                 // I've been waiting, you know!!
                 string = "\n"
-                         "Oh! Finalmente estas aqui!\n"
-                         "Te he estado esperando!\n"
+                         "袷Oh! 袷Finalmente estas aqui!\n"
+                         "袷Te he estado esperando!\n"
                          "\n";
                 cafe_session_remove_perfect_levels();
                 D_030046a8->data.unk294[CAFE_CLEAR_DIALOGUE_MAIN_PENDING] = FALSE;
@@ -369,22 +369,22 @@ void cafe_print_dialogue(void) {
                 // Are you making progress?
                 // Please do your best!
                 string = "\n"
-                         "Estas disfrutando de los\n"
-                         "Juegos? Sigue dandolo todo!\n"
+                         "粟Estas disfrutando de los\n"
+                         "Juegos? 袷Sigue dandolo todo!\n"
                          "\n";
             } else if (playtime <= 60) {
                 // Aren't you getting tired?
                 // Don't forget to rest now and then.
                 string = "\n"
-                         "No estas cansado? No es mala\n"
+                         "粟No estas cansado? No es mala\n"
                          "tomar un descanso y seguir despues.\n"
                          "\n";
             } else {
                 // You've been at this a while,
                 // haven't you? Please rest a little.
                 string = "\n"
-                         "S㌃ que has estado jugando, huh?\n"
-                         "Qu⑱ tal si te tomas un descanso?\n"
+                         "S㌃ que has estado jugando, 粟huh?\n"
+                         "粟Qu⑱ tal si te tomas un descanso?\n"
                          "\n";
             }
             dialogueTask = CAFE_EV_START_TOPIC;
@@ -449,7 +449,7 @@ void cafe_print_dialogue(void) {
                     s = gCafe->string;
                     memcpy(s, "", 1);
                     strcat(s, "\n");
-                    strcat(s, "Oye! Escuch⑱ que sacaste un perfecto en ");
+                    strcat(s, "袷Oye! 袷Escuch⑱ que sacaste un perfecto en ");
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
                     strcat(s, "\0054" "\0018" "!\n");
@@ -464,7 +464,7 @@ void cafe_print_dialogue(void) {
                     s = gCafe->string;
                     memcpy(s, "", 1);
                     strcat(s, "\n");
-                    strcat(s, "Acaso ");
+                    strcat(s, "粟Acaso ");
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
                     strcat(s, "\0054" "\0018" "\nte esta dado problemas?\n" "\n");
@@ -479,7 +479,7 @@ void cafe_print_dialogue(void) {
                     s = gCafe->string;
                     memcpy(s, "", 1);
                     strcat(s, "\n");
-                    strcat(s, "Hm... Puede ser que te esta costando\n"
+                    strcat(s, "Hm... 粟Puede ser que te esta costando\n"
                             "conseguir la medalla de ");
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
@@ -499,8 +499,8 @@ void cafe_print_dialogue(void) {
                     strcat(s, "\0051" "\0015");
                     strcat(s, levelName);
                     strcat(s, "\0054" "\0018" "\n");
-                    strcat(s, "Te ha mantenido ocupado, huh?\n"
-                              "No puedes parar de jugarlo?");
+                    strcat(s, "Te ha mantenido ocupado, 粟huh?\n"
+                              "粟No puedes parar de jugarlo?");
                     string = s;
                     activity->levelID = LEVEL_NULL;
                     dialogueTask = CAFE_EV_CAMPAIGN_ADVICE_00;
@@ -511,7 +511,7 @@ void cafe_print_dialogue(void) {
                     // Ah! Wait, I remember!
                     string = "\n"
                              "\n"
-                             "Hey! Me acorde de algo!\n"
+                             "袷Hey! 袷Me acorde de algo!\n"
                              "\n";
                     break;
 
@@ -547,7 +547,7 @@ void cafe_print_dialogue(void) {
             // I'll be here rooting for you~!
             string = "\n"
                      "Sigue dandolo todo.\n"
-                     "Te doy todo mi apoyo!\n"
+                     "袷Te doy todo mi apoyo!\n"
                      "\n";
             dialogueExhausted = TRUE;
             break;
@@ -560,8 +560,8 @@ void cafe_print_dialogue(void) {
             // "No, thank you."
             string = "Porque puedo ayudarte a que\n"
                      "te ""\0051" "\0015" "saltes ese juego y ya.\n"
-                     "\0054" "\0018" "Que dices?\n"
-                     "　　　　　　　　　　　　　　\"Por favor!\"\n"
+                     "\0054" "\0018" "粟Que dices?\n"
+                     "　　　　　　　　　　　　　　\"袷Por favor!\"\n"
                      "　　　　　　　　　　　　　　\"No gracias.\"";
             gCafe->queryEnabled = TRUE;
             gCafe->queryResult = CAFE_OPT_YES;
@@ -590,7 +590,7 @@ void cafe_print_dialogue(void) {
                 // it with your own strength.
                 // Excellent!
                 string = "\n"
-                         "Ese es el espiritu! Aprende\n"
+                         "袷Ese es el espiritu! 袷Aprende\n"
                          "lo basico, y confia en\n"
                          "ti!";
                 dialogueTask = CAFE_EV_OFFER_CLEAR_02_N;
@@ -601,9 +601,9 @@ void cafe_print_dialogue(void) {
             // I hope the next game will go
             // much better for you.
             // Tell me about it next time.
-            string = "...Y listo. Me pregunto cual\n"
+            string = "...Y listo. 粟Me pregunto cual\n"
                      "sera el siguiente juego?\n"
-                     "Espero ese lo domines!\n"
+                     "袷Espero ese lo domines!\n"
                      "Nos vemos despues.";
             dialogueExhausted = TRUE;
             break;
@@ -612,7 +612,7 @@ void cafe_print_dialogue(void) {
             // Well then, please
             // do your best!
             string = "\n"
-                     "Estare aqui, apoyandote\n"
+                     "Estare aqui, 袷apoyandote\n"
                      "detras del mostrador!\n"
                      "\n";
             dialogueExhausted = TRUE;
@@ -627,7 +627,7 @@ void cafe_print_dialogue(void) {
             string = "\0054" "\0018" "Acaso estas practicandolo\n"
                      "\0054" "\0018" "para que puedas " "\0051" "\0015" "lograr\n"
                      "\0051" "\0015" "un Perfecto?" "\0054" "\0018" "\n"
-                     "　　　　　　　　　　　　　\"Claro que si!\"\n"
+                     "　　　　　　　　　　　　　\"袷Claro que si!\"\n"
                      "　　　　　　　　　　　　　\"La verdad que no.\"";
             gCafe->queryEnabled = TRUE;
             gCafe->queryResult = CAFE_OPT_YES;
@@ -651,7 +651,7 @@ void cafe_print_dialogue(void) {
             string = "\n"
                      "Creo que tienes un buen chance\n"
                      "para conseguirlo.\n"
-                     "Te estar⑱ animando!\n";
+                     "袷Te estar⑱ animando!\n";
             dialogueExhausted = TRUE;
             break;
 
@@ -660,9 +660,9 @@ void cafe_print_dialogue(void) {
             // You have completed
             // the Perfect Campaign!
             string = "\n"
-                     "Los rumores dicen que conseguiste\n"
+                     "袷Los rumores dicen que conseguiste\n"
                      "un perfecto en todo!\n"
-                     "...Es eso verdad?";
+                     "...粟Es eso verdad?";
             dialogueTask++;
             break;
 
