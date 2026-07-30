@@ -729,7 +729,7 @@ const char *cafe_dialogue_dog_barista[] = {
         "\n",
     /* ------------------------------------------------ */
         "\n"
-        "Eres un humano, verdad? Se supone\n"
+        "Eres un humano, ˆ¾verdad? Se supone\n"
         "que debo ser tu mejor amigo.\n"
         "ˆ¿Asi que espero nos llevemos bien!",
     /* ------------------------------------------------ */
@@ -779,7 +779,7 @@ const char *cafe_dialogue_healing_with_music[] = {
     /* ------------------------------------------------ */
         "\n"
         "Tal vez si lo estudiara lo sabr‡ea,\n"
-        "ˆ¿pero no es el caso! ˆ¿Disculpa! Jeje.\n"
+        "ˆ¿pero no es el caso! ˆ¿disculpa! Jeje.\n"
         "\n",
     /* ------------------------------------------------ */
     END_OF_DIALOGUE
