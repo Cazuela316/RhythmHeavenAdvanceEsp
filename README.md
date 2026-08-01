@@ -3,7 +3,7 @@
 
 ![Rhythm Heaven Advance](media/rha.png?raw=true "Rhythm Heaven Advance ESP")
 
-Una traduccion no oficial para el juego de ritmo *Rhythm Tengoku (リズ�?天てん国)* de la Game Boy Advance.
+Una traduccion no oficial para el juego de ritmo *Rhythm Tengoku (リズム天てん国)* de la Game Boy Advance.
 
 ## Acerca de
 
@@ -162,4 +162,4 @@ Este es un proyecto no oficial hecho por fans y no tiene esta, afiliado, respald
 
 Esta ESTRICTAMENTE PROHIBIDO usar este parche para uso comercial.
 
-Todos los derechos de los assets o el codigo fuente estan reservados por los autores originales y Nintendo.
+Todos los derechos de los assets o el codigo fuente estan reservados por los autores originales y a Nintendo.
