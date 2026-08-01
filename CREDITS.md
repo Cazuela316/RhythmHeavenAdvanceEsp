@@ -8,17 +8,17 @@
 + patataofcourse
 
 ## Ediciones Graficas:
-+ Cazu �?
++ Cazu ☆
 + Mako
 + Edén Eliseo Ávila Monsalvo (Sheo M.)
 + Darcy
 + Apolo
 
 ## Edicion de Animaciones:
-+ Cazu �?
++ Cazu ☆
 
 ## Traduccion y Localizacion:
-+ Cazu �?
++ Cazu ☆
 + Darcy
 + Apolo
 + Camus
@@ -32,7 +32,7 @@
 + Apolo
 
 ## SFXs (WIP):
-+ Cazu �?
++ Cazu ☆
 + Edén Eliseo Ávila Monsalvo (Sheo M.)
 + Darcy
 + (En proceso...)
