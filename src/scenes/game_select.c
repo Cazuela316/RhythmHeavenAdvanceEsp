@@ -284,7 +284,7 @@ void start_campaign_notice(s32 id) {
     string = notice->text;
     memcpy(string, "\001C" "Si consigues un perfecto en \n\"", 45); // [Right now]
     strcat(string, level->name); // "<game_name>"
-    strcat(string, "\"\nPodr‡cs ganar:\n \""); // Get a perfect on this
+    strcat(string, "\"\nPodr‡cs ganar:\n ˆ¿\""); // Get a perfect on this
     if(!isSpecialSong) {
         strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"; // "
     }
@@ -298,8 +298,8 @@ void start_campaign_notice(s32 id) {
     if (giftType == CAMPAIGN_GIFT_DRUM_KIT || giftType == CAMPAIGN_GIFT_READING_MATERIAL) {
         strcat(string, "\" como regalo!"); // received as a present!!
     }
-    strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
-    strcat(string, ".\n");
+    //strcat(string, get_campaign_gift_title(id, FALSE)); // "<gift>"
+    //strcat(string, ".\n");
     text_printer_set_string(notice->printer, string);
 
     sprite_set_visible(gSpriteHandler, gGameSelect->selectionBorderSprite, FALSE);

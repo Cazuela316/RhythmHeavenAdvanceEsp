@@ -160,7 +160,7 @@ const char D_08069da8[] = "";
 const char D_08069dac[] = "(C) 2006 Nintendo / J.P ROOM";
 
 const char D_08069dc8[] =
-    "ˆ¿Hey! ˆ¿Lo lograstre!";
+    "ˆ¿Hey! ˆ¿Lo lograste!";
 
 const char D_08069ddc[] =
     "ˆ¿S‡e que diste todo!\n"
