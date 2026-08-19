@@ -144,10 +144,10 @@ const char D_0805a06c[] = "\nMuy bien!";
 // [D_089e1778] Rank Text
 const char *drum_lessons_rank_text[] = {
     /* RANK_0 */ "\n",
-    /* RANK_C */ "\nNada mal!",
-    /* RANK_B */ "\nVas por buen camino!",
-    /* RANK_A */ "\nSip, lo hiciste muy bien!",
-    /* RANK_S */ "\nIncre‡eble!",
+    /* RANK_C */ "\nˆ¿Nada mal!",
+    /* RANK_B */ "\nˆ¿Vas por buen camino!",
+    /* RANK_A */ "\nSip, ˆ¿lo hiciste muy bien!",
+    /* RANK_S */ "\nˆ¿Incre‡eble!",
 };
 
 const char D_0805a0c0[] = "\nObtuviste ";
