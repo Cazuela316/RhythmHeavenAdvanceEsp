@@ -209,7 +209,7 @@ void perfect_scene_start(void *sVar, s32 dArg) {
     
     campaignsLeft = TOTAL_PERFECT_CAMPAIGNS - D_030046a8->data.totalPerfects;
     strint(count, campaignsLeft);
-    strcat(gPerfect->string, "\0020" "\0010" "\nConseguiste un regalo! "); // You've earned a gift!
+    strcat(gPerfect->string, "\0020" "\0010" "\nˆ¿Conseguiste un regalo! "); // You've earned a gift!
     strcat(gPerfect->string, perfect_gift_directive_text[giftType]);
 
     if (campaignsLeft > 0) {
@@ -218,14 +218,14 @@ void perfect_scene_start(void *sVar, s32 dArg) {
             strcat(gPerfect->string, "Parece que aun te quedan " "\0021" "\0011"); // There are still...
             strcat(gPerfect->string, count);
             strcat(gPerfect->string, " " "\0020" "\0010" "regalos.\n" // ...gifts
-                                         "Sigue dandolo todo!"); // left to get. Keep going!
+                                         "ˆ¿Sigue dandolo todo!"); // left to get. Keep going!
         } else {
             strcat(gPerfect->string, "Solo te queda " "\0021" "\0011" "un " "\0020" "\0010" "regalo.\n" // ...gift
-                                         "Yo se que puedes!"); // left to get. Keep going!
+                                         "ˆ¿Yo se que puedes!"); // left to get. Keep going!
         }
     } else {
-        strcat(gPerfect->string,"\0021" "\0011" "Conseguiste todos los regalos!" "\0020" "\0010" "\n"); // You finally got them all!
-        strcat(gPerfect->string, "Significa que conseguiste un perfecto en todo!"); // Congratulations!
+        strcat(gPerfect->string,"\0021" "\0011" "ˆ¿Conseguiste todos los regalos!" "\0020" "\0010" "\n"); // You finally got them all!
+        strcat(gPerfect->string, "ˆ¿Significa que conseguiste un perfecto en todo!"); // Congratulations!
     }
 
     text_printer_set_string(gPerfect->printer, gPerfect->string);
