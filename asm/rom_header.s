@@ -72,7 +72,7 @@
 /* 080000bc */ .byte REV
 
 @ Compliment Check
-/* 080000bd */ .byte 0x45 - REV
+/* 080000bd */ .byte 0x2F - REV
 
 @ Reserved Area
 /* 080000be */ .hword 0x0000
