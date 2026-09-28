@@ -11,32 +11,32 @@
 #ifdef PARADISE
 struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     /* RH */ {
-        /* Anim. */ anim_title_logo_rh_paradise,
+        /* Anim. */ anim_title_logo_ri,
         /* X, Y  */ 76, 70,
         /* Angle */ 157
     },
     /* YT */ {
-        /* Anim. */ anim_title_logo_yt_paradise,
+        /* Anim. */ anim_title_logo_zu,
         /* X, Y  */ 116, 62,
         /* Angle */ -60
     },
     /* HM */ {
-        /* Anim. */ anim_title_logo_hm_paradise,
+        /* Anim. */ anim_title_logo_mu,
         /* X, Y  */ 157, 54,
         /* Angle */ -47
     },
     /* HE */ {
-        /* Anim. */ anim_title_logo_pa,
+        /* Anim. */ anim_title_logo_ten,
         /* X, Y  */ 87, 98,
         /* Angle */ -133
     },
     /* AV */ {
-        /* Anim. */ anim_title_logo_rad,
+        /* Anim. */ anim_title_logo_av,
         /* X, Y  */ 129, 90,
         /* Angle */ 97
     },
     /* EN */ {
-        /* Anim. */ anim_title_logo_ise,
+        /* Anim. */ anim_title_logo_goku,
         /* X, Y  */ 165, 81,
         /* Angle */ -12
     },
@@ -49,22 +49,22 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
 #else
 struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     /* RH */ {
-        /* Anim. */ anim_title_logo_rh,
+        /* Anim. */ anim_title_logo_ri,
         /* X, Y  */ 75, 70,
         /* Angle */ 157
     },
     /* YT */ {
-        /* Anim. */ anim_title_logo_yt,
+        /* Anim. */ anim_title_logo_zu,
         /* X, Y  */ 116, 62,
         /* Angle */ -60
     },
     /* HM */ {
-        /* Anim. */ anim_title_logo_hm,
+        /* Anim. */ anim_title_logo_mu,
         /* X, Y  */ 157, 52,
         /* Angle */ -47
     },
     /* HE */ {
-        /* Anim. */ anim_title_logo_he,
+        /* Anim. */ anim_title_logo_ten,
         /* X, Y  */ 93, 100,
         /* Angle */ -133
     },
@@ -74,7 +74,7 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
         /* Angle */ 97
     },
     /* EN */ {
-        /* Anim. */ anim_title_logo_en,
+        /* Anim. */ anim_title_logo_goku,
         /* X, Y  */ 159, 81,
         /* Angle */ -12
     },
@@ -84,6 +84,7 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
         /* Angle */ 37
     }
 };
+
 #endif
 
 // [D_089dcfa4] Graphics Table
