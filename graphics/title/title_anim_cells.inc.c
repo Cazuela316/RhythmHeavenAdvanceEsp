@@ -313,7 +313,8 @@ AnimationCel title_cel014[] = {
     /* 000 */ 0x00e0, 0xc1e0, 0x0008
 };
 
-AnimationCel title_cel094[] = {
+#ifdef PARADISE
+AnimationCel title_cel015[] = {
     /* Len */ 2,
     /* 000 */ 0x00ef, 0x81f3, 0x01a0,
     /* 001 */ 0x00ef, 0x81fb, 0x01a1
