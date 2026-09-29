@@ -3946,6 +3946,18 @@ struct SongHeader s_karate_bgm_seqData = {
     /* Song Number   */ 1735
 };
 
+extern const u8 s_karate_bgm_es_mid[];
+struct SongHeader s_karate_bgm_es_seqData = {
+    /* MIDI Sequence */ s_karate_bgm_es_mid,
+    /* Sound Player  */ MUSIC_PLAYER_0,
+    /* Bank Number   */ INST_BANK_1,
+    /* Volume        */ 90,
+    /* Priority      */ 50,
+    /* unk8          */ 0xff,
+    /* Song Title    */ NULL,
+    /* Song Number   */ 1100
+};
+
 extern const u8 s_karate_fan_mid[];
 struct SongHeader s_karate_fan_seqData = {
     /* MIDI Sequence */ s_karate_fan_mid,

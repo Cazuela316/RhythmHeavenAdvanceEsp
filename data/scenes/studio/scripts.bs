@@ -740,7 +740,7 @@ script script_studio_karate_man
     run play_studio_mus_count_in
     rest 24
     dms_start_bg_monitor 2
-    play_music s_karate_bgm_seqData
+    play_music_localized s_karate_bgm_seqData, s_karate_bgm_es_seqData
     rest_beats 16
     rest_beats 16
     rest_beats 16

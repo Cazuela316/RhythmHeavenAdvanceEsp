@@ -1100,7 +1100,7 @@
 /* 1097 */ DEFINE_SONG( &s_wish_bgm_en_seqData,              MUSIC_PLAYER_0 )
 /* 1098 */ DEFINE_SONG( NULL, 0 )
 /* 1099 */ DEFINE_SONG( NULL, 0 )
-/* 1100 */ DEFINE_SONG( NULL, 0 )
+/* 1100 */ DEFINE_SONG( &s_karate_bgm_es_seqData,            MUSIC_PLAYER_0 )
 /* 1101 */ DEFINE_SONG( NULL, 0 )
 /* 1102 */ DEFINE_SONG( NULL, 0 )
 /* 1103 */ DEFINE_SONG( NULL, 0 )

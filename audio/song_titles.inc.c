@@ -408,6 +408,7 @@ char s_uma_bgm2_seqName[] = "";
 char s_uma_bgm3_seqName[] = "";
 char s_uma_bgm4_seqName[] = "";
 char s_karate_bgm_seqName[] = "";
+char s_karate_bgm_es_seqName[] = "";
 char s_karate_fan_seqName[] = "";
 char s_datumo_nuki_seqName[] = "";
 char s_datumo_kegire_seqName[] = "";

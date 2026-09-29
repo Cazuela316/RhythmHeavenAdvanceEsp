@@ -535,6 +535,7 @@ extern struct SongHeader s_uma_bgm2_seqData;
 extern struct SongHeader s_uma_bgm3_seqData;
 extern struct SongHeader s_uma_bgm4_seqData;
 extern struct SongHeader s_karate_bgm_seqData;
+extern struct SongHeader s_karate_bgm_es_seqData;
 extern struct SongHeader s_karate_fan_seqData;
 extern struct SongHeader s_datumo_nuki_seqData;
 extern struct SongHeader s_datumo_kegire_seqData;
