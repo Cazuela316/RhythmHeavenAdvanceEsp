@@ -97,11 +97,6 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Label */ "‚f‚a‚o@‚g‚‚‚„‚“‚ˆ‚‚‹‚…",
         /* Epil. */ FALSE
     },
-    /* GBP Handshake */ {
-        /* Scene */ &scene_gbp_handshake,
-        /* Label */ "‚f‚a‚o@‚g‚‚‚„‚“‚ˆ‚‚‹‚…",
-        /* Epil. */ FALSE
-    },
     /* Disclaimer */ {
         /* Scene */ &scene_disclaimer,
         /* Label */ "‚c‚‰‚“‚ƒ‚Œ‚‚‰‚‚…‚’",
@@ -287,7 +282,6 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Scene */ &scene_mechanical_horse,
         /* Label */ "‚b‚‚‚‚‚Œ‚Œ‚@‚l‚…‚ƒ‚¢‚‚‰‚ƒ‚",
         /* Epil. */ FALSE
-
     },
     /* Rhythm Toys (Confession Machine) */ {
         /* Scene */ &scene_love_machine,
@@ -353,6 +347,7 @@ struct DebugMenuEntry debug_menu_entry_table[] = {
         /* Scene */ &scene_spaceball_2,
         /* Label */ "‚r‚‚‚ƒ‚…‚‚‚¾‚Œ@‚Q",
         /* Epil. */ TRUE
+
     },
     /* Spaceball (Extra) */ {
         /* Scene */ &scene_spaceball_extra,

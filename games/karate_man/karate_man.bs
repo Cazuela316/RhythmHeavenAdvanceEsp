@@ -505,7 +505,8 @@ script script_karate_man_main
     run gameplay_set_sound_tempo, 124
     set_tempo 120
     set_music_volume 150
-    play_music s_karate_bgm_seqData
+    set_localized BEATSCRIPT_LOCALIZED_COND_GLOBAL_NON_JP_MUSIC
+    play_music_localized s_karate_bgm_seqData, s_karate_bgm_es_seqData
     start_tracking_inputs
     call karate_man_sub_089edf88
     call karate_man_sub_089ee168
