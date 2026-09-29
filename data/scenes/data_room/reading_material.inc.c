@@ -35,8 +35,8 @@ struct ReadingMaterial reading_material_table[TOTAL_READING_MATERIALS] = {
             "Como jugar el juego:\n"
             "\n"
             "Bueno, este juego es bastante simple.\n"
-            "ˆ¾Realmente Qu‡Q puedo decir...?\n"
-            "Ah, s‡e, la ideas es que juegues al son de la mˆ¦sica,\n"
+            "ˆ¾Realmente qu‡Q puedo decir...?\n"
+            "Ah, s‡e, la idea es que juegues al son de la mˆ¦sica,\n"
             "as‡e que intenta sentir el flow. ˆ¿Ese es mi consejo!\n"
             "Y eso es todo. Y, por cierto, ˆ¿un placer conocerte!",
         /* STYLE ---------------------------------------------------------- */
