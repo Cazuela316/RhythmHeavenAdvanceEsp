@@ -82,7 +82,7 @@ union Instrument *instrument_banks[] = {
     /* 080 */ inst_bank_marching_orders_en,
     /* 081 */ NULL,
     /* 082 */ NULL,
-    /* 083 */ NULL,
+    /* 083 */ inst_bank_karate_man_es,
     /* 084 */ NULL,
     /* 085 */ NULL,
     /* 086 */ NULL,

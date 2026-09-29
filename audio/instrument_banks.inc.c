@@ -30,7 +30,7 @@ union Instrument inst_bank_01[] = {
     /* 108 */ NULL,                            NULL,                            NULL,                            NULL,
     /* 112 */ NULL,                            NULL,                            NULL,                            NULL,
     /* 116 */ NULL,                            NULL,                            NULL,                            { .pcm = &instrument_pcm_0013 },
-    /* 120 */ NULL,                            NULL,                            NULL,                            NULL,
+    /* 120 */ { .rhy = &instrument_rhy_karate_man_es },                         NULL,                            NULL,                            NULL,
     /* 124 */ { .rhy = &instrument_rhy_0013 }, { .rhy = &instrument_rhy_0014 }, { .rhy = &instrument_rhy_0015 }, { .rhy = &instrument_rhy_0016 }
 };
 
@@ -2262,4 +2262,26 @@ union Instrument inst_bank_marching_orders_en[] = {
     /* 060 */ { .pcm = &instrument_pcm_moRn }, { .pcm = &instrument_pcm_moLn }, NULL,                            NULL,
     /* 064 */ { .pcm = &instrument_pcm_moA2 }, { .pcm = &instrument_pcm_moA3 }, NULL,                            NULL,
     /* 068 */ { .pcm = &instrument_pcm_moFf }, NULL,                            NULL,                            NULL,
+};
+
+union Instrument inst_bank_karate_man_es[] = {
+    /* 000 */ { .pcm = &instrument_pcm_1220 },    { .pcm = &instrument_pcm_1221 },    { .pcm = &instrument_pcm_1222 },    { .pcm = &instrument_pcm_1223 },
+    /* 004 */ { .pcm = &instrument_pcm_1224 },    { .pcm = &instrument_pcm_1225 },    { .pcm = &instrument_pcm_1226 },    { .pcm = &instrument_pcm_1227 },
+    /* 008 */ { .pcm = &instrument_pcm_1228 },    { .pcm = &instrument_pcm_1229 },    { .pcm = &instrument_pcm_1230 },    { .pcm = &instrument_pcm_1231 },
+    /* 012 */ { .pcm = &instrument_pcm_1232 },    { .pcm = &instrument_pcm_1233 },    { .pcm = &instrument_pcm_1234 },    { .pcm = &instrument_pcm_1235 },
+    /* 016 */ { .pcm = &instrument_pcm_1236 },    { .pcm = &instrument_pcm_1237 },    { .pcm = &instrument_pcm_1238 },    { .pcm = &instrument_pcm_1239 },
+    /* 020 */ { .pcm = &instrument_pcm_1240 },    { .pcm = &instrument_pcm_1241 },    { .pcm = &instrument_pcm_1242 },    NULL,
+    /* 024 */ NULL,                               NULL,                               { .pcm = &instrument_pcm_1243 },    { .pcm = &instrument_pcm_1244 },
+    /* 028 */ { .pcm = &instrument_pcm_1245 },    { .pcm = &instrument_pcm_1246 },    { .pcm = &instrument_pcm_1247 },    { .pcm = &instrument_pcm_1248 },
+    /* 032 */ { .pcm = &instrument_pcm_es_1249 }, { .pcm = &instrument_pcm_es_1250 }, { .pcm = &instrument_pcm_es_1251 }, { .pcm = &instrument_pcm_es_1252 },
+    /* 036 */ { .pcm = &instrument_pcm_es_1253 }, { .pcm = &instrument_pcm_es_1254 }, NULL,                               { .pcm = &instrument_pcm_es_1255 },
+    /* 040 */ { .pcm = &instrument_pcm_es_1256 }, { .pcm = &instrument_pcm_es_1257 }, { .pcm = &instrument_pcm_es_1258 }, NULL,
+    /* 044 */ { .pcm = &instrument_pcm_es_1259 }, { .pcm = &instrument_pcm_es_1260 }, { .pcm = &instrument_pcm_es_1261 }, NULL,
+    /* 048 */ { .pcm = &instrument_pcm_es_1262 }, NULL,                               { .pcm = &instrument_pcm_es_1263 }, NULL,
+    /* 052 */ { .pcm = &instrument_pcm_es_1264 }, NULL,                               NULL,                               NULL,
+    /* 056 */ { .pcm = &instrument_pcm_es_1265 }, { .pcm = &instrument_pcm_es_1266 }, { .pcm = &instrument_pcm_es_1267 }, NULL,
+    /* 060 */ NULL,                               { .pcm = &instrument_pcm_es_1268 }, { .pcm = &instrument_pcm_es_1269 }, NULL,
+    /* 064 */ { .pcm = &instrument_pcm_es_1270 }, NULL,                               { .pcm = &instrument_pcm_es_1271 }, NULL,
+    /* 068 */ { .pcm = &instrument_pcm_es_1272 }, { .pcm = &instrument_pcm_es_1273 }, { .pcm = &instrument_pcm_es_1274 }, { .pcm = &instrument_pcm_es_1275 },
+    /* 072 */ { .pcm = &instrument_pcm_es_1276 }, { .pcm = &instrument_pcm_es_1277 }, { .pcm = &instrument_pcm_es_1278 }, { .pcm = &instrument_pcm_1279 }
 };
