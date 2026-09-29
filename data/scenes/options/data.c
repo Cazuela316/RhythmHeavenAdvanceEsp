@@ -49,7 +49,7 @@ struct CompressedData *options_buffered_textures[] = {
         //?¿½@?¿½@?¿½@?¿½@?¿½@?¿½@?¿½@Erase
         //?¿½@?¿½@?¿½@?¿½@?¿½@?¿½@?¿½@Cancel
 const char options_data_clear_confirm_text[] =
-        "\0023" "\0013" "\001C" "En serio?\n"
+        "\0023" "\0013" "\001C" "ˆ¾En serio?\n"
         "\0021" "\0011" "\001C" "Si\n"
         "No";
 
@@ -61,7 +61,7 @@ const char *options_desc_text[] = {
     /* DATA CLEAR ------------------------------------- */
         "\0023" "\0013" "\001C" "Borrar partida\n"
         "\0021" "\0011" "\001C" "Esto borrar‡c " "\0022" "TODA " "\0021" "tu partida y tendras\n"
-        "que empezar de cero." "\0022" " Ten cuidado!"
+        "que empezar de cero." "\0022" " ˆ¿Ten cuidado!"
     /* ------------------------------------------------ */
 };
 
@@ -79,11 +79,11 @@ const char *advance_options_desc_text[] = {
     /* NON-JP SFX ------------------------------------- */
         "\0023" "\0013" "\001C" "Efectos de sonido\n"
         "\0024" "\0011" "\001L" "Ingles   " "\0021" "Usar los efectos de sonido localizados.\n"
-        "\0024" "\0011" "\001L" "Japones  " "\0021" "Usar los efectos de sonido originales.",
+        "\0024" "\0011" "\001L" "Japon‡Qs  " "\0021" "Usar los efectos de sonido originales.",
     /* NON-JP MUSIC ----------------------------------- */
         "\0023" "\0013" "\001C" "Mˆ¦sica\n"
         "\0024" "\0011" "\001L" "Ingles   " "\0021" "Usar la mˆ¦sica localizada.\n"
-        "\0024" "\0011" "\001L" "Japones  " "\0021" "Usar la mˆ¦sica original.",
+        "\0024" "\0011" "\001L" "Japon‡Qs  " "\0021" "Usar la mˆ¦sica original.",
     /* RUMBLE ----------------------------------------- */
 #ifdef RUMBLE
         "\0023" "\0013" "\001C" "Vibraci‡in\n"

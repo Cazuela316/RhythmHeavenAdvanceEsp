@@ -13,7 +13,7 @@ static const struct SaveEditorFlag sAdvanceFlags[] = {
     { "Desactivar Vibracion",         4 },
     { "SE en Ingles",    5 },
     { "BGM en Ingles",            6 },
-    { "Paradise",                7 },
+//    { "Paradise",                7 },
     END_OF_FLAG
 };
 
